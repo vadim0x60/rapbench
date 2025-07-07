@@ -1,11 +1,9 @@
-import os
+from config import openrouter, retry
 from openai import OpenAI, RateLimitError
-import tenacity as t
 
 N_ROUNDS = 3
-RETRIES = 5
 
-client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=os.getenv("OPENROUTER_API_KEY"))
+client = OpenAI(**openrouter)
 
 intro = """You have entered the first ever GenAI battle rap tournament.
 Assistant is {artist}, user is {opponent}. 
@@ -13,10 +11,7 @@ Speak exclusively in rhymes.
 Show that you"re better than your opponent in a genre appropriate way, with wit, humor and harshness.
 Start with an opening round introducing yourself."""
 
-@t.retry(
-    stop=t.stop_after_attempt(RETRIES),
-    wait=t.wait_random_exponential(),
-    retry=t.retry_if_exception_type(RateLimitError))
+@retry
 def rap(context, artist, opponent):
     roles = {
         artist: "assistant",
@@ -41,6 +36,8 @@ def record(context, author, content):
     context.append({"author": author, "content": content})
     
 def rap_battle(model1, model2):
+    print(f'# {model1} v {model2}')
+
     battle = []
     opening1 = rap(battle, model1, model2)
     opening2 = rap(battle, model2, model1)
