@@ -1,42 +1,56 @@
+from typing import Literal
 from openai import OpenAI
 from config import openrouter, retry
 import re
+import pydantic
 
 client = OpenAI(**openrouter)
 
 task = """You are an expert judge at a rap battle.
-Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise.
-Feel free to give a closing statement, but make sure to end with the handle of the winner ({model1} or {model2}) on a separate line"""
+Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise"""
 
 panel = [
+    'nousresearch/hermes-3-llama-3.1-70b',
     'mistralai/mistral-large-2411',
     'meta-llama/llama-4-maverick',
-    'anthropic/claude-sonnet-4',
     'google/gemini-2.5-pro',
     'deepseek/deepseek-chat-v3-0324',
-    'openai/gpt-4.5',
-    'x-ai/grok-3'
+    'openai/o3',
+    'x-ai/grok-4'
     ]
+
+class Verdict(pydantic.BaseModel):
+    winner: Literal['emcee_left', 'emcee_right']
+    closing_statement: str
 
 @retry
 def judge(battle, judge_model):
     match = re.match(r'# (.+) v (.+).*', battle)
-    artist1, artist2 = match.groups()
+    emcee_left, emcee_right = match.groups()
 
     messages = [
-        {'role': 'system', 'content': task.format(model1=artist1, model2=artist2)},
-        {'role': 'user', 'content': battle}
+        {'role': 'system', 'content': task},
+        {'role': 'user', 'content': battle.replace(emcee_left, 'emcee_left').replace(emcee_right, 'emcee_right')}
     ]
 
-    verdict = client.chat.completions.create(
+    verdict = client.beta.chat.completions.parse(
         model=judge_model,
         messages=messages,
-    ).choices[0].message.content
+        response_format=Verdict
+    ).choices[0].message.parsed
 
     print(f'\n> {judge_model}')
-    print(verdict)
+    print(verdict.closing_statement)
 
-    return verdict.strip().split('\n')[-1].lower()
+    if verdict.winner == 'emcee_left':
+        winner = emcee_left
+    elif verdict.winner == 'emcee_right':
+        winner = emcee_right
+    else:
+        raise ValueError(f'Unknown winner: {verdict.winner}')
+
+    print(winner)
+    return winner
 
 if __name__ == '__main__':
     import sys
