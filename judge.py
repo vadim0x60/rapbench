@@ -1,10 +1,7 @@
 from typing import Literal
-from openai import OpenAI
-from config import openrouter, retry
+from config import client
 import re
 import pydantic
-
-client = OpenAI(**openrouter)
 
 task = """You are an expert judge at a rap battle.
 Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise"""
@@ -23,7 +20,6 @@ class Verdict(pydantic.BaseModel):
     winner: Literal['emcee_left', 'emcee_right']
     closing_statement: str
 
-@retry
 def judge(battle, judge_model):
     match = re.match(r'# (.+) v (.+).*', battle)
     emcee_left, emcee_right = match.groups()
