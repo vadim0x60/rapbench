@@ -1,9 +1,6 @@
-from config import openrouter, retry
-from openai import OpenAI, RateLimitError
+from config import client
 
 N_ROUNDS = 3
-
-client = OpenAI(**openrouter)
 
 intro = """You have entered the first ever GenAI battle rap tournament.
 Assistant is {artist}, user is {opponent}. 
@@ -11,7 +8,6 @@ Speak exclusively in rhymes.
 Show that you"re better than your opponent in a genre appropriate way, with wit, humor and harshness.
 Start with an opening round introducing yourself."""
 
-@retry
 def rap(context, artist, opponent):
     roles = {
         artist: "assistant",
