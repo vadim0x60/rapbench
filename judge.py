@@ -35,9 +35,6 @@ def judge(battle, judge_model):
         response_format=Verdict
     ).choices[0].message.parsed
 
-    print(f'\n> {judge_model}')
-    print(verdict.closing_statement)
-
     if verdict.winner == 'emcee_left':
         winner = emcee_left
     elif verdict.winner == 'emcee_right':
@@ -45,13 +42,23 @@ def judge(battle, judge_model):
     else:
         raise ValueError(f'Unknown winner: {verdict.winner}')
 
-    print(winner)
-    return winner
+    return winner, verdict.closing_statement
 
 if __name__ == '__main__':
     import sys
     from collections import Counter
+    import yaml
 
     battle = sys.stdin.read()
-    score = Counter(judge(battle, member) for member in panel)
-    print(score)
+
+    score = Counter()
+    statements = {}
+    for member in panel:
+        winner, closing_statement = judge(battle, member)
+        score.update([winner])
+        statements[member] = closing_statement
+
+    print(yaml.dump({
+        'score': dict(score),
+        'closing_statements': statements
+    }))
