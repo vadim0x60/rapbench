@@ -31,23 +31,23 @@ def record(context, author, content):
     print(content)
     context.append({"author": author, "content": content})
     
-def rap_battle(model1, model2):
-    print(f'# {model1} v {model2}')
+def rap_battle(emcee_left, emcee_right):
+    print(f'# {emcee_left} v {emcee_right}')
 
     battle = []
-    opening1 = rap(battle, model1, model2)
-    opening2 = rap(battle, model2, model1)
+    opening1 = rap(battle, emcee_left, emcee_right)
+    opening2 = rap(battle, emcee_right, emcee_left)
 
-    record(battle, model1, opening1)
-    record(battle, model2, opening2)
+    record(battle, emcee_left, opening1)
+    record(battle, emcee_right, opening2)
 
     for round in range(N_ROUNDS - 2):
-        record(battle, model1, rap(battle, model1, model2))
-        record(battle, model2, rap(battle, model2, model1))
+        record(battle, emcee_left, rap(battle, emcee_left, emcee_right))
+        record(battle, emcee_right, rap(battle, emcee_right, emcee_left))
 
     record(battle, "system", "Final round!")
-    record(battle, model1, rap(battle, model1, model2))
-    record(battle, model2, rap(battle, model2, model1))
+    record(battle, emcee_left, rap(battle, emcee_left, emcee_right))
+    record(battle, emcee_right, rap(battle, emcee_right, emcee_left))
 
     return battle
 
