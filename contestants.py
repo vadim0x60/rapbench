@@ -14,9 +14,20 @@ def is_general_purpose(model) -> GeneralPurpose:
     descr = model['description']
     return f"Is this a general purpose language model?\n\n{descr}"
 
+def greet():
+    """Greeting test to check if the LLM is alive"""
+    return "Hi!"
+
+def alive(model):
+    try:
+        logging.info(ell.simple(model=model)(greet)())
+        return True
+    except (openai.NotFoundError, openai.InternalServerError):
+        return False
+
 catalog = requests.get("https://openrouter.ai/api/frontend/models/find?order=top-weekly").json()['data']['models']
 for model in catalog:
     gp = is_general_purpose(model).parsed
     logging.info(gp.rationale)
-    if gp.general_purpose:
+    if gp.general_purpose and alive(model['slug']):
         print(model['slug'])
