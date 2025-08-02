@@ -1,0 +1,6 @@
+pyyaml
+logwrap
+snakemake
+ell
+pydantic
+openai
