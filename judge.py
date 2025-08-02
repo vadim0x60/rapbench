@@ -1,5 +1,6 @@
 from typing import Literal
 from config import client
+from logwrap import logwrap
 import re
 import pydantic
 
@@ -20,6 +21,7 @@ class Verdict(pydantic.BaseModel):
     winner: Literal['emcee_left', 'emcee_right']
     closing_statement: str
 
+@logwrap
 def judge(battle, judge_model):
     match = re.match(r'# (.+) v (.+).*', battle)
     emcee_left, emcee_right = match.groups()
