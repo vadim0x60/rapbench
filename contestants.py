@@ -3,6 +3,7 @@ import requests
 import ell
 from pydantic import BaseModel
 import logging
+import yaml
 
 class GeneralPurpose(BaseModel):
     general_purpose: bool
@@ -25,9 +26,24 @@ def alive(model):
     except (openai.NotFoundError, openai.InternalServerError):
         return False
 
+def round_sizes(contestants):
+    round_sizes = []
+    round_size = len(contestants)
+    while round_size > 1:
+        round_sizes.append(round_size)
+        round_size = round_size - round_size // 2
+
+    return round_sizes
+
 catalog = requests.get("https://openrouter.ai/api/frontend/models/find?order=top-weekly").json()['data']['models']
+contestants = []
 for model in catalog:
     gp = is_general_purpose(model).parsed
     logging.info(gp.rationale)
     if gp.general_purpose and alive(model['slug']):
-        print(model['slug'])
+        contestants.append(model)
+
+print(yaml.dump({
+    'contestants': contestants,
+    'rounds': round_sizes(contestants)
+}))
