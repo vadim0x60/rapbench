@@ -13,7 +13,7 @@ panel = [
     'meta-llama/llama-4-maverick',
     'google/gemini-2.5-pro',
     'deepseek/deepseek-chat-v3-0324',
-    'openai/o3',
+    'openai/gpt-5',
     'x-ai/grok-4'
     ]
 
