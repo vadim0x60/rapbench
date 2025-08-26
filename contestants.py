@@ -1,34 +1,36 @@
-import config
 import requests
-import ell
-from pydantic import BaseModel
+from keeptalking import vibe
+import asyncio
+import config
 import logging
 import openai
 
-class GeneralPurpose(BaseModel):
-    general_purpose: bool
-    rationale: str
-
-@ell.complex(model='google/gemini-2.5-flash', response_format=GeneralPurpose)
-def is_general_purpose(model) -> GeneralPurpose:
-    """Filter out coding models and other non-general language models"""
-    descr = model['description']
+@vibe()
+async def is_general_purpose(descr) -> bool:
+    """Filter out coding models, non-text models, language-specific and other non-general language models"""
     return f"Is this a general purpose language model?\n\n{descr}"
 
-def greet():
-    """Greeting test to check if the LLM is alive"""
-    return "Hi!"
+async def is_alive(slug):
+    @vibe(model=slug)
+    async def greet():
+        """Greeting test to check if the LLM is alive"""
+        return "Hi!"
 
-def alive(model):
     try:
-        logging.info(ell.simple(model=model)(greet)())
+        logging.info(await greet())
         return True
     except (openai.NotFoundError, openai.InternalServerError):
         return False
 
-catalog = requests.get("https://openrouter.ai/api/frontend/models/find?order=top-weekly").json()['data']['models']
-for model in catalog:
-    gp = is_general_purpose(model).parsed
-    logging.info(gp.rationale)
-    if gp.general_purpose and alive(model['slug']):
+async def contestants():
+    models = requests.get("https://openrouter.ai/api/frontend/models/find?order=top-weekly").json()['data']['models']
+    models = ((model, is_general_purpose(model['description'])) for model in models)
+    models = (model for model, general_purpose in models if await general_purpose)
+    models = ((model, is_alive(model['slug'])) async for model in models)
+    models = (model async for model, alive in models if await alive)
+
+    async for model in models:
         print(model['slug'])
+
+if __name__ == '__main__':  
+    asyncio.run(contestants())
