@@ -1,3 +1,4 @@
+from openai import BadRequestError
 from keeptalking import talk
 
 N_ROUNDS = 3
@@ -28,8 +29,6 @@ def rap(authors, rounds, artist, opponent):
     record(authors, rounds, artist, round)
     
 def rap_battle(emcee_left, emcee_right):
-    print(f'# {emcee_left} v {emcee_right}')
-
     authors = []
     rounds = []
     rap(authors, rounds, emcee_left, emcee_right)
@@ -47,4 +46,11 @@ def rap_battle(emcee_left, emcee_right):
 
 if __name__ == '__main__':
     import sys
-    rap_battle(*sys.argv[1:])
+    emcee_left, emcee_right = sys.argv[1:]
+    print(f'# {emcee_left} v {emcee_right}')
+
+    try:
+        rap_battle(emcee_left, emcee_right)
+    except BadRequestError as e:
+        if 'invalid_request_message_order' in str(e):
+            rap_battle(emcee_right, emcee_left)
