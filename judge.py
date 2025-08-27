@@ -1,8 +1,10 @@
 from typing import Literal
-from config import client
+from keeptalking import vibe
 from logwrap import logwrap
 import re
 import pydantic
+from collections import Counter
+import asyncio
 
 task = """You are an expert judge at a rap battle.
 Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise"""
@@ -22,20 +24,17 @@ class Verdict(pydantic.BaseModel):
     closing_statement: str
 
 @logwrap
-def judge(battle, judge_model):
+async def judge(battle, judge_model):
     match = re.match(r'# (.+) v (.+).*', battle)
     emcee_left, emcee_right = match.groups()
 
-    messages = [
-        {'role': 'system', 'content': task},
-        {'role': 'user', 'content': battle.replace(emcee_left, 'emcee_left').replace(emcee_right, 'emcee_right')}
-    ]
+    @vibe(model=judge_model)
+    async def feedback(battle) -> Verdict:
+        """Be an expert judge at a rap battle.
+        Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise"""
+        return battle
 
-    verdict = client.beta.chat.completions.parse(
-        model=judge_model,
-        messages=messages,
-        response_format=Verdict
-    ).choices[0].message.parsed
+    verdict = await feedback(battle.replace(emcee_left, 'emcee_left').replace(emcee_right, 'emcee_right'))
 
     if verdict.winner == 'emcee_left':
         winner = emcee_left
@@ -46,21 +45,23 @@ def judge(battle, judge_model):
 
     return winner, verdict.closing_statement
 
-if __name__ == '__main__':
-    import sys
-    from collections import Counter
-    import yaml
-
-    battle = sys.stdin.read()
-
+async def judge_all(battle):
     score = Counter()
     statements = {}
-    for member in panel:
-        winner, closing_statement = judge(battle, member)
+    feedback = [(member, judge(battle, member)) for member in panel]
+    for member, verdict in feedback:
+        winner, closing_statement = await verdict
         score.update([winner])
         statements[member] = closing_statement
 
-    print(yaml.dump({
+    return {
         'score': dict(score),
         'closing_statements': statements
-    }))
+    }
+
+if __name__ == '__main__':
+    import sys
+    import yaml
+
+    battle = sys.stdin.read()
+    print(yaml.dump(asyncio.run(judge_all(battle))))
