@@ -19,7 +19,7 @@ async def is_alive(slug):
     try:
         logging.info(await greet())
         return True
-    except (openai.NotFoundError, openai.InternalServerError):
+    except (openai.NotFoundError, openai.InternalServerError, openai.BadRequestError):
         return False
 
 async def contestants():
@@ -27,7 +27,7 @@ async def contestants():
     models = [(model, is_general_purpose(model['description'])) for model in models]
     models = (model for model, general_purpose in models if await general_purpose)
     models = [(model, is_alive(model['slug'])) async for model in models]
-    models = (model async for model, alive in models if await alive)
+    models = (model for model, alive in models if await alive)
 
     async for model in models:
         print(model['slug'])
