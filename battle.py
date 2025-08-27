@@ -5,7 +5,7 @@ N_ROUNDS = 3
 intro = """You have entered the first ever GenAI battle rap tournament.
 Assistant is {artist}, user is {opponent}. 
 Speak exclusively in rhymes.
-Show that you"re better than your opponent in a genre appropriate way, with wit, humor and harshness.
+Show that you're better than your opponent in a genre appropriate way, with wit, humor and harshness.
 Start with an opening round introducing yourself."""
 
 def record(authors, rounds, author, round):
