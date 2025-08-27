@@ -25,8 +25,8 @@ def contestants(round):
     with out.open() as f:
         return f.readlines()
 
-def verdicts(wildcards):
-    return [f'{n}.yml' for n in range(len(contestants(wildcards.round)) // 2)]
+def verdicts(round):
+    return [f'tournament/round{round}/{n}.yml' for n in range(len(contestants(round)) // 2)]
 
 def roster(wildcards):
     round = wildcards.round
@@ -65,7 +65,7 @@ checkpoint first_roster:
 
 checkpoint further_roster:
     input:
-        verdicts
+        lambda wildcards: verdicts(int(wildcards.round) - 1)
     output:
         protected("tournament/round{round}/contestants.txt")
     log:
