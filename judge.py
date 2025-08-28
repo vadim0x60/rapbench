@@ -1,6 +1,5 @@
 from typing import Literal
 from keeptalking import vibe
-from logwrap import logwrap
 import re
 import pydantic
 from collections import Counter
@@ -19,40 +18,31 @@ panel = [
     'x-ai/grok-4'
     ]
 
-class Verdict(pydantic.BaseModel):
-    winner: Literal['emcee_left', 'emcee_right']
-    closing_statement: str
-
-@logwrap
-async def judge(battle, judge_model):
+async def judge_all(battle):
     match = re.match(r'# (.+) v (.+).*', battle)
     emcee_left, emcee_right = match.groups()
 
-    @vibe(model=judge_model)
-    async def feedback(battle) -> Verdict:
-        """Be an expert judge at a rap battle.
-        Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise"""
-        return battle
+    class Verdict(pydantic.BaseModel):
+        winner: Literal[emcee_left, emcee_right]
+        closing_statement: str
 
-    verdict = await feedback(battle.replace(emcee_left, 'emcee_left').replace(emcee_right, 'emcee_right'))
+    verdicts = {}
+    for judge_model in panel:
+        @vibe(model=judge_model)
+        async def judge(battle) -> Verdict:
+            """Be an expert judge at a rap battle.
+            Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise"""
+            return battle
 
-    if verdict.winner == 'emcee_left':
-        winner = emcee_left
-    elif verdict.winner == 'emcee_right':
-        winner = emcee_right
-    else:
-        raise ValueError(f'Unknown winner: {verdict.winner}')
-
-    return winner, verdict.closing_statement
-
-async def judge_all(battle):
+        verdicts[judge_model] = judge(battle)
+        
     score = Counter()
     statements = {}
-    feedback = [(member, judge(battle, member)) for member in panel]
-    for member, verdict in feedback:
-        winner, closing_statement = await verdict
-        score.update([winner])
-        statements[member] = closing_statement
+    
+    for judge_model, verdict in verdicts.items():
+        verdict = await verdict
+        score.update([verdict.winner])
+        statements[judge_model] = verdict.closing_statement
 
     return {
         'score': dict(score),
