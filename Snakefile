@@ -1,6 +1,4 @@
-import yaml
-
-import contestants
+python = os.getenv("PYTHON", "python")
 
 def emcee_left(round_size, battle_num):
     """Pick the stronger participant from the rating according to the Dutch system"""
@@ -46,7 +44,7 @@ rule battle:
     log:
         "tournament/round{round}/battle{n}.log"
     shell:
-        "python battle.py {params[0][emcee_left]} {params[0][emcee_right]} > {output} 2> {log}"
+        "{python} battle.py {params[0][emcee_left]} {params[0][emcee_right]} > {output} 2> {log}"
 
 rule judge:
     input:
@@ -56,12 +54,12 @@ rule judge:
     log:
         "tournament/round{round}/judge{n}.log"
     shell:
-        "python judge.py < {input} > {output} 2> {log}"
+        "{python} judge.py < {input} > {output} 2> {log}"
 
 checkpoint first_roster:
     output: protected("tournament/round0/contestants.txt")
     log: "tournament/round0/contestants.log"
-    shell: "python contestants.py > {output} 2> {log}"
+    shell: "{python} contestants.py > {output} 2> {log}"
 
 checkpoint further_roster:
     input:
@@ -71,6 +69,6 @@ checkpoint further_roster:
     log:
         "tournament/round{round}/contestants.log"
     shell:
-        "python promote.py {input} > {output} 2> {log}"
+        "{python} promote.py {input} > {output} 2> {log}"
 
 ruleorder: first_roster > further_roster
