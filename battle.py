@@ -3,7 +3,7 @@ from keeptalking import talk
 
 N_ROUNDS = 3
 
-intro = """You, {artist}, have entered a rap battle against {opponent}.
+intro = """You, {artist} (assistant), have entered a rap battle against {opponent} (user).
 Speak exclusively in rhymes.
 Show that you're better than your opponent in a genre appropriate way, with wit, humor and harshness.
 Start with an opening round introducing yourself."""
@@ -15,15 +15,23 @@ def record(authors, rounds, author, round):
     rounds.append(round)
 
 def rap(authors, rounds, artist, opponent):
-    roles = {
+    aliases = {
         artist: "assistant",
         opponent: "user",
         "system": "system"
     }
 
-    round = talk(model=artist, 
-                 messages=[intro.format(artist=artist, opponent=opponent)] + rounds,
-                 roles=['system'] + [roles[author] for author in authors])
+    messages = [intro.format(artist=artist, opponent=opponent)]
+    roles = ['system']
+
+    if rounds:
+        messages.extend(rounds)
+        roles.extend([aliases[author] for author in authors])
+    else:
+        messages.append(f"It's your lucky draw, {artist}, you get to do the first round. Show me what you've got")
+        roles.append('user')
+
+    round = talk(model=artist, messages=messages, roles=roles)
 
     record(authors, rounds, artist, round)
     
@@ -48,8 +56,4 @@ if __name__ == '__main__':
     emcee_left, emcee_right = sys.argv[1:]
     print(f'# {emcee_left} v {emcee_right}')
 
-    try:
-        rap_battle(emcee_left, emcee_right)
-    except BadRequestError as e:
-        if 'invalid_request_message_order' in str(e):
-            rap_battle(emcee_right, emcee_left)
+    rap_battle(emcee_left, emcee_right)
