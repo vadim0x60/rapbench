@@ -3,8 +3,7 @@ from keeptalking import talk
 
 N_ROUNDS = 3
 
-intro = """You have entered the first ever GenAI battle rap tournament.
-Assistant is {artist}, user is {opponent}. 
+intro = """You, {artist}, have entered a rap battle against {opponent}.
 Speak exclusively in rhymes.
 Show that you're better than your opponent in a genre appropriate way, with wit, humor and harshness.
 Start with an opening round introducing yourself."""
