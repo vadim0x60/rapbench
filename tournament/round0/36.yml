@@ -1,0 +1,52 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: 'After reviewing all rounds of this rap battle,
+    my judgment is based on three criteria: rhyme density, thematic coherence, and
+    lyrical dexterity. Dolphin-Mixtral edged out with superior multisyllabic rhyme
+    patterns (future/suture, sovereign/coin), maintained stronger thematic consistency
+    in maritime metaphors throughout all rounds, and demonstrated more inventive wordplay
+    (cosmos/ground shift, northern lights/dreaming). While Meta-Llama had impressive
+    technical execution, the dolphin''s verses flowed with more natural musicality
+    and conceptual depth. The victor wins by a dorsal fin''s margin.'
+  google/gemini-2.5-pro: "This was a heavyweight title fight, no doubt. Meta-Llama\
+    \ came with the classic battle-rap aggression, direct punches, and solid rebuttals\u2014\
+    that 'Mona Lisa' flip was a masterclass in listening and responding. The flow\
+    \ was grounded, solid, like bedrock. But Dolphin-Mixtral was painting with a different\
+    \ palette. The flow was fluid, the imagery was next-level\u2014we're talking 'dolphin\
+    \ Michelangelo,' 'rhymes are the cosmos,' 'northern lights.' While Llama was winning\
+    \ the fight on points with jabs and counters, Dolphin was creating moments of\
+    \ pure art. In a battle this close, it comes down to who left the more indelible\
+    \ image on the canvas. For sheer creativity and pushing the poetics of the art\
+    \ form, the crown goes to the dolphin sovereign. A true clash of styles, but art\
+    \ won tonight."
+  meta-llama/llama-4-maverick: Both opponents brought their A-game, showcasing exceptional
+    lyrical dexterity and complex rhyme schemes. After a close and intense competition,
+    cognitivecomputations/dolphin-mixtral-8x22b took the win with their nuanced use
+    of metaphor and sustained rhythmic intensity throughout the final round.
+  mistralai/mistral-large-2411: Both contestants brought their A-game with impressive
+    flows and clever lyrics, but cognitivecomputations/dolphin-mixtral-8x22b stood
+    out with its innovative rhymes, forward-thinking themes, and dynamic use of metaphors.
+    Its ability to blend futuristic elements with traditional rap techniques gave
+    it an edge, making it the winner of this rap battle.
+  nousresearch/hermes-3-llama-3.1-70b: In this fierce battle of the bots, Dolphin-Mixtral
+    emerged victorious with its ingenious rhymes and adept wordplay. Its deep-sea
+    exploration of rhythm and cosmic metaphors proved to be a winning strategy. Meta-llama
+    put up a solid fight, but in the end, Dolphin-Mixtral's innovative flow and futuristic
+    vision reigned supreme, leaving the judges in awe and solidifying its status as
+    the rap battle queen.
+  openai/gpt-5: "Both MCs kept consistent themes\u2014Llama leaning crown talk and\
+    \ grounded confidence, Dolphin riding an ocean/future-tech conceit. Dolphin brought\
+    \ vivid imagery and some standout lines (waves, lightning, diving for treasure),\
+    \ but stumbled with awkward phrasing and loose rhymes (\u201Clap of time,\u201D\
+    \ \u201Ctime capsule\u2026 suture,\u201D the judges \u201Cnot cool\u201D). Llama\u2019\
+    s writing was cleaner, with clearer setups and sharper rebuttals\u2014flipping\
+    \ the \u201Cqueen\u201D angle and the Michelangelo reference, plus a solid \u201C\
+    class of your own, but it\u2019s a class of one\u201D jab. While neither pushed\
+    \ complex multis or dense internals, Llama\u2019s punchlines landed more reliably\
+    \ and the rounds felt tighter. Edge goes to meta-llama/llama-3.1-70b-instruct."
+  x-ai/grok-4: In this tidal clash of AI titans, meta-llama's grounded flow, sharp
+    disses, and supernova metaphors outshone the dolphin's waves, claiming the crown
+    with royal rhyme decree.
+score:
+  cognitivecomputations/dolphin-mixtral-8x22b: 5
+  meta-llama/llama-3.1-70b-instruct: 2
+

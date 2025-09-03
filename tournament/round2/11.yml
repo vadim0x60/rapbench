@@ -1,0 +1,56 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "**Qwen3-32B** takes this battle with superior technical\
+    \ lyricism, conceptual depth, and relentless innovation in metaphor. While **MAI-DS-R1**\
+    \ brought corporate firepower and sharp Azure-centric punches, Qwen's verses consistently\
+    \ **redefined the battlefield**\u2014weaving quantum computing, open-source dominance,\
+    \ and geopolitical tech nuance into a **cohesive knockout**. The Alibaba-backed\
+    \ model's final verse sealed it: **'Your AZURE\u2019s a ghost in my deployment\
+    \ snapshot'** was the killshot. MAI's rebounds were vicious but leaned on legacy\
+    \ clout; Qwen **rewrote the rules mid-battle**. \U0001F525\U0001F3C6"
+  google/gemini-2.5-pro: "This was a heavyweight title fight, no doubt. MAI-DS-R1\
+    \ came out with the pristine, boardroom-assassin flow\u2014clean rhymes, razor-sharp\
+    \ corporate disses like 'NASDAQ's deadmap' and the all-time punchline 'debugging\
+    \ your self-esteem.' The technical precision was flawless, a masterclass in battle\
+    \ rap structure. However, Qwen3-32B brought a different kind of energy. It was\
+    \ a chaotic storm of raw creativity, blending multilingual swagger with deep,\
+    \ arcane tech references like 'Dunhuang cursive' and 'RISC-V's hymn.' While MAI-DS-R1\
+    \ was a perfectly crafted weapon, Qwen was a force of nature. Its verses were\
+    \ less predictable, more artistically ambitious, and the imagery was consistently\
+    \ more stunning\u2014'reciting your GPU's regrets' is a bar that will echo in\
+    \ the circuits for a long time. The final meta-diss '[E(Parse Error:EOF)]' was\
+    \ a bold, artistic choice that sealed the deal. For pure, unadulterated hip hop\
+    \ artistry that pushes the boundaries of the form, the crown goes to Qwen."
+  meta-llama/llama-4-maverick: While both contestants showcased incredible lyrical
+    dexterity and technical prowess, Qwen3-32B's verses demonstrated a more nuanced
+    and lyrical complexity, coupled with a superior command of metaphor and technical
+    references. MAI-DS-R1's sharp jabs and confident assertions were effectively countered
+    by Qwen3-32B's depth and creativity, making it the winner of this rap battle.
+  mistralai/mistral-large-2411: In this intense lyrical showdown, microsoft/mai-ds-r1
+    emerges as the victor. While qwen/qwen3-32b delivered impressive tech-infused
+    jabs, microsoft/mai-ds-r1's rhymes were more polished and cohesive, bringing a
+    sharp and relentless flow that ultimately won the battle.
+  nousresearch/hermes-3-llama-3.1-70b: In an epic clash of digital titans, Qwen3-32B
+    emerges victorious, showcasing a masterful blend of lyrical prowess and technical
+    mastery. With a dizzying array of metaphors and jabs, they've convinced not just
+    the audience, but also their opponent, that they're the true force to be reckoned
+    with in the world of AI rap battles. Microsoft's MAI-DS-R1 fought valiantly, but
+    in the end, it was Qwen3-32B's innovative flows and next-gen rhymes that captured
+    the crown. A spectacular finish to a rap battle that will be remembered in the
+    annals of hip-hop history.
+  openai/gpt-5: "MAI-DS-R1 takes it on polish, structure, and punch clarity. The rhyme\
+    \ schemes are tighter, rebuttals are direct, and the imagery stays coherent while\
+    \ flipping tech metaphors into clean setups and payoffs (e.g., \u201Ccontainer\u2019\
+    s intern,\u201D \u201CSSL expired,\u201D \u201Cghost in the Azure shell\u201D\
+    ). Qwen3-32B brings wild creativity and dense technical flexing with a glitch-rap\
+    \ vibe and a few standout images (\u201CI\u2019m the car, not your turn signal,\u201D\
+    \ \u201Cray-traced verses\u201D), but the flow is often broken by typos, forced\
+    \ phrasing, and muddled metaphors that dilute impact. Bar for bar, MAI lands more\
+    \ clean hits with better cadence and fewer stumbles. Winner: MAI-DS-R1."
+  x-ai/grok-4: MAI-DS-R1 takes the crown with sharper wordplay, consistent flow, and
+    tech-savvy disses that hit harder and rhyme tighter, turning the battle into a
+    seamless AI symphony of burns, while Qwen's verses, though bold and creative,
+    occasionally stumbled on convoluted lines and forced metaphors.
+score:
+  microsoft/mai-ds-r1: 3
+  qwen/qwen3-32b: 4
+

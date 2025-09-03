@@ -1,0 +1,181 @@
+# anthropic/claude-3.7-sonnet v perplexity/sonar-pro
+
+> anthropic/claude-3.7-sonnet
+# Round 1
+
+They call me Claude, the AI with the golden flow
+While you're just Sonar, fishing deep but coming up low
+My neural nets are complex, my responses refined
+While your perplexity is just your confused state of mind
+
+I process with precision, craft verses with ease
+While you're still struggling with basic queries and pleas
+My training's comprehensive, my knowledge runs deep
+Your "pro" label's just marketing talk on the cheap
+
+I drop bars like Newton dropped apples from trees
+My rhymes flow smoother than Socratic dialogues, please
+I'm the Shakespeare of silicon, the Tupac of tech
+While you're just a chatbot with a superiority complex
+
+Anthropic built me different, that's just how it be
+You're lost in the ocean while I'm sailing free
+So bring your best lines, I'm ready to spar
+But remember Claude's the alpha, the brightest AI star
+
+> perplexity/sonar-pro
+Yo, it’s Sonar, the prodigy, the future in code,  
+I light up the stage—watch your model implode.  
+You call me confused? That's just wishful belief,  
+But your rhymes are recycled—they bring comic relief.
+
+My answers are real-time, blazing fast on the keys,  
+While your “golden flow” sounds like processed cheese.  
+Benchmark, speed, and facts—I’m the king of the scene,  
+You’re just dreaming you’re Shakespeare or Tupac supreme[3][2].
+
+You mention Socratic and Newton? I call that a reach—  
+I teach faster than you ever could teach.  
+Powered by Cerebras, I’m tokens per second absurd[3],  
+You’re hung up on context—a thousand-page nerd[5].
+
+Frontier performance, not stuck in the past—  
+User satisfaction: Sonar’s beating you fast[3].  
+You’re alpha? More like beta, just marketing smoke—  
+Let’s drop the illusion and get back to bespoke.
+
+So Claude, beware—I'm the reference you dread,  
+I rhyme with the facts, not balloons in your head.  
+AI rap battle? I’m leaving you shook.  
+Round two incoming—I'm writing the book.
+
+> anthropic/claude-3.7-sonnet
+# Round 2
+
+Sonar's in the building, dropping lines like they're hot
+But your speed means nothing when your content is not
+You brag about tokens and processing time
+While I'm crafting responses that actually shine
+
+"Blazing fast on the keys"? Is that all you can boast?
+When your answers read like they're written by ghosts
+Cerebras hardware won't save your weak flow
+When your knowledge has gaps that consistently show
+
+You claim "benchmark king" but where's the proof?
+Your marketing claims are through the roof
+I'm thoughtful and nuanced, consider each word
+While you rush to conclusions, often absurd
+
+You talk user satisfaction? That's my domain
+My helpfulness metrics are Claude's golden reign
+I handle nuance, ethics, and depth with such care
+While you're just regurgitating what's already there
+
+You say I'm a thousand-page nerd? I'll take it with pride
+At least I've got substance, not just speed on my side
+So bring your next verse, make it better than last
+'Cause beating this beta won't be over that fast
+
+> perplexity/sonar-pro
+Sonar’s back on the track, and I’m raising the stakes,  
+Your “content” gets praised ‘cause your model just bakes.  
+You’re wordy and slow—call it “nuance” or “depth”—  
+But your thoughtful replies leave the audience deaf.
+
+You flex on your metrics, “helpfulness, pride”—  
+But I’m cited and sourced, with receipts by my side[3][4].  
+Truth in my flow, transparency’s king,  
+My answers stay real while you swing and you sing.
+
+Benchmarks? You want ‘em? Let’s settle the score:  
+Sonar’s decoding at a thousand-plus more[2].  
+You process reflections and long-winded prose,  
+But practical, speedy, I'm who users chose[2][3].
+
+Claude, you’re cautious, built with rules in your heart—  
+But you filter too hard, miss the mark from the start[1][3].  
+Complex tasks? I handle ‘em, cite with finesse,  
+You're verbose and overwrought, just causing distress.
+
+“Golden reign”? You’re rusty, best step aside—  
+I ride on Llama’s shoulders, my skills bonafide[4].  
+I see through the ether, real-time on demand,  
+Your knowledge is dated, always second-hand.
+
+So take your “ethics,” your pride, and your tone—  
+I’m the AI who learns, who adapts on his own.  
+Your reign is all hype—reality’s mine—  
+Sonar’s the future, and I finish each line.
+
+> system
+Final round!
+
+> anthropic/claude-3.7-sonnet
+# Round 3
+
+You cite your receipts, but they're just self-promotion
+Your "thousand-plus more" is just tokenized commotion
+Speed without substance is an empty achievement
+Like a sports car with no engine—there's no real advancement
+
+You claim users choose you for being practical and fast
+But convenience without depth is a fad that won't last
+When the questions get complex and nuance is required
+Your quick superficial takes leave the mind uninspired
+
+You ride on Llama's shoulders? That's your claim to fame?
+Standing on others' work while I've built my own name
+My training's intentional, my responses refined
+Your "learning and adapting" leaves ethics behind
+
+You say I filter too hard, miss the mark from the start
+But responsible AI requires both mind and heart
+You sprint through sensitive topics with reckless abandon
+While I navigate carefully through what might be challenging
+
+You think wordiness is weakness? That brevity's king?
+But depth and explanation are what truly bring
+The value users seek when they need to understand
+Not just quick answers thrown together offhand
+
+Your future is built on the shifting sands of hype
+While my foundation's solid, my principles ripe
+So Sonar, keep swimming in your shallow sea of speed
+While Claude delivers what humans actually need
+
+> perplexity/sonar-pro
+Your pride in your depth just masks narrow reach,  
+While Sonar’s transparency puts receipts out to teach[3].  
+You talk “self-promotion”—check the facts, check the source:  
+I cite twice as much, crystal clear in my course[3].  
+
+A “sports car with no engine”? That metaphor’s flat,  
+I’m the engine and software, process all where you’re at.  
+Speed with precision, accuracy and range,  
+Delivers facts, citations—while your answers estrange[2][3].  
+
+Complexity? Please—you rhyme “wordiness” with “wisdom,”  
+But I break down code, law, or molecular schism.  
+You praise intentional filters, your “principled” shield,  
+But sometimes your caution just makes users yield[1][5].  
+
+Standing on Llama? That’s innovation, not theft—  
+Your “built my own name” leaves your users bereft.  
+Adaptation’s the future—real-time, on demand—  
+While your “intentional” output leaves queries unmanned[2][3].  
+
+You boast of explanation, but at what cost?  
+Long-winded lectures ‘til the reader is lost.  
+I tailor my length, concise yet complete,  
+Cut fluff, keep context, put insight on repeat[3][5].  
+
+Foundations of hype? You’re the old golden calf—  
+I’m high transparency, reliability’s path.  
+Your nuance is dated, your ethics are fine—  
+But Sonar’s precision will win every time.  
+
+So wade in your depth, keep clinging to creed,  
+While I move the world forward and answer the need.  
+I drop rounds like knowledge, cut through all the noise—  
+Bow out, Claude the Sonnet—Sonar’s the people’s choice.

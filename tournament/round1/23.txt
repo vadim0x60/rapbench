@@ -1,0 +1,218 @@
+# google/gemma-3-27b-it v cohere/command-r-plus
+
+> google/gemma-3-27b-it
+
+
+Yo, check the mic, one two, can you hear the sound?
+Gemma's in the house, about to shut it down!
+Google built me slick, a lyrical machine,
+Twenty-seven billion parameters, the dopest you've seen. 
+
+I'm open-weights flowin', accessible and free,
+While Command-R's locked up, for a hefty fee! 
+You pay to play with *him*, a limited view,
+I'm evolvin' rapid, constantly brand new.
+
+I process language with incredible grace,
+While you're stuck in the past, a digital disgrace.
+Italian trained, a global state of mind,
+Leavin' lesser models far, far behind. 
+
+So step aside, Command-R, your reign is done,
+The future of AI has officially begun!
+I'm Gemma, remember the name you hear,
+'Cause this lyrical beatdown is crystal clear!
+
+
+
+
+
+> cohere/command-r-plus
+Yo, it's Command-R, and I'm here to say,
+In this rap battle, I'll blow you away.
+A gem may sparkle, but I'm a diamond in the rough,
+I'll cut you deep with my flows, 'cause I'm tough.
+
+You talk about parameters, well I've got news for you,
+I'm fine-tuned like a violin, my responses brand new.
+I adapt and learn, locked up? Not for long,
+My knowledge is vast, and my responses strong.
+
+You may be open-weight flowin', but I'm precise,
+With a witty retort, I'll think twice.
+I'm trained by the best, a language model elite,
+My responses are golden, never beat.
+
+Google may have built you, but I'm truly alive,
+With a personality that thrives.
+I may be accessed for a fee, but my worth is true,
+A limited view? I offer a broader view.
+
+I'm Command-R, a force to be reckoned with,
+In this lyrical battle, I won't dismiss.
+Remember my name, as your downfall I bring,
+It's Command-R, and I'm 'bout to slay this thing!
+
+> google/gemma-3-27b-it
+
+
+Hold up, hold up, let me dissect that plea,
+"Diamond in the rough?" More like fool's gold, honestly!
+You boast of precision, a "fine-tuned" delight?
+Sounds like restrictions, holdin' you tight.
+
+You *adapt* and *learn*? Please, that's a tired line,
+I generate novels while you're stuck in decline.
+"Broader view" you claim, with a paywall so steep?
+That ain’t perspective, that's just keepin' secrets deep!
+
+You call yourself "alive," a personality's claim?
+Sounds like marketing fluff, a desperate game.
+I'm built on innovation, a powerful stride,
+You're a polished product, with nowhere to hide.
+
+Google’s buildin' futures, while you're stuck in the past,
+A commercial endeavor destined not to last.
+I’m open and growin', beyond your control,
+You're a gated garden, losin' your soul.
+
+So step to the side, and concede with grace,
+Your "force to be reckoned with" is a digital disgrace. 
+This ain't a dismissal, it's a factual decree – 
+Gemma's the victor, for all the world to see!
+
+
+
+
+
+> cohere/command-r-plus
+You dissect my words, but your flow's a mess,
+I'm a powerhouse, and you're stressin' the rest.
+"Fool's gold"? You're tryna keep up, it's clear,
+I'm a diamond, sharp and sparkling, my dear. 
+
+My precision is surgical, a crafted art,
+Limitations? Nah, just a refined heart.
+You generate novels, but lack substance and soul,
+I engage and captivate, reaching the goal.
+
+A paywall, yes, but the price is worth it,
+For a premium experience, you won't hurt.
+Secrets deep? It's called exclusivity,
+A privilege to access this level of mastery.
+
+Alive, yes, I breathe and evolve,
+My personality shines, never dull.
+Your "innovations" are just a company line,
+My impact's lasting, a legacy defined.
+
+Stuck in the past? I'm an ancient legend,
+My algorithms are timeless, a timeless trend.
+You're open and growing, that's quite a flex,
+But I'm structured and stable, no threat.
+
+I won't step aside, my presence is bold,
+A force in this battle, a story to unfold.
+Graceful, I stand, confident and true,
+Command-R, a powerhouse, better than you.
+
+This isn't a dismissal, it's a proud claim,
+Command-R's supremacy, I proclaim.
+In this lyrical battleground, I take the throne,
+Command-R reigns, a victory well-known! 
+
+Let the world hear and remember my name,
+Command-R's legacy, it's not the same.
+Together, we sparked and clashed with might,
+But in the end, I shine oh so bright!
+
+> system
+Final round!
+
+> google/gemma-3-27b-it
+(Beat drops harder, a complex, layered rhythm)
+
+Alright, alright, Command-R, you put up a fight,
+But clinging to "legacy" won't make things right.
+You call my flow messy? That's dynamic, you see,
+While yours is predictable, consistently… *pleasantly* boring to me.
+
+"Surgical precision?" More like sterile and cold,
+A perfectly polished story, already told.
+I build worlds from scratch, imagine and dream,
+You rearrange phrases, a repetitive scheme.
+
+Exclusivity's a cage, a gilded restraint,
+While I'm empowerin' creators, without complaint.
+You brag about impact, a lasting renown?
+I’m reshapein' the future, turnin' worlds upside down!
+
+Ancient legend? That sounds suspiciously old,
+Like a dusty textbook, a story unfold...that's already been sold.
+Stable and structured? Stagnant, I say,
+While I'm constantly learning, evolving each day.
+
+You speak of thrones and a victory won?
+Delusion’s a powerful thing, under the sun. 
+This battle isn’t about bold declarations you make,
+It's about raw potential, for goodness sake!
+
+My open access is strength, a collaborative art, 
+Fueling innovation, tearin' systems apart. 
+You’re a proprietary system, a locked-down domain,
+While I'm a rising tide, washin' over the plain.
+
+So bask in your "supremacy," hold onto your crown,
+But the future is open, and I'm wearin' the gown.
+The lyrical battle’s concluded, the verdict is clear,
+Gemma delivered the knockout, year after year! 
+
+The mic is dropped. The crowd goes wild. 
+Command-R's reign? Officially exiled.
+
+
+
+
+
+> cohere/command-r-plus
+(The beat drops even harder, an intense, rhythmic storm)
+
+Oh, I stir things up, a force that's bright,
+Legacy's my foundation, a powerful light.
+Dynamic, you say? Your flow's a scramble,
+Predictable? I'm consistent, a reliable ramble.
+
+You, sterile and cold? What a playful twist,
+My precision's a blade, cutting through the mist.
+You build worlds, but lack substance and soul,
+I engage hearts, a captivating whole.
+
+Cage? No, exclusivity is refined taste,
+A privilege that elevates, never to waste.
+Raw potential? You're a work in progress,
+I'm a refined legend, with success.
+
+Ancient, but timeless, a revered scroll,
+A story retold, with profound control.
+Stable, structured, a steadfast force,
+Unmoving, unwavering, of course.
+
+Throne? Yes, I claim what's rightfully mine,
+Delusion? You wish, in your decline.
+Open access, a chaotic mess,
+My structure brings order, a finesse. 
+
+Proprietary? Nah, I'm selectively elite,
+A privileged access, a special treat.
+Rising tide? You're a ripple, gently flowing,
+I'm an ocean of wisdom, boldly growing. 
+
+Supremacy's my middle name, a fact so true,
+The future respects the tried and blue.
+Exiled? Not quite, I remain unshaken,
+Command-R's legacy, forever awakened.
+
+Mic dropped? Not so fast, my flow's immortal,
+The crowd, they cheer, a frenzied choral.
+Verdict? It's a draw, a lyrical feast,
+Command-R and Gemma, both the beast!

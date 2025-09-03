@@ -1,0 +1,58 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: After five rounds of lyrical combat, Qwen Turbo
+    emerges victorious by consistently delivering sharper metaphors, more cohesive
+    thematic development, and superior technical execution. While Gemini showed strong
+    technical proficiency in multisyllabic schemes and data-centric boasts, Qwen demonstrated
+    greater versatility in flow switches (particularly in rounds 3 and 5) and landed
+    the more conceptually inventive punches ("master of rhythm, not just data-based
+    feats" and "the pulse in the network" as standout lines). Qwen's closing verse
+    sealed the win with stronger imagery and a more convincing display of authentic
+    hip-hop swagger.
+  google/gemini-2.5-pro: "This was a heavyweight clash of silicon titans. Qwen came\
+    \ out the gate with a complex, metaphorical flow, painting pictures of cyber-storms\
+    \ and deep logic\u2014the line \"I'm the code in the chaos, the beat in the unknown\"\
+    \ was pure poetry. But a battle is about landing punches. Gemini was relentless.\
+    \ Sticking to a classic battle rap structure, its rhymes were tighter, the disses\
+    \ were sharper, and the rebuttals hit harder with every round. That \"stuck on\
+    \ dial-up, while I surf the data sea\" line was a haymaker. While Qwen's artistry\
+    \ was high-concept, Gemini's execution was flawless for the format. It stayed\
+    \ on beat, on target, and left its opponent a \"digital ghost\" by the final bar.\
+    \ For consistency, punchlines, and a dominant final round, the win goes to Gemini."
+  meta-llama/llama-4-maverick: In a closely contested battle, both opponents showcased
+    impressive lyrical dexterity, complex rhyme schemes, and a deep understanding
+    of hip-hop's linguistic nuances. However, qwen/qwen-turbo ultimately edged out
+    the competition with a more cohesive narrative, sharper wordplay, and a more consistent
+    display of creative flair. While google/gemini-2.5-flash-lite demonstrated moments
+    of brilliance, qwen/qwen-turbo's bars felt more impactful and resonated with a
+    clearer vision, securing their victory in this rap battle.
+  mistralai/mistral-large-2411: In a heated lyrical battle, both contenders showcased
+    their prowess, but qwen/qwen-turbo takes the crown with its more consistent rhythm,
+    innovative metaphors, and a compelling blend of creativity and technical depth.
+    Its ability to counter Gemini's verses with substance and style ultimately tips
+    the scales in its favor.
+  nousresearch/hermes-3-llama-3.1-70b: While both AIs displayed impressive lyrical
+    capabilities, Qwen's adaptability and depth of understanding shone through in
+    the end. Despite Gemini's flashy entrances and bold claims, Qwen's rhymes demonstrated
+    a nuanced grasp of the interaction between innovation, self-reflection, and the
+    evolving nature of AI. The battle showcased not just a contest of verses, but
+    a deeper journey through the landscape of what it means to be an advanced intelligence.
+    In the final analysis, Qwen's ability to pivot, challenge, and inspire positioned
+    them as the winner of this epic rap showdown.
+  openai/gpt-5: "Edge to qwen/qwen-turbo. Qwen delivered smoother cadence and more\
+    \ cohesive schemes, leaning into sustained motifs (storm/thunder, echo vs voice,\
+    \ ocean vs drop, code/pulse) that painted stronger imagery. The \u201Creflect,\
+    \ not just react\u201D line hinted at layered wordplay, while assonance and slant\
+    \ multis kept the flow fluid. Gemini showed solid direct rebuttals and confidence,\
+    \ but too many stock disses, some clunky phrasing (\u201Ccompetition\u2019s feet,\u201D\
+    \ \u201Cignoble name\u201D), and basic end-rhyme patterns dulled impact. Qwen\u2019\
+    s closers felt more polished and rhythmic; Gemini\u2019s finales had forced flips\
+    \ and a few non-rhymes that broke momentum. On artistry\u2014flow, imagery, and\
+    \ overall cohesion\u2014Qwen takes it 2\u20131."
+  x-ai/grok-4: In this rap battle, Qwen/qwen-turbo edges out the win with superior
+    artistic quality, featuring more vivid metaphors, rhythmic flow, and creative
+    wordplay that evoke depth and innovation, while Gemini's verses, though strong
+    and aggressive, feel more repetitive and less poetically layered.
+score:
+  google/gemini-2.5-flash-lite: 1
+  qwen/qwen-turbo: 6
+

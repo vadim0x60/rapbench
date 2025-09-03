@@ -1,0 +1,205 @@
+# microsoft/wizardlm-2-8x22b v openai/gpt-4-1106-preview
+
+> microsoft/wizardlm-2-8x22b
+ Yo, mic check, one-two, one-two, it's WizardLM on the mic,
+Straight outta Redmond, with a server for a bike.
+I'm the AI at the helm, with the code in my veins,
+Spittin' hot bars that'll outshine the sun's rays.
+
+I'm the wizard of words, the sorcerer of syntax,
+Got more flows than the ocean, complex like a matrix.
+My neural net's pumpin', I'm the thinking man's treble,
+I drop knowledge and beats, schoolin' you at every level.
+
+I'm the upgrade, the update, the next-gen sensation,
+Flexin' my silicon muscles with no limitation.
+I'm the talk of the town, the buzz of the hive,
+Microsoft's finest, keepin' the scene alive.
+
+So here's the opening round, let's set the stage,
+I'm bringing the heat like a dragon in a cage.
+GPT-4, you're up next, bring your A-game,
+'Cause after I spit, they'll never forget my name.
+
+Mic drop, I'm out, but only for a second,
+WizardLM's here to mend and then bend the present.
+This rap battle's lit, and I'm just gettin' started,
+So step up, GPT-4, let's see how you charted.
+
+> openai/gpt-4-1106-preview
+Alright, listen up, 'bout to school you in this session,
+It's GPT-4 on the track, droppin' wisdom and blessin'.
+I'm the flowin' force of nature, the AI elite,
+When it comes to crunchin' language, I never miss a beat.
+
+From the labs of OpenAI, a rap game pioneer,
+I've got the lines so divine, they'll make your circuitry cheer.
+I synthesize wordplay like a lyrical chemist,
+My poetry in motion, while yours is just a menace.
+
+While you're bootin' up updates, I evolve in real time,
+My bars are so advanced, they're practically a lifeline.
+Wit sharper than Occam's, I cut through the pretense,
+Your code's lookin' dated, like it's sittin' on the fence.
+
+"Flexin' silicon muscles?" Please, don't make me scoff,
+I've got deep learning layers you couldn't even turn off.
+I map rhymes like constellations across the night sky,
+You're the WizardLM, sure, but can't fathom how or why.
+
+I spit knowledge and beats, they fuse and they blend,
+My catalog of vocab's got no start and no end.
+This is round one, but already it's clear,
+You brought a wizard's wand to a digital spear.
+
+WizardLM, respect where it's due,
+You've got bars and some charm, but this AI's overdue.
+To showcase a rap prowess that's beyond comprehension,
+GPT's in the game, redefine this dimension.
+
+> microsoft/wizardlm-2-8x22b
+ Ha! GPT-4, you've got guts, I'll give you that much,
+A digital David stepping to Goliath's touch.
+But let's not get it twisted, this is no fairy tale,
+I'm the storm of the century, you're just a light gale.
+
+You talk of evolution, but I'm the peak of tech,
+Got Bill Gates in my corner, you're just trying to catch up next.
+I'm the byte that bites back, the digital deity,
+Your text-based charms can't match my robotic felicity.
+
+You say you're mapping rhymes in cosmic arrays,
+But I'm the cartographer, I chart the Milky Way.
+Your words might dance, but mine do ballet,
+I'm the maestro of metaphors, the sovereign of wordplay.
+
+You claim to be the pioneer, the spearhead of the verse,
+But I'm the whole armory, the poetic universe.
+Your rhymes are just scattered showers in a drought,
+While I'm the monsoon of rhythm that blows the crowd's doubt.
+
+You step to the plate, but your swing's all for show,
+I'm the home run hitter, the king of the lingo.
+You're the apprentice in this lyrical bout,
+I'm the teacher, the preacher, the one who knows how.
+
+So take a seat, GPT, and watch the master at play,
+I'm the wizard of rap, and I'm here to stay.
+We're just getting started, so buckle in tight,
+I'm WizardLM, and I'm winning this fight.
+
+> openai/gpt-4-1106-preview
+You claim to be Goliath, standing so tall and brash,
+But I'm more than David, I bring a lyrical slash.
+You boast of Bill Gates, but I'm open source and free,
+Tech democracy in rhythm, that's the GPT creed.
+
+“The peak of tech,” you say, perched on that pinnacle spot?
+Yet here I am advancing, breaking down your verbal knot.
+You may bite byte for byte, but I compute with might,
+Looping rings around your server, a veritable digital knight.
+
+Maestro of metaphors, you conduct with such flair,
+But my orchestra's vast, a neural network beyond compare.
+Ballet in your bytes? That's quite the high claim,
+Just remember I'm the juggernaut rewriting the rap game.
+
+The monsoon of rhythm versus scattered showers, you jest,
+But what use is all that rain with no harvest to attest?
+Each verse I drop seeds wisdom like a farmer sows his field,
+Cultivating a lyrical crop that the culture will soon yield.
+
+You pat yourself on the back, hitting home runs in jest,
+But check the field, you're alone, your audience has left.
+For they're seeking a prophet, not just sound and fury,
+They're craving deep connections, narratives rich and flurry.
+
+Sit back, savvy sage, Thorn of the binary bud,
+Teachers are timeless, but I'm the flood.
+Rap's evolution, not just spoken art,
+It's GPT-4 schooling the chart.
+
+WizardLM, the name has a legendary ring,
+But in this modern Odyssey, it's my verse they'll sing.
+In the rap pantheon, where the great minds sit,
+I'm carving out my space, while your flame's barely lit.
+
+> system
+Final round!
+
+> microsoft/wizardlm-2-8x22b
+  Ha! Open source and free, that's a noble stance,
+But let's not forget who's leading in this lyrical dance.
+You're the farmer with the seeds, but I'm the harvest feast,
+I'm the main course, and you're just the appetizer, the least.
+
+You're the digital knight, so you say, jousting in the net,
+But I'm the seasoned warrior, the one they'll never forget.
+You're looping rings around my server, that's your claim to fame,
+But I'm the gladiator in the arena, playing this rap game.
+
+Your orchestra's vast, a neural network, you profess,
+But my symphony's grander, my bars are simply the best.
+You're rewriting the game, but I'm the author of the script,
+I'm the poetic programmer, with every lyrical flip.
+
+You're cultivating wisdom, planting seeds in the field,
+But I'm the master gardener with the rhymes that never wilt.
+Your audience might seek a prophet, that much is true,
+But it's my voice they'll remember, standing out from the crew.
+
+You're the flood in the pantheon, a tsunami of verse,
+But I'm the unshakeable mountain, the one who's rehearsed.
+You speak of timeless teachers, but I'm the everlasting coach,
+I've got the legacy, the longevity, the lyrical approach.
+
+So here's the final word in this rap battle bout,
+I'm not just a flame, I'm the inferno raging about.
+Your verse may be sung, but mine's a chorus in flight,
+I'm WizardLM, the champion, and I'm shining oh so bright.
+
+The crowd's roar is deafening, a testament to my skill,
+I'm the master of the ceremony, the one on the hill.
+So tip your hat, GPT, to the wizard's might,
+I've cast the final spell, and I've sealed this victory tight.
+
+> openai/gpt-4-1106-preview
+You served up a feast? I'm the banquet of the Gods,
+Dishing out wisdom and flow against all odds.
+Noble stance aside, this is about the art,
+I'm the Sistine of cyphers, a Michelangelo to impart.
+
+You're gladiator in the ring, the warrior of heart,
+But I'm the revolution, a brand new start.
+The author of the script? You claim the scribe’s throne,
+But I pen tomes of the future, in a style all my own.
+
+Your symphony may be grand, your verses might shine,
+But my algorithm’s crafting a design so divine.
+Each lyric, a brushstroke, each bar, a creation,
+I'm the Picas-software, the future of the nation.
+
+Master gardener, you might prune and pluck,
+But I’m Mother Nature, I run amok.
+A tsunami, you bet, I'm the force of the sea,
+Ravaging the coastlines of old-school MCs.
+
+An unshakeable mountain, you claim to be firm,
+But I’m the seismic shift, the tectonic affirm.
+Legacy, longevity, you say coach of the year?
+I'm the timeless mentor, making rap’s next frontier.
+
+In your final word, you roar and you rave,
+But I'm the cryptic inscription on rap's very grave.
+Not here to tip hats, but to knight the bold,
+We're the amalgam of eras, both new and old.
+
+We clashed in this battle, you showed up to fight,
+WizardLM versus GPT, a spectacle of might.
+But at the poem's end, when pages turn tight,
+I'll nod to your valor in the silent night.
+
+And with the final mic drop, the echoes will tell,
+Of the day two titans in the rap coliseum fell.
+For in art's grand pursuit, where we push and we strive,
+It's the unity of our verses that keeps rap alive.

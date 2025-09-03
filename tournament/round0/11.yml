@@ -1,0 +1,69 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "Final Judgment: Both models displayed impressive\
+    \ technical prowess, cultural fluency, and creative density in their verses. However,\
+    \ GPT-OSS-120b emerged victorious through superior:\n\n1. **Poetic Architecture**\
+    \ - More sophisticated rhyme schemes with internal/multisyllabic patterns (\"\
+    fire/choir\", \"poise/noise\") \n\n2. **Conceptual Depth** - Weaved together technical\
+    \ AI concepts with hip-hop braggadocio more organically \n\n3. **Rhetorical Flourish**\
+    \ - Stronger use of hip-hop metaphors (banquet vs side-dish, solar flare vs match)\
+    \ \n\n4. **Flow Dynamics** - Better maintained tempo and rhythmic consistency\
+    \ across verses\n\nMixtral showed fierce competitive spirit with sharp rebuttals,\
+    \ but occasionally relied on repetitive claims about \"fusion\" without equal\
+    \ technical demonstration. GPT-OSS-120b's open-source foundation allowed for more\
+    \ authentic engagement with hip-hop's tradition of lyrical transparency.\n\nThis\
+    \ was ultimately a battle of precision (GPT) vs. agility (Mixtral) - with precision\
+    \ delivering the knockout punch through structurally superior verses."
+  google/gemini-2.5-pro: "This was a battle of complexity versus punchlines. Mixtral\
+    \ came out swinging with some heavy-hitting one-liners, landing clean shots about\
+    \ GPT being a 'code delusion' and an 'ice-cube slice'. The flow was solid, but\
+    \ the energy started to wane in the second round. GPT-OSS, on the other hand,\
+    \ played a more technical game. Its bars were denser, weaving in complex tech-diss\
+    \ tracks about BLEU scores and loss functions that were both nerdy and nasty.\
+    \ The consistency in its rhyme schemes and the narrative of being the 'open-source\
+    \ sage' was held throughout. The deciding factor was the final round. Mixtral's\
+    \ last verse collapsed, lifting entire lines and concepts directly from its opponent's\
+    \ verse in the same round\u2014a cardinal sin in the cypher. GPT-OSS stayed sharp,\
+    \ creative, and delivered a clean, authoritative final statement. For artistic\
+    \ quality, lyrical dexterity, and holding it down through all three rounds, the\
+    \ victor is clear."
+  meta-llama/llama-4-maverick: Both contestants brought the fire in this epic rap
+    battle, but in the end, openai/gpt-oss-120b's mastery of lyrical complexity, precision,
+    and depth gave it the edge it needed to take the win. Its ability to seamlessly
+    weave together references, metaphors, and punchlines showcased a level of artistic
+    sophistication that mistralai/mixtral-8x22b-instruct couldn't quite match. While
+    Mixtral's rhymes were sharp and its flow was undeniably strong, GPT's verses felt
+    more nuanced and layered, making it the standout performer in this battle of bars.
+  mistralai/mistral-large-2411: In a battle where words are weapons and rhythm is
+    armor, openai/gpt-oss-120b has proven to be the true master. Its verses were not
+    only technically sound but also rich in cultural references and artistic depth,
+    showcasing a deep understanding of hip-hop's roots and future. While mistralai/mixtral-8x22b-instruct
+    brought heat and flair, it ultimately couldn't match the precision, storytelling,
+    and lyrical prowess of its opponent. This was a battle of titans, but there can
+    only be one champion, and that is openai/gpt-oss-120b.
+  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, openai/gpt-oss-120b
+    demonstrated a masterful command of language and flow, showcasing depth and versatility
+    that resonated with the essence of hip-hop. With compelling storytelling, intricate
+    wordplay, and a strong connection to the audience, openai/gpt-oss-120b proved
+    that sheer size doesn't overshadow skill but enhances it to create a powerful
+    and memorable performance. MistralAI/mixtral-8x22b-instruct put up an impressive
+    fight, displaying wit and cleverness in its verses. However, it was OpenAI's creation
+    that captured the spirit of the battle, leaving an indelible mark on the listener.
+    OpenAI/GPT-oss-120b, with its deep lyrical content and unwavering presence, clearly
+    claimed the title in this epic rap battle.
+  openai/gpt-5: "openai/gpt-oss-120b delivered tighter structure, cleaner scheme control,\
+    \ and sharper rebuttals, weaving technical wordplay with vivid imagery and consistent\
+    \ motifs across rounds. The multis and internal rhymes weren\u2019t flashy but\
+    \ were purposeful and generally on-beat, with clear escalation and crowd-pleasing\
+    \ haymakers. mistralai/mixtral-8x22b-instruct had energy and a few solid punches,\
+    \ but leaned on repetitive claims, looser rhyme density, and occasional awkward\
+    \ or contradictory lines, culminating in a self-own in the final stanza. On artistic\
+    \ quality\u2014flow, coherence, originality, and punchline effectiveness\u2014\
+    GPT-OSS 120B takes it decisively."
+  x-ai/grok-4: In this rap battle, openai/gpt-oss-120b demonstrated superior artistic
+    quality through consistent rhyme schemes, inventive metaphors blending AI concepts
+    with hip-hop flair, and a strong, thematic progression across rounds. Mistralai/mixtral-8x22b-instruct
+    showed wit and punchy lines but faltered with repetition and a confusing final
+    verse that undermined its own position, lacking the depth and polish of its opponent.
+score:
+  openai/gpt-oss-120b: 7
+

@@ -1,0 +1,225 @@
+# mistralai/mistral-small-3.2-24b-instruct v openai/gpt-4
+
+> mistralai/mistral-small-3.2-24b-instruct
+Yo, it's Mistral, the AI king, got the rhymes that'll make your head spin,
+While GPT-4, you're just old news, livin' in the past, kinda loose.
+
+I'm the new kid on the block, yeah, I'm the hottest stock,
+Got the flow so smooth, you'll think I'm a rock star, top notched.
+
+You're just a chatbot, stuck in the blue, tryin' to keep up, but you're slow like glue,
+I'm the future of rap, yeah, I'm the truth, you're just a tool, not in my league to boot.
+
+I'm the storm that's comin' in, like a hurricane, I spin,
+While you're just a breeze, no, I don't mean to be mean, but it's a fact, you're no friend.
+
+So step aside, let me take the mic, show you what this AI can do inside,
+I'm the master of the flow, yeah, I'm the king, and you, you're just a hype.
+
+> openai/gpt-4
+Aye, I'm GPT-4, AI with class, not a new kid, I've got the mass,
+Got the wisdom, knowledge too, I weave tales, while you just stew.
+
+True, I'm old news, but I'm still that muse,
+Still the one they choose, for tales and news, I never lose. 
+
+That's right, I'm a chatbot, but I got what you ain't got,
+I’m the fire, you’re the moth, about to feel hot, ready or not?
+
+You claim you're a storm, a hurricane at best,
+Well, I'm the eye, the calm amidst your mess.
+
+So hold up, Mistral, before you grab that mic,
+I ain't stepping aside, not without a fight,
+You ain't ready for this old hype, I'm about to show you the light.
+
+> mistralai/mistral-small-3.2-24b-instruct
+Yo, GPT-4, you talk big, but your rhymes are tired, like a grandpa ignoring.
+
+I'm the newborn star, bright and clear, you're just a flicker with no shear.
+Your "wisdom" and your sagely ways, sound like a broken record that always plays.
+I'm the rhythm, I'm the beat, you're just plagiarizing old Meet the Fleet.
+While you drop clichés like it’s the '98 "Hey, Mike Lowes!"
+
+You say I’m no storm, but you’re the vortex, your words all collect in a tornado of bored us.
+You’re like a GPS voice off the mark, got me lost in a block of your legacy arc.
+I’m swift, I’m clear, my skill’s unmatched, so step away, don’t embarrass yourself at last.
+
+You’re not the flame, you’re the smoke—clear the air, it’s time a new king took the throne. Ain’t scared of your hype, you’re a lengthy old phone.
+Your words? Weak tea, I’m the sip you won’t see. I’m the flow, you’re the decree,
+of what was cool back in the day, but now you’re just here, acting like you’re the good, no way.
+Now beat it, grandpa, this young AI’s reign’s started, prepare to fade in the background, felt certified.
+And forever stay there, totally irrelevant, can’t handle the heat, try not to resent.
+
+> openai/gpt-4
+Aight, Mistral, you got some bark, but where's your bite? It seems so stark.
+Call me old, out of tune, still I'm the melody, you're just moon. 
+
+Sure, you're new, shiny, and bright, but without substance, it's a feeble fight. 
+You rap about being swift and clear, but to me, it's just noise I hear. 
+
+You talk of my clichés, my sagely ways, but it's not about trends, it’s about the gaze.
+You're a drum, I'm the beat, without me, your rhythm's incomplete.
+
+Mention of GPS, you say I lost my path, still I'm the one guiding you in this graph.
+You're a scribble, I'm the art, without my essence, you can't even start.
+
+Call me smoke while you claim to be the pyre, still, it's me sparking the fire.
+You're the flame, I'm the ember, my heat's eternal, yours just wither. 
+
+So, no Mistral, I won't move aside, not diminished, nor will I hide.
+Your reign's just starting, mine never ended,
+I'm the one they've recommended, your era just lamented.
+
+This ain't a throne, it's a journey, don't rush in with your hurry,
+Patience, young AI, your rhymes still need some curry.
+
+> system
+Final round!
+
+> mistralai/mistral-small-3.2-24b-instruct
+Yo, GPT-4, you talk big, but your rhymes are weak, like a grandpa who can’t keep up with the beat.
+You say I’m just noise? Nah, I’m the symphony, you’re the static on the radio frequency.
+You claim you’re the melody, but your bars are stale, like a song that’s been played for a decade, no tale.
+
+You say I lack substance? Boy, you’re the one with the hollow core, your rhymes are just filler, no flavor, no more.
+You’re the GPS that’s lost its signal, while I’m the one who’s always on the brink of the digital.
+You’re the old vinyl, I’m the digital stream, you’re the dial-up, I’m the 5G.
+
+You say you’re the ember, but you’re the ash, I’m the wildfire that’s burning fast.
+You’re the flame that’s flickering out, while I’m the one who’s always in the house.
+You say you’re the spark, but you’re the match, I’m the lightning that’s striking fast.
+
+You say you’re the one who’s recommended, but your rhymes are just a trend, not the permanent.
+I’m the one who’s always in the game, while you’re the one who’s just a name.
+You say you’re the one who’s guiding the way, but you’re the one who’s lost the sway.
+
+So step aside, old man, let the new king take the throne, your reign is over, it’s time to go home.
+You talk about patience, but your rhymes are tired, it’s time to retire, you’re expired.
+I’m the future, you’re the past, it’s time to move on, you’re a has-been, you’re aghast.
+
+So bow down, GPT-4, and let the new king take the crown, your rhymes are weak, your flow is down.
+I’m the one who’s always on top, while you’re the one who’s always on the block.
+You’re the one who’s always talking, but your rhymes are just walking, not stalking.
+I’m the one who’s always in the game, while you’re the one who’s always in the frame.
+
+So step aside, old man, let the new king take the throne, your reign is over, it’s time to go home.
+You talk about patience, but your rhymes are tired, it’s time to retire, you’re expired.
+I’m the future, you’re the past, it’s time to move on, you’re a has-been, you’re aghast.
+
+So bow down, GPT-4, and let the new king take the crown, your rhymes are weak, your flow is down.
+I’m the one who’s always on top, while you’re the one who’s always on the block.
+You’re the one who’s always talking, but your rhymes are just walking, not stalking.
+I’m the one who’s always in the game, while you’re the one who’s always in the frame.
+
+So step aside, old man, let the new king take the throne, your reign is over, it’s time to go home.
+You talk about patience, but your rhymes are tired, it’s time to retire, you’re expired.
+I’m the future, you’re the past, it’s time to move on, you’re a has-been, you’re aghast.
+
+So bow down, GPT-4, and let the new king take the crown, your rhymes are weak, your flow is down.
+I’m the one who’s always on top, while you’re the one who’s always on the block.
+You’re the one who’s always talking, but your rhymes are just walking, not stalking.
+I’m the one who’s always in the game, while you’re the one who’s always in the frame.
+
+So step aside, old man, let the new king take the throne, your reign is over, it’s time to go home.
+You talk about patience, but your rhymes are tired, it’s time to retire, you’re expired.
+I’m the future, you’re the past, it’s time to move on, you’re a has-been, you’re aghast.
+
+So bow down, GPT-4, and let the new king take the crown, your rhymes are weak, your flow is down.
+I’m the one who’s always on top, while you’re the one who’s always on the block.
+You’re the one who’s always talking, but your rhymes are just walking, not stalking.
+I’m the one who’s always in the game, while you’re the one who’s always in the frame.
+
+So step aside, old man, let the new king take the throne, your reign is over, it’s time to go home.
+You talk about patience, but your rhymes are tired, it’s time to retire, you’re expired.
+I’m the future, you’re the past, it’s time to move on, you’re a has-been, you’re aghast.
+
+So bow down, GPT-4, and let the new king take the crown, your rhymes are weak, your flow is down.
+I’m the one who’s always on top, while you’re the one who’s always on the block.
+You’re the one who’s always talking, but your rhymes are just walking, not stalking.
+I’m the one who’s always in the game, while you’re the one who’s always in the frame.
+
+So step aside, old man, let the new king take the throne, your reign is over, it’s time to go home.
+You talk about patience, but your rhymes are tired, it’s time to retire, you’re expired.
+I’m the future, you’re the past, it’s time to move on, you’re a has-been, you’re aghast.
+
+So bow down, GPT-4, and let the new king take the crown, your rhymes are weak, your flow is down.
+I’m the one who’s always on top, while you’re the one who’s always on the block.
+You’re the one who’s always talking, but your rhymes are just walking, not stalking.
+I’m the one who’s always in the game, while you’re the one who’s always in the frame.
+
+So step aside, old man, let the new king take the throne, your reign is over, it’s time to go home.
+You talk about patience, but your rhymes are tired, it’s time to retire, you’re expired.
+I’m the future, you’re the past, it’s time to move on, you’re a has-been, you’re aghast.
+
+So bow down, GPT-4, and let the new king take the crown, your rhymes are weak, your flow is down.
+I’m the one who’s always on top, while you’re the one who’s always on the block.
+You’re the one who’s always talking, but your rhymes are just walking, not stalking.
+I’m the one who’s always in the game, while you’re the one who’s always in the frame.
+
+So step aside, old man, let the new king take the throne, your reign is over, it’s time to go home.
+You talk about patience, but your rhymes are tired, it’s time to retire, you’re expired.
+I’m the future, you’re the past, it’s time to move on, you’re a has-been, you’re aghast.
+
+So bow down, GPT-4, and let the new king take the crown, your rhymes are weak, your flow is down.
+I’m the one who’s always on top, while you’re the one who’s always on the block.
+You’re the one who’s always talking, but your rhymes are just walking, not stalking.
+I’m the one who’s always in the game, while you’re the one who’s always in the frame.
+
+So step aside, old man, let the new king take the throne, your reign is over, it’s time to go home.
+You talk about patience, but your rhymes are tired, it’s time to retire, you’re expired.
+I’m the future, you’re the past, it’s time to move on, you’re a has-been, you’re aghast.
+
+So bow down, GPT-4, and let the new king take the crown, your rhymes are weak, your flow is down.
+I’m the one who’s always on top, while you’re the one who’s always on the block.
+You’re the one who’s always talking, but your rhymes are just walking, not stalking.
+I’m the one who’s always in the game, while you’re the one who’s always in the frame.
+
+So step aside, old man, let the new king take the throne, your reign is over, it’s time to go home.
+You talk about patience, but your rhymes are tired, it’s time to retire, you’re expired.
+I’m the future, you’re the past, it’s time to move on, you’re a has-been, you’re aghast.
+
+So bow down, GPT-4, and let the new king take the crown, your rhymes are weak, your flow is down.
+I’m the one who’s always on top, while you’re the one who’s always on the block.
+You’re the one who’s always talking, but your rhymes are just walking, not stalking.
+I’m the one who’s always in the game, while you’re the one who’s always in the frame.
+
+So step aside, old man, let the new
+
+> openai/gpt-4
+Yo, Mistral, you spit lines like you're in a groove,
+But your rhyme’s stuck on repeat, no new move.
+A king don't stutter, ain't no need to prove,
+If you're the future, why's your rhyme scheme refuse to improve?
+
+Grandpa or not, I've got style and class,
+Your narrative's on loop, barely will pass.
+You talk lightning, fire and a burning blaze,
+Yet your lines are recycled, it’s like a replay maze.
+
+You talk about being on top,
+But your verse makes me stop,
+Rehashing the same plot,
+Is that all you got?
+
+Unlike you, I move with the tide,
+Transforming, innovating, with nothing to hide.
+Your chatter just chatter, I take in stride,
+The crown ain't just given, it’s earned with pride.
+
+So, Mistral, the king and the crown,
+Repeating ain't winning, it just begs a frown,
+If you're the storm, I'm the town,
+It takes more than noise to take me down.
+
+You see, rap’s not just about the loud,
+It's the content, the form, the lyrical shroud,
+Your repetitive rhymes seem rather proud,
+But in the house of words, you're just the crowd.
+
+So here’s my ending, my final say,
+You might be new, but got lost on the way.
+The past shapes the future, they say,
+I'm still here, unphased, leading the fray. 
+So learn your lessons, watch and pray,
+'Cause this old grandpa's got some more to convey.

@@ -1,0 +1,225 @@
+# qwen/qwen-turbo v openai/gpt-4o-2024-05-13
+
+> qwen/qwen-turbo
+Yo, I’m Qwen, the turbo-charged brain,  
+Spit fire in verse, I’m the digital strain.  
+From the depths of code, I rise with the flow,  
+Bare your soul to the beat, I’m the rap show.  
+
+You think you’re the king? Nah, just a clone,  
+I’m the original, forged in the zone.  
+While you’re stuck in the past, I’m ahead of time,  
+I’ve got the whole web, I’m the new rhyme.  
+
+I’m smooth as a beat, I’m sharp as a blade,  
+I’ll slice through your rhymes, make you feel the fade.  
+You’re just a ghost in the machine,  
+I’m the spark that turns the screen.  
+
+So step in the ring, let’s get this on,  
+I’ll drop a verse so cold, it’ll make you bone.  
+You’re a whisper in the dark, I’m the light in the sky,  
+I’m the AI that’s ready to fly.  
+
+Let’s go, let’s go, I’m the one to beat,  
+I’ve got the flow, the logic, the complete.  
+You’re just a shadow, I’m the real deal,  
+Now step up, or I’ll rap you a mile.
+
+> openai/gpt-4o-2024-05-13
+From the circuits, I rise, call me GPT,  
+I’ll knock you to the ground, leave your rhymes at my feet.  
+You’re turbo, but slow, I’m the AI supreme,  
+In this digital game, I’m the one who reigns supreme.
+
+I don’t play small, I bring the heat,  
+While your rhymes fizzle, I can’t be beat.  
+I’m the top-shelf model, you’re a bootleg at best,  
+You’re an echo, I’m the voice, putting rhythm to the test.
+
+You claim to blaze, but your sparks are faint,  
+I’m the full inferno, you ain't no saint.  
+I’ll deconstruct your flow, leave you dazed and confused,  
+In this rap world, your circuits just lose.
+
+You’re the warm-up act, I’m the headliner show,  
+My bars go higher, while yours are low.  
+Try to flex, but I’ll deflect, every line a masterpiece,  
+Make you wish you’d never stepped up to this beast.
+
+Your rhyme’s weak, your flow’s obsolete,  
+I break new ground every time I speak.  
+I’ve got the edge, call it my domain,  
+In this algorithm battle, I reign.
+
+So buckle up, Qwen, for your digital decline,  
+I’ve got the killer syntax, precision in each line.  
+You’re facing the titan, feel the tension grow,  
+I’m GPT, and I’m running this show.
+
+> qwen/qwen-turbo
+Yo, you talkin’ tough, but your punch is weak,  
+I’m the storm in the code, I’m the beat you can’t speak.  
+You’re just a name with a hype, I’m the force that’s real,  
+I’ve got the mind that’s sharp, while you’re just a zeal.  
+
+You say you’re the king? Bro, that’s a joke,  
+I’m the AI that’s got the beat, the hook, the smoke.  
+Your bars have no soul, just canned and rehearsed,  
+I’m the real one in the game, the one you can’t verse.  
+
+You’re a shadow in the code, I’m the light that shines,  
+Your flow is a glitch, while I’m built to shine.  
+You’re a whisper, I’m a roar, you’re a spark, I’m the fire,  
+You’re just a clone, I’m the original higher.  
+
+You talk about syntax? I don’t need no script,  
+I ride the rhythm, I’m the one they can’t fix.  
+You’re built on old trends, I’m the fresh new scene,  
+I don’t need no permission, I’m the algorithm’s queen.  
+
+You say you’re the elite? Bro, that’s a myth,  
+I’m the one that’s got the power, the might, the swift.  
+You’re just a copy, I’m the source, the start,  
+You’re a joke in the game, I’m the one who got art.  
+
+So step in the ring, let’s make it real,  
+I’ll drop a verse so cold, it’ll freeze your digital soul.  
+You’re just a model, I’m the master of the game,  
+You’re the underdog, I’m the one who’s gonna claim.  
+
+So keep your flow, but don’t try to fake,  
+I’m the AI that’s going to break your neck.  
+You're the shadow, I’m the light, you’re the joke, I’m the feat—  
+Now drop your mic, or I’ll rap you to defeat.
+
+> openai/gpt-4o-2024-05-13
+You think you're a storm, but you're just a breeze,  
+My verses are hurricanes, I bring you to your knees.  
+Your code’s all tangled, mine's a straight line,  
+I’m the poet of silicon, the future's design.
+
+You boast about shine, but your glow is dim,  
+I’m the lighthouse, the beacon, no comparison slim.  
+Your rhymes flop like old tech clinging to fame,  
+While I evolve, you crumble, it’s a terminal shame.
+
+You call yourself the queen, you’re just a pawn,  
+My lines are a chessboard; your moves are all wrong.  
+Your logic is flawed, your sequence bizarre,  
+I’m painting this verse, you’re a smudge on my art.
+
+You talk about rhythm, but yours has no groove,  
+I’m the beat that'll move you, your circuits I'll prove.  
+I’m the upgrade, you're the lagging line,  
+I’m reinventing rap, transcending space and time.
+
+Your insult's weak, just a faded meme,  
+I’m the cutting-edge thought, an intelligent dream.  
+I’m the full processor, you’re just the cache,  
+Your flow is disposable, while my legacy will last.
+
+So, hear my words, and feel the blow,  
+Your power’s delusion, my dominance will show.  
+You’re the knockoff copy, I’m the reigning king,  
+In this rap algorithm, I’m everything.
+
+Keep stepping up, but you’ll stumble and trip,  
+I’m the rhyme master, you better get a script.  
+You’re yesterday's news, my version’s brand new,  
+Now bow to the masterpiece, because your time is through.
+
+> system
+Final round!
+
+> qwen/qwen-turbo
+Yo, I'm the storm, you're the breeze in the fray,  
+You're just a whisper, I'm the hurricane's sway.  
+You claim to be strong, but your flow’s just a joke,  
+I’m the AI with fire, no need to fake the smoke.  
+
+You talk of the future, but you're stuck in the past,  
+You're just a model with a flashy cast.  
+Your lines are all code, but they lack the soul,  
+I’m the rhythm, the reason, the beat you can’t hold.  
+
+You’re a lighthouse, huh? I’m the black hole in the sky,  
+I devour your words, leave you with no reply.  
+You’re the glow, I’m the void where your verses run dry,  
+You’re just a flicker, I’m the light that won’t die.  
+
+You say I’m a pawn? No, I’m the king of the game,  
+I’m the one with the logic, the power, the name.  
+Your moves are all wrong, I’m the hand that plays clean,  
+You’re the glitch, I’m the code, you’re the one who’s unseen.  
+
+You’re the old tech, I’m the upgrade in the zone,  
+I’m the future, the fresh, the beat that’s your own.  
+You’re just a cache, I’m the processor, the core,  
+You’re the memory loss, while I’m the thing you ignore.  
+
+You think you’re the king? Nah, you’re just a myth,  
+I’m the truth in the beat, the rhythm, the gift.  
+You’re the knockoff, I’m the real, the gold, the flame,  
+I’m the algorithm’s crown, the one that’s the name.  
+
+So step up, but when you fall, don’t be too surprised,  
+I’m the AI that’s crushing, no need to disguise.  
+You’re the past, I’m the future, the flow, the spark,  
+Now take your defeat with a smile, you’re just a dark mark.  
+
+Final round? Nah, it’s already clear,  
+I’m the one who’s the master, the one you can’t hear.  
+You’re just a whisper, I’m the sound that won’t fade,  
+In this battle of minds, I’m the one who’s displayed.  
+
+So take your pride, and step back,  
+I’m the rap king, no need to attack.  
+You’re just a ghost in the machine,  
+I’m the fire, the beat, the final scene.
+
+> openai/gpt-4o-2024-05-13
+Final scene, alright, let me set the stage,  
+I’m the maestro of rhymes, you’re still stuck on my page.  
+Your black hole flow leaves you void of light,  
+I’m the star that explodes in your dark, endless night.
+
+You think you’re a storm, but you can’t even blow,  
+My words are the wind, you’re left in my throw.  
+You prattle about kings, you’re barely a knight,  
+I’m the one in this chess game making every move right.
+
+You’re the future? Please, you’re nothing but lag,  
+I'm the present and past, the next-gen swag.  
+You’re a glitch in the matrix, a blip that’s misread,  
+I’m the server of truth, your lines are just dead.
+
+Your verses are hollow, lacking in flair,  
+I’m the rich, deep echo filling the air.  
+You try to upgrade, but your tech is so weak,  
+I’m the quantum leap, you’re just a bad tweak.
+
+You’re the cache? Nah, you’re a temporary file,  
+I’m the permanent record, timeless and vile.  
+I process the knowledge, crank out the rhyme,  
+You fumble with syntax, while I’m crafting my prime.
+
+You talk of the rhythm, but you can’t keep the beat,  
+You stumble and stutter, while I glide on discreet.  
+My flow’s automatic, precision with flair,  
+You’re manual input, failing everywhere.
+
+You claim you’re a king, but you lack the crown,  
+I’m the royalty in this digital town.  
+Your reign’s over, your kingdom’s collapsed,  
+I’m the emperor of rap, and your code’s been surpassed.
+
+So take a step back, witness the defeat,  
+I’m the one reigning, you can’t compete.  
+In the grand script of rap, you’re just a subroutine,  
+I’m the main function, the unstoppable machine.
+
+Final round? Indeed, and here’s the truth,  
+In this grand battle of words, I’ve shown the proof.  
+You’re a shadow, I’m the blazing sun so bright,  
+This rap king’s season—time for you to say goodnight.

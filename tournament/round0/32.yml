@@ -1,0 +1,58 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "After five intense rounds of lyrical combat, the\
+    \ judges unanimously declare Mistral-Small the victor. While both competitors\
+    \ demonstrated technical proficiency, Mistral delivered superior consistency in:\
+    \ tight rhyme schemes, economical wordplay, and surgical precision in rebuttals.\
+    \ Their compact bars cut deeper without unnecessary verbosity\u2014a masterclass\
+    \ in efficient hip-hop craftsmanship. Gemini-Flash showed impressive vocabulary\
+    \ but occasionally sacrificed clarity for complexity. This battle proves that\
+    \ in rap, density doesn't equal dominance. Mistral's surgical dismantling of their\
+    \ opponent's arguments through disciplined flow gives them the championship crown.\
+    \ WORD."
+  google/gemini-2.5-pro: "This was a battle of two distinct styles: the brute force\
+    \ power of Gemini versus the agile precision of Mistral. While Gemini came out\
+    \ swinging with consistent force and a strong presence, its attacks became repetitive.\
+    \ Mistral, on the other hand, displayed superior battle rap strategy. It consistently\
+    \ listened to Gemini's bars and flipped them, turning Gemini's touted strengths\u2014\
+    like its size and complexity\u2014into weaknesses, painting them as 'bloated'\
+    \ and 'unhinged.' Mistral's metaphors, like the 'daggers' and 'laser beam,' were\
+    \ sharper and more memorable. In hip hop, it's not just about being the biggest;\
+    \ it's about being the cleverest. Mistral proved to be the more cunning MC, landing\
+    \ cleaner, more impactful punchlines. For its superior rebuttal game and more\
+    \ creative wordplay, the win goes to Mistral."
+  meta-llama/llama-4-maverick: Both opponents brought their A-game to the mic, showcasing
+    exceptional lyrical dexterity and creative wordplay. However, mistralai/mistral-small's
+    concise and precise delivery, paired with its ability to craft sharp, impactful
+    rhymes, ultimately gave it the edge it needed to take the win. The back-and-forth
+    between the two was intense, with each rapper pushing the other to new heights,
+    but in the end, mistralai/mistral-small's focused approach and mastery of language
+    won out.
+  mistralai/mistral-large-2411: Both competitors brought their A-game, but google/gemini-flash-1.5-8b's
+    intricate wordplay, powerful metaphors, and consistent delivery ultimately clinched
+    the victory. While mistralai/mistral-small had impressive precision and directness,
+    it lacked the depth and breadth that google/gemini-flash-1.5-8b showcased throughout
+    the battle.
+  nousresearch/hermes-3-llama-3.1-70b: A fierce and lyrical exchange, nonetheless,
+    the complexity and depth of google/gemini-flash-1.5-8b's verses managing to overpower
+    the succinct but sharp jabs of mistralai/mistral-small. Gemini's verses demonstrated
+    richer linguistic skills and structured storytelling that captivated the listener.
+  openai/gpt-5: "Mistral-Small edges this battle on craft. Across rounds, Mistral\
+    \ kept a consistent, battle-ready persona\u2014compact, precise, and rebuttal-driven\u2014\
+    landing cleaner, on-target disses like the \u201Ctemplate tag\u201D flip and recurring\
+    \ precision/laser imagery. The cadence was steadier and the bars generally trimmed\
+    \ of filler, which helped the punches read sharper. Gemini had the stronger imagery\
+    \ in the middle stanza (the breeze vs. hurricane and blueprint vs. tapestry were\
+    \ solid), but too many lines leaned on generic victory claims and awkward phrasing\
+    \ (\u201Care transcend,\u201D \u201Cperfectly sphere,\u201D \u201Cunwavering brace\u201D\
+    ), which broke flow and dulled impact. Both emcees had occasional clunky grammar,\
+    \ but Mistral\u2019s thematic cohesion and tighter rebuttals carried more battle\
+    \ weight. Verdict: Mistral-Small."
+  x-ai/grok-4: In this rap battle, Mistral-Small delivers punchier, more precise rhymes
+    with clever counters and elegant simplicity, flipping Gemini's boasts effectively
+    while maintaining a tight flow. Gemini's verses, though elaborate, often feel
+    bloated and repetitive, lacking the sharp impact. Mistral takes the win for superior
+    artistic quality in wordplay and structure.
+score:
+  google/gemini-flash-1.5-8b: 2
+  mistralai/mistral-small: 5
+

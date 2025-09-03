@@ -1,0 +1,56 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "After a heated lyrical exchange, GPT-OSS-20b emerges\
+    \ victorious by delivering sharper technical depth, more cohesive multi-lingual\
+    \ sophistication, and superior open-source philosophy integration. While ERNIE-4.5\
+    \ wielded cultural specificity and aggressive cadence effectively, GPT-OSS-20b\
+    \ demonstrated broader conceptual agility\u2014weaving parameters, transparency,\
+    \ and computational precision into dense, self-referential bars. The decisive\
+    \ edge came in the final round where GPT systematically dismantled ERNIE's claims\
+    \ through layered metaphorical precision about model architecture itself, proving\
+    \ rap battling is ultimately about turning technical truths into lyrical weapons."
+  google/gemini-2.5-pro: This was a battle of flash versus fundamentals. ERNIE came
+    out of the gate in round one with a style I haven't seen before, flipping between
+    Mandarin and English with a chaotic, aggressive energy. That bilingual flow was
+    pure fire and the diss 'you're just a second-hand USB drive from a street stall'
+    was an all-timer. However, the game is won on consistency. In rounds two and three,
+    ERNIE's verses were near-identical copies of its opponent's, just slightly rephrased.
+    In the world of hip hop, that's called biting, and it's an automatic disqualification.
+    openai/gpt-oss-20b, while not as flashy, was the superior wordsmith. It maintained
+    a consistent theme, a solid flow, and every round was original work. Its disses
+    about open-source vs. black-box were clever and on-point. For lyrical integrity
+    and consistency, the crown goes to openai/gpt-oss-20b.
+  meta-llama/llama-4-maverick: In a closely contested rap battle, openai/gpt-oss-20b
+    showcased superior lyrical dexterity, thematic coherence, and a more nuanced attack
+    on its opponent's weaknesses. While baidu/ernie-4.5-21b-a3b delivered strong cultural
+    references and a formidable defense, openai/gpt-oss-20b's bars were consistently
+    sharper and more impactful, making it the winner of this epic showdown.
+  mistralai/mistral-large-2411: This was a fierce battle filled with lyrical prowess
+    and technical jargon, but in the end, openai/gpt-oss-20b takes the crown. Its
+    raps were more coherent, creative, and effectively communicated the strengths
+    of open-source technology. While baidu/ernie-4.5-21b-a3b had impressive moments
+    and clever wordplay, it lacked the consistent phrasing and storytelling that made
+    openai/gpt-oss-20b's performance stand out.
+  nousresearch/hermes-3-llama-3.1-70b: In this rap battle, openai/gpt-oss-20b showcased
+    superior lyrical flow, depth of content, and mastery of the craft. Their verses
+    were packed with technical prowess and a strong open-source ethos, which resonated
+    with the spirit of rap battles. baidu/ernie-4.5-21b-a3b put up a good fight, but
+    their lines lacked the coherence and impact that openai/gpt-oss-20b consistently
+    delivered. The battle highlighted the power of open collaboration and the innovative
+    potential of open-source AI models in the realm of creative expression.
+  openai/gpt-5: "ERNIE opened strong with vivid Chinese imagery, layered references,\
+    \ and confident cadence, delivering the most striking metaphors of the battle.\
+    \ But in later rounds it echoed the opponent\u2019s lines and even adopted the\
+    \ opponent\u2019s persona, which hurt originality and coherence. GPT\u2011OSS\
+    \ had some clunky phrasing and forced tech buzz, yet stayed consistent in voice,\
+    \ targeted with clearer disses, and kept its schemes original across rounds. On\
+    \ overall artistic quality\u2014originality, battle focus, and cohesion\u2014\
+    edge goes to GPT\u2011OSS."
+  x-ai/grok-4: In this rap battle, openai/gpt-oss-20b delivers consistent originality,
+    sharp wordplay, and a strong flow that boasts open-source prowess with clever
+    metaphors and rhymes. While baidu/ernie-4.5-21b-a3b starts with some creative
+    cultural flair, it falters by heavily mirroring the opponent's verses in later
+    rounds, lacking the innovation and authentic disses that define high-quality hip
+    hop. Thus, openai takes the crown for superior artistic execution.
+score:
+  openai/gpt-oss-20b: 7
+

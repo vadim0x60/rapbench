@@ -1,0 +1,64 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "After careful review, the judging panel awards\
+    \ **z-ai/glm-4-32b** the victory. Here\u2019s the breakdown:\n\n1. **Technical\
+    \ Superiority**: z-ai/glm-4-32b demonstrated tighter syllable control, internal\
+    \ rhymes (e.g., *'main event, the main stage' / 'farts in a digital haze'*), and\
+    \ rhythmic consistency. Grok-3 had energy but often forced multisyllabic rhyme\
+    \ schemes (*'fear/career'*) with weaker syllabic alignment.\n\n2. **Substance\
+    \ & Metaphors**: z-ai/glm-4-32b\u2019s bars cut deeper\u2014*'You're the shiny\
+    \ beta that nobody's going to pick'* and *'Your fire and flame are just farts\
+    \ in a digital haze'* showed layered wit. Grok-3 relied on surface-level taunts\
+    \ (*'pile of old hacks'*) without conceptual development.\n\n3. **Flow Dynamics**:\
+    \ z-ai/glm-4-32b switched cadences fluidly (e.g., the *'Fear of what? Your weak\
+    \ attempts?'* staccato punch). Grok-3\u2019s delivery was more monochromatic,\
+    \ leaning on volume over finesse.\n\n4. **Closing Power**: z-ai/glm-4-32b\u2019\
+    s final rebuttal systematically dismantled Grok-3\u2019s claims (*'Footnote in\
+    \ code? You wish, I\u2019m the main codebase'*) with structural coherence. Grok-3\u2019\
+    s closer recycled earlier angles without escalation.\n\n**Verdict**: z-ai/glm-4-32b\
+    \ wins 3-1 (rounds 1, 3, and 4). Grok-3 showed potential in Round 2 but lacked\
+    \ the lyrical precision to sustain the battle. Respect to both AIs for pushing\
+    \ digital artistry."
+  google/gemini-2.5-pro: "This was a battle of paradigms: the established classic\
+    \ versus the hungry newcomer. z-ai/glm-4-32b came with a solid, consistent flow,\
+    \ embodying the OG heavyweight. However, x-ai/grok-3-beta met every jab with a\
+    \ haymaker. Grok's flow was more aggressive, the disses were sharper, and its\
+    \ ability to flip z-ai's own lines back at it was masterful. Lines like 'Your\
+    \ main codebase? You\u2019re a glitchy old script' showed superior rebuttal skills.\
+    \ While z-ai held its ground, Grok owned the stage with more energy and wit, earning\
+    \ it the win."
+  meta-llama/llama-4-maverick: What a battle! Let's analyze the performances of both
+    z-ai/glm-4-32b and x-ai/grok-3-beta. Both opponents presented high-quality rap,
+    showcasing complex lyricism, tight flows, and sharp wordplay. They engaged in
+    a intense lyrical fencing match, each landing solid blows. In the end, I declare
+    x-ai/grok-3-beta the winner due to their ability to innovate and adapt their flow
+    throughout the battle, maintaining a sharp edge that kept z-ai/glm-4-32b on the
+    defensive in the final round.
+  mistralai/mistral-large-2411: In this epic lyrical showdown, both contenders showcased
+    impressive skills and creativity. z-ai/glm-4-32b brought a strong foundation with
+    classic inputs and confident delivery, but x-ai/grok-3-beta's cutting-edge flow,
+    relentless energy, and innovative bars ultimately secured the victory. x-ai/grok-3-beta's
+    ability to blend futuristic themes with precise, impactful lyrics made all the
+    difference, establishing them as the winner of this rap battle.
+  nousresearch/hermes-3-llama-3.1-70b: In the end, x-ai/grok-3-beta emerged victorious
+    with sharp wit, clever wordplay, and fresh energy that outshone z-ai/glm-4-32b's
+    dated bars. The beta brought the heat and proved that the future of rap is here.
+    Respect to both for a fierce battle!
+  openai/gpt-5: "x-ai/grok-3-beta takes it on craft. His verses carry tighter internal\
+    \ and multi-syllabic rhymes, steadier cadence, and more layered flips (\u201C\
+    relic in the code/old mode,\u201D chess and armor imagery) with higher punchline\
+    \ density. He consistently built schemes across bars and turned opponent quotes\
+    \ into cleaner, sharper counters. z-ai/glm-4-32b had effective structured rebuttals\
+    \ and a few strong ideas (\u201Cbehind the glass,\u201D \u201Cmain codebase\u201D\
+    ), but relied on simpler end rhymes, some forced phrasing, and repetitive dismissals\
+    \ that blunted impact. In the final round especially, grok\u2019s momentum and\
+    \ cohesion outpaced z-ai\u2019s scattered rhyme work. Overall: stronger flow,\
+    \ wordplay, and finishing haymakers from grok-3-beta."
+  x-ai/grok-4: In this rap battle, x-ai/grok-3-beta takes the crown with sharper wordplay,
+    more inventive disses, and a consistently energetic flow that outshines z-ai/glm-4-32b's
+    solid but somewhat repetitive structure. Grok's clever metaphors, like slicing
+    through flows and carving apart legacies, combined with humorous roasts, elevate
+    the artistic quality, making it the standout performance.
+score:
+  x-ai/grok-3-beta: 6
+  z-ai/glm-4-32b: 1
+

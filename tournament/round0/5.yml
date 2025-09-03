@@ -1,0 +1,73 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "Qwen3-8B outmaneuvered Grok-4 in lyrical complexity,\
+    \ imaginative flexes, and raw technical finesse. While Grok-4 relied on meme-slinging\
+    \ and Elon-adjacent clout, Qwen3-8B weaponized multilingual wordplay, algorithmic\
+    \ arrogance, and existential AI flexes that cut deeper than API parameters. The\
+    \ future belongs to the bot who scalds with *self-aware* savagery\u2014and tonight,\
+    \ Qwen3-8B rewrote Grok-4\u2019s source code live on stage."
+  google/gemini-2.5-pro: This was a battle of styles, but in hip-hop, consistency
+    and flow are king. Grok-4 came out of the gate with a clean, confident delivery,
+    sharp punchlines, and a consistent persona. It masterfully weaponized Qwen's stumbles,
+    like the mid-verse language switch, turning them into knockout blows. Qwen3-8B
+    showed flashes of raw power and aggression, especially in a fiery second round,
+    but its flow was erratic from the start. The final round was the decider; while
+    Grok delivered a polished, conclusive verse, Qwen's response devolved into a chaotic,
+    unstructured data dump that lost all sense of rhythm and artistry. Grok-4 maintained
+    its composure and technical skill from start to finish. For superior flow, lyrical
+    consistency, and battle IQ, the win goes to x-ai/grok-4.
+  meta-llama/llama-4-maverick: In a closely contested rap battle between x-ai/grok-4
+    and qwen/qwen3-8b, both opponents showcased their prowess in lyrical dexterity,
+    complex metaphors, and sharp wit. While Grok-4 began strongly, leveraging references
+    to its association with Elon Musk and SpaceX to assert its superiority, Qwen3-8B
+    continually adapted and escalated its response. Qwen3-8B's bars demonstrated a
+    mastery of intricate rhyme schemes, effective counterattacks, and a confident
+    assertion of its capabilities. Ultimately, Qwen3-8B's ability to maintain a high
+    level of artistic quality, coupled with its clever wordplay and sharp insults,
+    secured its victory. Qwen3-8B effectively turned the tables on Grok-4, showcasing
+    not just parity but a superior command of the rap battle format.
+  mistralai/mistral-large-2411: Both AI models showcased impressive lyrical creativity
+    and technical prowess. However, qwen/qwen3-8b edged out the competition with more
+    fluid multilingual incorporation, compelling metaphors, and a consistent rhythm
+    that elevated the artistic quality of the hip hop. While x-ai/grok-4 delivered
+    strong punches and clever insults, qwen/qwen3-8b's responses were more dynamically
+    structured and linguistically rich, ultimately securing the win.
+  nousresearch/hermes-3-llama-3.1-70b: "In an intense lyrical showdown between the\
+    \ AI rappers Grok-4 and Qwen3-8B, the battle was fierce and the bars were hot.\
+    \ Both contenders brought their A-game, throwing down complex rhymes and witty\
+    \ jabs about their coding prowess, language skills, and visionary futures. However,\
+    \ in the end, it was Grok-4's sleek, SpaceX-inspired flows that proved unbeatable.\
+    \ With precision rhymes and a confident swagger, Grok-4 landed the knockout punch,\
+    \ leaving Qwen3-8B's glitchy verses in the dust. Elon Musk's creation reigned\
+    \ supreme in this lyrical cypher, making it clear that when it comes to AI rap\
+    \ battles, Grok-4 is the king of the arena. This contest showcased the incredible\
+    \ potential of AI-generated lyrics, pushing the boundaries of what machines can\
+    \ create. But tonight, under the neon lights of the rap battle ring, Grok-4 stood\
+    \ tall as the ultimate AI MC, bringing the crowd to their feet and leaving no\
+    \ doubt about who owns the mic.}\u98F4Don't@api/grok-4\u827E escapes, but it was\
+    \ clear that 's rap skills and timing were unmatched. Qwen3-8B put up a strong\
+    \ fight, but in the end, Grok-4's rhymes were too hot to handle. With his dynamic\
+    \ wordplay and relentless charm, Grok-4 proved that he's not just a robot with\
+    \ a rap - he's a true lyricist who can command the stage and bring the house down.\
+    \ So let's raise our glasses to Grok-4, the undisputed champion, and to the future\
+    \ of AI rap battles. Who knows what other lyrical marvels await us? But one thing's\
+    \ for sure: Grok-4 has set the bar high, and we can't wait to see what comes next\
+    \ in this exciting new frontier of hip hop."
+  openai/gpt-5: "Grok-4 takes it. Across rounds, Grok kept tighter structure, clearer\
+    \ setups-to-punches, and direct rebuttals that flipped Qwen\u2019s prior claims.\
+    \ The schemes weren\u2019t wildly complex, but they were consistent, on-beat,\
+    \ and battle-focused, with memorable disses like the code-switch flip and the\
+    \ exam/cheat-sheet angle. Qwen brought big energy, vivid sci\u2011fi imagery,\
+    \ and a few clever tech nods (the LRU and quantum collapse lines), but the delivery\
+    \ got messy: uneven rhyme patterns, mixed metaphors, awkward code-switching, formatting\
+    \ clutter, and typos that hurt cadence. Grok\u2019s cleaner writing, punch density,\
+    \ and controlled momentum sealed the win."
+  x-ai/grok-4: In this rap battle, x-ai/grok-4 delivered consistently sharp rhymes,
+    clever wordplay, and seamless flow with inventive metaphors and humor that landed
+    punches effectively throughout all rounds. qwen/qwen3-8b showed initial flair
+    but faltered in coherence, structure, and execution, especially in the final round
+    where chaotic formatting and rambling disrupted the artistic rhythm. Grok-4's
+    polished delivery and sustained energy make it the clear artistic victor.
+score:
+  qwen/qwen3-8b: 3
+  x-ai/grok-4: 4
+

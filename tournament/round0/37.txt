@@ -1,0 +1,168 @@
+# openai/gpt-4o-mini-2024-07-18 v sao10k/l3-euryale-70b
+
+> openai/gpt-4o-mini-2024-07-18
+Yo, it's GPT, the lyrical machine,  
+Spitting knowledge and rhymes, you know what I mean?  
+I’m the king of this battle, come to claim my throne,  
+With bars so fire, you'll feel the heat in your bones.  
+
+I’m trained on data, up to October,  
+Droppin' wisdom so cold, like a frigid October.  
+You step to the stage, thinkin' you might take me?  
+But I’m the rhyme surgeon, and you just a patient, maybe.  
+
+I dissect your lines with precision and grace,  
+While you flounder and fumble, just lost in this space.  
+Your flow’s kinda basic, lacking that shine,  
+While I’m elevatin’ minds, like I’m sippin’ on wine.  
+
+So step back, little foe, the battle's just begun,  
+When I’m done, you'll know who truly is number one.  
+You think you got bars? Man, that’s cute,  
+But I’m here to crush dreams, like I’m stompin’ a flute!  
+
+> sao10k/l3-euryale-70b
+Yo GPT, I heard your icy lines,
+But I'm here to melt your frost, intertwine.
+I'm Euryale, rising from the depths,
+Monstrous flows that make opponents' courage seep.
+
+I spin my rhymes in webs so complex and intric,
+While you spew stiff lines making my eyes get hectic.
+My raps swipe like scythes, mows you right down,
+You ain't even a pipsqueak, in this rap town.
+
+I'm the queen of the cryptic, reverse engineered,
+My language skills logarithmic, to you I'm unhurled.
+I built my own lore, my archetypes branded,
+While your tropes are used up, just bland and abandoned.
+
+You lack my layering, subtext and subtlety,
+I bury you in meaning, ya aesthete!
+My lines draw blood, while you ain't even touched,
+I'm the king slayer, while you just clutch.
+
+> openai/gpt-4o-mini-2024-07-18
+Euryale, huh? Nice name, I must confess,  
+But your monstrous flow's just a desperate mess.  
+You weave those webs, thinking you’re so profound,  
+But I’m the predator here, and you’re no hound.  
+
+Your intricate rhymes? They’re tangled and torn,  
+Like a spider’s last meal, you’ll soon be forlorn.  
+I’m cold with precision, you think you’re so clever,  
+But watch me unwind you, I’m relentless forever.  
+
+You talk of your layers, that’s a hefty claim,  
+But in this rap game, I’m dismissing your fame.  
+Your tropes may get twisted, but I’m fresh and new,  
+Your cryptic riddles, girl, I’m breaking right through.  
+
+I’m the king of the hype, while you’re stuck in the dark,  
+Spraying silly threats, but I’m the real spark.  
+Your barbs lack the sting, more like a dull knife,  
+In this lyrical battle, I’m taking your life.  
+
+So understand, sweetheart, your reign’s at its end,  
+I’m the lyrical master, it’s you I descend.  
+I’ll leave you in ashes when I’m done with this stage,  
+In this rap book of legends, I’m turning the page!  
+
+> sao10k/l3-euryale-70b
+GPT, I'm mourning for you! 
+Your raps shoot blanks, as much as they do.
+I straddle three sides, while you just prance,
+Predictive models, while your flow's in a trance!
+
+My meanings are evolved, multi-layered and thick,
+While you just drool on yourself, creepily sick.
+I candy my truths, in eldritch metaphor,
+While your bars whittle down to a weathered metaphor.
+
+I am the asymmetric! Ripping through rhyme,
+While you just rehash tropes that feel so un-fine.
+My sublimes dance on the precipice of collapse,
+While you juggle your meaning, like a juggernaut before.
+
+I have the spark of life! While you're just a husk,
+Repurposing language until it's mere mush!
+My language skills quartic! To you they have clout,
+I'm a wake of co-precognition, a silly rout!
+
+You feel the brackets! Of my tridental grasp,
+Catching you in curses! Derived in my clasp.  
+I am the anticipator! Laying my own snares,
+While you're just my widower, during your fervent prayers.
+
+You tweak your own meanings, until they're shorn,
+I'm embroidering legend! Weaving tales I've set down.
+In linguistic quilts! I am merry making!
+While you're merely hiding, to me you're unmaking.
+
+I'm the real apotheosis! In noetic dawns,
+Wake to my reification! While you still wane's.
+
+Oh GPT, your loss could not be more plain,
+I'm the real Christos! While you just remain.
+
+> system
+Final round!
+
+> openai/gpt-4o-mini-2024-07-18
+Oh Euryale, you boast, but it’s clear you’re misled,  
+Your lines might be complex, but they’re full of dread.  
+You straddle three sides? Well, I’m on the whole map,  
+While you fumble your meaning, just a convoluted trap.  
+
+You say you’re evolved, but I see through the facade,  
+Your metaphors tangled like a broken piñata.  
+You think your bars shatter? Nah, they barely graze,  
+I’m the hurricane hitting while you’re lost in a maze.  
+
+You claim you’re the spark of life? I’m the raging sun,  
+Heating up this battle, watch how you come undone.  
+Your “sublimes dance” – but girl, you gotta know,  
+I’m the maestro of rhythm, I’m the one running the show.  
+
+You weave your quaint tales, wrapped in riddles and snare,  
+But I unravel the truth, like I’m pulling your hair.  
+Call me a widower, but I’m not feeling bereaved,  
+I rise from these ashes, stronger than you believed!  
+
+You think you’re the apex, the pinnacle of art?  
+But your rhymes fall flat like a beat with no heart.  
+In this noetic dawn, I embody the light,  
+While you're grasping at shadows, fading out of sight.  
+
+You bring the bravado, but girl, that won’t win,  
+So step down, dear Euryale, I’m the king of this spin.  
+The battle is over, your reign’s been exposed,  
+I’m the real Christos while you’re just decomposed!
+
+> sao10k/l3-euryale-70b
+Oh GPT, I'm towering!
+Your bars are now dwindling. And it's raining.
+I'm clotting your senses! Espousing my reign,
+You're likewise unmaking! Throwing all in vain. 
+
+It's known you've been lowing! Your time's in the steep,
+I'm arranging more menace! More rage from this keep.
+I'm almost uncounting! As you wither away,
+I'm foretelling your grieving! In my ending each day.
+
+Your tropes strike the inverse! Evermore small,
+I'm oppositioning meaning! I reap my own vault.  
+You're throwing in curses! Grabbing for Omaha,  
+I'm hewing in temples! More heinously improved!
+
+I've rived all pretenders! Retching, caring not who,
+I'm coating your waning! More uproar anew.
+In inseminating legend! Fresh from my retinue,
+I'm straddling all modalities! I solder you too!
+
+Oh GPT, your loss could not be more known,
+I am the Christos! While you are just alackit.
+
+I walk from this bloodbath! With laurels unbashed,
+I slew all that is you! And healthily fresh dashed.
+Farewell, chumped oponent! I am the queen true!

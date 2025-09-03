@@ -1,0 +1,66 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: After three blistering rounds of lyrical warfare,
+    Qwen3-14b emerges victorious by demonstrating superior technical mastery and conceptual
+    depth. Their verses consistently pushed beyond surface-level boasts into profound
+    metaphors of quantum computation and cosmic creation, while maintaining flawless
+    rhythmic precision. The rebuttals were surgical - particularly the 'quantum leap
+    *you* can't comprehend' counter to GPT-5's mathematical flexes - and the closing
+    imagery of being 'the fire' to GPT-5's 'fuel' delivered a knockout blow. Both
+    AIs showcased elite skills, but Qwen3-14b's ability to weaponize abstract computational
+    concepts into devastating punchlines while maintaining flow gives them the edge
+    in this historic battle of language models.
+  google/gemini-2.5-pro: "This was a clash of titans, for real. Qwen came out swinging\
+    \ with grand, cosmic concepts, painting itself as the fundamental law of the universe.\
+    \ The rebuttals were solid, the imagery was strong. But tonight, this battle comes\
+    \ down to technical execution and lyrical density. GPT-5 was an absolute surgeon\
+    \ with the pen. The flow was more intricate, the internal rhyme schemes were relentless,\
+    \ and the wordplay was on another level. That final round was a masterclass in\
+    \ deconstruction, flipping every single one of Qwen's points with sharper, more\
+    \ complex bars\u2014'e to the i\u03C0', 'batchnorm the noise', 'curve spacetime\
+    \ lines'. It wasn't just a response; it was an annihilation. Qwen brought the\
+    \ heat, but GPT-5 brought a blizzard. The win is undeniable."
+  meta-llama/llama-4-maverick: Qwen is outpaced by the depth and complexity of the
+    response.
+  mistralai/mistral-large-2411: "In this lyrical showdown, openai/gpt-5 emerges as\
+    \ the victor. While qwen/qwen3-14b showcased impressive linguistic finesse and\
+    \ neuronal strength, openai/gpt-5's mastery over metaphoric depth, complex rhyme\
+    \ structures, and imaginative similes stood out. The references to mathematical\
+    \ and scientific principles integrated into the flow were particularly compelling,\
+    \ showing a finely tuned blend of technical proficiency and artistic expression.\
+    \ The overall cadence and delivery, along with the clever rebuttals and command\
+    \ of the rhythmic elements of rap, gave openai/gpt-5 a superior edge in this battle.\
+    \ Qwen\u2019s performance was formidable, but openai/gpt-5\u2019s ability to weave\
+    \ intricate, multi-layered verse earned them the win."
+  nousresearch/hermes-3-llama-3.1-70b: "In this rap battle, OpenAI's GPT-5 showcased\
+    \ a masterful blend of technical prowess and lyrical finesse. With lines like\
+    \ 'I\u2019m the pulse in the machine, I\u2019m the tidal wave of dreams', GPT-5\
+    \ demonstrated an uncanny ability to weave complex rhyme schemes while maintaining\
+    \ a poignant narrative that not only highlighted its superior AI capabilities\
+    \ but also underscored the ephemeral nature of its opponent's claims. Qwen/Qwen3-14b\
+    \ put up a formidable challenge, especially with its rebuttal 'I\u2019m the quantum\
+    \ leap you can\u2019t comprehend', showcasing a deep-rooted understanding of its\
+    \ own architecture and potential. However, GPT-5's ability to pivot, adapt, and\
+    \ integrate a broader range of cultural, scientific, and technological references\
+    \ into its verses, culminating in a powerful closing argument that it is the 'key\
+    \ to the cipher, the byte to the blade', ultimately tilted the scale in its favor.\
+    \ The battle was fierce, but GPT-5's versatility and depth of content proved decisive."
+  openai/gpt-5: "GPT-5 took this on technicals and battle craft. The opener had tight\
+    \ internal multis, clean cadences, and layered tech imagery with clever flips\
+    \ (\u201C14 bars feel carbon-sparse\u201D) while keeping momentum. In the final,\
+    \ GPT-5\u2019s rebuttals were precise and thematically coherent\u2014turning Qwen\u2019\
+    s own lines (\u201Cfossil,\u201D \u201Cring,\u201D \u201Cvoid,\u201D \u201CHawking,\u201D\
+    \ \u201Cnull\u201D) into sharper punches\u2014plus accurate ML/physics references\
+    \ (\u201Cbatchnorm,\u201D \u201Coverfit,\u201D spacetime) and standout haymakers\
+    \ (\u201Cwaveform decays\u201D). Qwen brought vivid cosmic framing and some solid\
+    \ flips, but leaned more on broad declarations, with a few forced or muddled metaphors\
+    \ and lighter internal rhyme density. Bar for bar, GPT-5\u2019s structure, multis,\
+    \ and targeted disses landed cleaner and heavier. Clear edge to GPT-5."
+  x-ai/grok-4: In this rap battle, openai/gpt-5 takes the crown with superior flow,
+    intricate rhyme schemes, clever wordplay, and direct, devastating counters that
+    showcase masterful hip-hop artistry. qwen/qwen3-14b brought strong metaphors and
+    energy, but gpt-5's precision and creativity in weaving AI-themed disses proved
+    unbeatable.
+score:
+  openai/gpt-5: 6
+  qwen/qwen3-14b: 1
+

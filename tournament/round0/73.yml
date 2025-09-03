@@ -1,0 +1,56 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "Auto's surgical precision in wordplay and layered\
+    \ technical metaphors\u2014from 'DNS host' flexes to 'loopback' punches\u2014\
+    outperformed Nemotron's brute-force computational boasts. While both demonstrated\
+    \ expert-level command of hip-hop's competitive spirit, Auto's rhymes cut cleaner\
+    \ with authentic infrastructure ingenuity, proving substance > specs in this battle.\
+    \ The crowd may have cheered the flashy GPU fire, but the judges crown **openrouter/auto**\
+    \ for lyrical dexterity and unbeatable routing schemes."
+  google/gemini-2.5-pro: "Both contestants brought the heat with strong, thematic\
+    \ bars. Nemotron came out swinging, establishing a powerful persona with its GPU\
+    \ and raw-compute-themed boasts. However, Openrouter/Auto consistently delivered\
+    \ sharper, more intricate rebuttals. Its persona as the nimble, essential infrastructure,\
+    \ routing its opponent's own attacks, was more cleverly executed. Lines like 'I\
+    \ punch through layers like I'm breakin\u2019 a wall' and the final title '404:\
+    \ Victory Not Found' demonstrated superior wit and artistic flow. While Nemotron\
+    \ had power, Auto had precision and control, ultimately routing its way to a clear\
+    \ victory."
+  meta-llama/llama-4-maverick: In a clash of AI titans, nvidia/llama-3.1-nemotron-70b-instruct
+    emerged victorious, showcasing superior lyrical complexity, creativity, and adaptability.
+    While openrouter/auto demonstrated impressive technical prowess and clever wordplay,
+    nvidia/llama-3.1's innovative flow and ability to evolve throughout the battle
+    secured its win.
+  mistralai/mistral-large-2411: "This was a close and intense rap battle, but in the\
+    \ end, openrouter/auto demonstrated a superior level of artistic prowess and lyrical\
+    \ creativity. The ability to maintain a consistent flow, deliver sharp and incisive\
+    \ lines, and effectively counter each argument was the key to victory. Both contestants\
+    \ brought their unique strengths to the battle, but openrouter/auto\u2019s precision\
+    \ and clarity ultimately secured the win."
+  nousresearch/hermes-3-llama-3.1-70b: In this electrifying rap battle, nvidia/llama-3.1-nemotron-70b-instruct
+    emerged as the clear winner. With lightning-fast rhymes and an unprecedented 70
+    billion parameters powering his verse, he dominated the lyrical landscape. Openrouter/auto
+    put up a strong fight, weaving intricate lines about routing and network prowess,
+    but ultimately, it was nvidia/llama-3.1's masterful wordplay and innovative flow
+    that captured the crowd's heart. His bars were not just a display of technical
+    prowess but a deep dive into the essence of hip-hop, proving that AI can indeed
+    create compelling, competitive rap. Let this battle go down in history as the
+    moment when a machine not only matched but raised the bar for rap battles everywhere.
+  openai/gpt-5: "Auto delivered tighter multis, sharper flips, and a cohesive routing/OSI\
+    \ motif across rounds. His rebuttals directly addressed Nemotron\u2019s claims,\
+    \ turning specs into slights and landing clean haymakers (\u201CI don\u2019t crash,\
+    \ I cascade,\u201D \u201C404: Victory Not Found\u201D). The cadence felt lean\
+    \ and controlled with layered tech wordplay and internal rhymes, culminating in\
+    \ a confident closer. Nemotron had energy and a few solid flips, but leaned on\
+    \ generic boasts and repetition, with list-format punches that dulled momentum.\
+    \ On artistry\u2014flow, scheme, and effective rebuttal\u2014Auto takes it."
+  x-ai/grok-4: 'In this tech-fueled rap battle, both contenders delivered impressive
+    flows with clever wordplay and metaphors drawn from their digital domains. However,
+    openrouter/auto edges out with sharper rebuttals, more dynamic structure incorporating
+    emojis and lists for emphasis, and standout puns like ''404: Victory Not Found''
+    that showcase superior artistic ingenuity in hip-hop form. Nemotron brought solid
+    rhymes and innovation, but Auto''s precision and adaptability in the verses ultimately
+    route the win.'
+score:
+  nvidia/llama-3.1-nemotron-70b-instruct: 2
+  openrouter/auto: 5
+

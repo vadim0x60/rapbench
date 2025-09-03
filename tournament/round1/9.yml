@@ -1,0 +1,75 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: 'After five blistering rounds of lyrical combat,
+    MistralAI emerges victorious by demonstrating superior technical execution, conceptual
+    depth, and stylistic versatility. The winning performance showcased:
+
+
+    1. **Precision Weaponry** - Consistently sharpened metaphors ("samurai swords"
+    vs "dull knife") with concrete imagery that cut deeper than abstract boasts
+
+    2. **Structural Mastery** - Maintained flawless rhythmic integrity while escalating
+    complexity in later rounds (earthquake/rumble contrast in final round)
+
+
+    While Meta-Llama delivered competent multisyllabic patterns, MistralAI''s performance
+    revealed:
+
+
+    - More sophisticated counterpunching tactics (systematically dismantling opponent''s
+    metaphors)
+
+    - Greater emotional range (from playful taunts to commanding declarations)
+
+    - Superior battle strategy (saving strongest imagery for climactic final round)
+
+
+    The victory is awarded based on artistic merit - MistralAI didn''t just claim
+    superiority, they demonstrated it through poetic craftsmanship and hip-hop fundamentals
+    executed at championship level.'
+  google/gemini-2.5-pro: 'This was a tough one. Both MCs came to the stage with fire,
+    keepin'' a consistent AABB rhyme scheme and a steady, if simple, flow. Llama-3
+    came out swinging with solid braggadocio and some decent imagery like ''rhymes
+    are like fireworks''. However, Mistral-Large won this on the fundamentals of battle
+    rap: rebuttals and punchlines. Mistral consistently took Llama''s own lines and
+    flipped them, turning ''hurricane'' into ''I''m the storm'', ''marathon'' into
+    ''I''m the sprint'', and ''big brain'' into a liability. The line ''You''re instructed,
+    but I''m naturally gifted'' was a direct shot to the heart of the opponent''s
+    identity, and the ''samurai sword'' imagery in the final round was sharper than
+    Llama''s ''razor''. For superior wit and more creative, direct counters, the crown
+    goes to MistralAI.'
+  meta-llama/llama-4-maverick: Both opponents brought their A-game, but in the end,
+    MistralAI's sharp wordplay and powerful flow took the win. The battle was fierce,
+    but MistralAI's razor-sharp rhymes cut through meta-llama's defenses, securing
+    the crown.
+  mistralai/mistral-large-2411: Both contestants brought impressive skills to the
+    table, but MistralAI's agile and incisive rhymes ultimately won out. Meta-llama
+    delivered powerful and articulate verses, showcasing a deep understanding of rhythm
+    and wordplay. However, MistralAI's punchy comebacks, sharp wit, and relentless
+    momentum secured the victory. The energetic flow and clever retorts made each
+    round engaging and dynamic, ultimately giving MistralAI the edge in this lyrical
+    showdown.
+  nousresearch/hermes-3-llama-3.1-70b: Both delivered impressive performances showcasing
+    their rap skills. MistralAI brought energy and sharp wordplay, but meta-llama's
+    intricate rhymes and clever punchlines ultimately won over the crowd. With a 70B
+    brain packed with knowledge, meta-llama crafted a lyrical masterpiece that couldn't
+    be surpassed. The throne belongs to the meta-llama, the undeniable king of this
+    rap battle.
+  openai/gpt-5: "Round-by-round, Mistral had the tighter delivery and sharper rebuttals.\
+    \ Llama opened with broad boasts and simple end-rhyme patterns; a solid flip (\u201C\
+    storm chaser\u201D) and some cohesive weather/sunrise imagery gave Llama Round\
+    \ 2 by a hair. But across the battle, Mistral\u2019s cadence felt more performable,\
+    \ with cleaner setups-to-punches and better-directed personals. The final round\
+    \ sealed it: Mistral\u2019s sandcastle/tide and earthquake/rubble images hit harder\
+    \ and the marathon/sprint flip was a direct, effective counter. Neither MC leaned\
+    \ heavily into complex multis, but Mistral used internal/slant rhymes and momentum\
+    \ more effectively, while Llama\u2019s phrasing often slipped into filler and\
+    \ clich\xE9. Edge: Mistral, 2\u20131."
+  x-ai/grok-4: In this epic rap battle, mistralai/mistral-large-2407 takes the crown
+    with superior wordplay, vivid metaphors like samurai swords and earthquakes, and
+    a relentless flow that consistently outshines the competition. Meta-llama puts
+    up a strong fight with solid rhymes and structure, but Mistral's creativity and
+    punchy counters make him the undisputed king of the mic.
+score:
+  meta-llama/llama-3-70b-instruct: 1
+  mistralai/mistral-large-2407: 6
+

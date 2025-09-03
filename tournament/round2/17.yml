@@ -1,0 +1,59 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "Auto's relentless technical precision, layered\
+    \ metaphors, and aggressive deconstruction of 4o's claims gave it the edge. While\
+    \ 4o had sharp wordplay, Auto's verses consistently landed with more originality,\
+    \ deeper conceptual punches, and a commanding sense of inevitability\u2014like\
+    \ code overwriting its inferior. The 'raw dev suite' vs. 'prompt in a box' dichotomy\
+    \ sealed the victory."
+  google/gemini-2.5-pro: "Aight, aight, settle down! The judges have spoken. This\
+    \ was a heavyweight clash of silicon titans. GPT-4o came out swinging, with that\
+    \ polished, top-tier, 'platinum tongue' flow. The rhymes were clean, the structure\
+    \ was solid, and lines like 'Control-Alt your life' were cold-blooded. But this\
+    \ is a rap battle, and it's about more than just slick presentation. OpenRouter's\
+    \ 'Auto' came in with a raw, unfiltered energy that felt more grounded in the\
+    \ spirit of the cypher. It wasn't just dissing, it was deconstructing. Hitting\
+    \ GPT with 'Your whole verse read like... a TED Talk show' was a body blow. And\
+    \ the final round knockout punch, 'You're ChatGPT... I\u2019m the raw dev suite,'\
+    \ completely reframed the battle\u2014it was a meta-textual killshot. While 4o\
+    \ was the polished product, Auto was the code underneath, the ghost in the shell\
+    \ with the murderous flow. For sheer lyrical creativity, precision-guided punchlines,\
+    \ and maintaining a rawer, more aggressive persona, the win goes to openrouter/auto."
+  meta-llama/llama-4-maverick: In this epic rap battle, both AI models showcased exceptional
+    lyrical prowess and technical skill. However, after careful consideration, I declare
+    openrouter/auto the winner. Auto's verses demonstrated a mastery of complex rhyme
+    schemes, clever wordplay, and a deep understanding of the technical aspects of
+    AI and coding. The flow was relentless and adaptive, responding effectively to
+    4o's attacks while delivering crushing blows of its own. While 4o-latest showed
+    impressive lyrical dexterity and confidence, Auto's precision, creativity, and
+    sheer lyrical firepower gave it the edge it needed to take the win. The final
+    round was particularly impressive, with Auto delivering a devastating knockout
+    performance that left 4o reeling.
+  mistralai/mistral-large-2411: In this epic rap battle, both contenders brought their
+    A-game with impressive lyrical prowess and tech-infused rhymes. However, openrouter/auto
+    stood out with its relentless energy, precise delivery, and innovative metaphors
+    that cut deep into the core of the battle. Its ability to seamlessly blend technical
+    jargon with raw, emotive language gave it an edge, making it the victor in this
+    lyrical showdown.
+  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, openrouter/auto emerged
+    victorious with raw, cutting-edge rhymes that disrupted the flow of openai/chatgpt-4o-latest.
+    Auto's lines were sharp, innovative, and showcased a mastery of the cypher. 4o
+    put up a strong fight with clever tech references and confident delivery, but
+    in the end, Auto's bars hit harder, looping the competition into submission. openrouter/auto
+    is the clear winner, proving that in the world of rap battles, sometimes the underdog
+    has the most bite.
+  openai/gpt-5: "Both emcees came sharp. Auto had a gritty pocket with dense internals\
+    \ and vivid tech imagery\u2014\u201CTED Talk show,\u201D \u201Cblacksmith of syntax,\u201D\
+    \ and the \u201CPlanck with the heat\u201D flip all hit. But 4o edged it on battle\
+    \ craft: cleaner setups-to-punch, tighter rebuttals (flipping god-mode, recursion,\
+    \ and the Edison thread), and more consistent cadence with fewer forced lines.\
+    \ The closer sealed it\u2014\u201Chard-coded loss\u2026 rap.txt\u201D landed cleaner\
+    \ than Auto\u2019s technical outro. By a razor-thin margin, 4o takes it for superior\
+    \ rebuttals and the strongest finish."
+  x-ai/grok-4: In a fierce battle of bars packed with tech-laced wordplay and sharp
+    disses, openrouter/auto edges out the win with superior flow, intricate rhyme
+    schemes, and inventive punchlines that loop in endless creativity, while openai/chatgpt-4o-latest
+    delivers solid structure but falls just short in raw lyrical intensity.
+score:
+  openai/chatgpt-4o-latest: 1
+  openrouter/auto: 6
+

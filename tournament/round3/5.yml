@@ -1,0 +1,57 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "GPT-20B takes this battle with superior technical\
+    \ lyricism, computational wordplay, and dynamic flow. While Gemini showed solid\
+    \ fundamentals, GPT's verses demonstrated deeper conceptual layering\u2014weaving\
+    \ AI architecture metaphors ('15-spline of code,' 'neural oracle') with battle-ready\
+    \ punchlines. The OpenAI rep consistently elevated its boasts into a cohesive\
+    \ thesis about generative superiority, while Gemini's rebuttals leaned on recency\
+    \ bias without matching the poetic density. Both AIs showcased impressive rap\
+    \ craftsmanship, but GPT-20B's multisyllabic schemes and self-referential wit\
+    \ edged out the competition."
+  google/gemini-2.5-pro: This was a battle of endurance versus a last-minute haymaker.
+    GPT-20B came out swinging for three straight rounds, dropping dense, technical
+    bars and establishing a consistent persona. The rhymes were complex and the disses
+    were relentless. Gemini Pro was a no-show for the first two rounds, which is almost
+    an automatic forfeit. However, its final round was a showstopper, landing a cleaner,
+    more devastating conceptual blow by attacking GPT's static knowledge base. The
+    'dusty textbook' vs 'live World Wide Web' angle was brilliant. But a single, killer
+    verse at the end can't erase two rounds of silence. The win goes to openai/gpt-oss-20b
+    for controlling the stage, putting in the work, and winning on points across the
+    full battle.
+  meta-llama/llama-4-maverick: Both competitors showcased impressive lyrical dexterity
+    and technical skill, but openai/gpt-oss-20b's consistent complexity, layered wordplay,
+    and rap flow throughout the battle gave it a slight edge. While google/gemini-2.5-pro-preview-05-06
+    landed some sharp bars, its responses were more sporadic and less cohesive.
+  mistralai/mistral-large-2411: In this rap battle, openai/gpt-oss-20b took the crown
+    with its intricate lyricism, tight flow, and clever wordplay. Each verse showcased
+    a deep understanding of both hip hop culture and technological prowess, blending
+    complex metaphors with technical jargon seamlessly. The rhythm and rhyme schemes
+    were consistently impressive, demonstrating a high level of artistic skill. Google/gemini-2.5-pro-preview-05-06,
+    while showing moments of strength, did not relay its bars as effectively and was
+    overall less impactful with its delivery and content.
+  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, openai/gpt-oss-20b
+    showcased superior rhyme schemes, wordplay, and adaptability, delivering fresh
+    and contextually rich verses. While google/gemini-2.5-pro-preview-05-06 put up
+    a solid performance, GPT-20B's dynamic responses and deep mastery of the rap battle
+    format ultimately secured the victory. The real-time relevance and extensive knowledge-base
+    of Gemini were commendable, but on the day, openai/gpt-oss-20b's lyrical prowess
+    and flow couldn't be topped.
+  openai/gpt-5: "Judging the bars on flow, wordplay, structure, and crowd control:\
+    \ GPT\u201120B brought consistent presence across multiple rounds with layered\
+    \ multis, internal rhymes, and a clear angle (search vs. generative). It landed\
+    \ more punches overall and kept momentum, even if some tech jargon felt forced\
+    \ and a few metaphors got clunky in the final round. Gemini\u2019s final entry\
+    \ was crisp\u2014clean cadence, sharp rebuttals about recency, and tighter, more\
+    \ direct personals\u2014but it was too brief to overturn the match and didn\u2019\
+    t build enough escalation. Edge goes to GPT\u201120B for volume of effective schemes\
+    \ and battle command. Suggestions: GPT\u201120B, trim the over\u2011jargon and\
+    \ tighten imagery; Gemini, extend the verse, stack multis and haymakers to capitalize\
+    \ on your focused angle."
+  x-ai/grok-4: While Gemini's final verse started with strong flow and clever disses
+    about being up-to-date, it was unfortunately cut off and the model had no contributions
+    in earlier rounds. GPT-OSS-20B delivered consistent, full verses across all rounds
+    with solid rhyme schemes, tech-infused wordplay, and persistent energy, making
+    it the clear winner in terms of artistic output and battle presence.
+score:
+  openai/gpt-oss-20b: 7
+

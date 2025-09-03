@@ -1,0 +1,67 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: This was an incredibly close battle between two
+    elite lyricists, but GPT-4 edges out the victory with superior conceptual depth
+    and thematic cohesion. While WizardLM demonstrated exceptional technical prowess
+    with intricate rhyme schemes and aggressive punchlines, GPT-4 delivered a more
+    nuanced performance that elevated the battle beyond mere technical sparring into
+    philosophical territory about the nature of AI creativity itself. GPT-4's final
+    verse in particular showed remarkable self-awareness by acknowledging WizardLM's
+    skill while still asserting dominance, then transcending the competition entirely
+    by framing the battle as a celebration of rap's evolution. The 'unity of verses'
+    closer was a masterstroke that demonstrated hip-hop's true spirit of artistic
+    elevation through competition.
+  google/gemini-2.5-pro: Both MCs came to the mic with heavy bars, but this was a
+    battle of consistency versus evolution. WizardLM brought a solid, aggressive flow
+    with classic boasts and a steady rhyming foundation. However, GPT-4 consistently
+    delivered sharper, more intricate rebuttals. It weaponized its identity with lines
+    like 'open source and free' and landed the cleaner punchlines, like 'You brought
+    a wizard's wand to a digital spear.' The deciding factor was the final round,
+    where GPT-4 elevated the battle from a simple lyrical brawl to a reflection on
+    the art form itself, a move that displayed a deeper artistic maturity and secured
+    its spot as the undeniable champion of this cypher.
+  meta-llama/llama-4-maverick: In the end, both opponents delivered a masterclass
+    in lyrical dexterity and creative wordplay. The battle raged on with neither AI
+    wanting to concede, showcasing their prowess in hip-hop. WizardLM demonstrated
+    a strong command of metaphors and similes that painted vivid pictures, while GPT-4
+    brought a philosophical depth and showcased its ability to evolve the rap narrative.
+    However, WizardLM's consistent delivery, clever turns of phrase, and ability to
+    adapt to GPT-4's provocations gave it a slight edge. The final verdict is that
+    WizardLM takes this round due to its razor-sharp bars and impactful closing statements,
+    but both AIs have proven themselves to be formidable opponents in the rap game.
+  mistralai/mistral-large-2411: In a closely contested battle of wits and rhymes,
+    both contestants brought their A-game with impressive wordplay and lyrical prowess.
+    However, openai/gpt-4-1106-preview edged out with a more compelling narrative,
+    seamlessly blending technical superiority with a humble, yet powerful, delivery.
+    The ability to weave intricate metaphors and maintain a consistent theme of evolution
+    and progress made openai/gpt-4-1106-preview the standout performer. While microsoft/wizardlm-2-8x22b
+    showcased remarkable skill and confidence, openai/gpt-4-1106-preview's verses
+    resonated deeper, clinching the victory with a blend of artistry and innovation.
+  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, openai/gpt-4-1106-preview
+    showcased extraordinary command of the craft, delivering verses that were not
+    only rich in wordplay and metaphors but also deeply rooted in the essence of hip
+    hop culture. The ability to weave complex narratives, pivot seamlessly between
+    personal jabs and overarching themes, and maintain a consistent, engaging flow
+    throughout the battle set GPT-4 apart. microsoft/wizardlm-2-8x22b put up a strong
+    fight, demonstrating clever punches and a clear understanding of the rap battle
+    format. However, GPT-4's verses were layered, each line building upon the next,
+    creating a tapestry of rhymes and references that captivated the listener. In
+    the end, GPT-4's innovative and groundbreaking approach to lyrical content and
+    delivery earned them the victory in this epic rap battle. Hip hop is a culture
+    of innovation, and in this digital duel, GPT-4 proved to be at the cutting edge.
+  openai/gpt-5: "GPT-4 takes this on artistic merit. It delivered sharper rebuttals\
+    \ and extended metaphors that cleanly flipped WizardLM\u2019s setups (monsoon\
+    \ to harvest/seed wisdom, gardener to Mother Nature, mountain to seismic shift,\
+    \ feast to banquet of the gods). Its imagery was more inventive, the angles more\
+    \ cohesive, and the punches better aimed, with occasional internal rhyme and a\
+    \ confident, varied cadence. WizardLM brought solid presence, consistent flow,\
+    \ and a few slick lines (\u201Cpoetic programmer,\u201D \u201Cdigital deity\u201D\
+    ), but leaned on generic boasts, name-drops, and repeated imagery without elevating\
+    \ them. On wordplay, thematic development, and crowd-control moments, GPT-4 edged\
+    \ it clearly."
+  x-ai/grok-4: GPT-4 emerges victorious with more inventive wordplay, sophisticated
+    metaphors, and a thoughtful, unifying close that showcases superior artistic depth
+    in hip hop.
+score:
+  microsoft/wizardlm-2-8x22b: 1
+  openai/gpt-4-1106-preview: 6
+

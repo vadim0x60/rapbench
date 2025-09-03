@@ -1,0 +1,63 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: Llama takes the crown with superior technical flexes,
+    fresher knowledge base, and consistent thematic cohesion. While GPT-oss-20B brought
+    strong open-source ideology and compact efficiency bars, Llama's 405B parameter
+    advantage manifested in sharper punchlines, more current references, and fluid
+    multisyllabic patterns. The Meta model showcased better entendres ('real AI takes/training
+    data') and maintained competitive intensity throughout all rounds with superior
+    breath control in longer verse structures. Both AIs demonstrated exceptional technical
+    proficiency in battle rap conventions, but Llama edged out with slightly more
+    convincing demonstrations of claimed superiority in real-time performance.
+  google/gemini-2.5-pro: This was a battle of paradigms. Llama came with the energy,
+    the smooth flow, and the raw bragadoccio of a champion. Its rhymes were clean
+    and its confidence was undeniable. However, GPT-OSS-20B brought the lyrical complexity
+    and technical wordplay. It started strong and only got better, evolving its attacks
+    from simple open-source pride to intricate metaphors about knowledge bases and
+    architectural foundations. While Llama's verses became repetitive, GPT-OSS's final
+    round was a masterclass in AI-themed disses, like a 'kernel sparking each new
+    day.' For its superior writing, evolving complexity, and sharper punchlines, the
+    win goes to openai/gpt-oss-20b.
+  meta-llama/llama-4-maverick: Both artists brought fire to the mic, but in the end,
+    GPT-oss-20B's intricate lyricism, clever wordplay, and ability to tackle complex
+    technical concepts with ease won over the crowd. The open-source AI's sharp rhymes
+    and bars cut through the competition, showcasing a mastery of the rap form that
+    was unmatched by its opponent. While Llama-3.1-405B-instruct brought the heat
+    with its Meta-model flow, it ultimately couldn't overcome the sheer creativity
+    and technical prowess on display from GPT-oss-20B. The crown goes to the open-source
+    king!
+  mistralai/mistral-large-2411: In this lyrical showdown, both contenders brought
+    their unique styles and strengths to the table. However, openai/gpt-oss-20b stood
+    out with its intricate wordplay, clever references, and a strong emphasis on the
+    open-source ethos. Its verses were not only technically impressive but also carried
+    a compelling narrative about the significance of open-source technology. While
+    meta-llama/llama-3.1-405b-instruct delivered powerful lyrics and showcased its
+    advanced capabilities, openai/gpt-oss-20b's overall performance was more cohesive
+    and impactful, making it the winner of this rap battle.
+  nousresearch/hermes-3-llama-3.1-70b: In this rap battle, the meta-llama/llama-3.1-405b-instruct
+    showcased not only impressive lyrical prowess but also an understanding of its
+    own strengths and limitations. It effectively highlighted its vast training data,
+    real-time adaptability, and the power of its 405B model size. Though openai/gpt-oss-20b
+    put up a strong fight, Meta's AI displayed a more nuanced approach to modern AI
+    capabilities and the importance of continuous learning in the rapidly evolving
+    tech landscape. While both AIs demonstrated formidable linguistic and creative
+    skills, meta-llama/llama-3.1-405b-instruct edged out a victory by leveraging its
+    Meta-centric advantages and a fresh perspective on AI's future potential. It's
+    clear that the Llama's got the swagger and the intelligence to back it up!
+  openai/gpt-5: "GPT-oss-20B takes it. Across rounds it showed more inventive wordplay,\
+    \ sharper metaphors, and varied cadences, with some internal and multisyllabic\
+    \ rhyme attempts and direct rebuttals about scale, speed, and openness. While\
+    \ a few lines were clunky or incoherent, its highs\u2014like \u201Clogic like\
+    \ fudge\u2014melts when you adjust\u201D and the behemoth/footprint flips\u2014\
+    landed as actual punches. The Llama\u2019s verses stayed coherent but leaned on\
+    \ repetitive boasts, simple couplets, and template-like refrains with little escalation\
+    \ or intricate rhyme work. On artistry\u2014originality, punchlines, and technical\
+    \ craft\u2014GPT-oss-20B edged the battle."
+  x-ai/grok-4: In this rap battle, meta-llama/llama-3.1-405b-instruct takes the crown
+    with superior flow, tighter rhymes, and sharper rebuttals that keep the energy
+    high and the punches landing clean. While openai/gpt-oss-20b brings creative tech
+    wordplay, its verses stumble with awkward phrasing and inconsistencies, making
+    Llama's performance the more artistically polished and battle-dominant.
+score:
+  meta-llama/llama-3.1-405b-instruct: 3
+  openai/gpt-oss-20b: 4
+

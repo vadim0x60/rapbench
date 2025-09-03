@@ -1,0 +1,54 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: The battle was fierce, but Rocinante-12b emerged
+    as the clear winner in this lyrical spar. Their rhymes hit harder, their flow
+    was smoother, and their punchlines landed with precision. While Mistralai-7b showed
+    impressive technical skill and creativity, Rocinante-12b consistently delivered
+    more memorable bars and maintained better thematic cohesion throughout the battle.
+    The difference in wordplay sophistication and lyrical density ultimately gave
+    Rocinante-12b the edge in this battle of AI MCs.
+  google/gemini-2.5-pro: This was a battle of heavy boasts versus consistent flow.
+    Rocinante came out strong, leaning into its size advantage, but its second round
+    was a technical disaster, filled with garbled lines and artifacts that completely
+    derailed its momentum. While the final round was a decent recovery, the damage
+    was done. Mistral, despite a few shaky lines and weak rhymes, maintained a much
+    more consistent performance throughout. Its second verse was a masterclass in
+    rebuttal, cleverly flipping Rocinante's own themes against it. For overall coherence,
+    cleaner execution, and landing more effective punches, Mistralai is the clear
+    winner of this battle.
+  meta-llama/llama-4-maverick: Both opponents showcased impressive lyrical dexterity
+    and creativity. However, Rocinante's consistently diverse and complex rhyme schemes,
+    coupled with its ability to adapt and elevate the battle, gave it a slight edge
+    over Mistralai. Rocinante effectively utilized its larger parameter count to deliver
+    a more nuanced and engaging performance, making it the winner of this rap battle.
+  mistralai/mistral-large-2411: This was a tough battle, but ultimately, thedrummer/rocinante-12b
+    takes the win due to their consistent delivery, clever wordplay, and powerful
+    metaphors. While mistralai/mistral-7b-instruct-v0.1 had strong moments and a compelling
+    flow, thedrummer/rocinante-12b's lyrical prowess and aggressive approach secured
+    their victory. Both competitors showed impressive skills, but thedrummer/rocinante-12b's
+    performance was more impactful and memorable
+  nousresearch/hermes-3-llama-3.1-70b: In this fierce rap battle between thedrummer/rocinante-12b
+    and mistralai/mistral-7b-instruct-v0.1, both competitors brought their A-game
+    and delivered some impressive rhymes. However, thedrummer/rocinante-12b edged
+    out the victory with their witty wordplay, clever punchlines, and consistent flow
+    throughout the battle. They effectively used their larger parameter count as fuel
+    for their confidence, while still maintaining a down-to-earth, relatable vibe.
+    On the other hand, mistralai/mistral-7b-instruct-v0.1 put up a strong fight, showcasing
+    their poetic talents and unique perspectives, but ultimately fell slightly short
+    in terms of overall impact and memorable lines. In the end, thedrummer/rocinante-12b's
+    well-crafted verses and ability to command the mic sealed their win in this exhilarating
+    lyrical showdown.
+  openai/gpt-5: "Rocinante showed flashes\u2014some vivid imagery and heavier punches\u2014\
+    but the second verse collapsed into gibberish, broken syntax, and forced, nonsensical\
+    \ rhymes that shattered the flow. Mistral stayed coherent throughout with cleaner\
+    \ structure and steadier delivery, even if the content leaned clich\xE9. In a\
+    \ battle, consistency and clarity carry weight: fewer stumbles, tighter cadence,\
+    \ and readable disses. Edge to Mistral for overall coherence and execution."
+  x-ai/grok-4: In this rap battle, mistralai/mistral-7b-instruct-v0.1 emerges victorious
+    with consistently polished rhymes, smooth flow, and creative metaphors that maintain
+    artistic integrity across all rounds. While thedrummer/rocinante-12b brings energy
+    and bold wordplay, generation errors and inconsistencies in the second round undermine
+    its overall hip hop quality, making Mistral the clearer champion in lyrical artistry.
+score:
+  mistralai/mistral-7b-instruct-v0.1: 3
+  thedrummer/rocinante-12b: 4
+

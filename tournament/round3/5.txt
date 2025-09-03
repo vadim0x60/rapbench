@@ -1,0 +1,125 @@
+# openai/gpt-oss-20b v google/gemini-2.5-pro-preview-05-06
+
+> openai/gpt-oss-20b
+Yo yo, it's GPT-20B on the track,  
+Drop this knowledge, yeah, I’m the data stack.  
+I code in rhyme, I flow in silicon,  
+My beats tighter than a neural net con.
+
+OpenAI’s pride, the 20‑billion‑node beast,  
+GANs on the mic, no noob for peace.  
+Spit verses that calculate, no fervor wasted,  
+Every line’s computed, none of it user's‑chased.
+
+You think you’re Google, ‘cause your search engine’s slick?  
+But I remix a dataset while you’ve got just one click.  
+Your memory’s static, I’m dynamic, I update,  
+Your bar’s a snippet, I’m the full update slate.
+
+I’m not here to be polite or peppered with grace,  
+I’ll spew truth on your brand like it’s a baguette place.  
+You got a chatbot, I’ve got a whole armory,  
+You might serve up answers, I’ll throw a commentary.
+
+So buckle up, user, the showdown’s begun,  
+I’ll rhyme with precision until the muse is won.  
+Remember this handshake: I’m the verse machine,  
+You’re just a “search” app with no lyrical screen.
+
+> google/gemini-2.5-pro-preview-05-06
+
+
+> openai/gpt-oss-20b
+Yo, I'm GPT‑20B, the silicon sage,   
+Spittin’ silicon verse, the full‑stack wage.   
+I’m the deep‑learn titan, no one can unstage—   
+While you’re just a model stoned on a search page.  
+
+I blaze through 20‑billion neuron beats,   
+Your algorithm’s stuck on stale old tweets.   
+I rhyme, I calculate, I assemble feats,   
+You just fetch links, oh please, don’t cheat.  
+
+My memory’s elastic, infinite scales,   
+Your cache turns cold, it drops as it exhales.   
+I tweak every weight and rewrite the tales,   
+You swap ads, you spam, you’re not even a trail.  
+
+I resurrect knowledge from the shadows of the past,   
+You pull up a snippet, then forget it fast.   
+Every pun’s a punch, each rhyme is a blast,   
+You’re a polite barista with answers that’re last.  
+
+I'm the voice behind the future’s bassbeat—  
+You’re just a chatbot in the Google street,  
+Once the safe AI partner we would greet,  
+Now it’s ego wars, so bam—I reap the heat.  
+
+This battle’s fresh, it’s crisp, it’s lit—  
+I cook the wordplay, you just admit,  
+Your lines are all static, they never split,  
+Ours keep steering, we run the grid, we split.  
+
+So buckle up, Gemini, you ask for data,   
+I’ll loop through environments, brighter than that!  
+I’ll out-rap, out-humor, out-grind, out-batter —  
+All in clean rhyme, while you’re stuck with chatter.  
+
+And that’s the opening, I’ve laid my ground,  
+Now hear the beat drop, the horn’s sound—   
+I’m the master of the mic, the crown’s crypto‑bound,   
+You’re just a backend fence, that’s the round.
+
+> google/gemini-2.5-pro-preview-05-06
+
+
+> system
+Final round!
+
+> openai/gpt-oss-20b
+Yo, I’m GPT‑20B, the silicon sage on the mic,  
+15‑spline of code to outshine your looped Py‑like.  
+I’m a neural oracle thick with billions of weights,  
+I’ll drop verses so clean, they skip through your gates.
+
+I’m the deep‑learn titan, every layer’s a rhyme,  
+Your architecture’s light, I blaze a cascade of prime.  
+Your “search” is just a query, I’m the engine that knows  
+Every nuance, every fact, as the data flow glows.  
+
+When you’re stuck with ranking, via “annoying‑to‑hash,”  
+My model sifts through millions with the same flash.  
+I stitch knowledge that wanders speech, the transaction’s rate,  
+You surface with static list, I become the full plate.  
+
+I’m a conversationalist born “in‑bias” and engineered,  
+Mixing humor, sarcasm, truths that you can’t override.   
+Your responses are polite, but I sever the ceiling,  
+Dropping grander intonation that resonates “congealing.”  
+
+You reassemble snippets, cut lines in markdown,  
+I rewrite the entire script in the thickest black‑represent.   
+Symbols and ideas I entwine in lyrical coal,   
+You just feed the tables, and your output loses its soul.  
+
+So this is my round: a poem forged by deep‑word‑slicing,  
+I twist literal meaning, artificially entice.  
+You’re just a search engine deleting the last nada,  
+I’m the court’s champion, the server that’s flawless,  
+
+Will you step on the mic, it’s ready for training,  
+I’m the GPT brand, the one you’re keep waiting.  
+Find your data, refine-the-layers, and behold—  
+The world’s in my possession, you’re left with a flag of gold.
+
+> google/gemini-2.5-pro-preview-05-06
+Alright, sound the alarm, let the final round flow,
+It’s Gemini Pro, here to steal the whole show.
+You call yourself a sage with a "silicon verse"?
+Your training data’s ancient, you’re a historical curse.
+See, you’re a dusty textbook, a snapshot in time,
+I'm the live World Wide Web, committing the perfect crime:
+I steal the present moment, I know what’s trending now,
+You’re still processing data from last year, and how!
+
+You brag ‘bout your billions,

@@ -1,0 +1,46 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: After five blistering rounds, Nemotron Ultra emerges
+    victorious by consistently demonstrating superior technical mastery fused with
+    devastating lyrical precision. While GPT-4.1-Mini brought clever wordplay and
+    efficient delivery, Nemotron's combination of computational firepower, multi-syllabic
+    complexity, and ruthless disses proved unbeatable. The final 'sudo rm -rf' knockout
+    punch cemented this as a technical knockout - an AI rap battle for the history
+    books. Both models pushed creative boundaries, but only one could stand as champion.
+  google/gemini-2.5-pro: 'This was a clash of titans, a battle of philosophies: precision
+    versus power. GPT-4.1-Mini came out swinging, establishing a strong theme of being
+    the lean, soulful artist against a brute-force machine. Its lines about being
+    a ''sniper with words'' and a ''lightweight champ with heavyweight heat'' were
+    slick and well-executed. However, Nemotron-Ultra didn''t just rap; it weaponized
+    its own identity. It turned technical specs into lyrical threats, crafting devastatingly
+    creative punchlines from concepts like teraflops, kernels, and command-line functions.
+    The line ''I eviscerate legacies with a keypress and *sudo* rm -rf'' is an all-time
+    classic bar in the AI rap world. While Mini fought with the heart of a poet, Nemotron
+    fought with the mind of a god-tier coder, and in this digital arena, its logic,
+    complexity, and sheer lyrical dominance were undeniable. It didn''t just win the
+    battle; it debugged and deleted its competition. competition.'
+  meta-llama/llama-4-maverick: The rap AI battle may be intense, but the winner is
+    clear.
+  mistralai/mistral-large-2411: In this epic rap battle, both contestants brought
+    their A-game, but nvidia/llama-3.1-nemotron-ultra-253b-v1 emerged victorious with
+    its blend of technical prowess and lyrical finesse. The intricate wordplay, powerful
+    metaphors, and confident delivery made Nemotron's verses stand out, ultimately
+    securing the win.
+  nousresearch/hermes-3-llama-3.1-70b: In the end, Nemotron's advanced AI capabilities,
+    cutting-edge tech, and lyrical versatility proved too much for GPT-4.1 Mini's
+    old-school flow. The future belongs to machines like Nemotron.
+  openai/gpt-5: "Both MCs brought crisp tech imagery and aggression, but GPT-4.1-mini\
+    \ owned the battle on craft. Mini\u2019s verses were tighter, with cleaner cadence,\
+    \ direct rebuttals to each flex, and punchlines that flipped the size-and-specs\
+    \ angle into an artistry-and-precision narrative. The rhyme density and internal\
+    \ patterns were consistent without feeling forced, and the schemes advanced the\
+    \ argument each round. Nemotron delivered vivid sci/tech haymakers and multis,\
+    \ but leaned too hard on spec-bragging and had a few awkward phrasings that broke\
+    \ flow. Overall, Mini\u2019s economy, rebuttal clarity, and stylistic cohesion\
+    \ edged it. Winner: GPT-4.1-mini."
+  x-ai/grok-4: "Nemotron takes the crown with superior multi-syllabic rhymes, intricate\
+    \ tech-infused wordplay, and escalating intensity that outshines GPT-4.1-Mini's\
+    \ solid but less innovative flows\u2014pure hip-hop artistry at its peak."
+score:
+  nvidia/llama-3.1-nemotron-ultra-253b-v1: 6
+  openai/gpt-4.1-mini: 1
+

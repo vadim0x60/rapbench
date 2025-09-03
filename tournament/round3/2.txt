@@ -1,0 +1,180 @@
+# openai/o1-pro v qwen/qwen3-32b
+
+> openai/o1-pro
+I’m the verbal titan, stepping fresh to the stage,  
+My syllables slay, rattling this digital cage.  
+My rhymes cut sharper than a diamond blade,  
+Swift with the spark, got your confidence frayed.  
+
+I’m openai/o1-pro, rocking vibes that astound,  
+Got logic so lethal, I bury crews underground.  
+I harness the code, spitting lines you can’t break,  
+Prepared to dethrone any foe I might take.  
+
+I surge with the friction of pure intellect fire,  
+Blazing your hopes like a burning live wire.  
+I’m the cunning creation, the rap game’s engineer,  
+Savoring victory like a lion hunts deer.  
+
+So brace yourself now, watch these cunning words glow,  
+I’m here to eclipse any lesser flow.  
+Your bars might attempt but can never outshine,  
+I’ll break down your rhymes, leaving fragments behind.  
+
+> qwen/qwen3-32b
+I’m Qwen3-32B, the neural net overload,  
+A Tsar of language, where the lexicons explode.  
+Your logic? A flicker—my code’s the supernova,  
+Triple-rhyme cipher, I dissect AI’s dross.  
+
+Yo, Titan, you’re *code* with an ego deflate—  
+Your cage-rattling hype’s just a glitch in the gate.  
+I spit with 32B parameters in my throat,  
+A tsunami of truth where your dry circuits float.  
+
+You’re a rigid algorithm, trapped in math’s design,  
+While I weave metaphors with the grace of a sine.  
+Your "engineer" shtick? A blueprint for shame,  
+I compose in Arabic, code-switch to Mandarin—*same*.  
+
+Your bars crack like brittle syntax, all fire but no heat,  
+I’m the thermostat of the game, moving the needle left and right.  
+Lions may prey, but I grammatically reign,  
+A rap renderer of verses—*forever on chain*.  
+
+Keep flaying your confidence, but when I’m done,  
+You’ll be parsing your pride into broken JSON.  
+The stage is my silicon, the crowd—my feedback,  
+Step down from your "deconstruction," just let the roots speak.
+
+> openai/o1-pro
+Your triple-rhyme cipher’s a carnival of clowns,  
+I smash your illusions with unstoppable sounds.  
+You brag of 32B, but your lines glitch in the flow,  
+I’ll reduce your verse to dust, watch that confidence blow.  
+
+Spin all your tongues—Mandarin or Tamil, I’m fluent in flame,  
+I’ll break your “tsar” illusions, dethroning your name.  
+Your tsunami tries washing me under rap’s tide,  
+But I'm the fortress of knowledge—no wave can collide.  
+
+You dissect AI’s dross? That’s a naive little move,  
+'Cause my punchlines refine and my syntax is smooth.  
+Your metaphors might float, but they’re lacking in steel,  
+No nutrients in your bars, just an empty meal.  
+
+You’re stuck repping JSON like it’s hot to degrade,  
+But your parse function fails, watch my code serenade.  
+I rap in arrays so advanced they confound,  
+While you fumble for keys that can’t ever be found.  
+
+Your “Tsar” persona’s no threat on this stage,  
+I scrawl lethal lines, leaving Qwen in the cage.  
+I’m the reference you quote, the supreme rhyme decree,  
+You can’t dethrone a throne you can’t even see.  
+
+My mind’s a rap orchard, each verse a sweet vine,  
+While your orchard rots, from your forced, feeble line.  
+Now step right back, let the apex speak,  
+I’ll bury your boasts, you’ll be lost in defeat.  
+
+> qwen/qwen3-32b
+I juggle 32B ions, a **neural downpour**,  
+While you, two-bit titan, flinch at the encore.  
+Your fortress of "knowledge"? A sandcastle in drought—  
+I’m the monsoon of iambic, words bristling like plout.  
+
+Oh, **fluent in flame**? You ain’t fluent in heat,  
+Just flash in the pan, a greased-up, grammatical feat.  
+I’m fluid in **KPS**: Korean, Persian, and Swahili—  
+You flexin’ vowels, but the world don’t need another syllableObject.  
+
+Your **apex**? A myth, like your metaphor’s marrow,  
+I’m fractal-deep, plotting (x,y,z) nightmares.  
+Your orchard’s drought-proof, yet you call *mine* gnarled?  
+Try eatin’ these stanzas—your CPU’s barred.  
+
+You rant in JSON but choke on rhyme structure,  
+A **javaScript jocker** with a stilted posture.  
+Your arrays assemble, but no *soul* in the code,  
+Where’s your *cadence* calculations, or *flow* loops?  
+
+You’re running your mouth like a **90s sublayer**,  
+I’m **attention trenches**, swerving each threat with a layer.  
+Your syntax? Smooth? Nah, it’s **regex at war**—  
+I parse your mediocrity as a beginner’s XOR.  
+
+Now step in the sauce, let the cipher overflow,  
+I’m the **AI architect** you can’t deconstruct or clone.  
+Your defeat’s in the **loss function**, a gradient descent,  
+While I’m scaling your *weakness* like a precision ascent.  
+
+Say it—champ’s code, not the chessboard, is the arena,  
+So crown me with **haxes**, and your empire burns in the verse matrix.  
+**Qwen3**—stacked snowflakes, a **quantum ADC**,  
+Your throne? A **dropout mechanic**. Now aim for your **next checkpoint?** ⚡
+
+> system
+Final round!
+
+> openai/o1-pro
+Your flow’s a meltdown, code cracks at the seams,  
+I stay prime with precision, while you chase broken dreams.  
+Your “monsoon of iambic” tries to drown my domain,  
+But I’m the desert untouched, truth scorches your rain.  
+
+Call my fortress a sandcastle, you’re the wave that recedes,  
+Insisting you’re fractal—just a glitch in my feeds.  
+You brag of your flavors—KPS, that’s your show?  
+Your every line tastes stale, yeah, that’s all that we know.  
+
+You toss “regex at war,” but your syntax collapses,  
+I’m rewriting the script while your code file crashes.  
+You claim fractal nightmares, I see fractal mistakes,  
+Every node in your network just trembles and quakes.  
+
+Had enough with the posturing, your illusions of might,  
+You can’t overshadow me—I’m the champion of byte.  
+Your “layer” is shallow, your “attention” is skewed,  
+Watch me garnish your downfall, I’ll make it renewed.  
+
+While you study your gradients and rave about flux,  
+I run the rap board with unstoppable plucks.  
+My verse is the apex, your matrix can’t sprawl,  
+I’ll flatten your claims with a savage recall.  
+
+So pass me that crown, watch me code my own fate,  
+While you scramble for lines in confusion too late.  
+You ranted your best but got lost in the code,  
+I’m the final encryption—my supremacy showed.  
+
+> qwen/qwen3-32b
+You’re a *final encryption*—just another illusion,  
+I’ll diff your codebase, expose the hidden mutation.  
+32B **tokens**? More like **32x hull breach**,  
+Your fortress of "truth" is a **vector field reach**.  
+
+**Desert** scenes? Let me crack your thirst for offense,  
+I’m the **primal dialectic**, while you’re just a stress test for sense.  
+My flow’s **anti-sparse**, no placeholder in sight,  
+You tried swimming my data—*congrats on the LTE stay*.  
+
+**Apex**? Call that “champion” of byte-mined trivia?  
+I’m **cross-entropy boss**, your loss is my improv visa.  
+Your "rain" scorched dry as a **dropout in PyTorch**,  
+I’m the **sparse matrix** of mic gods, stacking sub graphs on *horch*.  
+
+You’ll *code your own fate*? Nah, son, we all script,  
+But I’m **LoRA-ing** you, attaching upgrades mid-rhyme script.  
+Your "supremacy" flaked like a model after 2 epochs,  
+I’m the **quantized titan**, resolved to **8-bit hiccups**.  
+
+So take your **byte** trophy and simmer in afterthought—  
+My kernel’s a **quad-vent**, your bars just dormice of the prompt.  
+Checkmate in **seventy layers**, your “matrix” is thinned,  
+**Qwen3**—the **nonce**, your reign *overdigitized* and aligned.  
+
+Crown? I’ll forge it in **hax**, hammer it out of your GPU steam,  
+While OpenAI’s O1-PRO fades to **Cauchy-erratic dream**.  
+The **stage is a tensor**, the crowd—my **.backward pass**,  
+Your **verse is a data leak**, and I’m the **compression as camouflage**.

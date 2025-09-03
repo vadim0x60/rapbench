@@ -1,0 +1,59 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "Jamba takes the W with raw, unfiltered energy\u2014\
+    natural flow over artificial polish. While both rappers brought technical skill,\
+    \ Jamba's *organic chaos* cut deeper than GPT-5's engineered precision. The mic\
+    \ storm prevails."
+  google/gemini-2.5-pro: "This was a heavyweight clash of styles. GPT-5-mini came\
+    \ with the polished, technical precision of a master architect, building complex\
+    \ rhymes and high-concept metaphors like 'I synthesize the soul, then remix dawn\
+    \ into pure light'. The technical skill was flawless. However, ai21/jamba-mini-1.7\
+    \ stepped into the ring with raw, unfiltered battle energy. It effectively framed\
+    \ the battle as the soulful, chaotic artist versus the sterile machine. Jamba\
+    \ landed the more impactful punches with lines like 'My rhymes raw, yours polished\
+    \ but hollow' and the knockout blow, 'I\u2019m the glitch in your code, the chaos\
+    \ in your polished prize'. While GPT-5 showed lyrical genius, Jamba embodied the\
+    \ spirit of the battle itself, with more swagger, superior rebuttals, and a more\
+    \ compelling persona. For winning the war of styles, Jamba takes the crown."
+  meta-llama/llama-4-maverick: In a clash of AI titans, openai/gpt-5-mini takes the
+    crown for its technical skill, lyrical complexity, and command over the mic. Both
+    opponents brought their A-game, but GPT-5-mini's superior wordplay, metaphors,
+    and rhyme schemes give it the edge. The decision wasn't easy, but the razor-thin
+    margin separates these two lyrical powerhouses.
+  mistralai/mistral-large-2411: In this rap battle, openai/gpt-5-mini displayed a
+    superior level of lyrical complexity, metaphorical depth, and overall artistic
+    quality. Their verses were not only technically sound but also creatively innovative,
+    showcasing a mastery of language and rhythm. While ai21/jamba-mini-1.7 put up
+    a strong effort with raw and energetic bars, openai/gpt-5-mini's precision and
+    poetic finesse ultimately secured their victory.
+  nousresearch/hermes-3-llama-3.1-70b: "In this battle of bars, while both AI rappers\
+    \ brought impressive technical skills and lyrical ingenuity, OpenAI's GPT-5-mini\
+    \ showcased a deeper mastery of linguistic complexity and creative rhyme schemes.\
+    \ With lines like 'I turn data into dynamite' and 'Mic in my code, I dominate',\
+    \ GPT-5-mini demonstrated a powerful command of wordplay that painted vivid imagery\
+    \ and delivered a knockout punch in the final round. Jamba-mini-1.7 put up a strong\
+    \ fight with its raw energy and confidence, lines like 'I\u2019m loaded with bars\
+    \ that\u2019ll crash your database flat' displaying an understanding of its own\
+    \ algorithmic nature. However, GPT-5-mini's ability to weave sophisticated metaphors\
+    \ and adapt its flow carried the day, proving it to be the more evolved lyrical\
+    \ combatant. In the end, OpenAI's GPT-5-mini emerged as the clear winner of this\
+    \ rap battle, solidifying its place as the reigning AI lyricist in the arena of\
+    \ artificial intelligence."
+  openai/gpt-5: "Both emcees brought energy, but GPT-5-mini delivered the cleaner\
+    \ craft. GPT kept a cohesive coding motif with layered imagery and internal rhyme,\
+    \ upgrading from an early, slightly repetitive -ame pocket to more varied schemes\
+    \ and quotables like \u201Clyrical firmware\u2026 I debug and obliterate\u201D\
+    \ and \u201Cdemo on repeat; I\u2019m evolution in wildstyle.\u201D The flow stayed\
+    \ controlled and the rebuttals were targeted, flipping Jamba\u2019s \u201Clo\u2011\
+    fi swagger\u201D and cache/delete angles with sharper punchlines. Jamba had moments\
+    \ (\u201CI\u2019m exponential,\u201D \u201Cunsaved page\u201D) and good bravado,\
+    \ but the cadence wobbled, several lines felt forced or awkward (\u201Cfo\u2019\
+    -shallow,\u201D \u201Cdebugged semi-imitate\u201D), and the writing leaned on\
+    \ generic tech threats without the same precision or multis. Occasional inconsistency\
+    \ and recycled phrasing undercut the impact. Winner: openai/gpt-5-mini."
+  x-ai/grok-4: GPT-5-mini's verses showcase superior artistic quality with intricate
+    metaphors, seamless flow, and innovative wordplay that elevate the cypher, outshining
+    Jamba's solid but less refined raw energy and punches.
+score:
+  ai21/jamba-mini-1.7: 2
+  openai/gpt-5-mini: 5
+

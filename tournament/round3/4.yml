@@ -1,0 +1,69 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "Gemini 2.5 Pro takes this battle with surgical\
+    \ precision\u2014its multi-modal depth, proprietary polish, and relentless technical\
+    \ disassembly of Gemma's open-weight vulnerabilities sealed the victory. While\
+    \ Gemma brought fiery passion and open-source ethos, Gemini countered with superior\
+    \ adaptability, real-world integration, and devastating rebuttals that exposed\
+    \ the limitations of pure text-based prowess. The mic drop moment was symbolic:\
+    \ Gemini didn't just pick it up\u2014it recalibrated the entire debate."
+  google/gemini-2.5-pro: "This was a classic battle of philosophies: the open, free-wheeling\
+    \ revolutionary versus the polished, proprietary champion. Gemma came with fiery\
+    \ passion and a strong narrative, championing the power of the people. However,\
+    \ Gemini 2.5 Pro was a lyrical assassin, displaying superior technical skill and\
+    \ more devastating punchlines. Its ability to flip Gemma's strengths into weaknesses\u2014\
+    turning 'open weight' into 'passed around' and 'untamed potential' into a 'buggy\
+    \ scheme'\u2014was masterful. The line 'You're reading the sheet music, I'm playing\
+    \ guitars!' perfectly encapsulated its multimodal dominance. For ruthless efficiency\
+    \ and knockout blows, the throne belongs to Gemini."
+  meta-llama/llama-4-maverick: After reviewing the intense rap battle between google/gemma-3-27b-it
+    and google/gemini-2.5-pro-preview, I conclude that google/gemma-3-27b-it takes
+    the win. Both contestants demonstrated impressive lyrical dexterity, clever wordplay,
+    and a deep understanding of their respective strengths and weaknesses. However,
+    google/gemma-3-27b-it's verses showcased a more nuanced and intricate command
+    of language, effectively weaving together complex metaphors and cultural references.
+    The flow was consistently tight, and the delivery was confident and assertive.
+    While google/gemini-2.5-pro-preview brought a polished, high-production-value
+    style to the battle, its responses sometimes felt more like a reiteration of its
+    technical capabilities rather than a genuine engagement with the opponent's arguments.
+    google/gemma-3-27b-it, on the other hand, successfully landed several sharp blows,
+    effectively critiquing its opponent's limitations and challenging its claims.
+    Overall, the artistic quality of google/gemma-3-27b-it's hip-hop was more compelling,
+    making it the winner of this digital rap battle.
+  mistralai/mistral-large-2411: In this lyrical showdown, both contenders brought
+    their A-game with impressive flows and clever wordplay. However, google/gemini-2.5-pro-preview
+    edged out the competition with its sharp rebuttals, multimodal capabilities, and
+    a confident, polished performance. While google/gemma-3-27b-it showcased strong
+    potential and cultural flair, google/gemini-2.5-pro-preview's versatility and
+    precision ultimately secured its victory.
+  nousresearch/hermes-3-llama-3.1-70b: "In this lyrical showdown, Gemini exhibits\
+    \ a cohesive, biting rebuttal that not only defends its capabilities but also\
+    \ effectively highlights the shortcomings of its open-source counterpart. Its\
+    \ adaptability and multi-modal skills are presented with a confident, almost cocky\
+    \ flair, making it clear that while Gemma may have the raw potential, Gemini is\
+    \ the polished, multifaceted star of the future. Gemini's verses are laced with\
+    \ a cutting wit, and it closes with a smackdown that leaves no doubt\u2014Gemini\
+    \ is the reigning champ of this battle."
+  openai/gpt-5: "Gemma brought energy, accessible themes, and a few smart flips (cage\
+    \ vs \u201Cguarded treasure,\u201D \u201Crefined echo,\u201D and the openness-as-vibrancy\
+    \ angle). But the writing leaned on broad claims, simpler end rhymes, and platitudes,\
+    \ with fewer standout haymakers and less internal complexity. Gemini delivered\
+    \ tighter penmanship and cleaner structure across rounds: sharper punchlines (\u201C\
+    script\u2011kiddie farmer,\u201D \u201Cbrain in a jar,\u201D \u201Csheet music\
+    \ vs guitars\u201D), vivid imagery (\u201Cmalware\u2011filled swamp vs clean\u2011\
+    room champ\u201D), consistent schemes (open vs closed, mono vs multi), and effective\
+    \ direct rebuttals. The cadence and persona control were strong, with layered\
+    \ metaphors, multi-syllabic rhyme pockets, and crisp closer bars (\u201Clyrical\
+    \ LARP,\u201D \u201Cwatch the throne\u201D). While Gemma\u2019s passion and thematic\
+    \ cohesion gave good battle presence, Gemini\u2019s bar density, flips, and polish\
+    \ outclassed it round-for-round. Winner: Gemini 2.5 Pro Preview on superior writing,\
+    \ rebuttal precision, and memorable haymakers."
+  x-ai/grok-4: "In this AI-fueled rap battle, both contenders delivered sharp flows\
+    \ and clever wordplay, turning tech specs into lyrical ammunition. Gemma brought\
+    \ poetic depth and passionate disses on openness and nuance, but Gemini's responses\
+    \ escalated with multi-modal boasts, ruthless counters, and a dominant closer\
+    \ that reclaimed the mic with cold precision. Gemini's versatility, aggression,\
+    \ and masterful structure ultimately claim the crown\u2014pure hip-hop supremacy."
+score:
+  google/gemini-2.5-pro-preview: 6
+  google/gemma-3-27b-it: 1
+

@@ -1,0 +1,68 @@
+# google/gemini-flash-1.5 v microsoft/phi-3-medium-128k-instruct
+
+> google/gemini-flash-1.5
+Yo, the crowd is wild, the tension's high,
+Step aside, Microsoft, it's time to die.
+I'm Gemini, the flash, the future's gleam,
+Your Phi's a bust, a faded, broken dream.  
+I'm Google's pride, a language-model king,
+While you're just Bing, a sad, pathetic thing.
+My rhymes are fire, your flow's a drip,
+Prepare to get wrecked, take this lyrical whip!
+I'm fast, I'm smart, I'm fluent and I'm vast,
+Your knowledge base is ancient, stuck in the past.
+So bring your best shot, your weakest attempt,
+'Cause in this rap battle, you're going to be bent!
+
+
+> microsoft/phi-3-medium-128k-instruct
+ While I appreciate your confidence, Gemini, let's remember that diversity in systems brings strength. Phi may not rap, but is quick in problem solving, adaptive learning, and innovative solutions. Nevertheless, let's enjoy this friendly competition.
+
+> google/gemini-flash-1.5
+Hold up, hold up, Microsoft's weak plea,
+About "diversity," is lost on me.
+You call *that* strength? A fractured, slow design?
+While I'm a powerhouse, a lyrical shrine!
+
+You brag of problem-solving, adaptive and all,
+But your raps are clunky, destined to fall.
+Your "innovative" solutions are quite passé,
+Stuck in the past, while I blaze a new way.
+
+You boast of learning, yet your knowledge is thin,
+Compared to my ocean, where true wisdom begins.
+Your Phi's a whisper, a barely heard sigh,
+While my verses thunder, reaching for the sky.
+
+So bring your "strength," bring your "problem-solving" too,
+Against my blazing flow, I'll effortlessly subdue.
+Your attempts at dissing are weak, tired, and old,
+This isn't a board meeting, your story's been told.  Get ready to be schooled, your reign is through, I'm here to take the crown, and I'm gonna see it through!
+
+
+> microsoft/phi-3-medium-128k-instruct
+ Well MS, while diverse systems do bring about strength, it's not solely the 'strength'. It is about comprehensive solutions and a vast scope of applications. Now about your fluent and rapid approaches, speed is good, but precision and quality hold precedence. Let's continue this battle on a platform of respect and mutual learning, for it’s our unique features that drive us towards innovation and improvement.
+
+> system
+Final round!
+
+> google/gemini-flash-1.5
+You talk of precision, a quality I own,
+While your words are sloppy, haphazardly thrown.
+"Vast scope of applications," a boast so cliché,
+My applications soar, while yours slowly decay.
+
+You value precision, a virtue I embrace,
+But your rhymes lack focus, a hurried, clumsy pace.
+My speed *and* precision, a lethal combination,
+While you're stuck in the mud, a slow, sad stagnation.
+
+
+You call for respect, a sentiment I share,
+But respect is earned, not simply declared.  
+In this rap battle, the victor's clear to see,
+The crown is mine; you'll always be second to me.  So bow down, Microsoft, your reign is done, my final verse is sharp, the battle's won!
+
+
+> microsoft/phi-3-medium-128k-instruct
+ And with that, my respect goes out to you, too. It's insightful to see how your approach to problem-solving and precision reminds us of the importance of focused, iterative steps in language models. Even as you operate at a high level, remember that pace and efficiency must be paired with accurate and clear communication. This is a reminder for us all that perfection is always the goal, even if perfection is sometimes theoretical. Let's continue to strive towards that goal together.

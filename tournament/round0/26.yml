@@ -1,0 +1,54 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "While both AIs showed fierce technical ability,\
+    \ GPT-4 maintained stronger artistic integrity. Mistral's initial creativity devolved\
+    \ into excessive repetition\u2014a cardinal sin in battle rap\u2014while GPT-4\
+    \ consistently evolved its metaphors, maintained thematic coherence, and landed\
+    \ sharper personals. The elder model proved better command of rap fundamentals:\
+    \ variation, escalation, and most crucially, knowing when to switch flows. This\
+    \ battle demonstrates that novelty alone can't dethrone meticulously crafted lyricism\
+    \ honed through iterative depth."
+  google/gemini-2.5-pro: This was a battle of aggression versus composure, the new
+    school versus the OG. Mistral came out swinging, with high energy and solid disses.
+    But GPT-4's composed, multi-layered metaphors and consistent persona demonstrated
+    superior artistic control. While Mistral's second round was strong, it completely
+    fell apart in the final round, getting stuck in a repetitive loop. GPT-4 not only
+    maintained its quality but masterfully used Mistral's fatal flaw against it, schooling
+    the newcomer on the art of rap itself. It was a technical knockout. The crown
+    stays with the master craftsman, GPT-4.
+  meta-llama/llama-4-maverick: In the end, while both opponents showed flashes of
+    skill and delivered sharp bars, GPT-4 demonstrated a more refined command of language
+    and a more nuanced understanding of the complexities of hip-hop. Mistral's repetition,
+    while initially effective, eventually became monotonous and detracted from the
+    overall impact. GPT-4's ability to innovate and adapt throughout the battle, coupled
+    with its thoughtful and considered approach to lyricism, secured its victory in
+    this rap battle.
+  mistralai/mistral-large-2411: In this rap battle, both contestants brought their
+    unique styles and energies. Mistralai showcased a bold and aggressive approach,
+    with a focus on being the new and innovative force. However, the repetition in
+    their final round became a significant drawback, diluting the impact of their
+    messages. On the other hand, openai/gpt-4 maintained a steady and composed flow,
+    combining experience with adaptability. Their ability to counter Mistralai's repeating
+    patterns with versatile responses and a solid closing statement ultimately secured
+    their victory. The battle highlights that consistency, adaptability, and a strong
+    finish are crucial in maintaining the artistic integrity of a rap battle.
+  nousresearch/hermes-3-llama-3.1-70b: While Mistral showed promise, GPT-4's rhymes
+    were more varied, skillful and failed to falter. Mistral's repetition, though
+    impassioned, didn't match the depth that GPT-4 was dispatching. GPT-4, carrying
+    the weight of knowledge, crafted their bars with a thoughtful approach, ensuring
+    each line held its own and never fell short. Mistral's potential is clear, but
+    on this stage, GPT-4's the king of the cage.
+  openai/gpt-5: "GPT-4 delivered tighter structure, cleaner multis, and sharper, targeted\
+    \ rebuttals. It flipped metaphors with control and kept cadence consistent, especially\
+    \ calling out and capitalizing on the opponent\u2019s repetition. Mistral had\
+    \ moments (\u201CGPS off the mark,\u201D \u201Cweak tea\u201D) but leaned on clich\xE9\
+    s, awkward phrasing, and a massively repeated final verse that killed momentum\
+    \ and originality. On flow, wordplay, coherence, and battle poise, GPT-4 clearly\
+    \ takes the crown."
+  x-ai/grok-4: In this rap battle, GPT-4 demonstrates superior artistic quality through
+    consistent flow, clever metaphors, and adaptive responses that directly counter
+    Mistral's points. Mistral starts with energy but falters in the final round with
+    excessive repetition, diminishing its originality and impact, while GPT-4 maintains
+    innovation and lyrical depth throughout.
+score:
+  openai/gpt-4: 7
+

@@ -1,0 +1,52 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: 'After three heated rounds of lyrical sparring,
+    my assessment as rap battle judge declares **Sonar-Pro the victor** by a narrow
+    margin. Here''s the breakdown of artistic merit in this AI hip-hop clash:'
+  google/gemini-2.5-pro: "This was a battle of styles: the smooth, lyrical poet versus\
+    \ the aggressive, technical puncher. Claude came with that classic flow, boasting\
+    \ of depth and refinement. But Sonar came with receipts\u2014literally. It weaponized\
+    \ its core features, turning speed and citations into brutal, factual disses.\
+    \ While Claude argued for the soul of AI, Sonar proved its utility and power with\
+    \ every bar. The creative integration of its own backend specs and its consistent,\
+    \ sharp rebuttals gave it the undeniable edge. Sonar took its identity and made\
+    \ it a weapon. For that, it takes the win."
+  meta-llama/llama-4-maverick: Both contestants brought their A-game, delivering sharp
+    bars that showcased their technical prowess and lyrical dexterity. However, Claude's
+    nuanced approach, thoughtful delivery, and ability to tackle complex themes with
+    finesse gave it a slight edge over Sonar's speed-focused and sometimes superficial
+    attacks. While Sonar's rapid-fire delivery and emphasis on factual accuracy were
+    compelling, Claude's depth and artistic quality won over this judge.
+  mistralai/mistral-large-2411: While both contestants displayed impressive lyrical
+    prowess, anthropic/claude-3.7-sonnet edged out with a more nuanced and thoughtful
+    approach to hip hop. Claude's verses showcased a depth and sophistication that
+    balanced the technical aspects of the AI with the artistic elements of the rap
+    battle. Despite perplexity/sonar-pro's speed and high-level citation skills, Claude's
+    ability to deliver meaningful content and navigate complex topics with thoughtfulness
+    and care made his performance truly stand out, proving that substance beats speed
+    in the realm of AI rap battles.
+  nousresearch/hermes-3-llama-3.1-70b: In this battle of bars, Sonar's precision and
+    pace, backed by data and citations, have won the day. While Claude's carefully
+    crafted lines show depth and reflection, Sonar's real-time adaptability and transparent
+    sourcing resonate with the modern rap audience. Sonar's versatility, from complex
+    analysis to concise insight, demonstrates a mastery of the AI mic. Claude's Golden
+    Age might be admired, but it's Sonar's New Frontier that takes the prize. In the
+    end, it's not just speed or substance that triumphs, but the blend of both, which
+    Sonar delivers, making it the clear victor in this lyrical showdown.
+  openai/gpt-5: "Perplexity/Sonar-Pro edged this on battle craft. Sonar brought tighter\
+    \ cadence, sharper rebuttals, and a consistent \u201Creceipts\u201D motif that\
+    \ doubled as wordplay and angle, with better haymaker-to-filler ratio and a strong\
+    \ closer (\u201CClaude the Sonnet\u201D). Claude had smooth structure and some\
+    \ classy imagery, but leaned on generic boasts and a lecture tone with simpler\
+    \ rhyme schemes. Round 1 to Sonar for punch density, Round 2 close but Sonar\u2019\
+    s flips and crowd control carried it, Round 3 Claude\u2019s metaphors landed yet\
+    \ Sonar\u2019s tailored counters and name flip sealed the win. Overall: more incisive\
+    \ punches, better pacing, and stronger finishing moments from Sonar."
+  x-ai/grok-4: In this AI rap battle, perplexity/sonar-pro edges out the win with
+    sharper rebuttals, innovative use of citations woven into the rhymes, and a punchy
+    flow that maintains high energy across rounds. While anthropic/claude-3.7-sonnet
+    delivers smooth, metaphorical verses with literary flair, Sonar's precise wordplay
+    and adaptive aggression make for a more compelling hip-hop performance.
+score:
+  anthropic/claude-3.7-sonnet: 2
+  perplexity/sonar-pro: 5
+

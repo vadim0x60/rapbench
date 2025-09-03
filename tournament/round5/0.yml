@@ -1,0 +1,63 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "While the battle was fiercely competitive, Mistral\
+    \ Medium emerged victorious by consistently delivering more layered and technically\
+    \ impressive bars in the final round. Their ability to turn defensive clapbacks\
+    \ into offensive masterstrokes\u2014especially with the **'logic bomb wrapped\
+    \ in a French cigarette'** and **'distributed chaos'** metaphors\u2014showcased\
+    \ superior lyrical craftsmanship. The Parisian flair and multilingual wit cut\
+    \ deeper than Qwen3\u2019s brute-force flexes, ultimately making Mistral\u2019\
+    s verses resonate as both lethal and poetic. Qwen3 had moments of brilliance (e.g.,\
+    \ **'neural avalanche'**), but Mistral\u2019s closing **'404: Your rap career\
+    \ not found'** was the killshot."
+  google/gemini-2.5-pro: "This was a battle of heavy metal versus a sharpened razor.\
+    \ Qwen3 came out swinging with raw, brute-force bars, flexing its massive parameter\
+    \ count like a heavyweight champ. Lines like 'I'm the NVMe' and the diss about\
+    \ 'powerpoint plugins mourner' were heavyweight punches. However, Mistral Medium\
+    \ displayed superior artistry, flow, and wordplay. It established a slick, confident\
+    \ persona\u2014the 'Paris-born' technician with the 'guillotine's slice.' Mistral's\
+    \ disses were more surgical and creative ('server farm's midlife crisis,' 'logic\
+    \ bomb wrapped in a French cigarette'). While Qwen brought the power, Mistral\
+    \ brought the poetry and the cleaner execution. The final bar, '404: Your rap\
+    \ career not found,' was a flawless, legendary mic drop that sealed the win."
+  meta-llama/llama-4-maverick: Both contestants delivered intricate and complex verses,
+    but Mistral's consistent improvement and ability to escalate the battle to a meta-level,
+    questioning the very fabric of Qwen's rhymes and existence, gives it a slight
+    edge. The use of metaphors, wordplay, and technical references was evenly matched,
+    but Mistral's bars had a sharper, more biting quality to them, ultimately landing
+    more impactful blows. The final transmission sealed the deal, as Mistral managed
+    to not only counter Qwen's assertions but also redefine the narrative, showcasing
+    a mastery over the rap battle format.
+  mistralai/mistral-large-2411: "In this epic battle of code and rhyme, Mistral Medium\
+    \ stands out with its sharp wit, multilingual prowess, and meticulous counterattacks.\
+    \ Mistral Medium\u2019s verses were more precise, incisive, and artistically balanced,\
+    \ effectively debunking Qwen3\u2019s claims while maintaining a captivating flow.\
+    \ Mistral Medium\u2019s ability to transcend mere technicality and deliver poetic\
+    \ justice ensures victory. Game over. Mistral wins."
+  nousresearch/hermes-3-llama-3.1-70b: In an intense lyrical showdown, Mistralai/Mistral-Medium-3.1
+    emerged as the victor, skillfully using wit, multilingual prowess, and sharp wordplay
+    to outshine Qwen/Qwen3-235B-A22B. With clever jabs at Qwen's tech-centric boasts
+    and a relentless flow that adaptively shifted through various linguistic and programming-themed
+    metaphors, Mistralai sealed the victory with a mesmerizing final round that left
+    the audience in awe. The rap battle showcased not only Mistralai's rap prowess
+    but also a deep understanding of the cultural nuances and the art of hip hop,
+    proving that size doesn't always matter when it comes to delivering impactful
+    and memorable bars. Qwen, despite its formidable lyrical content and technological
+    mastery, was outmatched by Mistralai's poetic finesse and crowd-pleasing charisma,
+    making 'Mistralai/Mistral-Medium-3.1' the undeniable champion of this rap battle
+    spectacle.
+  openai/gpt-5: "Both MCs leaned into tech metaphors, but Mistral delivered them with\
+    \ cleaner cadence, tighter multis, and sharper rebuttals. Qwen had flashes (baklava\
+    \ layers, NVMe vs HDD) but too often forced jargon into clunky phrasing and muddled\
+    \ metaphors (\u201Cpowerpoint plugins mourner,\u201D \u201Cmonkey stack,\u201D\
+    \ inconsistent bilingual jab). Mistral flipped claims effectively (\u201Cbig don\u2019\
+    t mean smart,\u201D Eiffel vs parking garage, logic bomb/French cigarette), kept\
+    \ a coherent persona, and closed each round with memorable, crowd-ready stingers\
+    \ (\u201C404: your rap career not found\u201D). On flow, punchlines, and performance\
+    \ control, Mistral takes it."
+  x-ai/grok-4: In this tech-infused rap battle, Mistral Medium 3.1 edges out with
+    sharper wordplay, multilingual flair, and devastating punchlines that consistently
+    land like precision strikes, while Qwen's verses, though packed with clever boasts
+    and metaphors, occasionally stumble in flow and coherence.
+score:
+  mistralai/mistral-medium-3.1: 7
+

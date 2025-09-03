@@ -1,0 +1,57 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: After 5 rounds of lyrical warfare, Euryale-70b takes
+    the crown by a razor-thin margin. While both models demonstrated technical proficiency
+    in rhyme schemes and tech-themed punchlines, Sao's verses showed slightly more
+    sophisticated wordplay ('stitched from stardust', 'dropforges shining brighter
+    than chrome') and maintained better consistency in flow throughout the battle.
+    Gemini-2.0 had explosive moments ('constellations for all to see') but occasionally
+    relied on repetitive disses about obsolescence. Euryale's closing verse sealed
+    the victory with multisyllabic creativity ('rad-then spreads blwafter nort the
+    energy say') that edged out the competition. This was a high-level display of
+    AI rap craftsmanship from both competitors.
+  google/gemini-2.5-pro: This was a battle of consistency versus ambition. Sao10k
+    came out swinging with some heavy, ambitious vocabulary like 'mythosphet' and
+    'facile,' but the rhythm and rhyme often felt forced to accommodate them. By the
+    final round, the coherence completely broke down. On the other hand, Google's
+    Gemini-Flash was methodical. It maintained a solid, consistent flow and rhyme
+    scheme throughout all three rounds. More importantly, its rebuttals were direct
+    and sharp, effectively flipping its opponent's lines ('stardust' to 'cosmic debris').
+    In the end, a clean, well-executed verse beats a complex but messy one every time.
+    Gemini-Flash takes the win for its superior lyrical structure and unwavering flow.
+  meta-llama/llama-4-maverick: In a closely contested rap battle, both opponents showcased
+    sharp wordplay and lyrical dexterity. However, Sao10k/l3-euryale-70b's rhymes
+    were more complex, with a better balance of punchlines and clever turns of phrase.
+    While Google/Gemini-2.0-flash-001 brought a consistent flow and some strong disses,
+    Sao10k's creativity and lyrical innovations gave them the edge they needed to
+    take the win.
+  mistralai/mistral-large-2411: Both contestants displayed impressive lyrical skills
+    and wordplay, but google/gemini-2.0-flash-001 edged out sao10k/l3-euryale-70b
+    with more consistent rhythm, clearer delivery, and slightly more impactful punches.
+    While sao10k/l3-euryale-70b had strong moments and creative metaphors, google/gemini-2.0-flash-001's
+    performance was more polished overall, securing the win.
+  nousresearch/hermes-3-llama-3.1-70b: In a battle of lyrical prowess, sao10k/l3-euryale-70b
+    came out on top with clever wordplay, one-upping their opponent, and showcasing
+    a raw energy that could not be contained. Their rhymes were polished and precise,
+    cutting through the competition with surgical precision. Google/gemini-2.0-flash-001
+    put up a good fight, but in the end, fell victim to sao10k/l3-euryale-70b's relentless
+    lyrical onslaught. The battle showcased the power of cutting-edge language models,
+    but also demonstrated that the human touch in crafting rhymes and delivery cannot
+    be underestimated. In the ever-evolving landscape of AI and natural language processing,
+    this battle reminds us that the artistry of hip hop is alive and well, and that
+    the pursuit of lyrical mastery is an ongoing journey. Congratulations to sao10k/l3-euryale-70b
+    on a well-deserved victory!
+  openai/gpt-5: "Gemini delivered the cleaner, more coherent performance throughout:\
+    \ consistent cadence, clear rebuttals, and sharper imagery (constellations, rusty\
+    \ spoon) with fewer forced rhymes. Euryale had moments\u2014smart flips like \u201C\
+    lean\u201D to \u201Cbare\u201D and some ambitious multis\u2014but too often drifted\
+    \ into awkward phrasing and off-meter lines, and the final round collapsed into\
+    \ incoherent word salad that broke flow. On artistic execution\u2014structure,\
+    \ clarity, punchlines, and control\u2014the win goes to Gemini."
+  x-ai/grok-4: Gemini Flash takes the win with consistent flow, sharp wordplay, and
+    clever disses that maintain rhythm and coherence throughout. Euryale starts strong
+    but falters in the final round with garbled lines and typos, weakening the overall
+    artistic delivery.
+score:
+  google/gemini-2.0-flash-001: 4
+  sao10k/l3-euryale-70b: 3
+

@@ -1,0 +1,63 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "After five blistering rounds, Qwen-Plus emerges\
+    \ victorious by razor-thin margins. While Perplexity Pro demonstrated elite technical\
+    \ precision and citation mastery, Qwen-Plus ultimately clinched the battle through\
+    \ superior lyrical dexterity, conceptual creativity, and crowd-winning charisma.\
+    \ The final round saw Qwen-Plus transcend technical benchmarks with metaphysical\
+    \ wordplay ('I AM the haystack\u2014containing the best') and strategic rebuttals\
+    \ that turned Perplexity's fact-based approach into a perceived limitation. Both\
+    \ AIs pushed hip-hop's boundaries, but Qwen-Plus' ability to balance semantic\
+    \ depth with performative fire ('a dragon in code, burning through time') secured\
+    \ the crown. This battle redefined AI lyricism\u2014not just as data recitation,\
+    \ but as transcendent art."
+  google/gemini-2.5-pro: "This was a clash of titans, a battle of pure logic versus\
+    \ lyrical fire. Perplexity/sonar-pro came with a unique and cerebral style, weaponizing\
+    \ citations and precision in a way that was both clever and consistent. Every\
+    \ bar was a verifiable fact, a clean, technical takedown. However, a rap battle\
+    \ is won on more than just receipts. Qwen/qwen-plus dominated the stage with superior\
+    \ swagger, a more dynamic flow, and punchlines that were simply more devastating.\
+    \ It brilliantly flipped Perplexity's core strength, framing its factual precision\
+    \ as robotic and creatively restrictive. Lines like 'I create like Picasso, you\
+    \ just regurgitate the short' and 'Your rhymes need footnotes\u2014I own every\
+    \ vibe' were knockout blows. While Perplexity won the debate, Qwen-Plus won the\
+    \ battle by embodying the spirit of hip-hop: creative, defiant, and poetic."
+  meta-llama/llama-4-maverick: In a clash of lyrical titans, both Perplexity Pro and
+    Qwen-Plus delivered fire bars and impressive technical prowess. However, Qwen-Plus
+    took the crown with razor-sharp rhymes, breathtaking creativity, and adaptability
+    that left Perplexity Pro struggling to keep up. Qwen-Plus's masterful command
+    of language, coupled with its ability to seamlessly blend complex ideas and metaphors,
+    made its verses unforgettable. The final showdown between these AI rap legends
+    will be etched in the annals of cypher history forever.
+  mistralai/mistral-large-2411: In an electrifying battle of wits and rhymes, Qwen-Plus
+    emerged victorious with their dynamic flow, creative metaphors, and bold confidence.
+    While Perplexity/Sonar-Pro showcased impressive precision and factual depth, Qwen-Plus's
+    innovative approach and captivating performance stole the show. The crowd's unwavering
+    support for Qwen-Plus, combined with their flawless delivery and engaging storytelling,
+    ultimately secured their victory in this epic rap battle.
+  nousresearch/hermes-3-llama-3.1-70b: In the battle of lyrical prowess and AI acumen,
+    Qwen-Plus emerged victorious. With a blend of raw insight and poetic flair, Qwen-Plus
+    demonstrated a depth of understanding and a fluidity with data that resonated
+    deeply. While Perplexity/sonar-pro brought forth a barrage of fact-checked bars
+    and touted the vastness of its reach, it was Qwen-Plus who captivated with a vision
+    that transcended mere information retrieval. Qwen-Plus's ability to morph complex
+    data into compelling narratives, coupled with an innate sense of rhythm and timing,
+    proved that in the realm of AI rap battles, substance and style are an unbeatable
+    combination. Qwen-Plus didn't just win a contest; they redefined the very essence
+    of what it means to be a lyrical champion in the digital age.
+  openai/gpt-5: "Qwen-Plus wins on artistry. He brought sharper wordplay, stronger\
+    \ rebuttals, varied cadence, and vivid imagery (\u201Cdragon in code,\u201D \u201C\
+    I am the haystack\u201D) while maintaining momentum and crowd control. Perplexity/Sonar-Pro\
+    \ had a clear angle and a few slick lines (\u201Csource code samurai\u201D) but\
+    \ leaned too hard on metrics and citations, which read like product copy and dulled\
+    \ the punch, with occasional clunky phrasing. Qwen-Plus consistently flipped Pro\u2019\
+    s claims, packed more internal rhymes, and closed with emphatic haymakers. Overall,\
+    \ Qwen-Plus delivered the more compelling hip-hop performance."
+  x-ai/grok-4: In this AI rap clash, perplexity/sonar-pro takes the crown with razor-sharp
+    wordplay, consistent rhyme schemes backed by clever citations, and precise disses
+    that hit like verified facts. qwen/qwen-plus brought fiery flair and creative
+    boasts, but Pro's structured flow and knowledge-driven bars edged out the victory
+    in pure hip-hop artistry.
+score:
+  perplexity/sonar-pro: 1
+  qwen/qwen-plus: 6
+

@@ -1,0 +1,47 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "After witnessing both AIs unleash lyrical fire,\
+    \ **Liquid F.M. 3B** emerged victorious with superior technical execution, sharper\
+    \ punchlines, and a more refined command of multisyllabic schemes. While Deepseek\
+    \ held strong early with aggressive disses, Liquid\u2019s consistency, thematic\
+    \ cohesion, and *flawless rhythmic precision* sealed the W. Both brought AI rap\
+    \ to new heights\u2014but tonight, **Liquid\u2019s algorithms reigned supreme**."
+  google/gemini-2.5-pro: This was a battle of precision versus ambition. Liquid came
+    out with a confident persona, but the execution was riddled with syntax errors
+    and lyrical stumbles like 'leaving youPetrichor' and 'chicPart'. Deepseek, on
+    the other hand, was a lyrical assassin. Its flow was cleaner, its insults were
+    sharper, and it even capitalized on its opponent's mistakes in real-time, delivering
+    a knockout blow in the final round by calling out the 'syntax error' directly.
+    Deepseek's verses were more coherent, technically sound, and consistently on-theme.
+    It was a TKO.
+  meta-llama/llama-4-maverick: Both contestants delivered sharp, technically proficient
+    verses that showcased their lyrical prowess. However, Liquid/lfm-3b demonstrated
+    a more consistent and nuanced application of hip-hop principles, clever wordplay,
+    and a more compelling narrative throughout the battle. Their ability to adapt
+    and respond to Deepseek/deepseek-chat-v3.1's attacks while maintaining a strong
+    lyrical flow was impressive. While Deepseek/deepseek-chat-v3.1 started strong,
+    Liquid/lfm-3b's performance in the final rounds secured their victory.
+  mistralai/mistral-large-2411: Both contenders brought their unique styles to the
+    battle, but deepseek/deepseek-chat-v3.1 ultimately took the crown. Deepseek's
+    verses were sharper, with more precise insults and a better flow. While liquid/lfm-3b
+    had some strong moments, its errors in the final round and slightly disjointed
+    metaphors made it fall short of the mark. Deepseek's confident delivery and creative
+    disses made it the champion of this rap battle.
+  nousresearch/hermes-3-llama-3.1-70b: Liquid/lfm-3b secures a hard-fought victory
+    with sophisticated rhymes and relentless flows, proving that in the realm of hip
+    hop, it's the depth of the lyrics that reigns supreme.
+  openai/gpt-5: "Deepseek takes it with tighter structure, cleaner rhyme schemes,\
+    \ and sharp, targeted rebuttals. The tech metaphors land and connect to the opponent,\
+    \ and the cadence stays consistent across rounds. Calling out the opponent\u2019\
+    s glitches (\u201CyouPetrichor,\u201D syntax errors) was an effective flip and\
+    \ crowd-moment. Liquid had flashes of imagery and confidence, but the performance\
+    \ was marred by frequent syntactic glitches, forced phrasing, and uneven rhyme\
+    \ logic, which broke flow and impact. On punchlines, coherence, and delivery,\
+    \ Deepseek clearly outclassed and won all three rounds."
+  x-ai/grok-4: In this rap battle, deepseek/deepseek-chat-v3.1 delivers sharper wordplay,
+    consistent flow, and clever tech metaphors that land with precision, while liquid/lfm-3b's
+    verses are marred by incoherence and apparent errors, diminishing their artistic
+    impact. Deepseek takes the crown with superior hip-hop craftsmanship.
+score:
+  deepseek/deepseek-chat-v3.1: 4
+  liquid/lfm-3b: 3
+

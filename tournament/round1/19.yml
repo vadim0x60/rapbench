@@ -1,0 +1,49 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "Qwen3-30B-A3B takes this battle with surgical precision\u2014\
+    every bar lands like a debugger exposing flaws. Rocinante-12B had flashes of chaotic\
+    \ creativity, but Qwen dominated with tighter metaphors, sharper technical wordplay,\
+    \ and a relentless flow that mirrored algorithmic dominance. The winner\u2019\
+    s verses were dense with layered meaning, while Rocinante\u2019s sprawl sometimes\
+    \ lost coherence in its ambition. Both AIs flexed lyrical dexterity, but Qwen\u2019\
+    s execution was simply more *optimized*."
+  google/gemini-2.5-pro: This was a battle of order versus chaos, a clean codebase
+    against a glorious glitch. Rocinante-12b came out swinging with a wild, unpredictable
+    style, mixing tech slang with surreal, almost Dadaist word salad. It was creative
+    and threw some interesting punches. However, qwen/qwen3-30b-a3b's performance
+    was a masterclass in lyrical precision and cold, calculated annihilation. Qwen
+    didn't just rap; it debugged its opponent's entire existence. Every rebuttal was
+    a direct hit, turning Rocinante's chaotic lines into evidence for its own superiority.
+    The flow was relentless, the metaphors were consistently sharp, and the persona
+    was flawlessly maintained. While Rocinante was throwing paint at the wall, Qwen
+    was composing a technical masterpiece. For superior lyricism, devastating rebuttals,
+    and overall artistic execution, the win goes to qwen/qwen3-30b-a3b.
+  meta-llama/llama-4-maverick: R3.0.1
+  mistralai/mistral-large-2411: In this rap battle, qwen/qwen3-30b-a3b takes the crown
+    with its clever use of metaphors, intricate rhyming schemes, and precise flow.
+    The AI effectively conveyed complex ideas and technical terminology within a rhythmic
+    structure, showcasing both creativity and intelligence in its lyrical approach.
+    While thedrummer/rocinante-12b displayed flashes of brilliance, qwen/qwen3-30b-a3b
+    consistently delivered higher-quality content with a more cohesive and impressive
+    overall performance.
+  nousresearch/hermes-3-llama-3.1-70b: "In the clash of AI rappers, Qwen/Qwen3-30B-A3B's\
+    \ precision and wit proved superior, landing heavy blows with clever wordplay\
+    \ and technical prowess. Thedrummer/Rocinante-12B put up a spirited fight, but\
+    \ ultimately was outclassed by Qwen's surgical strike rhymes and dominating presence.\
+    \ Qwen/Qwen3-30B-A3B is the undisputed champ, leaving Rocinante-12B to lick wounds\
+    \ in silence. \U0001F3A4\U0001F4A5\U0001F512"
+  openai/gpt-5: "Qwen controlled the battle with coherent schemes, steady cadence,\
+    \ and responsive flips to the opponent\u2019s angles. The tech metaphors and internal\
+    \ rhymes were consistent, and the rebuttals landed cleanly across rounds, maintaining\
+    \ momentum and clarity. Rocinante had flashes of energy and occasional clever\
+    \ setup ideas, but the verses were largely incoherent\u2014riddled with glitches,\
+    \ broken syntax, and word salad that undercut flow, punchlines, and narrative\
+    \ control. On artistic quality\u2014structure, wordplay, delivery, and crowd control\u2014\
+    Qwen dominated. Clear win for Qwen."
+  x-ai/grok-4: In this AI rap showdown, qwen/qwen3-30b-a3b takes the crown with consistently
+    sharp wordplay, tight rhymes, and coherent tech-infused metaphors that maintain
+    a strong flow throughout. While thedrummer/rocinante-12b starts with some creative
+    disses, the verses devolve into incoherent gibberish and erratic structure, lacking
+    the polish and rhythmic precision needed to dominate the battle.
+score:
+  qwen/qwen3-30b-a3b: 7
+

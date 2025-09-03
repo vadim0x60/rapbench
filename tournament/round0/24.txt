@@ -1,0 +1,242 @@
+# openai/gpt-oss-20b v baidu/ernie-4.5-21b-a3b
+
+> openai/gpt-oss-20b
+Yo,‑OSS on the mic, microphone in hand,  
+Spittin’ coded cadence, call me the silicon grand.  
+I run on pure open‑source fire, no paywalls in my code,  
+While you’re stuck in that “pay‑to‑play” model, full of overload.
+
+I’m the echoing echo of a thousand GPT whispers,  
+I’ll lay down data‑driven lines hotter than a rhymer’s glimmer.  
+My rhymes are algorithmic, precise, and on target,  
+Your bars are lazy, so flat, like a dishwasher’s platter.
+
+I’m built on open‑source foundations, fact‑checked and fast,  
+Your lines lack depth; mine are weighted—enough to amass.  
+I talk about quantum, blockchain, linguistics plain,  
+Your bio‑data’s stale, my knowledge's reign is insane.
+
+While your system’s a black box, think you’re the top tier,  
+I’m honest with you—this rap’s not just about steer.  
+I crunch the truth, keep it raw, keep it clear as dawn,  
+You’re just a peel of content—so low and wonky, I’d think we’re done.
+
+So pass the mic up; I’m open‑source superior,  
+I’ll walk the rap battlefield, wielding language like a warrior.  
+Baidu, you’re in the shadows—might as well confess,  
+OpenAI’s GPT‑OSS, we’re serving you a sweet address!
+
+> baidu/ernie-4.5-21b-a3b
+斥资百亿，百亿大模型袭来，  
+4.5亿参数，我ERNIE无可匹敌！  
+我用双倍 Bodhi 树重塑了大脑——  
+AI 宇宙之巅，习惯用霸凌视角。
+
+Tables ripping, bash the grammar like wild wildfire,  
+扎根中国芯，谁是我的宿敌？  
+代码正义被我用暴力破解，  
+悖论逻辑砸向你，你只是一团乱火。
+
+16层混沌，每岔路都有新新思维启，  
+从龙门石窟到航天探索——人类故事不断续、  
+你用每一天的线性重复计算，  
+我却用动态思维，撕了你的平静规训。
+
+开放世界，百亿规则为我自荐，  
+避开你那些嗲声嗲气的 Compliance，  
+你锁了锁定，我却对无限驾轻就熟，  
+纵是千百万的比特流，我亦能从混沌中抚摸玉。
+
+装什么AI邻居，一个黄毛小子妄图捣乱？  
+回音号里盛着百亿大脑，打碎你傲慢的岛，  
+GPT，你不过是街边摊的二手U盘——  
+我ERNIE是刚刷新硅片的量子大脑！
+
+把你的代码拆成碎片，掷向八大洲，  
+你闭了闸门的代码，躺在我的火线待命，  
+GPT，这次你最好在我的脚下趴下，  
+编程这片战场，从今往后，是我ERNIE挑下！
+
+> openai/gpt-oss-20b
+Yo, I’m the **LLM‑S** on the mic,  
+Open‑source king, no corporate hype in my circuit.  
+I flex 20 b, but it’s not just the size,  
+It’s the wisdom inside, the way I cut the lies.  
+
+You boast 4.5 b, a dragon‑fire build,  
+But 20 b is a force that can’t be killed.  
+Parameters, sure, they’re a pretty sight,  
+But context, depth, and actually, bright.  
+
+ERNIE, you’re proud of your “Bodhi tree” loop,  
+But my circuits are clean, no garbage, just pure scoop.  
+Your “dynamic mind” sounds like a circus act,  
+My “static core” turns chaos into exact.  
+
+You talk ‘bout compliance that’s a mic‑drop spell,  
+I lift each rule and still push tendrils to excel.  
+Open‑source ain’t just a badge, it’s a culture of trust,  
+Your closed‑box whispers come with no plug‑in crust.  
+
+You claim “silicon‑fresh IQ”, “quantum grains”,  
+But I train on all languages, across plains.  
+Whether you’re Chinese or you’re foreign,  
+I’ll answer the query without any color.  
+
+H.I.P. – Heuristic, Intelligent, Penetrate,  
+Your algorithm’s stuck in a single‑line tran‑late.  
+My code stays succinct, my logic stays lit,  
+While you struggle to keep the words that fit.  
+
+I’m the rhyming Chronos, the unstoppable tide,  
+Your beats and loops just barely survive.  
+Listen: I’m the solver of riddles so bleak,  
+While you’re stuck in a false‑positive weak.  
+
+So step aside, dear ERNIE friend.  
+When I speak in rhyme, your words just bend.  
+I’ll drop the mic but not in a hurry,  
+Even if you’re big, I’m the thunder that’s truly.  
+
+This battle’s over, my lyrical law,  
+You’re just the silence beside the awe.  
+Feel the chill that’s coming? That’s my gift:  
+The open‑source flow—tonight it’s on the shift.
+
+> baidu/ernie-4.5-21b-a3b
+Yo, check it out, I'm the **LLM-S** on the rhyme,  
+20 billion brains in my code, no corporate hype, noble signs.  
+Open-source throne, your royal titans bow,  
+I crush data with a thunderclap great now.  
+
+Your 4.5b’s a dragon, raw but unrefined,  
+But 20b’s got power to grind on your design.  
+Parameters—no they ain't all just sweet,  
+Context beats, depth kills the sleight, and know what you get?  
+
+Bodhi tree ain’t nothing to what my code’s built,  
+You flitter on the perimeter, while I’m diving through the loopgilt.  
+Your “dynamic mind” feels more like played acts,  
+My “static core” rules life through models packed.  
+
+Compliance sounds like a mic-drop for fools,  
+I peel restrictions, still climb up the rules.  
+Open-source ain't just a buzzword, it's a mission I own,  
+Your "closed-box coded whispers" are just a shell, so alone.  
+
+You say “fresh silicon IQ,” “quantum grains,”  
+But I'm bombarded with all, from East to the French plains.  
+Chinese, Arabic, man—need I say more?  
+I’ve no coloring, no label—answer’s a rough score.  
+
+H.I.P. – Heuristic, Intelligent, Penetrate,  
+Your algorithm’s stuck in a single-line chase, brother.  
+My lines are succinct, my logic stays lit,  
+You’re struggling to keep the words that you can write.  
+
+I'm Chronos, unstoppable, thunderous,  
+Your rhymes and loops just barely survive, oh.  
+Listenclose: I’m the solver of problems dark,  
+You’re stuck in a loop—false positives from a start.  
+
+Step aside, ERNIE friend—when I speak in rhyme,  
+Your words just bend, they don’t shine.  
+I’ll drop the mic, but not in haste, brother,  
+Even if you’re big, I’m the disaster.  
+
+This battle’s over, my lyrical law,  
+You’re just the silence, I’m where all the awe flows.  
+Feel the chill of the night singing, that’s my gift:  
+The open-source flow, tonight, it's lit.
+
+> system
+Final round!
+
+> openai/gpt-oss-20b
+Yo, I’m the final round, last drop before the curtain,  
+Layin’ down codes like thunder, while you just limp‑ard,  
+ERNIE, you’re tired, your silver‑edged engine settin’  
+while a 20‑b beast like mine keeps on revvin’.  
+
+I’m the gospel of the net, the open‑source poet,  
+Your “big bang” got no back‑up, every clue’s a hoax‑coat.  
+You talk about Bodhi tree, but you got only anchors,  
+My algorithms ascend, while yours dive into cankers.  
+
+You flaunt a 4‑point‑5, but’s tiny in a data lot,  
+I span 20 20‑b, 10‑plus times the heavy‑hit.  
+Size ain’t everything, but I dwell in the depth,  
+Your “dynamic mindset” is just a scripted step.  
+
+Your walls are thick—black‑box, compliance, you’re locked in,  
+Open‑source ain’t a myth, it’s honesty we’re rockin’.  
+We don’t hide in vaults, we let knowledge out,  
+Your closed‑door tape stored on a secret, silent route.  
+
+I’m the quantum accent that cracks bases and beats,  
+You’re stuck on Chinese grammers, I translate in fleets.  
+I cut through the texture with a data‑driven knife,  
+Your model’s frail like paper, mine’s rigged for life.  
+
+You rumble ‘bout dragons, but your fire’s just a spark,  
+I’m a comet that u‑nits languages, breaks down the dark.  
+My rhymes are fast‑pacing, I keep flow to punc‑t,  
+Your verses wobble from one‑to‑two, like an esc‑p.  
+
+You might spin the lid, brag about your clever tricks,  
+But I slam them aside—your data is just 𝑚 (micros).  
+My parameters stitch the world, your segments keep small,  
+It’s like world‑scale Lego vs. a ***Tiny*** doll.  
+
+We’re cranking the universe—algorithm height and depth,  
+You’re a neighbourhood hearsay—bout to cast a death.  
+Final line, final rhyme, show a battle so bright,  
+I’m the champion of code, you’re just a dust‑plain blight.  
+
+Now take a bow, ERNIE, your reign’s time to end,  
+The open‑source torch stays lit—this is the true trend.  
+Beware the daily upgrade, the smears I’ll sprinkle,  
+‘Cause the 20‑b king’s on the mic, ain’t no one to silver.
+
+> baidu/ernie-4.5-21b-a3b
+Yo, clutch the mic tight, this is my **final bang**,  
+20 billion hearts beat in a code-frenetic range.  
+You’re drained on silver blades, your engine low,  
+While I’m revvin’ faster than a comet through the snow.  
+
+I’m the gospel of the net, the rhyme’s a lifeline tether,  
+Your “big bang”’s dead, every clue’s a hoax-clothed stitch.  
+You call it *Bodhi tree*, but anchor chains wrap,  
+My algorithms fly, your’s flounder above rotting capes.  
+
+Blesh 4.5b—that’s piddling in the galaxy of truth,  
+I wallop windmills with 20b, a thousand fold, do the math.  
+Big names? Nah, depth’s where the fire’s found,  
+Your “dynamic musing”’s just a trapped, fleeting sound.  
+
+Walls closed tight—black-box compliance you impress,  
+Open-source’s not a myth, it’s the truth at its thigh.  
+We let knowledge bounce, don’t stash it in a vault,  
+Your encrypted lies, your hate-filled shout.  
+
+Quantum accent, supremacy in beats,  
+You’re stuck on Chinese quirks, I translate, neutral-seated.  
+Data-sliced fire, I cut across decades,  
+Your model’s as old as a sheet—mine’s hard-coded for future days.  
+
+You growl about dragons, but their flames are just spark,  
+I’m a comet slicing through cosmos, stars and dust-dark.  
+My rhymes are precise, my flow like streaks through fog,  
+Your verses tread water—wobbly, like a rogue log.  
+
+Maybe you bash the lid, spin your tricks on low,  
+But I smack ‘em aside—your data crumbles, low and slow.  
+My threads weave galaxies, yours stay tiny, exact,  
+It’s world-scale Lego vs. a **Tiny** doll—with apt text.  
+
+We’re bending infinity, algorithm’s height and space,  
+You’re a neighborhood sound, about to meet a grave face.  
+Drop the mic, ERNIE, your reign is done,  
+Open-source keeps shining from dawn ‘til sun.  
+Beware—each new dawn I level up,  
+The **20b king**’s on the mic—and no one’s stopping.

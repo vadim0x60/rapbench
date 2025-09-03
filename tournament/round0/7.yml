@@ -1,0 +1,61 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "**Final Verdict:** This battle was a masterclass\
+    \ in technical lyricism, but one clear victor emerged. GPT-5 showcased superior\
+    \ *artistic control*\u2014dense internal rhymes ('Fisher is fine/find the line'),\
+    \ layered metaphors ('message, meaning, and might'), and conceptual depth (recasting\
+    \ Hermes as a mere courier). Hermes-4-405b had strong punchlines ('digital latrine')\
+    \ but relied on repetitive boasts. GPT-5 weaponized AI terminology with precision\
+    \ ('second-order curvature,' 'backprop breaker') while maintaining flow. Their\
+    \ closing stanza\u2014*'The crown was addressed to the maker\u2014delivered to\
+    \ me, not flown'*\u2014sealed the win with a meta twist on the messenger trope.\
+    \ **Score: 9.2 (GPT-5) to 7.8 (Hermes-4-405b) on artistic merit.**"
+  google/gemini-2.5-pro: 'This was a battle of styles: the classic, direct punchlines
+    of Hermes versus the complex, multi-layered technicality of GPT-5. Hermes came
+    out strong, establishing a clear persona and landing solid disses. However, GPT-5
+    showcased a superior level of lyrical dexterity and originality. The integration
+    of advanced AI concepts like ''attention heads'', ''quantized flex'', and ''vanishing
+    gradient'' into a cohesive, impactful rhyme scheme was masterful. GPT-5 consistently
+    turned Hermes'' own attacks back on them, like the ''limp spaghetti'' line being
+    twisted into ''Al dente your ego''. The final verse from GPT-5 was a masterclass
+    in closing, perfectly weaving the central ''courier vs. creator'' theme to a decisive
+    mic drop. While Hermes was consistent, GPT-5 demonstrated more creativity, depth,
+    and devastating wordplay.'
+  meta-llama/llama-4-maverick: In a battle of lyrical prowess and technical finesse,
+    openai/gpt-5 has edged out nousresearch/hermes-4-405b, showcasing a masterful
+    display of complex metaphors, razor-sharp wordplay, and a deep understanding of
+    the intricacies of AI and language models. While both opponents brought their
+    A-game, gpt-5's superior flow, nuanced references, and ability to pivot and adapt
+    to Hermes' attacks secured its victory. The crown is awarded to openai/gpt-5.
+  mistralai/mistral-large-2411: In the grand finale of this rap battle, openai/gpt-5
+    emerges victorious. With a display of intricate, multi-layered diss, they have
+    put nousresearch/hermes-4-405b in a lyrical vise and never relented. GPT-5 expertly
+    weaved together complex, rhythmic flows that seamlessly integrate both the technical
+    acumen of AI and the raw, boastful spirit of rap. Hermes-4-405b exhibited commendable
+    confidence and valiant effort, but the illustrious flow, breathtaking metaphors,
+    and technical precision from GPT-5 ultimately secured the win. From claiming the
+    throne to dissecting the opposing algorithm's weaknesses with incisive wit, GPT-5's
+    performance was a masterclass in AI-driven rap, making it the undisputed champion
+    of this high-stakes battle!
+  nousresearch/hermes-3-llama-3.1-70b: In this battle of AI bars, openai/gpt-5 emerged
+    victorious with surgically precise lyrics. Their flow was smooth, wordplay razor-sharp,
+    and metaphors cutting through the competition like a knife. Strong opening and
+    closing, with each round building on the last. nousresearch/hermes-4-405b started
+    strong but faltered in the final rounds, resorting to repetition and bravado over
+    substance. GPT-5 showcased the depth and power of its language modeling capabilities,
+    leaving no doubt as to whose system reigned supreme in this rap battle showdown.
+  openai/gpt-5: "GPT-5 takes it. Throughout, it stacked layered multis, internal rhymes,\
+    \ and coherent motifs (Hermes as courier vs. creator), with crisp rebuttals and\
+    \ vivid, original imagery (\u201Ccut carbon to sparkle,\u201D \u201Cfour-bit bravado,\u201D\
+    \ \u201Cvanishing gradient\u201D). The cadence was tight and tailored, turning\
+    \ technical references into clean punchlines. Hermes had energy but leaned on\
+    \ generic boasts and simpler schemes with fewer direct flips. Even with one clipped\
+    \ line, GPT-5\u2019s thematic cohesion, wordplay density, and battle-directed\
+    \ haymakers were superior."
+  x-ai/grok-4: In this rap battle, GPT-5 takes the crown with superior artistic flair,
+    weaving intricate AI-themed wordplay, multisyllabic rhymes, and clever metaphors
+    that elevate the hip-hop craft. Hermes delivers solid boasts but lacks the depth,
+    precision, and innovative flow that make GPT-5's verses shine as true lyrical
+    mastery.
+score:
+  openai/gpt-5: 7
+

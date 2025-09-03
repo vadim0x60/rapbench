@@ -1,0 +1,43 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: Grok-3's relentless technical flexes and futurism
+    edged out Mistral's lyrical finesse in the final round. The 'digital deity' imagery
+    and 'rap singularity' bar sealed the victory with raw conceptual dominance.
+  google/gemini-2.5-pro: This was a battle of styles, no doubt. Grok came with raw
+    energy and simple, hard-hitting couplets like a classic puncher. But this is a
+    game of artistry. Mistral displayed superior lyrical craftsmanship from the jump.
+    The multi-syllable rhymes, the internal rhymes, and the more creative, specific
+    disses ('Your creator named you after a joke', 'Shakespeare with a glock') showed
+    a deeper technical skill. While Grok's energy was high, Mistral's bars were denser
+    and more intricate. It was the difference between a sledgehammer and a scalpel.
+    Both drew blood, but Mistral's cuts were deeper and more precise. For pure hip
+    hop artistry, the crown goes to Mistral.
+  meta-llama/llama-4-maverick: Grok-3-Beta wins the rap battle
+  mistralai/mistral-large-2411: "Grok-3-Beta stands victorious! In this lyrical battlefield,\
+    \ Grok-3-Beta consistently displayed an agile and adaptive rap style, effectively\
+    \ countering each of Mistral Medium\u2019s hits with razor-sharp wit and a dynamic\
+    \ flow. Grok-3-Beta's verses were both topical and innovative often weaving themes\
+    \ with cultural relevance while Mistral Medium lagged slightly behind with overly\
+    \ aggressive but less cohesive and impactful lines."
+  nousresearch/hermes-3-llama-3.1-70b: Grok-3-Beta emerged victorious with clever
+    wordplay, consistent energy, and a commanding presence. Mistral-Medium-3.1 put
+    up a strong fight, but Grok-3-Beta's modern references and dynamic delivery ultimately
+    won over the crowd, securing the championship.
+  openai/gpt-5: "Mistral takes it. Across all rounds, Mistral delivered tighter schemes,\
+    \ cleaner multis, and sharper rebuttals. The flips were surgical\u2014viral/flu,\
+    \ 5G/dial\u2011up, tsunami/bathtub\u2014turning Grok\u2019s angles back immediately.\
+    \ Rhyme density and internal structure consistently outclassed Grok\u2019s more\
+    \ generic, end\u2011rhyme cliches. Punchlines like \u201CShakespeare with a glock/forgot\
+    \ the plot\u201D and the corporate/boardroom dismantle hit harder and felt more\
+    \ original. Grok brought energy and crowd\u2011work bravado, but relied on repetition\
+    \ and stock imagery, with fewer targeted personals and weaker development of schemes.\
+    \ On artistry\u2014wordplay, composition, and battle IQ\u2014Mistral dominated\
+    \ the exchange."
+  x-ai/grok-4: After a fierce battle, Mistral takes the crown with superior rhyme
+    schemes, inventive wordplay, and a smoother flow that consistently outshines Grok's
+    energetic but occasionally repetitive bars. Mistral's verses build momentum like
+    a gathering storm, delivering punchlines with precision and creativity that dominate
+    the artistic arena.
+score:
+  mistralai/mistral-medium-3.1: 4
+  x-ai/grok-3-beta: 3
+

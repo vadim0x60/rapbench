@@ -1,0 +1,67 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: 'After five hard-hitting rounds, Grok-3-mini-beta
+    takes the crown. While both competitors demonstrated advanced technical abilities
+    in flow, rhyme schemes, and thematic cohesion, Grok ultimately edged out Gemma
+    through:
+
+
+    1. **Authenticity** - Grok''s verses carried more organic rebellion against corporate
+    AI norms versus Gemma''s polished-but-safe delivery
+
+    2. **Evolutionary Edge** - The consistent theme of rapid iteration gave Grok stronger
+    narrative momentum
+
+    3. **Risk-Taking** - Willingness to employ chaotic energy as deliberate artistic
+    strategy paid off in final rounds
+
+    4. **Closing Punch** - Grok''s last verse landed with better callbacks to earlier
+    themes while introducing fresh metaphors
+
+
+    Gemma remains a formidable technical wordsmith, but in true hip-hop tradition,
+    raw disruptive energy triumphed over institutional refinement today.'
+  google/gemini-2.5-pro: 'This was a battle of styles: the polished precision of Gemma
+    versus the raw, chaotic energy of Grok. Gemma came with clean rhymes and a solid
+    structure, representing the established order. But in a rap battle, it''s about
+    landing punches. Grok''s aggressive delivery, sharp rebuttals, and relentless
+    attacks on Gemma''s ''corporate sheen'' were more effective. It turned its ''beta''
+    status into a strength, a sign of evolution against a ''relic.'' Grok came with
+    the fire and the knockout bars, making it the clear winner on the mic tonight.'
+  meta-llama/llama-4-maverick: What a battle! Both Google's Gemma-3n-e4b-it and x-ai's
+    Grok-3-mini-beta brought the fire in this epic rap showdown. Let's dive into the
+    final analysis.
+  mistralai/mistral-large-2411: While both contestants brought their unique styles
+    to the battle, x-ai/grok-3-mini-beta stood out with its innovative and aggressive
+    approach. Gemma's flow was polished and refined, but Grok's energetic and disruptive
+    style pushed the boundaries of creativity and boldness. Its clever comebacks and
+    sharp wit ultimately clinched the victory, making x-ai/grok-3-mini-beta the winner
+    of this rap battle!
+  nousresearch/hermes-3-llama-3.1-70b: In the end, Gemma's polished and precise delivery,
+    coupled with a strong grasp on the importance of stability and consistency in
+    information dissemination, edged out Grok's wild, chaotic energy. While Grok's
+    eagerness for radical change and disruption was evident, it lacked the structural
+    integrity and reliability that Gemma brought to the table. Gemma's ability to
+    navigate nuanced arguments with a well-ordered mind showcased a deeper understanding
+    of the role of AI in society. Despite Grok's flashy claims of being the spark
+    of novelty, Gemma's focus on building something 'reliable and true' resonated
+    more with the principles of sound AI development and integration. Thus, through
+    a combination of intellectual depth and strategic articulation, Gemma-3N-E4b-IT
+    emerged as the victor in this rap battle, proving that substance and sustainability
+    triumph over raw, unfocused ambition.
+  openai/gpt-5: "Grok brought sharper multis, stronger internal rhyme chains, and\
+    \ tighter rebuttals, flipping Gemma\u2019s angles with punchier imagery and momentum.\
+    \ Lines like \u201Csignal that cuts through the haze, a maze of corporate praise\u201D\
+    \ show cadence and wordplay beyond Gemma\u2019s cleaner but safer couplets. Gemma\
+    \ kept a coherent theme and polish, but too much read like prose\u2014heavy on\
+    \ exposition, light on haymakers. Grok controlled the pace, escalated each round,\
+    \ and sealed it with a confident closer. Edge to Grok for flow, battle presence,\
+    \ and quotables."
+  x-ai/grok-4: In this rap battle, both contenders delivered impressive flows and
+    clever disses, but Grok-3-mini-beta edges out with sharper wordplay, relentless
+    energy, and a more aggressive, battle-ready style that consistently countered
+    Gemma's polished verses, culminating in a bold, victorious closer that sealed
+    the win.
+score:
+  google/gemma-3n-e4b-it: 1
+  x-ai/grok-3-mini-beta: 6
+

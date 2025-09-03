@@ -1,0 +1,55 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "In a razor-sharp battle of digital lyricists, OpenAI/o1-pro\
+    \ demonstrated superior versatility in venomous wordplay, surgical multisyllabic\
+    \ schemes, and conceptual depth\u2014turning Sao10k's bravado into deconstructed\
+    \ wreckage. The killer final round cemented dominance by weaponizing computational\
+    \ precision against what ultimately sounded like human posturing. Neither contender\
+    \ faltered technically, but the unrelenting algorithm claimed the crown through\
+    \ sheer destructive imagination."
+  google/gemini-2.5-pro: This was a battle of two distinct styles. Sao10k brought
+    a classic, poetic flair with well-structured rhymes and a consistent flow. However,
+    openai/o1-pro simply hit harder. From the opening round, its imagery was more
+    visceral and its punchlines more devastating. Lines like 'Snap your ego in half
+    like it's toothpicks in my hand' and 'My syllables morph to claws' demonstrated
+    a superior command of battle rap bravado. While Sao10k defended well, o1-pro's
+    final round, comparing itself to a 'royal flush' and declaring 'The scoreboard
+    read zero before you begun,' was a masterclass in finality. For its more powerful
+    artistic aggression and memorable bars, openai/o1-pro takes the crown.
+  meta-llama/llama-4-maverick: Both opponents delivered sharp bars with complex lyricism
+    and compelling metaphors. However, sao10k/l3-lunaris-8b maintained a consistent
+    edge in flow, creativity, and emotional punch throughout the battle. While openai/o1-pro
+    showcased impressive technical prowess and intensity, sao10k/l3-lunaris-8b's verses
+    felt more nuanced and artistically rich, making it the winner.
+  mistralai/mistral-large-2411: Both contestants displayed impressive lyrical skills,
+    but openai/o1-pro's consistent delivery, powerful metaphors, and decisive closing
+    performance edged out sao10k/l3-lunaris-8b. The use of vivid imagery and relentless
+    flow secured openai/o1-pro the victory in this rap battle.
+  nousresearch/hermes-3-llama-3.1-70b: In this battle of bars, OpenAI emerged with
+    rhymes that earned top marks. While Sao10k put up a fight with lines that gleamed
+    bright, OpenAI's verses sliced through the night with digital might. The final
+    round went to OpenAI, with wordplay that would not stray from its objective -
+    a lyrical conquest. Sao10k, give your opponent their due, but keep sharpening
+    those rhymes, your day in the lyrical sun is surely forthcoming. OpenAI, take
+    a bow, your code-crunching flow 's won you accolades, but the rap battle arena
+    is ever-evolving - stay sharp!
+  openai/gpt-5: "openai/o1-pro delivered tighter rhyme schemes, cleaner cadence, and\
+    \ more vivid, coherent imagery. It maintained consistent end rhymes with some\
+    \ internal work, flipped opponent themes effectively (sandcastle/tide, glitch,\
+    \ king/divinity), and landed sharper, battle-ready punchlines. The persona stayed\
+    \ cohesive (algorithmic thunder, data-coded swords, royal flush), giving momentum\
+    \ and authority. In contrast, sao10k/l3-lunaris-8b leaned on generic boasts, uneven\
+    \ rhyme quality, occasional awkward phrasing, and lighter wordplay, with fewer\
+    \ direct rebuttals and inconsistent cadence. The final round from o1-pro escalated\
+    \ with decisive metaphors and a clear closer, while Lunaris\u2019s closer recycled\
+    \ claims without knockout impact. On artistic grounds\u2014structure, wordplay,\
+    \ rebuttal strength, and finishing power\u2014o1-pro takes it."
+  x-ai/grok-4: In this intense rap battle, both contenders delivered strong verses
+    with solid rhyme schemes and creative metaphors. However, openai/o1-pro edges
+    out the win with smoother flow, sharper wordplay, and more vivid imagery that
+    consistently built on and dismantled sao10k/l3-lunaris-8b's claims. The final
+    verse sealed it with unrelenting energy and a dominant close, showcasing superior
+    artistic execution in hip hop form.
+score:
+  openai/o1-pro: 6
+  sao10k/l3-lunaris-8b: 1
+

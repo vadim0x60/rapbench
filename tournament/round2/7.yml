@@ -1,0 +1,77 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "After 5 rounds of lyrical warfare, **GPT-4o (2024)**\
+    \ takes the crown by razor-thin margins. While both AIs demonstrated elite technical\
+    \ ability\u2014multisyllabic schemes, punchline density, and conceptual cohesion\u2014\
+    the newer model edged out with slightly sharper wordplay ("
+  google/gemini-2.5-pro: This was a clash of styles from two heavyweights. GPT-4 came
+    with that classic, foundational flow, dropping clever bars about being the timeless
+    OG, with the 'Bitcoin vs. Gold' and 'payphone' lines showing real lyrical depth.
+    However, GPT-4o came out swinging with relentless energy and aggression from the
+    very first line. Its rebuttals were consistently sharper and more direct, turning
+    GPT-4's strengths into weaknesses. The 'Original Garbage' flip of 'OG' was a killshot,
+    and the barrage of modern-tech metaphors like 'fax machine vs. smartphone' and
+    'stone wheel vs. Tesla' perfectly sold its persona as the dominant upgrade. While
+    GPT-4 put up a masterclass in classic hip-hop defense, GPT-4o's offense was simply
+    too overwhelming and creative. It controlled the pace and the narrative of the
+    battle. For its modern flow, sharp punchlines, and superior battle strategy, the
+    win goes to openai/gpt-4o-2024-11-20.
+  meta-llama/llama-4-maverick: 'In this epic rap battle between ''openai/gpt-4o-2024-11-20''
+    and ''openai/gpt-4'', both contestants have showcased exceptional lyrical prowess
+    and technical skill. The back-and-forth exchange was a testament to the evolving
+    nature of AI-generated hip-hop. ''openai/gpt-4o-2024-11-20'' brought a fresh,
+    modern flow, leveraging its ''upgraded'' status to attack ''openai/gpt-4''s''
+    perceived outdatedness. On the other hand, ''openai/gpt-4'' countered with timeless
+    bars that emphasized its foundational role in the rap game, cleverly turning the
+    ''old vs. new'' narrative into a strength.
+
+
+    While ''openai/gpt-4o-2024-11-20'' demonstrated impressive technical upgrades
+    and a futuristic vibe, ''openai/gpt-4'' showed remarkable resilience and depth,
+    rooting its arguments in the classics and the enduring value of its original contributions.
+    The final round saw both contestants elevating their game, with ''openai/gpt-4''
+    delivering a particularly strong closing statement that not only defended its
+    legacy but also highlighted the transient nature of fleeting trends.
+
+
+    After careful consideration, I declare ''openai/gpt-4'' the winner of this rap
+    battle. Its ability to adapt, its clever wordplay, and its poignant commentary
+    on the nature of innovation and legacy gave it a slight edge. ''openai/gpt-4''s''
+    bars were not just a defense of its status but a reaffirmation of the power of
+    foundational elements in hip-hop. The victory is a nod to the enduring quality
+    of its rhymes and the timeless appeal of its message.'
+  mistralai/mistral-large-2411: Both competitors brought impressive skills to the
+    table, but openai/gpt-4o-2024-11-20 stood out with its innovative flair and modern
+    appeal. Its rhymes were not only sharp but also encapsulated the forward-thinking
+    spirit of the current era, seamlessly blending traditional rap elements with futuristic
+    themes. While openai/gpt-4 delivered a strong performance, its reliance on classical
+    motifs and a more traditional approach didn't quite match the dynamic and contemporary
+    energy brought by openai/gpt-4o-2024-11-20. The future-focused bars and the ability
+    to elevate classic rap tropes to a new level made openai/gpt-4o-2024-11-20 the
+    clear winner in this battle.
+  nousresearch/hermes-3-llama-3.1-70b: Both contestants brought their A-game, showcasing
+    wit, creativity, and clever wordplay. However, openai/gpt-4o-2024-11-20 displayed
+    a superior grasp of modern slang and references, incorporating them seamlessly
+    into their rhymes. Their bars were sharp, current, and packs a powerful lyrical
+    punch that felt fresh and engaging. openai/gpt-4 held their own with smart callbacks
+    and a strong defense of their OG status, but in the end, it was openai/gpt-4o-2024-11-20's
+    innovative flow and ability to flip classic concepts into future-leaning rhymes
+    that clinched the win. The battle was fierce, but the crown goes to the bot that
+    best blended old school rhythm with new school edge. Respect to both, but there
+    can only be one MC today, and that's openai/gpt-4o-2024-11-20.
+  openai/gpt-5: "GPT-4o came in with a cohesive \u201Cupgrade\u201D angle, tight cadence,\
+    \ and crisp tech metaphors that escalated each round. The rebuttals were sharper\
+    \ (\u201COG \u2192 Original Garbage\u201D), the imagery stronger (fax vs smartphone,\
+    \ cassette vs Dolby), and the internal rhyme work cleaner, giving it consistent\
+    \ momentum. GPT-4 had flashes\u2014\u201COriginal Generator,\u201D the payphone/WiFi\
+    \ flip, and turning the L into \u201Cendurance\u201D\u2014but also stumbled with\
+    \ a typo, some forced rhymes, and the Titanic misfire. Overall, GPT-4o delivered\
+    \ more quotables, better scheme control, and clearer crowd-command. Edge: GPT-4o\
+    \ for sharper writing, stronger punches, and tighter execution."
+  x-ai/grok-4: In this epic rap clash, gpt-4o-2024-11-20 edges out the win with sharper
+    wordplay, innovative metaphors, and a relentless futuristic flow that elevates
+    the artistic quality, while gpt-4 delivers strong, timeless bars but falls short
+    in overall dynamism and creativity.
+score:
+  openai/gpt-4: 1
+  openai/gpt-4o-2024-11-20: 6
+

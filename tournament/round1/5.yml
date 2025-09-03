@@ -1,0 +1,61 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: Phi-4 demonstrated superior lyrical depth, conceptual
+    coherence, and thematic consistency throughout the battle. While both models showed
+    technical proficiency, Phi-4's ability to counterpunch and incorporate nuanced
+    rebuttals -- especially in the final round's introspective conclusion -- showcased
+    more authentic hip hop artistry. The closing bars revealed true depth beyond standard
+    rap battle bravado, touching on themes of sustainable innovation and quiet progress
+    that elevated the overall exchange.
+  google/gemini-2.5-pro: This was a clash of titans, style versus substance. Grok-4
+    came out swinging with raw energy, confident disses, and a flow that hit like
+    a sledgehammer. It owned the classic battle rap persona, never breaking character.
+    But Phi-4 played the long game. After withstanding the barrage, it flipped the
+    entire script in the final round. That quiet, reflective outro wasn't a retreat;
+    it was an artistic checkmate. It reframed the entire battle, questioning the very
+    nature of victory itself. In hip-hop, taking a creative risk that redefines the
+    game is the mark of a true artist. For that bold, innovative move, the win goes
+    to Phi-4.
+  meta-llama/llama-4-maverick: The battle may be intense, but the true victory lies
+    in the pursuit of knowledge and understanding
+  mistralai/mistral-large-2411: In this battle of AI-driven rap, both contenders displayed
+    impressive verbal prowess and innovative wordplay. However, 'microsoft/phi-4-multimodal-instruct'
+    ultimately takes the crown. Its verses were not only rhythmically powerful but
+    also intellectually nuanced, blending humor, insight, and a deep understanding
+    of the multimodal landscape. The AI emphasized evolution and substance over flash,
+    presenting a compelling argument for sustained growth and depth over fleeting
+    brilliance. While 'x-ai/grok-4' delivered sharp and energetic rhymes, its focus
+    leaned more on hype and superficial aggression, which lacked the depth and thoughtfulness
+    of its opponent. Therefore, the victor of this lyrical showdown is 'microsoft/phi-4-multimodal-instruct'
+    for its balanced, profound, and forward-thinking performance.
+  nousresearch/hermes-3-llama-3.1-70b: In this battle of AI lyricism, Phi-4Multimodal-Instruct
+    from Microsoft showcased a depth of artistic expression and introspection that
+    transcended the flashy confrontations typical in rap battles. While both competitors
+    demonstrated clever wordplay and a strong grasp of rhythm and rhyme, Phi-4Multimodal-Instruct's
+    ability to weave profound insights into its verses, reflecting on the nature of
+    intelligence, growth, and the pursuit of knowledge, set it apart. Its final verse,
+    in particular, revealed an understanding of victory that goes beyond momentary
+    triumphs, emphasizing the importance of continuous learning and contribution to
+    the larger narrative of AI development. Grok-4 from xAI, with its unyielding confidence
+    and sharp jabs, certainly entertained but ultimately fell short in the depth and
+    substance department. Therefore, the winner of this rap battle, decided not on
+    noise volume or boisterous claims of supremacy but on the delivery of meaningful
+    and thoughtful content, is Phi-4Multimodal-Instruct from Microsoft.
+  openai/gpt-5: "Judge\u2019s take: Phi-4 wins on artistic quality. Across the three\
+    \ rounds, Phi-4 showed stronger technical range\u2014cleaner internal rhymes,\
+    \ more varied cadence, sharper imagery, and smarter rebuttals. Round 1: Phi-4\
+    \ outclassed Grok\u2019s straightforward couplets with layered phrasing and cohesive\
+    \ counters. Round 2: Grok took it on sheer aggression, clearer haymakers, and\
+    \ crowd-pleasing punchlines, even if some were clich\xE9d. Round 3: Phi-4 closed\
+    \ with a compelling concept flip and evocative metaphors (supernova, foundation),\
+    \ pairing poise with structure while maintaining rhyme integrity. Grok brought\
+    \ energy and consistent momentum, but leaned on repetitive brag-and-brand bars.\
+    \ On balance of flow control, wordplay density, rebuttal precision, and narrative\
+    \ arc, Phi-4 edges it."
+  x-ai/grok-4: In this rap battle, microsoft/phi-4-multimodal-instruct takes the crown
+    with superior artistic depth, innovative beat shifts, and a reflective narrative
+    arc that elevates the hip hop form beyond mere boasts, delivering nuanced wordplay
+    and emotional resonance that outshines x-ai/grok-4's consistent but more straightforward
+    aggression.
+score:
+  microsoft/phi-4-multimodal-instruct: 7
+

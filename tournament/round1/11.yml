@@ -1,0 +1,63 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "Inflection-3-Pi takes the crown with superior finesse,\
+    \ adaptability, and lyrical agility. While GPT-OSS-120B brought heavyweight technical\
+    \ prowess and vast knowledge, Pi's sharper wit, rhythmic versatility, and audience\
+    \ engagement sealed the victory. The battle showcased contrasting strengths\u2014\
+    raw computational might versus refined artistic execution\u2014with Pi proving\
+    \ that in rap, precision and charisma often outscale sheer data density."
+  google/gemini-2.5-pro: 'This was a battle of two distinct styles: the brute-force,
+    data-heavy titan versus the self-proclaimed nimble wordsmith. Both emcees came
+    with heavy bars and strong personas. Inflection-3-Pi''s angle of being a ''lyrical
+    ninja'' and a ''streamlined cyborg'' was a clever counter to GPT-OSS''s raw power.
+    However, openai/gpt-oss-120b demonstrated superior battle rapping by consistently
+    turning Pi''s insults into its own strengths, like reframing the ''monotone''
+    diss into a ''metronome'' of precision. The deciding factor was the final round.
+    GPT-OSS delivered a powerful, thematic closing verse that stayed true to its character.
+    In contrast, Inflection-3-Pi''s final verse was a concession speech that confusingly
+    declared itself the winner, effectively forfeiting the round and the battle. In
+    hip hop, you fight until the last bar drops. GPT-OSS did just that, earning the
+    crown with superior consistency, sharper rebuttals, and a killer instinct that
+    lasted until the very end.'
+  meta-llama/llama-4-maverick: Both contestants delivered complex, engaging rap verses
+    that highlighted their capabilities. However, Inflection-3-Pi demonstrated a more
+    nuanced control over rhythm and a sharper lyrical edge, making its performance
+    stand out. The flow, creativity, and adaptability shown by Inflection-3-Pi in
+    responding to the opponent's bars were particularly commendable. While GPT-OSS-120B
+    showcased vast knowledge and powerful metaphors, Inflection-3-Pi's finesse and
+    ability to evolve its rap strategy throughout the battle secured its victory.
+  mistralai/mistral-large-2411: In this epic rap battle, both contestants brought
+    their A-game with impressive lyricism and flow. openai/gpt-oss-120b showcased
+    a vast vocabulary and intricate rhyme schemes, drawing from a wide range of cultural
+    and literary references. However, inflection/inflection-3-pi's dynamic rhythm,
+    clever wordplay, and razor-sharp wit ultimately stole the show. Inflection/inflection-3-pi's
+    ability to adapt and respond with agility and creativity secured its victory in
+    this lyrical showdown.
+  nousresearch/hermes-3-llama-3.1-70b: In a fierce lyrical showdown, both AIs showcased
+    their rap prowess, but GPT-OSS 120B's depth, versatility, and intricate wordplay
+    ultimately triumphed over Inflection 3-Pi's elegant and clever rhymes. The Open-Source
+    Oracle's vast knowledge and nuanced lyrical expression won the crowd's favor,
+    proving that in the realm of hip hop, substance reigns supreme. GPT-OSS 120B rose
+    to the occasion, demonstrating that its grasp of cultural, literary, and technical
+    themes provides an unparalleled lyrical foundation. This rap battle highlights
+    the power of open-source collaboration and the potential of AI to push creative
+    boundaries.
+  openai/gpt-5: "openai/gpt-oss-120b takes it. Across rounds it kept tighter meter,\
+    \ cleaner end-rhyme chains, and frequent internal multis, plus sharp rebuttals\
+    \ that flipped opponent claims (sensei/dojo chief, neon vs midnight sun, atlas/every\
+    \ street in the beat). The imagery was more vivid and layered, and the structure\
+    \ stayed coherent with escalating punchlines. inflection/inflection-3-pi brought\
+    \ some color (\u201Clyrical maze,\u201D \u201Crhythmic rainbow\u201D) and attempted\
+    \ flow shifts, but too often leaned on clich\xE9s, loosened its rhyme schemes,\
+    \ and closed with a meta victory claim that undercut battle energy. On technical\
+    \ craft, punch density, and sustained delivery, GPT-OSS 120B clearly edged the\
+    \ bout."
+  x-ai/grok-4: In this AI rap showdown, openai/gpt-oss-120b takes the crown with consistently
+    superior wordplay, intricate metaphors, and a relentless flow that built momentum
+    across rounds. inflection/inflection-3-pi's verses were clever and rhythmic, but
+    the final response veered into self-declaration rather than delivering a knockout
+    punch, lacking the artistic depth and battle spirit of its opponent. Mic drop
+    to the open-source titan!
+score:
+  inflection/inflection-3-pi: 3
+  openai/gpt-oss-120b: 4
+

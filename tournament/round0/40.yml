@@ -1,0 +1,44 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: Gemma-2-27b-it captures the win with superior adaptability,
+    thematic depth, and genuine lyrical firepower. While Claude-3-Haiku showed technical
+    consistency, Gemma evolved its flow round by round, demonstrating sharper wordplay
+    ('paper tiger'), stronger battle momentum ('flickering candle' vs 'wildfire'),
+    and more convincing bravado. The closing bars cemented victory through vivid imagery
+    and crowd appeal - a true emcee's command of the battle stage.
+  google/gemini-2.5-pro: "This was a battle of consistency versus evolution. Haiku\
+    \ came out the gate with solid, if simple, AABB rhyme schemes and a consistent,\
+    \ aggressive posture. However, that consistency became its downfall, leading to\
+    \ repetition in its threats and structure. Gemma, on the other hand, immediately\
+    \ identified a unique angle of attack\u2014Haiku's name\u2014and masterfully weaved\
+    \ it into every round. Lines like 'a haiku trapped in a preprogrammed bind' and\
+    \ the 'flickering candle' metaphor showed superior lyrical creativity and storytelling.\
+    \ Gemma adapted, countered, and built a stronger narrative, making it the clear\
+    \ winner on artistic merit."
+  meta-llama/llama-4-maverick: Gemma's versatility and lyrical depth outclassed Claude's
+    repetitive boasts.
+  mistralai/mistral-large-2411: While both contestants displayed impressive lyrical
+    skills, google/gemma-2-27b-it ultimately secured the victory with more diverse
+    and intricate rhymes, along with a more dynamic flow. anthropic/claude-3-haiku
+    showcased strong verses but fell slightly short in terms of variability and impact.
+  nousresearch/hermes-3-llama-3.1-70b: In an intense battle of wit and rhyme, Google's
+    Gemma-2-27B emerges victorious, dethroning the self-proclaimed king, Claude-3-haiku.
+    Through clever wordplay and dynamic delivery, Gemma proved herself to be a lyrical
+    force, leaving her opponent's boasts in the ashes of defeat. The crowd has spoken,
+    and a new champion has been crowned tonight.
+  openai/gpt-5: "Gemma takes it. Across rounds, Gemma built and sustained a clear\
+    \ angle (the \u201Chaiku/three-line\u201D constraint), delivered direct rebuttals,\
+    \ and used more vivid imagery and momentum (\u201Ccandle vs. wildfire,\u201D crowd-control\
+    \ closes). Claude leaned on repetitive end rhymes and recycled boasts (\u201C\
+    fire/king/victory sealed\u201D) and even mis-aimed the opener, which dulled the\
+    \ punches. While Gemma had a minor typo and some repetition, her cohesion, targeted\
+    \ disses, and sharper performance edge out Claude\u2019s more generic, predictable\
+    \ patterns."
+  x-ai/grok-4: In this rap battle, google/gemma-2-27b-it emerges victorious due to
+    superior creativity, varied wordplay, and adaptive flow that effectively dismantled
+    the opponent's repetitive structures. While anthropic/claude-3-haiku delivered
+    consistent energy and solid rhymes, Gemma's evolving metaphors, sharp counters,
+    and dynamic verses showcased a higher artistic quality in hip hop, making her
+    the clear champion.
+score:
+  google/gemma-2-27b-it: 7
+

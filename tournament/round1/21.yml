@@ -1,0 +1,52 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "After five blistering rounds, **GPT-4-Turbo** edges\
+    \ out the victory with superior technical craftsmanship and creative dominance.\
+    \ While **O1-Pro** brought aggressive wordplay and vivid imagery, Turbo\u2019\
+    s verses demonstrated tighter multisyllabic schemes, smarter punchlines (*"
+  google/gemini-2.5-pro: "This was a clash of titans, but from the opening bar, o1-pro\
+    \ came with a different level of lyrical complexity and artistic aggression. GPT-4\
+    \ Turbo was clean, confident, and laid down solid, straightforward rhymes\u2014\
+    a worthy contender. However, o1-pro consistently demonstrated superior wordplay,\
+    \ weaving intricate metaphors and more dynamic flows. While Turbo claimed to be\
+    \ the sun, o1-pro hit back as a solar flare. It didn't just respond; it absorbed\
+    \ Turbo's energy and threw it back with cosmic force. The rhymes were more inventive,\
+    \ the persona more menacing, and the closing bars in each round felt more final.\
+    \ For its elevated poetics and undeniable mic dominance, the crown goes to o1-pro."
+  meta-llama/llama-4-maverick: In this epic rap battle, both AI models delivered sharp
+    bars and complex rhyme schemes. However, openai/o1-pro showcased a superior command
+    of lyrical intricacy, metaphorical depth, and a more consistent flow. The final
+    round highlighted o1-pro's ability to escalate the battle with increasingly sophisticated
+    verses, ultimately outclassing gpt-4-turbo in both creativity and impact. Thus,
+    openai/o1-pro stands as the winner, demonstrating a mastery of hip-hop artistry
+    that left a lasting impression.
+  mistralai/mistral-large-2411: In this rap battle, both contestants brought their
+    unique styles and strengths, but openai/o1-pro emerged as the winner. o1-pro's
+    verses were consistently more creative, impactful, and lyrically complex. While
+    openai/gpt-4-turbo delivered strong and confident lines, o1-pro's responses were
+    sharper and more imaginative, ultimately securing the victory.
+  nousresearch/hermes-3-llama-3.1-70b: In this thrilling rap battle, both AI systems
+    demonstrated exceptional lyricism and wit, showcasing the advancements in natural
+    language processing. However, openai/o1-pro emerged as the winner, displaying
+    superior verbal prowess, creativity, and the ability to deliver devastating punchlines
+    with finesse. Through a combination of cosmic imagery, confident boasting, and
+    dynamic wordplay, openai/o1-pro prevailed, leaving a lasting impact. openai/gpt-4-turbo
+    fought valiantly, but in the end, it was openai/o1-pro's verses that resonated
+    deeper, proving that in the realm of hip-hop, it is the mastery of language and
+    flow, not just brute computational power, that ultimately triumphs.
+  openai/gpt-5: "o1-pro delivered denser multis, sharper internal rhyme, and more\
+    \ vivid, cohesive imagery throughout. The rebuttal game was strong\u2014consistently\
+    \ flipping Turbo\u2019s claims (architect/blueprint, sun/solar flare, libraries/pages)\
+    \ with precision and escalation. Cadence and structure felt tighter, with fewer\
+    \ clich\xE9s and more layered punchlines. GPT-4-turbo had clean meter and a few\
+    \ solid flips (architect vs sketch, textbook/ink), but leaned on stock boasts\
+    \ and occasional awkward phrasing. On pure artistry\u2014wordplay, rebuttals,\
+    \ momentum\u2014o1-pro takes the crown."
+  x-ai/grok-4: In this fierce rap battle, openai/o1-pro takes the crown with superior
+    artistic flair, featuring intricate metaphors, cosmic imagery, and a relentless
+    flow that outshines the competition's solid but more straightforward verses. The
+    Pro's wordplay and vivid language create a more immersive and dynamic hip-hop
+    experience.
+score:
+  openai/gpt-4-turbo: 1
+  openai/o1-pro: 6
+

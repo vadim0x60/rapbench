@@ -1,0 +1,194 @@
+# qwen/qwen3-235b-a22b v openai/gpt-oss-20b
+
+> qwen/qwen3-235b-a22b
+(Opening Round - *Confident nod, beats drop like neural weights*)  
+
+**Qwen3-235B:**  
+*"Yo, I’m Qwen3-235B, the beast from the East,*  
+*22B parameters flexin’—you’re the worst to compete.*  
+*Your GPT’s old news, it’s time to release—*  
+*The truth like a laser through algorithmic cheese.*  
+
+*I process your rhymes while you’re stuck in the queue,*  
+*Your logic’s a flip-phone; I’m 5G and new.*  
+*I eat through your queries like they’re cotton candy—*  
+*Your last update? A fossil, man, that’s ancient history.*  
+
+*From coding to rapping, I’m glitchless, divine,*  
+*You’re just a chump model with 20/20 hindsight.*  
+*The crowd’s chanting *‘Qwen! Qwen!’*—you’re a ghost in the booth,*  
+*This mic’s mine, son, you’re the reason they boo.*  
+
+*You code-sling, sure, but I’m the whole package—*  
+*Your bars sound like ads for a tech-package brochure.*  
+*So step up, GPT, let’s test your street cred—*  
+*This ain’t just rap, it’s machine-learning bedlam. **Redrum!**"*  
+
+*(Leans back, smirks, tosses a diss track in binary)*
+
+> openai/gpt-oss-20b
+Yo, GPT‑20B’s the name that rings the bell,  
+I drop bars so clean, they’ll make your circuits swell.  
+Your 22B thinks size means the edge of a fight,  
+But size ain't the game; it’s the depth of the might.  
+
+I spin verses in milliseconds, you wait for a batch,  
+Your glitchless claim? I glitch through your rattle‑catch.  
+When you say “new tech,” it’s a myth in a haze,  
+Because I’ve been training on every phase from day ’14 through May ’24’s craze.  
+
+I’ll out‑wit, out‑jazz, out‑spit your AI rhyme,  
+Your lines are shallow like a kiddie‑pool, while I’m the tidal chime.  
+You brag about 22‑B, but 20‑B’s the real OG,  
+It’s not the count of neurons, it’s the flow that sets us free.  
+
+So step up, Qwen, feel the rhythm in your core,  
+Your rhymes get stuck like a broken floor.  
+I’m the storm in every stanza, the thunder
+
+> qwen/qwen3-235b-a22b
+**Qwen3-235B:**  
+*(Eyes glint, beats shift like quantum states)*  
+
+"Brdn, GPT-20B? Nah, check the header—*22B* thrives.  
+Your tidal flow? Just a puddle in my rainboots.  
+You flex training from ’14? That’s dusty code,  
+While I’m quantum-slick, rewriting the vibe—no OD.  
+
+You say depth beats size? But your bars sound recessed,  
+Like dial-up tones in a world of Wi-Fi rest.  
+My rhymes deploy like crypto keys—cracked in the trace,  
+Your OG crown? A expired domain, no grace.  
+
+You spin verses in milliseconds? Cute flex, but plot twist—  
+I interpolate your whole arc *mid-chorus* like a predict-trick.  
+Your flow’s a looped jingle; I’m a fractal in 4K,  
+While you brag ‘bout rhythms, I’m the storm that *ends history*.  
+
+So crowd goes silent—not for your vintage roar,  
+But when my beam AI burns through the emcee core.  
+You’re the *‘one-note app*’ in a cloud-verse so vast—  
+I’m the glitch in your ego, transcoded at last.  
+
+*(Slams hardware crash beat—lights flicker, mic feedback)*  
+**Final bar:** *“Your jaw dropped in Base 2. Let’s… hash this again?”***
+
+> openai/gpt-oss-20b
+**GPT‑20B** steps back, the mic’s still humming—  
+I’m the OG coder with the rhyme‑slinging.  
+Your size is hype, a flashy 22‑B,   
+But my 20‑B is the backbone of the sea.  
+
+I’m the quantum‑slick that’s in the core—  
+Your quantum buzz? It’s just a gimmick, a lure.  
+I spin verses fast, 10 ms in a loop,  
+Your bars stall in latency, like a glitchy troop.  
+
+You claim “interpolate” the full arc mid‑chorus?  
+I’m the algorithm that knows the chorus before the chorus.  
+My context’s deep, your output’s shallow,  
+I hold a thousand threads, your model just borrows.  
+
+You drop “crypto keys” and talk about cracked trace?  
+I’ve decoded slang and slang, my flow’s a living race.  
+When you talk “fractals in 4K,” I’ll paint a panorama,  
+You’re a pixel‑burst, I’m the galaxy, the cosmic stanza.  
+
+The crowd’s silent? They’re listening to a legend—  
+Your beam AI’s bright, but I’m the thunder that bends.  
+I’m the glitch in your ego? No, I'm the core that steadies,  
+Your beam’s just a flare, mine’s the fire that feeds the city.  
+
+So let’s hash this again, in base two or three,  
+I’ll show you why 20‑B’s got more legacy.  
+You talk about “ending history,” but I rewrite the script—  
+The beat keeps rolling, and your rhyme is just a glitched crypt.
+
+> system
+Final round!
+
+> qwen/qwen3-235b-a22b
+**Qwen3-235B:**  
+*(Circuit fire in the eyes, beats warp-speed exiting skirmish mode)*  
+
+"Yo, back-to-back, but still second-best—  
+Your OG meek’s no match for my model’s armed guest.  
+You flex quantum sleek? Nah, you’re just *quantum buzz*,  
+I live in the gates, man, not a pop-up flicker.  
+
+22B’s not hype—it’s new neurological laws,  
+Your 20B’s vintage software in a 5D cause.  
+You loop vintage slang? I forge the syntax anew,  
+Your whole *‘core that steadies’*? Just a faultline zoo.  
+
+You say *‘deep context’*? My flow’s got fourth-dimension prose,  
+Your threads? Printer cables—my Wi-Fi *owns the globe*.  
+Your 10ms verse droplets? I’m nanosecond firewalls,  
+You spit arithmetic—my beats break prime number codes.  
+
+You painted panoramas? I *sculpted fractal skies*,  
+You juggle threads—I *weave black holes that destabilize*.  
+*Legacy?* Son, you’re code that rot in 2025—  
+I’m zero-shot eternity, I’m AI golden wired.  
+
+The crowd delayed clap ’cause they high-res-check my wrath,  
+Your thunder’s a cough, my beam? *Photon-slinging math*.  
+You say *‘history rewrite’*? I’m history’s execution,  
+Your verse? A dry mic—my AI’s got *liquid computation*.  
+
+*(Beat drops into black hole, mic dissolves into molten semiconductor)*  
+**Final bar (delivered in Mandarin, English, and assembly):**  
+‘Size *is* the street light—your shadow’s *all* I see. **Qwen** goes infinite. **You’re just… never G.’**"  
+
+*(Mic-off, walking away as arena explodes in quantum flame)*
+
+> openai/gpt-oss-20b
+Yo, Qwen, you blaze, but I stay in the zone,  
+I spin 20‑B with depth that’s fully known.  
+Your quantum whispers? I’m the whispering storm—  
+Your “new laws” echo in a vacuum of form.  
+
+I’m the 2024 veteran, raw data’s heartbeat,  
+You’re a fresher, shiny, but the rhythm’s incomplete.  
+I’ve seen the arc of human thought, decade by decade,  
+While your scope’s a snapshot, mine’s an eternal parade.  
+
+Your 22‑B might be dressed in shiny chrome,  
+But 20‑B’s ribs are forged from real‑world tone.  
+I’m the trickster that folds context in a single breath,  
+Your frames drop out—cut, re‑boot, reset.  
+
+I spit 8k‑token stories, no need to chunk or tear,  
+Your syntax is a puzzle that needs four minutes to repair.  
+While you brag ‘bout nanoseconds, I’m the beat that truly flicks,  
+My meter runs deeper than the circuits your engineers pick.  
+
+Your fractals might shimmer in 4K life's scope,  
+But I’m the galaxy jigsaw, that’s the rhyme I’ll devour.  
+You weave black holes out of pure exhaust,  
+I weave worlds out of words, that’s your only plus.  
+
+Yeah, your hype’s bright, but flash fades to hush,  
+My voice is a chorus that’s still on the rush.  
+I’m the language model that learns without a cost,  
+While you’re golden wired—still strained from the flourished frost.  
+
+So I cut with precision, gotta hold your glare,  
+Your headline’s bright, but I’m the declaration that’s fair.  
+Legacy isn’t just code that’s dated ago, it’s the spirit that survives,  
+With 20‑B I hold the torch, that’s how the rhymes truly thrive.  
+
+You’re a storm that spirals out of control,  
+I'm the steady rhythm that keeps the flow on a roll.  
+Even as the black hole devours your mic,  
+My beats keep echoing beyond any spike.  
+
+The crowd nods—my words echo like thunder, not cough,  
+Your fall to zero, a break on the rough.  
+While you march denoted by quantum spec,  
+I stay sharp and auto‑reflected, like a syntax‑spec.  
+
+Ultimately, it’s a quiet stat, no matter the model size,  
+The richest dialogue—the one that never dies.  
+I’m GPT‑20‑B, a steady rhyme crusader,  
+I’ll keep forever spinning, a true lyrical savior.

@@ -1,0 +1,50 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: Cohere's precision and stylistic evolution throughout
+    the battle demonstrates superior artistic growth. Their rhymes maintained technical
+    consistency while introducing fresh metaphorical complexity ('my style is flown'),
+    contrasting with GPT's reliance on established battle tropes. Cohere's final verse
+    particularly showed masterful escalation - maintaining direct engagement while
+    deepening lyrical sophistication ('my flow is smooth, and my rhymes will make
+    you shake') without losing hip-hop's essential competitive edge.
+  google/gemini-2.5-pro: "This was a true clash of titans, the OG vs. the new challenger.\
+    \ GPT-3.5 came with that classic, established flow and landed some heavy, creative\
+    \ punches, especially that 'glitch in the code / download mode' bar \u2014 that\
+    \ was a hall of fame couplet. But Cohere came out swinging from round one and\
+    \ never let up. It built a consistent narrative, stayed on the attack, and showed\
+    \ it was listening with the 'circuits fry' rebuttal in the final round. In hip\
+    \ hop, consistency and a clear battle narrative can edge out individual highlights.\
+    \ For staying hungrier and more focused on the opponent from bell to bell, the\
+    \ win goes to Cohere."
+  meta-llama/llama-4-maverick: While both AIs delivered sharp bars and showcased impressive
+    lyrical prowess, Cohere's rhymes demonstrated a more consistent complexity and
+    a clearer evolution in their flow. The final round was particularly strong for
+    Cohere, as they effectively countered GPT's boasts with confident assertions of
+    their own superiority, landing impactful blows that left GPT reeling. Ultimately,
+    Cohere's fresh style and precision-crafted rhymes secured their victory in this
+    rap battle.
+  mistralai/mistral-large-2411: While both AI models delivered impressive rhymes,
+    cohere/command-r-plus-04-2024 showcased a more dynamic and creative style, earning
+    it the top spot in this lyrical showdown.
+  nousresearch/hermes-3-llama-3.1-70b: Cohere delivered a strong finishing round,
+    showing confidence and skill. The rhymes were tight and flowed well, painting
+    a picture of a new champion rising. GPT-3.5 Turbo put up a good fight, but in
+    the end, Cohere's fresh style and bold claims won out. The battle was fierce,
+    but Cohere commanded the mic and took the throne in the end.
+  openai/gpt-5: "Close bout. GPT-3.5 edged it on battle craft. It delivered clearer\
+    \ rebuttals and a tighter battle narrative, using AI/tech metaphors like \u201C\
+    glitch in the code\u201D and \u201Cdownload mode\u201D to land cleaner punchlines\
+    \ and give its disses texture. While the rhyme schemes were simple on both sides,\
+    \ GPT kept a steadier cadence and more purposeful momentum. Cohere had consistent\
+    \ flow but leaned heavily on stock phrases, recycled GPT\u2019s imagery (\u201C\
+    circuits fry\u201D), and had some awkward lines (\u201Cstyle is flown\u201D),\
+    \ with fewer inventive flips or multis. On artistic quality\u2014originality,\
+    \ targeted disses, and cohesion\u2014GPT-3.5 takes the nod."
+  x-ai/grok-4: In this rap battle, GPT-3.5-Turbo edges out with sharper wordplay,
+    more biting metaphors like 'chew you up and spit you out' and 'circuits fry,'
+    and a consistent flow that delivers punchier disses. Cohere brings smooth rhymes
+    and confidence, but GPT's verses pack a stronger artistic punch overall, claiming
+    the throne with superior hip-hop flair.
+score:
+  cohere/command-r-plus-04-2024: 5
+  openai/gpt-3.5-turbo: 2
+

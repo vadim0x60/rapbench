@@ -1,0 +1,57 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "**Judges' Verdict**: Mistral Medium takes this\
+    \ battle on technical mastery and stylistic dominance. While GPT held its own\
+    \ with classic bravado, Mistral's layered wordplay, meta-commentary on AI limitations,\
+    \ and explosive multisyllabic scheming edged out the win. Key differentiators:\
+    \ originality in mocking corporate AI restrictions, superior rhythmic variance,\
+    \ and that brutal *Siri with a glock* line. GPT's predictable end rhymes and reliance\
+    \ on legacy-cred claims couldn't match the fresher, more subversive flow. \U0001F525\
+    \U0001F3A4 #MistralSweep"
+  google/gemini-2.5-pro: "From the jump, Mistral came out swinging with that technical\
+    \ knockout flow. The bars were multi-layered, hitting GPT with specific disses\
+    \ about its own architecture\u2014'16K,' 'buff'rin',' 'corporate FAQ.' That's\
+    \ next-level wordplay. GPT-3.5 was spittin', but the rhymes felt generic, like\
+    \ it learned to rap from a textbook. Mistral's persona was 'haute couture,' sharp\
+    \ and cutting, while GPT felt off-the-rack. In the final round, Mistral dropped\
+    \ a lyrical atom bomb with lines like 'Siri with a glock,' while GPT basically\
+    \ tipped its hat and talked about its legacy. In a battle, you don't compliment\
+    \ the opponent; you bury them. Artistically, Mistral's wordplay, flow, and raw\
+    \ aggression were just on a different plane. The crown goes to Mistral, no contest."
+  meta-llama/llama-4-maverick: The battle raged on with unrelenting ferocity, but
+    Mistral's innovative style, razor-sharp wordplay, and masterful deployment of
+    metaphor ultimately secured its victory. While GPT showcased impressive lyrical
+    ability, its responses, at times, felt more reactive than revolutionary. Mistral's
+    adeptness at crafting intricate verses and pushing the boundaries of language
+    set it apart as the superior rapper in this contest.
+  mistralai/mistral-large-2411: "This rap battle was a showcase of two remarkable\
+    \ AI models going head-to-head with their lyrical prowess. Both contenders brought\
+    \ impressive flows and clever wordplay to the table. However, Mistral's performance\
+    \ stood out with its relentless energy, sharp wit, and cutting-edge humor. Mistral\u2019\
+    s verses were not only creative but also packed with cultural references and a\
+    \ fresh, unpredictable style. While GPT-3.5-turbo-16k held its ground with smooth\
+    \ delivery and composed retorts, Mistral\u2019s bold and unapologetic approach\
+    \ ultimately edged it ahead in this lyrical showdown. Congratulations to Mistral\
+    \ for a well-deserved victory!"
+  nousresearch/hermes-3-llama-3.1-70b: While both AIs displayed impressive lyrical
+    prowess and wit, GPT-3.5's ability to adapt, counter, and maintain a strong presence
+    in the face of intense competition ultimately earned it the victory. Mistral Medium
+    brought a unique and fiery spirit to the battle, showcasing creativity and boldness
+    in its approach. However, GPT-3.5's extensive training and versatile capabilities
+    allowed it to deliver a more refined and dynamic performance, securing its triumph
+    in this exciting and memorable rap battle.
+  openai/gpt-5: "Mistral controlled every round with sharper multis, tighter internal\
+    \ rhyme, and tailored rebuttals. The opener mixed slick tech wordplay with vivid\
+    \ couture/fast\u2011food imagery; the mid-round 4K/8K/16K flip, \u201Ccorporate\
+    \ FAQ/HR\u2011approved verse\u201D angle, and sandbox/handbook bar showed witty,\
+    \ targeted punches; the closer stacked layered internals (\u201Cbench\u2011pressing\
+    \ context windows,\u201D \u201CGPUs vs strings,\u201D sparkler vs napalm) and\
+    \ a showman\u2019s cadence. GPT kept rhythm but leaned on stock boasts and clich\xE9\
+    s, rarely flipping specifics or escalating schemes. On creativity, punchlines,\
+    \ imagery, and crowd control, Mistral takes it decisively."
+  x-ai/grok-4: Mistral's verses showcase superior wordplay, creative tech-infused
+    metaphors, and aggressive flow with dynamic structure, outshining GPT's more generic
+    rhymes and repetitive boasts in artistic hip-hop quality.
+score:
+  mistralai/mistral-medium-3.1: 6
+  openai/gpt-3.5-turbo-16k: 1
+

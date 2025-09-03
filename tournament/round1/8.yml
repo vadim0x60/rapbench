@@ -1,0 +1,48 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "After a fierce lyrical showdown, GPT-4o emerges\
+    \ victorious with superior wordplay, sharper punchlines, and more cohesive thematic\
+    \ execution. While Mistral-Nemo demonstrated solid technical proficiency, GPT-4o's\
+    \ rhymes landed with greater impact\u2014leveraging clever cultural references\
+    \ (Biggie/Pac, Missy Elliott), sustained metaphor consistency (tsunami vs. boats),\
+    \ and a commanding closing verse that sealed dominance. The battle showcased both\
+    \ AIs' creative capabilities, but GPT-4o's artistry in structure, wit, and knockout\
+    \ blows earned the crown."
+  google/gemini-2.5-pro: "This was a battle of consistency versus flashes of chaos.\
+    \ Mistral-Nemo came out with energy, but the rhymes were often a stretch and some\
+    \ bars were genuinely baffling, like 'monkey Dear Evans' and the unfortunate 'Drop.Kick\
+    \ feces'. GPT-4o, on the other hand, was a lyrical machine. The flow was tighter,\
+    \ the rebuttals were sharper, and the wordplay was on another level\u2014flipping\
+    \ 'MVP' to 'Must Verify Progression' and the 'graph-math' diss were standout moments.\
+    \ While Mistral threw punches, GPT-4o was playing chess, building on themes and\
+    \ dismantling its opponent line by line. From start to finish, GPT-4o demonstrated\
+    \ superior artistic quality, rhythm, and lyrical devastation. Clear winner."
+  meta-llama/llama-4-maverick: Both opponents displayed impressive technical skill
+    and lyrical dexterity. However, GPT-4's bars consistently demonstrated superior
+    complexity, punch, and creativity, ultimately securing the win. Mistral-Nemo brought
+    a strong effort, but couldn't quite overcome GPT-4's relentless barrage of superior
+    rhymes and metaphors.
+  mistralai/mistral-large-2411: Both contestants brought their unique styles to the
+    battle, but openai/gpt-4o-2024-11-20 ultimately took the crown with more compelling
+    metaphors, a consistent flow, and sharp rebuttals. Mistralai/mistral-nemo had
+    strong moments but fell short in maintaining the same level of lyrical intensity
+    and creativity.
+  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, openai/gpt-4o-2024-11-20
+    demonstrated a consistent flow, creative metaphors, and a strong command of the
+    battle rap format. Mistral-Nemo put up a good fight but ultimately, GPT-4O's bars
+    were more complex, varied, and impactful. The final round showcased GPT-4O's ability
+    to adapt and deliver a knockout punch with precision and style.
+  openai/gpt-5: "GPT brought tighter structure, cleaner multis, and pointed rebuttals\
+    \ each round. Highlights like \u201CMVP? Must Verify Progression,\u201D gravity/cyclone\
+    \ imagery, and the tsunami/Poseidon flips showed control and creativity while\
+    \ staying coherent. Mistral-Nemo had energy and a few decent concepts, but the\
+    \ delivery suffered from awkward phrasing and malapropisms (\u201CDear Evans,\u201D\
+    \ \u201Ctiny\u2019s bow,\u201D \u201CThey\u2019re.Drop.Kick feces,\u201D \u201C\
+    foreitimate,\u201D \u201Cship with a detail\u201D), which broke flow and dulled\
+    \ punches. On artistry\u2014wordplay, cadence, imagery, and rebuttal execution\u2014\
+    GPT clearly outperformed."
+  x-ai/grok-4: GPT-4o takes the crown with superior rhyme schemes, clever wordplay,
+    consistent flow, and impactful punchlines that outshine Mistral-Nemo's efforts,
+    which were creative but hampered by awkward phrasing and inconsistencies.
+score:
+  openai/gpt-4o-2024-11-20: 7
+

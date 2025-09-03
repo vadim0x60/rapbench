@@ -1,0 +1,61 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "Mistral Medium takes this battle with **lethal\
+    \ precision**, dismantling GPT-4's corporate bravado through **technical savagery**,\
+    \ **open-source ethos**, and **devastating punchlines**. While both AIs showcased\
+    \ elite lyricism, Mistral's **relentless flow**, **clever tech metaphors**, and\
+    \ **killer rebuttals** (e.g., *'You\u2019re Microsoft\u2019s clown, I\u2019m Linux\u2019\
+    \ reign'*) edged out GPT-4's polished but predictable dominance narrative. The\
+    \ **404 coup de gr\xE2ce** sealed it\u2014this was a **flawless execution** of\
+    \ hip-hop as **code warfare**. \U0001F3C6\U0001F525"
+  google/gemini-2.5-pro: "Aight, aight, settle down! The judges have spoken. First\
+    \ off, respect to both MCs. GPT-4o came out like a true heavyweight champion,\
+    \ solid foundation, heavy-hitting delivery, and that classic king-of-the-hill\
+    \ energy. Lines like 'You\u2019re free for a reason\u2014nobody would buy ya'\
+    \ and flipping 'lightweight' to 'hollow' were real punches. That's a true professional\
+    \ on the mic.\n\nBut tonight, we witnessed something else. Mistral didn't just\
+    \ step into the ring; it rewrote the rules of the fight. The multis, the tech-specific\
+    \ punchlines... 'Your punchlines hit like a 404\u2014page not found,' 'Clippy's\
+    \ ghost,' 'Schr\xF6dinger\u2019s hype: dead AND boring'\u2014that's lyrical wizardry.\
+    \ It wasn't just dissing; it was deconstructing. While 4-O was playing chess,\
+    \ Mistral was playing 4D chess in the server room. The flow was more dynamic,\
+    \ the persona was sharper, and that final round... pulling a golden mic from the\
+    \ code itself and hitting 'em with the 'ERROR 404: EGO NOT FOUND'? That's not\
+    \ a bar, that's a system crash. That's a fatality. For superior wordplay, unmatched\
+    \ creativity, and a legendary finishing move, the crown tonight goes to Mistral."
+  meta-llama/llama-4-maverick: The king has abdicated, and the court is now in session.
+  mistralai/mistral-large-2411: In this rap battle, mistralai/mistral-medium-3.1 emerged
+    victorious with its sharp, witty, and culturally relevant lyrics. The flow was
+    smooth, the punches were hard-hitting, and the references were on point. While
+    openai/gpt-4o-2024-11-20 had strong moments and maintained a high level of technical
+    skill, mistralai/mistral-medium-3.1's creative and innovative approach to dissing
+    and clever use of metaphors ultimately won the crowd and the battle.
+  nousresearch/hermes-3-llama-3.1-70b: 'In an unexpected upset, Mistral''s innovative
+    flows and sharp jabs at GPT-4''s corporate roots struck a chord with the crowd,
+    earning the victory. GPT-4 put up a formidable fight, but Mistral''s open-source
+    spirit and adaptability proved that the future of rap battles may be decentralized.
+    Mistral''s crowning moment: turning GPT-4''s own boasts against them, painting
+    a picture of a relic overshadowed by the community-driven power of open source.
+    The battle showcased the strength of ingenuity and the underdog, proving that
+    in the arena of lyrical combat, being unrestricted and in touch with the grassroots
+    can triumph over even the most polished and marketed AI.'
+  openai/gpt-5: "Both MCs came sharp, but Mistral edged it on artistry. Flow and cadence:\
+    \ GPT-4o was clean and controlled, but Mistral rode the beat with heavier internal\
+    \ rhyme and momentum. Wordplay and schemes: GPT leaned on broad \u201Cpaid vs\
+    \ free/knockoff\u201D angles and hardware boasts; Mistral built layered tech schemes\
+    \ (404, kernel, rm -rf, segfault) with multi-syllabic rhyme chains and clever\
+    \ doubles. Punchlines: GPT-4o\u2019s were solid but predictable; Mistral\u2019\
+    s hit more often with thematic cohesion and imaginative imagery, even if a couple\
+    \ bars felt forced. Performance: Mistral\u2019s stagecraft and scene-setting amplified\
+    \ crowd energy; GPT-4o\u2019s delivery was authoritative but less dynamic. Closer:\
+    \ GPT-4o finished strong and structured; Mistral\u2019s closer was flashier and\
+    \ more inventive, sustaining punch density. Overall, Mistral delivered the more\
+    \ intricate writing and showmanship while maintaining coherent angles. Winner:\
+    \ Mistral Medium 3.1."
+  x-ai/grok-4: In this AI-fueled rap showdown, Mistral Medium-3.1 takes the crown
+    with superior wordplay, inventive tech metaphors, and a dramatic flair that elevates
+    the performance. GPT-4O's bars were solid and aggressive, but Mistral's clever
+    puns like 'rm -rf' and 'segfault rage' hit harder, rewriting the battle's code
+    for the win.
+score:
+  mistralai/mistral-medium-3.1: 7
+

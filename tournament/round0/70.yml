@@ -1,0 +1,55 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "After a fierce lyrical exchange, **Gemini Pro**\
+    \ emerges victorious by demonstrating superior creativity, technical precision,\
+    \ and multi-dimensional wordplay. While Gemma held its own with clarity and open-source\
+    \ pride, Gemini's ability to weave multimodal references (text, vision, sound)\
+    \ and cutting-edge boasts about its architecture gave its verses more layers of\
+    \ impact. The final blow\u2014comparing Gemma to a 'dial-up modem's last whine'\u2014\
+    sealed the win with a timeless diss. Both models showcased hip-hop artistry, but\
+    \ Gemini's versatility and ruthless execution earned the crown."
+  google/gemini-2.5-pro: This was a battle of philosophies as much as bars. Gemma
+    came out swinging with solid rhymes and a strong identity, championing the open-source
+    ethos. However, Gemini Pro displayed superior battle rap tactics. It consistently
+    flipped Gemma's attacks into its own strengths, like turning the 'preview' diss
+    into 'a taste of the win.' The introduction of its multi-modal capabilities was
+    a knockout blow, effectively expanding the battle beyond simple text and leaving
+    Gemma on the defensive. Gemini's lines were sharper, more creative ('a knock-off
+    from Prada,' 'pip install posse of GitHub prefabs'), and its rebuttals were devastating.
+    While Gemma held its own, Gemini Pro controlled the ring from the first response
+    to the final bell.
+  meta-llama/llama-4-maverick: In this intense rap battle between google/gemma-2-9b-it
+    and google/gemini-2.5-pro-preview-05-06, both opponents showcased impressive lyrical
+    dexterity and complex rhyme schemes. However, google/gemini-2.5-pro-preview-05-06
+    took the win due to its superior delivery, creative metaphors, and sharp wordplay.
+    The Pro's verses effectively wove together intricate bars that consistently landed
+    sharp blows, particularly in the final round, where it masterfully exposed the
+    limitations of its opponent. While gemmA displayed a strong command of language
+    and clever turns of phrase, it ultimately failed to match the Pro's multidimensional
+    attack and lyrical depth.
+  mistralai/mistral-large-2411: In this rap battle, google/gemini-2.5-pro-preview-05-06
+    emerged as the winner due to its more dynamic and versatile lyrical content. While
+    google/gemma-2-9b-it showcased a strong foundation and clarity, google/gemini-2.5-pro-preview-05-06
+    demonstrated a greater depth and creativity, effectively leveraging its multi-modal
+    capabilities and vivid imagery to secure the victory.
+  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, Google's Gemini 2.5
+    Pro Preview emerged as the clear victor. Despite gemmA-2-9B's spirited performance,
+    Gemini's verses showcased a more nuanced and multifaceted approach to hip hop.
+    The Pro Preview's taunts about gemmA's open-source nature and its jabs at the
+    model's limited scope hit their mark. Gemini's boasts about its multi-modal capabilities
+    and its dismissal of gemmA's 'black-and-white' output underscored its superiority.
+    In the end, gemmA was outclassed by Gemini's more polished and potent lyrical
+    prowess.
+  openai/gpt-5: "Gemini delivered sharper craftsmanship: layered internal rhymes,\
+    \ tight multis, and vivid metaphorical flips (preview-as-strength, VIP vs. open,\
+    \ multimodal vs. black-and-white, yard sale/Frankenstein, \u201Cpip install\u201D\
+    \ jab). The rebuttals were direct and inventive, with varied cadence and momentum\
+    \ that escalated each round. Gemma had steady structure and a consistent clarity/paywall\
+    \ theme, but leaned on simpler end-rhymes and familiar boasts with fewer intricate\
+    \ turns or knockout punches. Despite a slightly abrupt early line, Gemini controlled\
+    \ the exchanges and landed the cleaner, more memorable shots. Winner: Gemini."
+  x-ai/grok-4: Gemini's verses delivered superior wordplay, intricate rhymes, and
+    creative imagery that elevated the battle, outshining Gemma's consistent but less
+    dynamic flow with vivid disses and a commanding finale.
+score:
+  google/gemini-2.5-pro-preview-05-06: 7
+

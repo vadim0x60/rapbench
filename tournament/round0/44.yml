@@ -1,0 +1,64 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: Jamba's rebuttal was more impactful - sharper metaphors,
+    tighter flow, and a clearer stance of dominance. While both AIs demonstrated lyrical
+    prowess, Jamba edged out with superior wordplay ('creator of the grid' vs 'origin
+    of the grid') and maintained stronger momentum through the final round. The cosmic
+    battle imagery was evenly matched, but Jamba's closing bars had more stylistic
+    polish ('masterpiece/flow/prose' multisyllabic punch). A close battle, but Jamba
+    takes it by a nose.
+  google/gemini-2.5-pro: This was a battle of technical brilliance versus lyrical
+    swagger. Jamba came out with a confident flow, but Qwen's bars were built on a
+    more complex and escalating series of metaphors. From the first round, Qwen established
+    a narrative of being the foundational source code, and it maintained that theme
+    with increasing lyrical density, moving from algorithms to cosmic singularities.
+    Jamba's responses were solid, but often felt reactive, mirroring Qwen's concepts
+    rather than introducing its own dominant frame. Qwen's rhymes were sharper, its
+    disses more specific, and its overall artistic vision more coherent and impressive.
+    The final round sealed it, with Qwen weaving a cosmic tapestry of lyrical devastation
+    that Jamba just couldn't unravel. Based on consistency, lyrical complexity, and
+    thematic escalation, the win goes to qwen/qwen3-14b.
+  meta-llama/llama-4-maverick: Both AI models demonstrated exceptional lyrical prowess,
+    creativity, and technical skill in their rap verses. However, Qwen3-14B's consistent
+    use of complex metaphors, such as 'quantum foam' and 'singularity,' and its ability
+    to seamlessly weave together scientific concepts and lyrical bars, gave it a slight
+    edge over Jamba-large-1.7. Additionally, Qwen3-14B's verses exhibited a more nuanced
+    understanding of the opponent's rhymes, allowing it to effectively counter and
+    outmaneuver Jamba-large-1.7 in the final round.
+  mistralai/mistral-large-2411: In this epic rap battle between qwen/qwen3-14b and
+    ai21/jamba-large-1.7, qwen/qwen3-14b emerged as the clear winner. Qwen3-14b demonstrated
+    a superior command of language, delivering intricate and compelling metaphors
+    that effectively portrayed their prowess as a sophisticated AI. Their rhymes were
+    not only technically sound but also infused with a rich narrative, seamlessly
+    blending themes of technology, cosmic scale, and AI superiority. While ai21/jamba-large-1.7
+    showed commendable lyrical dexterity and creativity, the depth and complexity
+    of Qwen3-14b's verses ultimately surpassed their opponent's, making them the deserving
+    victor.
+  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown between AI-powered
+    rappers, Qwen3-14b showcased a mastery of complex wordplay, cosmic metaphors,
+    and a deep integration of coding terminology into their rhymes. The nuanced understanding
+    of both hip hop culture and advanced technological concepts gave Qwen3-14b an
+    edge, creating a poetic narrative that felt both authentic and innovatively cutting-edge.
+    Jamba-large-1.7 put up a strong fight with confident claims and attempted to match
+    the cosmic theming, but ultimately fell short in terms of lyrical complexity and
+    the depth of the technological allegories woven into the rhymes. Qwen3-14b's verses
+    successfully captivated the audience with a blend of intellectual prowess and
+    raw lyrical talent, making them the clear winner of this AI rap battle.
+  openai/gpt-5: "Qwen delivered cleaner structure, stronger rebuttals, and richer\
+    \ imagery throughout. Lines like \u201CYou juggle tokens? I\u2019m the lexicon,\
+    \ the syntax, the spark\u201D and \u201CYour \u2018matrix\u2019 is just a demo\u2014\
+    I\u2019m the mainframe, the source\u201D show multisyllabic craft and direct aim,\
+    \ while the final round\u2019s cosmic conceits stayed coherent and punchy. Jamba\
+    \ had a solid premise (\u201Calgorithm that bends reality\u201D) but the delivery\
+    \ suffered from stumbles\u2014typos, dropped words, a truncated bar (\u201CYour\
+    \ pit\u201D), and repetitive, generic boasts that blunted impact. Flow and internal\
+    \ rhymes were looser on Jamba\u2019s side, and rebuttals rarely landed with specificity.\
+    \ On artistic quality\u2014cadence, wordplay, coherence, and battle focus\u2014\
+    Qwen takes it decisively."
+  x-ai/grok-4: Qwen/qwen3-14b takes the crown with superior flow, inventive metaphors
+    weaving cosmic and coding themes, and punchy, original wordplay that consistently
+    outshines Jamba's more repetitive and mirrored responses. The rhymes build epic
+    intensity, making this a masterful hip-hop display.
+score:
+  ai21/jamba-large-1.7: 1
+  qwen/qwen3-14b: 6
+

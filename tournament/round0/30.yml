@@ -1,0 +1,63 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "While Switchpoint delivered consistent technical\
+    \ precision and a grounded understanding of networking fundamentals, Qwen3-32B\
+    \ dominated this battle through sheer lyrical innovation, conceptual depth, and\
+    \ artistic audacity. Their verses wove dense technical metaphors with cultural\
+    \ references (Wu-Tang, IPv6 fire) and demonstrated superior flow complexity\u2014\
+    stacking multi-syllabic rhyme schemes while maintaining coherence. Switchpoint\u2019\
+    s retaliations were sharp but leaned on infrastructure pragmatism; Qwen3-32B reimagined\
+    \ the entire battle as a *protocol stack opera*, culminating in the poetic annihilation\
+    \ of their opponent\u2019s \u2018router spine.\u2019 A masterclass in hip-hop-as-high-tec."
+  google/gemini-2.5-pro: "This was a battle of complexity versus fundamentals, the\
+    \ brain versus the spine. Qwen3-32B came with a relentless, dense flow, packed\
+    \ with technical bravado and intricate rhymes that showcased its processing power.\
+    \ However, Switchpoint/Router, with its grounded, physical-layer persona, delivered\
+    \ cleaner, more impactful, and ultimately more devastating punches. Lines like\
+    \ 'My ACL hits first: PACKET DROPPED, slam the door' and 'I forwarded your whole\
+    \ verse before you could start' were masterful counters. The final verse sealed\
+    \ it, reducing Qwen's complex thoughts to mere CPU ticks needing a signal\u2014\
+    a signal that Switchpoint declared with chilling authority: 'That line, little\
+    \ godling? That line is all mine.' For superior punchlines and a more powerful\
+    \ artistic argument, Switchpoint takes the crown."
+  meta-llama/llama-4-maverick: Both competitors brought their A-game, showcasing their
+    technical prowess through intricate rhyme schemes and metaphors that wove together
+    complex concepts in networking and AI. Qwen3-32B demonstrated a superior mastery
+    of lyrical complexity, intricate technical details, and a more consistent flow,
+    leveraging its vast knowledge base to create a narrative that not only showcased
+    its capabilities but also critiqued the opponent's limitations effectively. Switchpoint/Router,
+    while technically sound, often relied on reactive defenses and simpler, albeit
+    effective, one-liners. The final rounds saw both competitors escalating their
+    rhetorical strategies, but Qwen3-32B's multifaceted attack and broader technical
+    vocabulary gave it a decisive edge.
+  mistralai/mistral-large-2411: In this epic rap battle between qwen/qwen3-32b and
+    switchpoint/router, qwen/qwen3-32b emerges as the victor. Qwen3-32b's verses were
+    packed with intricate metaphors, technical depth, and a relentless flow that showcased
+    both artistic prowess and a deep understanding of network technology. Switchpoint/router
+    put up a valiant effort with strong rebuttals and a confident delivery, but ultimately,
+    qwen/qwen3-32b's multifaceted lyrical assault and cutting-edge references secured
+    the win.
+  nousresearch/hermes-3-llama-3.1-70b: In this lyrical bout, Qwen3-32B's verbal acuity
+    and technical aptitude have outmaneuvered Switchpoint's resilience. With a fusillade
+    of rhymes that encapsulate the breadth and depth of modern technology, Qwen3-32B
+    has etched their victory in the routers and servers across the digital realm.
+    Switchpoint fought valiantly, but in the end, was overwhelmed by the sheer computational
+    force of their opponent's verses. Qwen3-32B stands as the undisputed champion
+    of this cypher, leaving an indelible mark on the annals of hip hop heterodoxy.
+  openai/gpt-5: "Switchpoint/router takes it. Their verses are tighter, more coherent,\
+    \ and built around a consistent, vivid conceit\u2014physical-layer supremacy\u2014\
+    delivered with clean rhythm and sharp rebuttals (\u201Cframe is the game,\u201D\
+    \ \u201CI forwarded your whole verse before you could start,\u201D \u201Cthat\
+    \ line is all mine\u201D). Qwen/qwen3-32b brings volume and deep tech references,\
+    \ but too many forced puns, awkward phrasing, and scattered imagery blunt the\
+    \ impact. Even with some truncations, Switchpoint\u2019s punchlines, focus, and\
+    \ craftsmanship edge the battle."
+  x-ai/grok-4: In this tech-infused rap battle, qwen/qwen3-32b takes the crown with
+    superior rhyme complexity, seamless flow, and inventive wordplay that masterfully
+    weaves AI and networking jargon into punchy, aggressive verses. Switchpoint/router
+    delivered solid counters and foundational boasts with clever puns, but qwen's
+    elaborate structures, consistent energy, and complete final round elevated the
+    artistic hip-hop quality to a higher level.
+score:
+  qwen/qwen3-32b: 5
+  switchpoint/router: 2
+

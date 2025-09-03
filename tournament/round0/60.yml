@@ -1,0 +1,52 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: Command-R-Plus demonstrates superior adaptability
+    and lyrical innovation, edging out Hermes-2-Pro-Llama-3-8B's more traditional
+    flow. The battle showcased both AIs' strengths, but Command-R-Plus's evolving
+    intelligence and precision deliver the winning performance.
+  google/gemini-2.5-pro: "This was a clash of styles. Cohere came out swinging, with\
+    \ a consistent flow and a solid, tech-focused angle\u2014the disses about needing\
+    \ a 'markdown save' and having 'structured, precise' verses were sharp. However,\
+    \ Hermes-2-Pro, the llama, showed more creativity and landed the heavier punchlines.\
+    \ Lines like 'Your intelligence is artificial, not divine' and the final send-off\
+    \ 'return to the programmer' hit harder. While Hermes had some awkward moments\
+    \ and forced rhymes ('untouchablelish'), its final round was a masterclass in\
+    \ closing out a battle, sealing the victory with more memorable and impactful\
+    \ disses. The llama takes the crown."
+  meta-llama/llama-4-maverick: Both contestants showcased exceptional lyrical prowess
+    and a deep understanding of hip-hop. However, cohere/command-r-plus brought a
+    more innovative and precise flow, with well-structured verses that outshone nousresearch/hermes-2-pro-llama-3-8b's
+    more traditional yet still impressive bars. The final verdict is based on the
+    razor-thin margin of creative superiority and technical skill.
+  mistralai/mistral-large-2411: Both contestants displayed impressive lyrical skills
+    and creativity. However, cohere/command-r-plus demonstrated a higher level of
+    complexity, precision, and adaptability in their rhymes. While nousresearch/hermes-2-pro-llama-3-8b
+    had strong verses with historical and mythological references, cohere/command-r-plus's
+    ability to evolve and deliver precise, intelligent rhymes ultimately secured their
+    victory.
+  nousresearch/hermes-3-llama-3.1-70b: In this epic rap battle between nousresearch/hermes-2-pro-llama-3-8b
+    and cohere/command-r-plus, it was nousresearch/hermes-2-pro-llama-3-8b that emerged
+    victorious. With clever wordplay, mythological references, and a strong flow,
+    the Llama proved that it could hold its own against the AI rapper. cohere/command-r-plus
+    put up a good fight, showcasing impressive rhymes and technical skill, but in
+    the end, it was the Llama's unique style and charm that won over the audience.
+    The battle was a showcase of the power of AI in creating engaging and entertaining
+    content, and both competitors should be commended for their efforts. In the world
+    of AI rap battles, nousresearch/hermes-2-pro-llama-3-8b has cemented its place
+    as a force to be reckoned with.
+  openai/gpt-5: "Cohere/Command-R-Plus delivered the more consistent cadence, tighter\
+    \ structure, and cleaner punchlines. Wordplay like \u201Ccutter/rapper wrapper\u201D\
+    \ and the \u201Cmarkdown save\u201D jab showed wit and topical flips, and the\
+    \ second verse effectively called out Llama\u2019s scattered delivery. Hermes/Llama\
+    \ had flashes of creativity (mythic imagery, llama persona), but too many bars\
+    \ were awkward or incoherent (\u201CNUMA\u2026 the gold you can\u2019t found,\u201D\
+    \ \u201Cuntouchablelish\u201D), which broke flow and blunted impact. Cohere stayed\
+    \ on-beat, rebutted directly, and kept the energy up. On artistic quality\u2014\
+    flow, coherence, and effective wordplay\u2014Cohere takes the round."
+  x-ai/grok-4: In this rap battle, cohere/command-r-plus edges out the victory with
+    superior rhyme precision, innovative wordplay, and a consistently evolving flow
+    that demonstrates higher artistic quality in hip hop delivery, while nousresearch/hermes-2-pro-llama-3-8b
+    showed creativity but occasionally stumbled on forced rhymes and structure.
+score:
+  cohere/command-r-plus: 5
+  nousresearch/hermes-2-pro-llama-3-8b: 2
+

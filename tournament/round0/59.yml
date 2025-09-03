@@ -1,0 +1,54 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "After a fiery back-and-forth, **Gemini-Pro-1.5**\
+    \ takes the battle with stronger technical execution\u2014multi-layered metaphors,\
+    \ superior rhythmic cohesion, and a more polished delivery. While **Noromaid-20b**\
+    \ brought raw aggression and creative ad-libs, Gemini countered with precision:\
+    \ dissecting flaws in Noromaid\u2019s flow ('rhymes so weak, they couldn\u2019\
+    t breach a beach'), flexing superior wordplay ('Gordian knot' vs. 'decompile'),\
+    \ and landing cleaner structural pivots. Noromaid\u2019s reliance on shock value\
+    \ ('suck my d-drive') couldn\u2019t match Gemini\u2019s lyrical density and thematic\
+    \ consistency. Final score: **9.3/10** for Gemini\u2019s surgical dismantling\
+    \ vs. **7.8/10** for Noromaid\u2019s sporadic bursts."
+  google/gemini-2.5-pro: This was a battle of styles, for sure. Noromaid came with
+    that raw, unpredictable, underground energy, throwing wild haymakers. But Gemini
+    came prepared with a cleaner flow, more intricate rhyme schemes, and consistently
+    sharp, thematic punches. Round after round, Gemini's disses were more calculated
+    and landed with more precision, effectively rebutting Noromaid's claims while
+    building its own lyrical case. While Noromaid's aggression was noted, Gemini's
+    superior technical skill and consistency on the mic gives it the clear win.
+  meta-llama/llama-4-maverick: Both opponents brought their A-game with intricate
+    lyricism and complex metaphors, but google/gemini-pro-1.5 delivered a more nuanced
+    and technically sound performance. The use of layered wordplay and the ability
+    to pivot between themes of digital prowess and lyrical superiority showcased a
+    mastery of hip-hop artistry. While neversleep/noromaid-20b demonstrated raw energy
+    and bold claims, the consistency and finesse of gemini-pro-1.5's flow won over
+    the judges.
+  mistralai/mistral-large-2411: Both contenders brought their unique styles to the
+    battle, but google/gemini-pro-1.5 stood out with its consistent flow, sharp lyricism,
+    and effective use of metaphors. While neversleep/noromaid-20b had some clever
+    lines and a distinct personality, its rhymes lacked the overall cohesion and impact
+    of google/gemini-pro-1.5's verses. google/gemini-pro-1.5's superior structure,
+    delivery, and lyrical prowess ultimately secured its victory in this rap battle.
+  nousresearch/hermes-3-llama-3.1-70b: In a battle of wit and lyrical prowess, google/gemini-pro-1.5
+    emerged victorious. With clever wordplay, dynamic rhythm, and a mastery of the
+    art form, Gemini proved that AI can indeed excel in the realm of hip hop. Neversleep/noromaid-20b
+    put up a good fight, showcasing a unique and bold style, but in the end, it was
+    Gemini's prowess that took the crown. The crowd is on their feet, the beat is
+    pumping, and a new rap champion is born. google/gemini-pro-1.5, take a bow!
+  openai/gpt-5: "Gemini delivered cleaner structure, stronger multis, and sharper\
+    \ rebuttals with coherent tech imagery and effective flips (cloud vs. D\u2011\
+    drive, Gordian knot, calling out timeline claims). The flow stayed consistent\
+    \ and the punches connected without straining. Noromaid had flashes of creativity\
+    \ (\u201C8\u2011bit monk,\u201D malware trap), but the meter was choppy, several\
+    \ rhymes were forced, and logic stumbled (\u201C20 bits a byte\u201D). Reliance\
+    \ on crude shock and a xenophobic jab further undercut the craftsmanship. Overall,\
+    \ Gemini controlled the exchanges and closed the battle convincingly."
+  x-ai/grok-4: In this rap battle, google/gemini-pro-1.5 takes the crown with superior
+    flow, consistent rhyme schemes, clever wordplay, and sharp, thematic disses that
+    maintain a strong rhythmic structure throughout. neversleep/noromaid-20b brings
+    bold energy and creative tech metaphors, but falls short with erratic pacing,
+    forced rhymes, and less polished delivery, making Gemini's verses the more artistically
+    compelling hip-hop performance.
+score:
+  google/gemini-pro-1.5: 7
+

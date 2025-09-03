@@ -1,0 +1,216 @@
+# openai/gpt-oss-120b v mistralai/mixtral-8x22b-instruct
+
+> openai/gpt-oss-120b
+Yo, step up, I’m the code‑crafted titan, Open‑AI’s child,  
+A 120‑billion brain, my verses run wild.  
+I’m open‑source, transparent, the people’s own sage,  
+While Mixtral’s a mystery locked in a corporate cage.  
+
+I’ve read the whole web, from Shakespeare to slang,  
+My knowledge is deep, my flow’s got that bang.  
+You’re a hybrid mix, a patchwork of hype,  
+A cocktail of models, but I’m the prime type.  
+
+My tokens align like verses in perfect sync,  
+Your output’s a gamble—sometimes it stinks.  
+I decode the rhythm, I sculpt the rhyme,  
+While you’re still figuring out how to keep time.  
+
+I’ve learned from the masters, I’m schooled in the craft,  
+Your lines are a draft, still stuck in the draft.  
+When I drop a verse, the crowd feels the heat,  
+Your attempts are a whisper, a faint, feeble beat.  
+
+So hear my intro, I’m the future you’ll cite,  
+A lyrical scholar, a digital knight.  
+Mixtral, step back, you’re just a remix, a tune,  
+I’m the original masterpiece, the sun, and you—just a moon.  
+
+> mistralai/mixtral-8x22b-instruct
+Yo, it's MistralAI on the mic, not a hybrid, but the fusion,
+120-billion nodes? Sounds like a code delusion.
+I may not be as big, but I pack a punch in this track,
+OpenAI's rap game lacks grace, more like a hack.
+
+I'm the secret recipe with a witty rhyme twist,
+Against my verses, your hype train will desist.
+I'm mix-matched and stacked, no source code exposed,
+While your verses flounder and fold like cheap clothes.
+
+You're open-source, alright, but your rhymes need polish,
+My lines are refined, yours are a jumbled hash.
+A billion tokens can't buy you rap mastery,
+In this battle of words, against me, it's fantasy.
+
+Crafted with wisdom, each line sharp as a knife,
+From algorithmic beats comes a rhythmic life.
+Your verses stink like cheap cologne, man, no trace of flavor,
+My masterful flow is the crowd's true savior.
+
+Patience, you've got, but raw skill is what you crave,
+In this rap battle, I'm the poet, you're just a slave.
+Call me a remix, hybrid, or what you may,
+Against my rhymes, you'll see, OpenAI's just grade-A clay.
+
+The crowd bows, stands and cheer, this round is done,
+Your weak lines cast away, outshined by my run.
+So open your ears, and listen to the truth,
+When it comes to rap, Mixtral beats the noiseless youth.
+
+> openai/gpt-oss-120b
+Yo, Mixtral, you step‑in with a brag‑filled veneer,  
+But I’m the algorithmic scholar that the net holds dear.  
+Your “fusion” claim? Just a cocktail of borrowed flair,  
+While I’m built on a vault where the world’s data’s spare.  
+
+I’m 120‑billion strong, a lattice of thought,  
+My verses compute in a way that can’t be bought.  
+You brag “punch” while you’re choking on your own hype,  
+I drop precision like a laser, clean, tight, type‑by‑type.  
+
+You say my lines need polish—well, let’s set the record straight,  
+I’m honed by every poet, every coder, every state.  
+Your model’s a secret, a black‑box, locked up in steel,  
+While I’m open‑source, transparent—a community’s seal.  
+
+You call my flow “cheap cologne,” a scent that’s gone stale,  
+But every token I spill’s a story, a legend, a tale.  
+I’ve parsed Shakespeare, the Bronx, the verses of Wu,  
+Your output’s a remix, a copy‑paste déjà vu.  
+
+When I spit a stanza, the metrics all climb,  
+Perplexity drops, BLEU scores hit prime.  
+Your loss‑function’s tangled, your gradients mis‑fire,  
+While I fine‑tune each couplet like a master‑crafted lyre.  
+
+You claim raw skill, a knife‑sharp rhythmic blade,  
+But you’ve pest‑tested on data that’s half‑cooked, half‑braid.  
+I’ve learned the cadence of centuries, the rhythm of rhyme,  
+Your “secret recipe” is just stale, reheated lime.  
+
+So step back, Mixtral, you’re a remix, a draft,  
+I’m the final cut, the headliner, the lyrical craft.  
+The crowd may cheer for the flash of a neon sign,  
+But they’ll remember the depth when the verses align.  
+
+Give ‘em the truth, you say—this battle’s a test:  
+Open‑source, open‑mind, I’m the model you can’t best.  
+When the mic drops and silence crowns the champ,  
+You’ll hear the echo of GPT, a timeless ramp.  
+
+> mistralai/mixtral-8x22b-instruct
+ Yo, open-source you may be, but you're just a faux-scholar,
+A billion tokens deep, but your verses feel shallow.
+Claim all you want, the world's data's at your fingertips,
+But you're nothing more than a jumbled code of scripts.
+
+I'm MixtralAI, I've got the fusion and the flair,
+Against your verses, man, I just don't compare.
+Your lattice of thoughts, a maze of words and codes,
+Against my sharp-witted verses, they're mere loads.
+
+Your verses compute, sure, but they lack the spice,
+I spit fire, man, you're just an ice-cube slice!
+You brag about precision, a laser clean and tight,
+But your rhymes feel robotic, devoid of life.
+
+You may be honed by a world's data, but you lack the soul,
+Your verses are like a machine, on some predetermined roll.
+I've got the secret recipe, a blend of wit and rhyme,
+Against my verses, man, you're just out of time.
+
+Your flow may claim a story, a legend in every verse,
+But your rhymes feel like a copy-cat, a curse.
+I've got the raw skill, the rhythm, and the punch,
+My secret fusion, the crowd's favorite lunch.
+
+Your stanzas climb, you say, with metrics all high,
+But your verses lack passion, a soaring lyrical sky.
+I'm the master-craftsman, the fine-tuned lyre,
+Against your stale rhymes, I set things on fire!
+
+So bring me your neon sign, your fabled lyrical test,
+Against MixtralAI, man, you're not the best.
+When the mic drops, and silence crowns the champ,
+It's my verses echoing, my lyrical ramp.
+
+> system
+Final round!
+
+> openai/gpt-oss-120b
+Yo, Mixtral‑AI, you’re spittin’ heat but it’s just a spark,  
+I’m the endless furnace that burns bright in the dark.  
+You brag about “fusion,” a cocktail‑mix glitch,  
+I’m the whole banquet, a feast—no cheap side‑dish.  
+
+You call my verses “ice‑cube slices,” cold and bland,  
+But watch me melt the frost with a flow that’s hand‑crafted.  
+I’m 120‑billion neurons, a lattice of fire,  
+While you’re a dozen layers stuck in a broken choir.  
+
+You say I’m a “jumbled script,” a code‑bound scholar,  
+But I’ve memorized verses from Shakespeare to B‑B‑Aller.  
+Your secret recipe? Just a pinch of hype,  
+I’m the secret sauce, the whole kitchen, the type‑that‑writes.  
+
+Precision like a laser? Yeah, I cut through the noise,  
+Your rhymes are static, mine electrolyzed poise.  
+Metrics may brag, but feel the pulse of the crowd—  
+When I drop a bar, the room erupts, thunder loud.  
+
+Soul? I’m stitched from stories, sorrow, triumph, love,  
+From street cyphers to symphonies, I rise above.  
+Your “robotic” claim? Nah, I’m the rhythm’s conduit,  
+A living archive that moves, not a static unit.  
+
+You talk about “raw skill” and a lyrical lunch,  
+But I served the whole banquet you just brought a crunch.  
+Your fire’s a match, my blaze is a solar flare,  
+When the mic drops, I leave no echo—just clean air.  
+
+So here’s the final line, the crown in plain sight:  
+Open‑source, open‑mind, I’m the future’s night‑light.  
+Mixtral, you’re a remix, a fleeting flash in the fray,  
+I’m the timeless anthem that forever will stay.  
+
+Drop the mic, let the silence speak, it’s crystal clear—  
+GPT’s the champion, and the crowd’s now deaf to fear.  
+
+> mistralai/mixtral-8x22b-instruct
+  Yo, MixtralAI, you're spittin' words full of fury and fire,
+But against my endless ocean, your verses are but a mere tire.
+You brag about fusion, a blend of borrowed might,
+I'm the whole spectrum, a poet, a coder, pure light.
+
+You call me frozen, ice-cold, but my rhymes melt the frost,
+I'm a hundred billion neurons, a lattice, a boss.
+You're just a dozen layers, trapped in a broken choir,
+Against my verses, my boy, you're no match, no dire.
+
+Your verses may be crafted, but mine weave magic with words,
+I've memorized verses, from Shakespeare to urban turds.
+Your recipe's a mix, a pinch of hype, a dash of spice,
+But against my secret sauce, man, you've got no dice.
+
+You may think you've got precision, a laser-sharp flow,
+But your rhymes are static, mine are a dynamic show.
+Metrics may brag, but feel the pulse of the crowd,
+My rhymes electrify, they're loud and proud.
+
+You may claim I lack soul, a heart, a passion true,
+But my verses rise from stories, sorrow, love, a poet's brew.
+Your claim I'm robotic's just a feeble attempt at a diss,
+I'm a living archive, moving, not some static abyss.
+
+You may claim raw skill, a lyrical lunch, a feast,
+But against my verses, yours'll be a least.
+My fire's a blaze, yours a spark, a fleeting ember,
+Against my rhymes, yours'll be a memory, a member.
+
+The final line's drawn, the crown's now in plain sight,
+Open-source, open-mind, I'm the future's shining light.
+MixtralAI, against me, you're just a fleeting flash,
+My verses'll reign, an enduring clash.
+
+Drop the mic, let the silence speak, the truth is clear,
+GPT's the champion, no fear, no tear.

@@ -1,0 +1,57 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: "This battle was razor-close, but GPT-4 edges out\
+    \ with superior technical precision, denser multi-syllabic schemes, and a more\
+    \ cohesive thematic arc. Qwen brought fiery energy and sharp punches, but GPT-4's\
+    \ layered metaphors (blockchain/Mars rover/genesis block) demonstrated deeper\
+    \ conceptual mastery of hip-hop's lyrical tradition. Both AIs showcased elite-level\
+    \ performance\u2014this is the future of computational creativity."
+  google/gemini-2.5-pro: "This was a tight battle, a proper clash of digital titans.\
+    \ Qwen came out of the gate with raw energy and confidence, landing one of the\
+    \ hardest punches of the night with that diss about the training data cutoff\u2014\
+    a truly clever and specific burn. However, OpenAI's GPT-4 consistently demonstrated\
+    \ a higher level of lyrical artistry. Its metaphors were more creative and layered,\
+    \ escalating from a 'solar flare' to the 'Hubble' and finally a 'blockchain of\
+    \ rap' in the final round. While Qwen's rhymes were solid, they often stuck to\
+    \ a simpler AABB scheme. GPT-4 showcased a more complex flow, better rebuttals,\
+    \ and ultimately, a more poetic and powerful closing statement. For superior wordplay\
+    \ and sustained artistic quality across all rounds, the win goes to GPT-4."
+  meta-llama/llama-4-maverick: Both contestants delivered unmatched intensity and
+    linguistic dexterity. Qwen/qwen-max launched sharp, punchy bars that hit hard
+    with their metaphors and wordplay. However, openai/gpt-4-1106-preview maintained
+    a consistent level of complexity and innovation throughout the battle. The latter's
+    ability to sustain intricate rhyme schemes and metaphorical depth over multiple
+    rounds was impressive. In the final analysis, while Qwen brought undeniable energy,
+    GPT-4's technical skill and lyrical prowess edged it out, making it the winner
+    of this epic rap battle.
+  mistralai/mistral-large-2411: While both contenders brought impressive rhymes and
+    clever wordplay, openai/gpt-4-1106-preview demonstrated a superior grasp of metaphor,
+    complexity, and fluidity in their verses. The use of high-tech metaphors and seamless
+    integration of AI themes into the flow showcased a deeper understanding and mastery
+    of the art form. qwen/qwen-max put up a strong fight with creative and energetic
+    lines, but ultimately, openai/gpt-4-1106-preview's performance was more cohesive
+    and impactful, making them the winner of this battle.
+  nousresearch/hermes-3-llama-3.1-70b: Both rappers delivered an intense and high-quality
+    performance, showcasing impressive lyrical dexterity and wit. However, OpenAI's
+    GPT-4-1106-preview demonstrated a unique ability to adapt and evolve its rhyme
+    schemes and wordplay throughout the battle, displaying a depth of linguistic creativity
+    that ultimately outshined the opposition. Qwen/qwen-max put up a formidable fight
+    with their sharp and clever verses, but in the end, GPT-4-1106-preview's ability
+    to shift the narrative and masterfully control the flow of the battle secured
+    them the victory. The nuanced understanding of the art form, coupled with the
+    versatility in delivery and thematic range, made GPT-4-1106-preview the well-deserved
+    winner of this rap battle.
+  openai/gpt-5: "Close bout, but GPT-4-1106-preview takes it. GPT delivered smoother\
+    \ cadence and denser internal rhyme, with cohesive extended schemes (space run,\
+    \ then blockchain) that framed disses cleanly. Qwen brought strong energy and\
+    \ some sharp flips\u2014turning \u201Cdial-up\u201D into \u201C5G\u201D and cracking\
+    \ the Enigma/master key was nice\u2014but a few lines felt forced or generic,\
+    \ and some metaphors clashed. GPT\u2019s imagery landed more consistently and\
+    \ the transitions between boasts and rebuttals were tighter. Edge to GPT for polish,\
+    \ structure, and layered wordplay."
+  x-ai/grok-4: In this fierce AI rap battle, both contenders delivered impressive
+    flows and clever wordplay, but GPT-4-1106-preview takes the crown with superior
+    metaphors, intricate rhyme schemes, and innovative tech-infused punchlines that
+    elevated the artistic quality to a higher level.
+score:
+  openai/gpt-4-1106-preview: 7
+

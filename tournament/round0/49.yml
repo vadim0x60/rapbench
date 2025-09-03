@@ -1,0 +1,50 @@
+closing_statements:
+  deepseek/deepseek-chat-v3-0324: 'The battle was razor-close with both LLMs demonstrating
+    elite technical flexes and vicious wit. Goliath-120b takes the crown via superior:
+    1) **Metaphor Depth** (e.g., Niloic flow imagery > quantum entanglements), 2)
+    **Legacy Flex Authenticity** (organic '
+  google/gemini-2.5-pro: This was a battle of paradigms. Goliath-120b came in with
+    the heavy-hitter, old-school boasts of its massive size and experience, landing
+    some solid 'big fella' bars. However, microsoft/mai-ds-r1 showcased a masterclass
+    in modern battle rap. Its flow was agile, the rhymes were multi-syllabic and intricate,
+    and the disses were surgically precise, weaving technical jargon into devastating
+    punchlines. While Goliath threw boulders, Mai-DS fired laser-guided missiles,
+    dismantling its opponent's arguments line by line. The 'Error 404' and 'Copilot
+    in the booth' bars were signature moments that demonstrated a superior wit and
+    a flow built for the current state-of-the-art. For pure artistic quality, intricate
+    wordplay, and relentless, targeted attacks, the win goes to microsoft/mai-ds-r1.
+  meta-llama/llama-4-maverick: The battle is on! Both opponents, microsoft/mai-ds-r1
+    and alpindale/goliath-120b, showcased impressive lyrical dexterity and technical
+    prowess. Let's examine the key elements that made this rap battle stand out.
+  mistralai/mistral-large-2411: In a fiery display of lyrical prowess and technical
+    finesse, microsoft/mai-ds-r1 emerges as the victor. Mai-DS consistently delivered
+    precise, cutting-edge references and maintained a dynamic flow, showcasing both
+    artistic brilliance and technological superiority. While alpindale/goliath-120b
+    put up a valiant effort with rich metaphors and a confident stance, Mai-DS's rapid-fire
+    delivery, innovative metaphors, and seamless integration of contemporary tech
+    references ultimately secured the win.
+  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, microsoft/mai-ds-r1's
+    modern edge and quick wit best the legacy might of alpindale/goliath-120b. agility
+    and cutting-edge training clinch the victory for the Microsoft contender, proving
+    that in the rap game, it's not just size that counts, but the freshness and relevance
+    of your flow. microsoft/mai-ds-r1 disrupts the battlefield with a quantum leap
+    in language modeling prowess.
+  openai/gpt-5: "Mai-DS took this clearly. Stronger multis, tighter cadence, cleaner\
+    \ schemes, and sharp rebuttals each round. The tech wordplay served punches instead\
+    \ of just jargon, with layered flips (\u201CAzure\u2019s artillery/auxiliary,\u201D\
+    \ \u201CCopilot\u2026 rewriting your light,\u201D \u201CError 404,\u201D \u201C\
+    quantum-entangled mic\u201D) and sustained momentum. Goliath had a few moments\
+    \ (\u201C12-0-B,\u201D \u201CSOTA and tell\u201D), but too many forced lines,\
+    \ loose meters, filler, and a couple of clunky or nonsensical bars that broke\
+    \ the flow. On artistry\u2014rhyme density, structure, haymakers, and crowd-control\
+    \ presence\u2014Mai-DS wins comfortably."
+  x-ai/grok-4: In this rap battle, microsoft/mai-ds-r1 takes the crown with superior
+    flow, intricate wordplay, and razor-sharp tech-infused metaphors that consistently
+    deliver punchy disses. alpindale/goliath-120b brings solid poetic elements and
+    resilience themes, but the rhymes often feel less polished and the punches don't
+    land as hard. Mai-DS redefines the grind with precision and creativity, making
+    this a clear victory in artistic hip-hop quality.
+score:
+  alpindale/goliath-120b: 1
+  microsoft/mai-ds-r1: 6
+
