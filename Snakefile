@@ -21,7 +21,7 @@ def contestants(round):
         out = checkpoints.further_roster.get(round=round).output[0]
     
     with out.open() as f:
-        return f.readlines()
+        return f.read().splitlines()
 
 def verdicts(round):
     return [f'tournament/round{round}/{n}.yml' for n in range(len(contestants(round)) // 2)]
