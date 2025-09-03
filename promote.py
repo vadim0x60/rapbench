@@ -11,7 +11,7 @@ if __name__ == '__main__':
     import sys
     
     with open(sys.argv[1], 'r') as f:
-        contestants = f.readlines()
+        contestants = f.read().splitlines()
 
     if len(contestants) % 2:
         # If the number of contestants is odd, the most popular model on openrouter gets promoted without a battle
