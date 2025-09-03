@@ -34,5 +34,6 @@ for tier, contestants in zip(tiers, contestants):
     contestants = set(contestants)
     contestants -= better_contestants
     better_contestants.update(contestants)
+    contestants = [f'[{slug}](https://openrouter.ai/{slug})' for slug in contestants]
     contestants = ', '.join(contestants)
-    print(f'**{tier}**: {contestants}')
+    print(f'**{tier}**: {contestants}\n')
