@@ -70,6 +70,6 @@ checkpoint further_roster:
     log:
         "tournament/round{round}/contestants.log"
     shell:
-        "{python} promote.py {input} > {output} 2> {log}"
+        "{python} check.py && {python} promote.py {input} > {output} 2> {log}"
 
 ruleorder: first_roster > further_roster
