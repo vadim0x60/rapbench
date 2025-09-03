@@ -1,7 +1,7 @@
 # The great LLM rap-off
 
 Are you frustrated by AI companies training on benchmarks? Do you enjoy battle rap? Well, both of you are at the right place.
-State of the art in LLM evaluation. State of the art in generative poetry. The benchmark to end all benchmarks.
+State of the art in LLM evaluation. State of the art in generative poetry. The benchmark to end all benchmarks. Built with [keeptalking](https://github.com/vadim0x60/keeptalking)
 
 ## Results
 **SSS**: openai/o3-pro
