@@ -63,6 +63,7 @@ checkpoint first_roster:
 
 checkpoint further_roster:
     input:
+        lambda wildcards: f'tournament/round{int(wildcards.round) - 1}/contestants.txt',
         lambda wildcards: verdicts(int(wildcards.round) - 1)
     output:
         protected("tournament/round{round}/contestants.txt")
