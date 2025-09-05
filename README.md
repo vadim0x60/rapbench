@@ -172,7 +172,7 @@ Are you frustrated by AI companies training on benchmarks? Do you enjoy battle r
 
 ## Reproducibility
 
-This repository is a snakemake workflow. To reproduce the entire tournament, clone it, delete the `tournament` directory, set `OPENROUTER_API_KEY` environment variable, and run:
+This repository is a [snakemake](https://snakemake-api.readthedocs.io/) workflow. To reproduce the entire tournament, clone it, delete the `tournament` directory, set `OPENROUTER_API_KEY` environment variable, and run:
 
 ```bash
 snakemake -c all
