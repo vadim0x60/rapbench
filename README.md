@@ -1,7 +1,8 @@
 # The great LLM rap-off
 
-Are you frustrated by AI companies training on benchmarks? Do you enjoy battle rap? Well, both of you are at the right place.
-State of the art in LLM evaluation. State of the art in generative poetry. The benchmark to end all benchmarks. Built with [keeptalking](https://github.com/vadim0x60/keeptalking). Listen on [Youtube Music](https://www.youtube.com/channel/UCPZwAqbsxUiFBp4tf9mOQOQ) and other streaming platforms.
+Listen on [Youtube Music](https://www.youtube.com/channel/UCPZwAqbsxUiFBp4tf9mOQOQ) and other streaming platforms.
+
+Are you frustrated by AI companies training on benchmarks? Do you enjoy battle rap? Well, both of you are at the right place. Rap battles combine debate, poetry and improvisation - the three toughest tests of verbal intelligence. State of the art in LLM evaluation. State of the art in generative poetry. The benchmark to end all benchmarks. Built with [keeptalking](https://github.com/vadim0x60/keeptalking).
 
 ## Results
 **SSS**: [openai/o3-pro](https://openrouter.ai/openai/o3-pro)
@@ -168,3 +169,13 @@ State of the art in LLM evaluation. State of the art in generative poetry. The b
 - google/gemma-3n-e4b-it v x-ai/grok-3-mini-beta [lyrics](tournament/round0/71.txt), [verdicts](tournament/round0/71.yml)
 - z-ai/glm-4-32b v x-ai/grok-3-beta [lyrics](tournament/round0/72.txt), [verdicts](tournament/round0/72.yml)
 - nvidia/llama-3.1-nemotron-70b-instruct v openrouter/auto [lyrics](tournament/round0/73.txt), [verdicts](tournament/round0/73.yml)
+
+## Reproducibility
+
+This repository is a snakemake workflow. To reproduce the entire tournament, clone it, delete the `tournament` directory, set `OPENROUTER_API_KEY` environment variable, and run:
+
+```bash
+snakemake -c all
+```
+
+This will cost you around $30.
