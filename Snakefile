@@ -34,6 +34,16 @@ def roster(wildcards):
     return {'emcee_left': emcees[emcee_left(len(emcees), battle_num)].strip(), 
             'emcee_right': emcees[emcee_right(len(emcees), battle_num)].strip()}
 
+def final_winner_file(wildcards):
+    import numpy as np
+    post_tournament_round = int(np.ceil(np.log(len(contestants(0)))))
+    return f'tournament/round{post_tournament_round}/contestants.txt'
+
+rule all:
+    input:
+        "tournament/round0/contestants.txt",
+        final_winner_file
+
 rule battle:
     input:
         "tournament/round{round}/contestants.txt"
