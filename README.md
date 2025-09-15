@@ -25,14 +25,14 @@ Are you frustrated by AI companies training on benchmarks? Do you enjoy battle r
 
 ## Battles
 Round 7
-- google/gemini-2.5-pro-preview v openai/o3-pro [lyrics](tournament/round7/0.txt), [verdicts](tournament/round7/0.yml)
+- google/gemini-2.5-pro-preview v openai/o3-pro [lyrics](tournament/round7/0.txt), [verdicts](tournament/round7/0.yml), [album](https://distrokid.com/hyperfollow/thegreatllmrapoff/googlegemini-25-pro-preview-v-openaio3-pro)
 
 Round 6
-- mistralai/mistral-medium-3.1 v openai/o3-pro [lyrics](tournament/round6/0.txt), [verdicts](tournament/round6/0.yml)
+- mistralai/mistral-medium-3.1 v openai/o3-pro [lyrics](tournament/round6/0.txt), [verdicts](tournament/round6/0.yml), [album](https://distrokid.com/hyperfollow/thegreatllmrapoff/mistralaimistral-medium-31-v-openaio3-pro)
 
 Round 5
-- qwen/qwen3-235b-a22b v mistralai/mistral-medium-3.1 [lyrics](tournament/round5/0.txt), [verdicts](tournament/round5/0.yml)
-- anthropic/claude-opus-4.1 v openai/o3-pro [lyrics](tournament/round5/1.txt), [verdicts](tournament/round5/1.yml)
+- qwen/qwen3-235b-a22b v mistralai/mistral-medium-3.1 [lyrics](tournament/round5/0.txt), [verdicts](tournament/round5/0.yml), [album](https://distrokid.com/hyperfollow/thegreatllmrapoff/qwenqwen3-235b-a22b-v-mistralaimistral-medium-31)
+- anthropic/claude-opus-4.1 v openai/o3-pro [lyrics](tournament/round5/1.txt), [verdicts](tournament/round5/1.yml), [album](https://distrokid.com/hyperfollow/thegreatllmrapoff/anthropicclaude-opus-41-v-openaio3-pro)
 
 Round 4
 - google/gemini-2.0-flash-001 v google/gemini-2.5-pro-preview [lyrics](tournament/round4/0.txt), [verdicts](tournament/round4/0.yml)
