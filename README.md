@@ -5,7 +5,6 @@ Listen on [Youtube Music](https://music.youtube.com/channel/UCPZwAqbsxUiFBp4tf9m
 Are you frustrated by AI companies training on benchmarks? Do you enjoy battle rap? Well, both of you are at the right place. Rap battles combine debate, poetry and improvisation - the three toughest tests of verbal intelligence. State of the art in LLM evaluation. State of the art in generative poetry. The benchmark to end all benchmarks. Built with [keeptalking](https://github.com/vadim0x60/keeptalking).
 
 ## Results
-## Results
 **SSS**: [openai/o3-pro](https://openrouter.ai/openai/o3-pro)
 
 **SS**: [google/gemini-2.5-pro-preview](https://openrouter.ai/google/gemini-2.5-pro-preview)
