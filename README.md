@@ -26,17 +26,21 @@ Are you frustrated by AI companies training on benchmarks? Do you enjoy battle r
 ## Battles
 Round 7
 - google/gemini-2.5-pro-preview v openai/o3-pro [lyrics](tournament/round7/0.txt), [verdicts](tournament/round7/0.yml)
+
 Round 6
 - mistralai/mistral-medium-3.1 v openai/o3-pro [lyrics](tournament/round6/0.txt), [verdicts](tournament/round6/0.yml)
+
 Round 5
 - qwen/qwen3-235b-a22b v mistralai/mistral-medium-3.1 [lyrics](tournament/round5/0.txt), [verdicts](tournament/round5/0.yml)
 - anthropic/claude-opus-4.1 v openai/o3-pro [lyrics](tournament/round5/1.txt), [verdicts](tournament/round5/1.yml)
+
 Round 4
 - google/gemini-2.0-flash-001 v google/gemini-2.5-pro-preview [lyrics](tournament/round4/0.txt), [verdicts](tournament/round4/0.yml)
 - qwen/qwen3-235b-a22b v openai/gpt-oss-20b [lyrics](tournament/round4/1.txt), [verdicts](tournament/round4/1.yml)
 - anthropic/claude-3.5-haiku-20241022 v anthropic/claude-opus-4.1 [lyrics](tournament/round4/2.txt), [verdicts](tournament/round4/2.yml)
 - qwen/qwen3-32b v mistralai/mistral-medium-3.1 [lyrics](tournament/round4/3.txt), [verdicts](tournament/round4/3.yml)
 - openai/o3-pro v openrouter/auto [lyrics](tournament/round4/4.txt), [verdicts](tournament/round4/4.yml)
+
 Round 3
 - qwen/qwen3-235b-a22b v openai/gpt-5-mini [lyrics](tournament/round3/0.txt), [verdicts](tournament/round3/0.yml)
 - openai/gpt-4-1106-preview v anthropic/claude-3.5-haiku-20241022 [lyrics](tournament/round3/1.txt), [verdicts](tournament/round3/1.yml)
@@ -47,6 +51,7 @@ Round 3
 - tngtech/deepseek-r1t-chimera v anthropic/claude-opus-4.1 [lyrics](tournament/round3/6.txt), [verdicts](tournament/round3/6.yml)
 - openai/gpt-4o-2024-11-20 v mistralai/mistral-medium-3.1 [lyrics](tournament/round3/7.txt), [verdicts](tournament/round3/7.yml)
 - nvidia/llama-3.3-nemotron-super-49b-v1 v openrouter/auto [lyrics](tournament/round3/8.txt), [verdicts](tournament/round3/8.yml)
+
 Round 2
 - qwen/qwen3-235b-a22b v qwen/qwen3-30b-a3b [lyrics](tournament/round2/0.txt), [verdicts](tournament/round2/0.yml)
 - microsoft/wizardlm-2-8x22b v openai/gpt-4-1106-preview [lyrics](tournament/round2/1.txt), [verdicts](tournament/round2/1.yml)
@@ -66,6 +71,7 @@ Round 2
 - anthropic/claude-opus-4.1 v x-ai/grok-3-mini-beta [lyrics](tournament/round2/15.txt), [verdicts](tournament/round2/15.yml)
 - mistralai/mistral-medium-3.1 v x-ai/grok-3-beta [lyrics](tournament/round2/16.txt), [verdicts](tournament/round2/16.yml)
 - openai/chatgpt-4o-latest v openrouter/auto [lyrics](tournament/round2/17.txt), [verdicts](tournament/round2/17.yml)
+
 Round 1
 - google/gemini-2.0-flash-001 v sao10k/l3-euryale-70b [lyrics](tournament/round1/0.txt), [verdicts](tournament/round1/0.yml)
 - deepseek/deepseek-chat-v3.1 v qwen/qwen3-235b-a22b [lyrics](tournament/round1/1.txt), [verdicts](tournament/round1/1.yml)
@@ -104,6 +110,7 @@ Round 1
 - mistralai/magistral-medium-2506 v x-ai/grok-3-mini-beta [lyrics](tournament/round1/34.txt), [verdicts](tournament/round1/34.yml)
 - google/gemma-3-4b-it v x-ai/grok-3-beta [lyrics](tournament/round1/35.txt), [verdicts](tournament/round1/35.yml)
 - cognitivecomputations/dolphin-mixtral-8x22b v openrouter/auto [lyrics](tournament/round1/36.txt), [verdicts](tournament/round1/36.yml)
+
 Round 0
 - google/gemini-2.0-flash-001 v mistralai/mistral-large-2411 [lyrics](tournament/round0/0.txt), [verdicts](tournament/round0/0.yml)
 - deepseek/deepseek-chat-v3.1 v liquid/lfm-3b [lyrics](tournament/round0/1.txt), [verdicts](tournament/round0/1.yml)
