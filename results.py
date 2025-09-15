@@ -4,12 +4,13 @@ import os
 
 N_ROUNDS = int(os.getenv('N_ROUNDS'))
 
-tiers = ['SSS', 'SS', 'S', 'A', 'B', 'C', 'D', 'F']
+tiers = ['SSS', 'SS', 'S', 'A', 'B', 'C', 'D', 'F', 'FF', 'FFF']
 contestants = []
 
 print('## Battles')
 
 for round in reversed(range(N_ROUNDS)):
+    print(f'Round {round}')
     round_dir = Path(f'tournament/round{round}')
     with open(round_dir / 'contestants.txt') as f:
         contestants.append(f.read().splitlines())
