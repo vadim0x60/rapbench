@@ -26,6 +26,7 @@ for round in reversed(range(N_ROUNDS)):
         except FileNotFoundError:
             break
         battle_n += 1
+    print('\n')
 
 print('## Results')
 
