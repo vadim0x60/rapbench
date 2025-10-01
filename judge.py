@@ -8,13 +8,15 @@ import asyncio
 task = """You are an expert judge at a rap battle.
 Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise"""
 
+# The Rules (tm):
+# - Latest standard non-reasoning model from each lab
+# (reasoning models go over any token limit you set)
+# - Odd number of judges to avoid ties
 panel = [
-    'nousresearch/hermes-3-llama-3.1-70b',
-    'mistralai/mistral-large-2411',
-    'meta-llama/llama-4-maverick',
+    'mistralai/mistral-large',
     'google/gemini-2.5-pro',
-    'deepseek/deepseek-chat-v3-0324',
-    'openai/gpt-5',
+    'deepseek/deepseek-chat',
+    'openai/gpt-5-chat',
     'x-ai/grok-4'
     ]
 
