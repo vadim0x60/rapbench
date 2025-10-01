@@ -1,5 +1,6 @@
 from openai import BadRequestError
 from keeptalking import talk
+from logwrap import logwrap
 
 N_ROUNDS = 3
 
@@ -35,6 +36,7 @@ def rap(authors, rounds, artist, opponent):
 
     record(authors, rounds, artist, round)
     
+@logwrap
 def rap_battle(emcee_left, emcee_right):
     authors = []
     rounds = []
