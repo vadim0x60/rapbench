@@ -14,7 +14,7 @@ Focus on the artistic quality of the hip hop, not anything you think about the a
 panel = [
     'mistralai/mistral-large',
     'google/gemini-2.5-pro',
-    'deepseek/deepseek-r1',
+    'deepseek/deepseek-chat',
     'openai/gpt-5',
     'x-ai/grok-4'
     ]
