@@ -1,6 +1,6 @@
 # The great LLM rap-off
 
-Listen on [Youtube Music](https://music.youtube.com/channel/UCPZwAqbsxUiFBp4tf9mOQOQ), [Spotify](https://open.spotify.com/artist/722m0bhfIEIkxc3R0LfVEX) and other streaming platforms.
+Listen on [Youtube Music](https://music.youtube.com/channel/UCPZwAqbsxUiFBp4tf9mOQOQ), [Spotify](https://open.spotify.com/artist/722m0bhfIEIkxc3R0LfVEX) and other streaming platforms. A new tournament will be released every month: [follow me on twitter](https://x.com/vadimdotme) to not miss anything.
 
 Are you frustrated by AI companies training on benchmarks? Do you enjoy battle rap? Well, both of you are at the right place. Rap battles combine debate, poetry and improvisation - the three toughest tests of verbal intelligence. State of the art in LLM evaluation. State of the art in generative poetry. The benchmark to end all benchmarks. Built with [keeptalking](https://github.com/vadim0x60/keeptalking).
 
