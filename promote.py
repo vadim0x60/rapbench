@@ -1,6 +1,5 @@
 import yaml
 import config
-import logging
 
 def winner(verdict_path):
     with open(verdict_path) as fh:
