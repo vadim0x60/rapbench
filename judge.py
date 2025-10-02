@@ -32,7 +32,7 @@ async def judge_all(battle):
         @t.retry(retry=t.retry_if_exception_type(openai.LengthFinishReasonError), 
                  stop=t.stop_after_attempt(3),
                  wait=t.wait_random_exponential(max=float('inf')))
-        @vibe(model=judge_model)
+        @vibe(model=judge_model, tokens=5000)
         async def judge(battle) -> Verdict:
             """Be an expert judge at a rap battle.
             Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise"""
