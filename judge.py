@@ -4,19 +4,18 @@ import re
 import pydantic
 from collections import Counter
 import asyncio
+import tenacity as t
+import openai
 
 task = """You are an expert judge at a rap battle.
 Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise"""
 
-# The Rules (tm):
-# - Latest standard non-reasoning model from each lab
-# (reasoning models go over any token limit you set)
-# - Odd number of judges to avoid ties
+# An odd number of judges. Latest models from different labs with structured outputs
 panel = [
     'mistralai/mistral-large',
     'google/gemini-2.5-pro',
-    'deepseek/deepseek-chat',
-    'openai/gpt-5-chat',
+    'deepseek/deepseek-r1',
+    'openai/gpt-5',
     'x-ai/grok-4'
     ]
 
@@ -30,6 +29,9 @@ async def judge_all(battle):
 
     verdicts = {}
     for judge_model in panel:
+        @t.retry(retry=t.retry_if_exception_type(openai.LengthFinishReasonError), 
+                 stop=t.stop_after_attempt(3),
+                 wait=t.wait_random_exponential(max=float('inf')))
         @vibe(model=judge_model)
         async def judge(battle) -> Verdict:
             """Be an expert judge at a rap battle.
