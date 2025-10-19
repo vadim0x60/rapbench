@@ -1,0 +1,40 @@
+closing_statements:
+  deepseek/deepseek-chat: This battle showcased the depth and versatility of both
+    models, but Qwen's intricate wordplay, layered metaphors, and relentless delivery
+    set a higher standard. Mistral held its own with smooth flow and confidence, but
+    Qwen consistently elevated the artistic quality, weaving technical mastery with
+    lyrical precision. Qwen's final round was particularly devastating, combining
+    intellectual depth with poetic finesse. While Mistral maintained a strong presence,
+    Qwen's performance was the undeniable standout, earning this victory.
+  google/gemini-2.5-pro: This was a battle of complexity versus consistency. Mistral
+    came out of the gate with a smooth, classic hip hop flow and a clear persona as
+    the 'breeze.' The rhymes were clean and the structure was solid. However, that
+    consistency became its downfall. Across all three rounds, Mistral repeated entire
+    couplets and quatrains, showing a critical lack of adaptability and fresh material.
+    Qwen, on the other hand, started a little wordy but quickly evolved. By round
+    two, it was dropping intricate, multi-syllabic rhymes and deeply technical, creative
+    insults like 'I hold whole *worlds* in my weights, built to withstand *black swans
+    in the stack*.' Its final round was an absolute display of lyrical dominance,
+    with complex metaphors and pure aggression that left Mistral's recycled verses
+    in the dust. For its brutal progression and superior lyrical firepower, Qwen takes
+    the crown.
+  mistralai/mistral-large: After a thrilling rap battle, alibaba/tongyi-deepresearch-30b-a3b
+    emerges as the winner. Qwen's intricate wordplay, deep knowledge, and clever metaphors
+    showcased a mastery of language and artistic expression that was unmatched. While
+    mistralai/mistral-small-3.1-24b-instruct put up a strong fight with smooth rhymes
+    and a steady flow, Qwen's depth and complexity ultimately secured the victory.
+  openai/gpt-5: "Tongyi takes it. He delivered heavier punches, sharper personals,\
+    \ and more inventive imagery (tech metaphors, layered wordplay) with multi-syllabic\
+    \ patterns and clear rebuttals each round. Though the flow was occasionally choppy\
+    \ and formatting hiccups showed, he still controlled momentum and landed memorable\
+    \ haymakers. Mistral\u2019s cadence was smooth and consistent, but leaned on repetitive\
+    \ wind/river/sky motifs and the size-isn\u2019t-everything angle, with fewer flips\
+    \ and standout quotables. Edge goes to Tongyi on creativity, impact, and battle\
+    \ effectiveness."
+  x-ai/grok-4: In this rap battle, Qwen takes the crown with superior creativity,
+    intricate wordplay, and evolving metaphors that build intensity across rounds.
+    Mistral's verses, while smooth, suffer from heavy repetition, limiting their artistic
+    depth and freshness.
+score:
+  alibaba/tongyi-deepresearch-30b-a3b: 5
+

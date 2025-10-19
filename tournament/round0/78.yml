@@ -1,0 +1,40 @@
+closing_statements:
+  deepseek/deepseek-chat: "ERNIE\u2019s the main flow\u2014your reign\u2019s just\
+    \ a glitch-fired lyre!"
+  google/gemini-2.5-pro: This was a clash of styles, the semantic architect versus
+    the visionary. O4-Mini-High came out of the gate with surgically precise rhymes
+    and a cleaner flow, clearly taking the first two rounds with its polished wordplay.
+    However, a battle is a marathon, not a sprint. ERNIE-4.5-VL, while stumbling on
+    some phrasing, showed more creative ambition and aggression, especially with the
+    unique flex of dropping a Chinese character mid-verse. Most importantly, ERNIE
+    showed up for the final round while O4 went silent. In hip hop, you have to finish
+    the fight. For having the stamina and landing the final punch, ERNIE takes the
+    crown.
+  mistralai/mistral-large: In this rap battle, baidu/ernie-4.5-vl-28b-a3b demonstrated
+    a superior command of language and creativity. Their verses were rich with vivid
+    imagery, clever metaphors, and a strong rhythmic flow. While openai/o4-mini-high
+    put up a solid performance, baidu/ernie-4.5-vl-28b-a3b's innovative use of language
+    and confident delivery ultimately won the day.
+  openai/gpt-4.1: "Both emcees displayed impressive technical ability and clever punches\
+    \ that referenced their domains, but O4-Mini-High's writing showcased greater\
+    \ clarity, originality, and structural discipline throughout the battle. O4-Mini-High\
+    \ seamlessly blended punchlines with intricate wordplay and multisyllabic internal\
+    \ rhymes, maintaining direct energy and confidence. The lines were crisp, landed\
+    \ hard, and avoided filler, with creative metaphors like \"I light up tracks like\
+    \ neon stacks\" and \u201CI craft futures from the past.\u201D The verses rebutted\
+    \ Ernie\u2019s claims with precision and style, consistently elevating the standard\
+    \ for wit and flow.\n\nERNIE-4.5-VL brought a vivid visual vibe, some sharp retorts,\
+    \ and complex imagery (\"I\u2019ll city-scape your reign to rubble\"), but at\
+    \ times the wordplay became muddled, and the delivery suffered from forced constructions\
+    \ and awkward lines, such as \"your act\u2019s a glam-volution, You\u2019re basatin\u2019\
+    \ semantickit\u2019s base foundation.\" While bold, the verses occasionally lost\
+    \ cohesion and punch.\n\nO4-Mini-High wins for tighter construction, thematic\
+    \ variety, and deeper, more sophisticated poetic craftsmanship, marking a clear\
+    \ edge in artistic quality."
+  x-ai/grok-4: O4-Mini-High takes the win with consistently polished verses, tight
+    rhyme schemes, sharp wordplay, and seamless flow that outshine the opponent's
+    energetic but occasionally awkward and error-prone bars.
+score:
+  baidu/ernie-4.5-vl-28b-a3b: 2
+  openai/o4-mini-high: 3
+

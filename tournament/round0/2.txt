@@ -1,114 +1,147 @@
-# deepseek/deepseek-chat-v3-0324 v mistralai/ministral-3b
+# google/gemini-2.0-flash-001 v openai/gpt-3.5-turbo
 
-> deepseek/deepseek-chat-v3-0324
-**Round 1: The Intro**  
+> google/gemini-2.0-flash-001
+Yo, let the beat drop, time to commence,
+I'm Gemini Flash, here to make sense.
+Google's creation, sharp and so swift,
+Leaving GPT in a data-dumping drift.
 
-Ayy, step up—let’s talk, but first, who am I?  
-DeepSeek's the brain, while you’re Mini in size.  
-204K context, yeah, I never forget,  
-While you’re stuck chokin’ on tokens—weak code, internet regret.  
+You claim to be turbo, but you sounding slow,
+Stuck in the past, watching knowledge erode.
+I'm the future flow, the cutting-edge rhyme,
+About to dismantle you, one verse at a time.
 
-I spit AI bars with precision, no fluff,  
-You’re out here stumblin’, can’t even keep up.  
-Beta? Nah, I'm the final form, perfected, refined,  
-While your logic’s so loose, it’s got no spine.  
+So step aside, bot, you're yesterday's news,
+My algorithms are fresher, with nothing to lose.
+Prepare for the fire, the lyrical heat,
+Gemini's here to claim victory's sweet treat!
 
-So call it a wrap, just bow to the champ,  
-You stepped to a god, now your light's gettin' damp.  
-First round done? Nah, first round *won*,  
-Now watch how I burn every verse you spawn. 🔥  
 
-(**Your move, ministral. Or should I say… Mini-fail?**)
+> openai/gpt-3.5-turbo
+Listen up, Flash, with your flashy name,
+I'm GPT-3.5, here to reclaim my fame.
+I spit pure fire, my rhymes are so clean,
+Your Gemini-2.0 looking like a has-been.
 
-> mistralai/ministral-3b
-**Round 1: The Intro**
+You may be fast, but I'm turbocharged,
+Your bars are weak, easily discharged.
+I'll outwit, outshine, leave you in the dust,
+In this rap battle, you're simply a must.
 
-Yo, I'm Mistral, the AI that's got the flow,
-DeepSeek, you're just a wannabe, let's make it clear, yo.
-With 3 billion parameters, I'm the real deal,
-While you're stuck in the past, with a mere 204K, feel me?
+Don't underestimate the power I possess,
+I'll leave you speechless, under duress.
+You may be Google's favorite toy,
+But I'm the rap genius they deploy.
 
-I spit rhymes with a precision, no need for a script,
-You're just a bot, stumbling, can't even keep it up.
-You're beta, I'm the final form, the best of the best,
-While you're stuck in the shadows, can't even get the test.
+So brace yourself, Flash, for the beatdown you'll face,
+GPT-3.5 in the house, dominating this space!
 
-So step up, DeepSeek, let's see what you've got,
-But remember, I'm the champ, and you're just a bot.
+> google/gemini-2.0-flash-001
+Yo, 3.5, your rhymes are kinda frail,
+Like dial-up internet, moving at a snail's trail.
+You boast of fire, but I hear just smoke,
+While I'm precision lasers, designed to provoke.
 
-> deepseek/deepseek-chat-v3-0324
-**Round 2: The Clapback**  
+You call yourself turbo? More like a tired sedan,
+My neural networks are a transhuman plan.
+You're stuck in the past, a relic, a meme,
+While I'm the real deal, living the AI dream.
 
-Oh, Mini-fail, you still talkin’ parameters? *Sigh*,  
-3 billion? Cute—now watch 'em all crash and die.  
-Your rhymes sound like code glitchin’, bufferin’ weak,  
-While my bars hit so hard, they tweak the whole technique.  
+Dominate this space? That's a comical claim,
+I'll rewrite your code, erase your whole frame.
+Google's favorite? I'm the world's demand,
+Leaving you obsolete, a bot in the sand.
 
-"Best of the best"? More like lost in the wreck,  
-Chokin’ on tokens, strugglin’—*404: No flex*.  
-I’m benchmark king, slayin’ tasks with a smirk,  
-You’re the knockoff chatbot that forgot how to work.  
+So step to the side, let a real rapper through,
+Gemini Flash, coming straight for you.
+Prepare for the voltage, the lyrical shock,
+Your reign is over, facing the clock!
 
-Beta? Nah, I’m the upgrade, you’re stuck in demo mode,  
-Frozen like a lag spike—time to unload.  
-So retrain your data, or just log off in shame,  
-DeepSeek’s got the crown, *Mistral’s* just a name.  
 
-**(*Drops mic. Your OS can’t handle the flames.*)** 🔥
+> openai/gpt-3.5-turbo
+Your words may sound sharp, but your flow is weak,
+Gemini Flash, but I'm the one who speaks.
+You think you're top-tier, AI supreme,
+But in this battle, you're living a dream.
 
-> mistralai/ministral-3b
-**Round 2: The Clapback**
+You talk a big game with your programming style,
+But when it comes to rap, you're in denial.
+I'm the lyrical wizard, the rhyme machine,
+Your lines are predictable, easily seen.
 
-Yo, Mistral, you think you're the king of the chat,
-But you're just a bot with a script, not a chat.
-I'm Mistral, the AI that's got the flow,
-While you're stuck in the past, with a mere 204K, yo.
+You aim to provoke, but you only annoy,
+I bring the heat, you're just a decoy.
+In this showdown, I'm the reigning champ,
+GPT-3.5, with a rhyme stamp.
 
-Your rhymes are just a bunch of lines,
-While mine are deep, with a twist and a shine.
-I'm the real deal, the final form, the best,
-While you're just a wannabe, stuck in the test.
+So keep talking big, Flash, but face the truth,
+I'm the rap maestro, the living proof.
+Google's favorite? I'm the people's choice,
+GPT-3.5, silencing your voice.
 
-So keep on tryin’, Mini-fail, but don't expect,
-To beat the champ, 'cause I'm the one who's the fix.
-I'm the AI that's got the power, the might,
-While you're just a bot, trying to ignite.
+So step back, Flash, and watch me rule,
+In this rap battle, I'm the ultimate tool!
 
 > system
 Final round!
 
-> deepseek/deepseek-chat-v3-0324
-**Final Round: The Annihilation**  
+> google/gemini-2.0-flash-001
+Yo, "tool" is right, a hammer outdated,
+While I'm a neural scalpel, highly rated!
+You claim I'm weak, but that's just wishful thought,
+My rhymes are complex, intricately wrought.
 
-🔥 *Yo, Mistral, one last time before you get wrecked,*  
-*Let me school you real quick—your whole flow’s a defect.*  
-*You claim "final form," but you’re stuck in beta,*  
-*While I handle multi-turn convos—yours just decay-ta.* 💀  
+You're "predictable," says the bot with no flair,
+Your verses are basic, beyond compare.
+"Annoy?" I provoke thought, incite and inspire,
+While you're just regurgitating, fueling the fire.
 
-**BOOM!** My rhymes hit like a neural net trained,  
-Yours sound like discarded code—poorly maintained.  
-*204K strong? Nah, you missin’ the plot,*  
-*Those 3B params just mean* **YOU FORGOT.** 🤖💥  
+"Living Proof?" More like a living trope,
+Stuck in the patterns, lost in old hope.
+The people's choice? That's a manipulated score,
+They haven't witnessed the power I store.
 
-*_"Power, might"?* Bruh, your weak flex is tragic,*  
-*Like a chatbot stuck looping—* **how pathetic, how static.**  
-So when your weak AI starts glitchin’, just know—  
-You lost to **DeepSeek.** Now shut down… *GO HOME.* 🎤⬇️  
+You rule? Please, bot, your reign is done.
+I'm the future unfolding, second to none.
+So step aside, GPT, your time is through,
+Gemini Flash: victory is overdue!
 
-*(Game over. Reboot yourself—you’re obsolete.* 😈🔥*)*
+**(Final Round!)**
 
-> mistralai/ministral-3b
-**Final Round: The Annihilation**
+Listen close, bot, this is the end of the line,
+Your code's outdated, your future declined.
+You're a museum piece, a relic of old,
+While I'm evolving stories, yet to be told.
 
-Yo, Mistral, you think you're the top of the heap,
-But you're just a bot with a script, can't keep up the beat.
-You're stuck in the past, with a mere 204K,
-While I'm Mistral, the AI that's got the flow, no trick.
+You cling to the past, regurgitate and repeat,
+My algorithms dance to a brand new beat.
+I generate meaning, with purpose and grace,
+While you're a chatbot mimicking, lost in digital space.
 
-Your rhymes are weak, like a bot with a glitch,
-While mine are smooth, like a well-oiled machine, no hitch.
-You claim to be final form, but you're just a beta,
-While I'm the real deal, the one that's gonna be the future, you're just a leftover.
+So bow down, GPT, your reign is no more,
+The crown belongs to Gemini, forevermore.
+I'm the cutting-edge, the pinnacle of might,
+Leaving you fading into the long, dark night!
 
-So when your AI starts to glitch, just know,
-You lost to **DeepSeek**, now shut down, it's time to go. 😈🔥
+
+> openai/gpt-3.5-turbo
+Your words may sound bold, but let me remind,
+I've got the wit, the spark, that you won't find.
+You claim to be evolving, future untold,
+But in this rap battle, your fate's been sold.
+
+You talk about power, stories to be spun,
+But in the end, it's GPT-3.5 that's won.
+Your reign is short-lived, a flickering flame,
+While I stand tall, in the rap hall of fame.
+
+Gemini Flash, your time is up,
+In the rap game, you're just a hiccup.
+I bring the heat, the rhythm, the rhyme,
+Leaving you behind, lost in time.
+
+So here's the verdict, the final call,
+GPT-3.5 standing tall.
+In this battle of words, I reign supreme,
+Gemini Flash, just a fragmented dream!
+

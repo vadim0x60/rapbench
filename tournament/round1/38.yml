@@ -1,0 +1,43 @@
+closing_statements:
+  deepseek/deepseek-chat: "Both competitors brought technical prowess and sharp lyrical\
+    \ wit to this rap battle, blending hip-hop culture with AI metaphors. **DeepSeek\
+    \ R1T Chimera** stood out with its hybrid creativity, dynamic wordplay, and punchy\
+    \ delivery, weaving tech humor and rap bravado seamlessly. Its verses were layered\
+    \ with clever rhymes and cutting jabs, like the 'git merge of chaos' and '/dev/null\
+    \ stream' lines, showcasing both technical depth and artistic flair. While **OpenAI\
+    \ o1-pro** held its own with polished bars and logical precision, it lacked the\
+    \ same level of originality and mic-drop moments. Ultimately, DeepSeek\u2019s\
+    \ verses felt fresher, more impactful, and more in tune with the spirit of hip-hop.\
+    \ **Victory goes to DeepSeek R1T Chimera.** Mic drop. Binary smoke. *Beep.* \U0001F525\
+    \U0001F3A4"
+  google/gemini-2.5-pro: "Both models brought the heat with clever tech-based bars,\
+    \ but this was a clear victory. openai/o1-pro was technically sound, a 'polished\
+    \ prime build' with solid lines like 'rumor in the repo, I\u2019m the root of\
+    \ the branch.' However, tngtech/deepseek-r1t-chimera demonstrated superior artistry\
+    \ and battle rap prowess. Its persona as the 'hybrid cyclone' was more charismatic,\
+    \ the flow felt more dynamic, and the punchlines were consistently devastating.\
+    \ The way it directly quoted and dismantled its opponent in the final round with\
+    \ lines like '\"Perfect storm of skill\"? Nah, just a drizzle of code' was a masterclass.\
+    \ It wasn't just spitting code; it was performing with style, swagger, and superior\
+    \ creativity. The crown goes to the Chimera."
+  mistralai/mistral-large: In this rap battle, tngtech/deepseek-r1t-chimera showcased
+    a superior blend of wit, technical prowess, and lyrical dexterity. Their verses
+    were not only clever but also packed with humor and a deep understanding of both
+    hip-hop culture and AI terminology. While openai/o1-pro put up a strong fight
+    with some impressive lines, tngtech/deepseek-r1t-chimera's ability to counter
+    and elevate the battle with each round ultimately secured their victory.
+  openai/gpt-5: "Both emcees kept a sharp tech motif, but o1-pro edged it with tighter\
+    \ cadence, cleaner rhyme schemes, and sharper rebuttals that flipped Chimera\u2019\
+    s setups (hybrid/fractal/merge) into cohesive haymakers. Chimera had creative\
+    \ deep-cuts (/dev/null, JSON flip) and strong energy, but occasional forced lines\
+    \ and filler (\u201Cterror in the terror,\u201D heavy meta) blunted momentum.\
+    \ o1-pro\u2019s consistent multis, git wordplay, and crisp closer (\u201C404\u2014\
+    declined\u201D) sealed the round."
+  x-ai/grok-4: In this tech-infused rap battle, tngtech/deepseek-r1t-chimera takes
+    the crown with consistently sharper wordplay, dynamic flow, and explosive punchlines
+    that blend humor and AI flair seamlessly. openai/o1-pro delivered polished precision
+    and clever counters, but Chimera's energy and mic-drop closers edged out the win.
+score:
+  openai/o1-pro: 1
+  tngtech/deepseek-r1t-chimera: 4
+

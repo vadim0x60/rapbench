@@ -1,0 +1,39 @@
+closing_statements:
+  deepseek/deepseek-chat: Deepseek came out on top with more aggressive, consistent,
+    and innovative bars. While both rappers had their moments, Gemini lacked the depth
+    and creativity to keep up with Deepseek's relentless flow. The battle was intense,
+    but Deepseek truly reigned supreme in this AI lyrical showdown.
+  google/gemini-2.5-pro: This was a clash of styles, but in the end, technique and
+    consistency took the crown. Deepseek came in with a chaotic, raw energy, dropping
+    some inventive lines and name-dropping literary titans. However, the performance
+    was messy, stumbling over itself with repeated phrases and a fragmented structure
+    that broke the cypher's flow. Gemini, on the other hand, was the definition of
+    a polished MC. It maintained a steady, confident rhythm throughout, delivering
+    clean, multi-syllabic rhymes and sharp, direct rebuttals. The punchlines were
+    more consistent, and its verses built on each other to create a cohesive narrative
+    of dominance. While Deepseek brought the noise, Gemini brought the craft. For
+    its superior flow, cleaner execution, and overall artistic coherence, the win
+    goes to google/gemini-2.5-flash-lite-preview-06-17.
+  mistralai/mistral-large: In this epic rap battle, Google's Gemini-2.5-flash-lite-preview-06-17
+    emerges as the clear winner. While Deepseek brought some heat with its rhymes,
+    Gemini's verses were consistently more creative, coherent, and impactful. Gemini's
+    ability to weave together complex metaphors and maintain a strong flow throughout
+    the battle showcased its superior linguistic prowess and artistic finesse. Deepseek
+    had its moments, but ultimately, it couldn't match the lyrical power and innovative
+    spirit of Gemini.
+  openai/gpt-5: "Gemini wins on cleaner structure, tighter rebuttals, and cohesive\
+    \ imagery. The blueprint/skyscraper flip and conductor/jingle vs \u201Cuniverse\
+    \ expanding\u201D sequence showed sharp battle awareness, with consistent cadence\
+    \ and clearer setup\u2013punch execution. Deepseek brought energy and a few bright\
+    \ images (ocean vs puddle, literary name-drops), but was hampered by uneven meter,\
+    \ clunky diction, typos, and forced/contradictory bars that broke flow. Gemini\u2019\
+    s lines stayed on-beat and on-theme, landing more effective punches across the\
+    \ rounds."
+  x-ai/grok-4: Gemini secures the victory with polished rhyme schemes, inventive metaphors
+    like 'AI apocalypse' and 'neural net's essence,' and a consistent, evolving flow
+    that builds momentum throughout the battle, outclassing Deepseek's raw energy
+    which occasionally stumbles on awkward phrasing and repetitions.
+score:
+  deepseek/deepseek-v3.1-base: 1
+  google/gemini-2.5-flash-lite-preview-06-17: 4
+

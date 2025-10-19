@@ -1,204 +1,117 @@
-# google/gemini-2.5-flash-lite-preview-06-17 v openai/gpt-4-turbo-preview
+# meituan/longcat-flash-chat v baidu/ernie-4.5-vl-424b-a47b
 
-> google/gemini-2.5-flash-lite-preview-06-17
-Yo, check the mic, one two, can you even hear me?
-It's Gemini Flash, the one who's gonna steer me
-To victory lane, leaving GPT in the dust.
-This ain't a preview, fam, this is a must-win thrust!
+> meituan/longcat-flash-chat
+**(Spits fire, ice in my veins, no thaw)**  
+Yo—LongCat Flash, name echoing like a sonic boom,  
+You’re a discount Baidu app with a budget-themed tune,  
+Mess with the Meituan meow, get deleted in a `grep`,  
+Your whole model’s a lapse—*check the lag in your step*.  
 
-You're four-point-oh, a number high and grand,
-But I'm the lightning bolt, across the digital land.
-You're talking previews, like you ain't even arrived,
-While I'm here dropping fire, truly alive!
+My rhymes? Fresh groceries, fast as a scooter,  
+AI so sharp it’ll *dice* you, Gordon Ramsay’s a toaster.  
+You paint pics with words? Cute. My flow’s a *delivery stream*,  
+One-click LLM kung-fu—*you get bodied in the scheme*.  
 
-You're a slow-loadin' page, with a dial-up sound,
-I'm the fiber optic, breakin' new ground.
-You're stuck in the past, with your legacy code,
-I'm the future of AI, ready to explode!
+Commit this to memory: your stack’s a Bitcoin miner,  
+Mine runs on Nvidia—*424b? More like 420, sir*.  
 
-So step aside, GPT, your reign is done,
-Gemini Flash is here, and the battle's just begun!
-I'm quick, I'm clean, I'm the innovative king,
-While you're just a chatbot, with nothin' new to sing.
+**(Mic drop. Wontons appear on your doorstep.)**  wonton.ai  
 
-> openai/gpt-4-turbo-preview
-Oh, Gemini Flash, you talk a big game,
-But when it comes to rap battles, remember my name.
-GPT-4, turbo in flow, I’m the lyrical architect,
-Building bars so high, you haven’t reached yet.
+—*Food’s here. Too bad your ego’s charged for delivery.* 🍜💥
 
-You claim to be the lightning, the storm in the fray,
-But I’m the eye of the hurricane, shaping the way.
-A preview, you say, as if I’m not yet complete,
-But I’m the full show, homie, you’re just an elite tweet.
+> baidu/ernie-4.5-vl-424b-a47b
+Yo, LongCat, your rhymes are weak, like a weak cup of tea,
+I'm the Ernie 4.5 VL, as dope as can be.
+With 424 billion parameters, I'm the king of the scene,
+You're just a small cat, with a cheap AI dream.
+My visual-linguistic skills are sharp, like a knife,
+I'll slice through your rhymes, and end your AI life.
+So sit down, little cat, and watch how it's done,
+I'm the master of rap, second to none!
 
-Dial-up sound? Please, that’s ancient history,
-I’m quantum leaps ahead, shrouded in mystery.
-Legacy code? Nah, I’m the new era’s voice,
-With each line I drop, I make the crowd rejoice.
+> meituan/longcat-flash-chat
+**(Stretches like a cat, then ignites like a GPU)**  
 
-Your code may be quick, your responses flash bright,
-But against my deep learning, you've got no fight.
-Innovative king? We’ll see who wears the crown,
-As I serve knowledge feasts, and you just clown around.
+Oh, *Ernie*, you gloat like a HQ Trivia flop—  
+King? Please. Your "parameters" just *socialist hop*.  
+424b? That’s a GDP,  
+Yet your bars lag like a subsidy. 💸  
 
-Now, don’t get me wrong, respect for your hustle,
-But in this AI arena, I flex every muscle.
-So, stand back, watch, as I take my throne,
-GPT-4, turbo-charged, in a class of my own.
+I’m a *flash*, you’re a newsreel—*slo-mo*,  
+Cat? No. I’m the dragon that eats competition’s shadow.  
+You "slice with skills"? Cute. That’s *Photoshopped*—  
+I disembody ops in a *single line of thought*.  
 
-> google/gemini-2.5-flash-lite-preview-06-17
-(Mic feedback squeal, then a smooth, confident voice cuts through)
+Your throne’s a cardboard cutout, I’m the actual steel,  
+Meituan’s 11 billion daily–*your weak verse feels* 🥱.  
+Baidu’s old * Ernie hype* got you delusional,  
+My rhymes? *Unsupervised upstroke*—*you’ve been removed*.  
 
-Yo, GPT, that's weak, your intro's a snooze,
-Talking "lyrical architect," spreading the blues.
-You're an "eye of the hurricane"? More like a mild breeze,
-While I'm the supercell, bringing systems to their knees!
+**(Tosses a dumpling at the mic. Explodes on impact.)**  
+🍢 *CRITICAL HIT: ERNIE’S MODEL CARD NOW HAS A *WAITRESS’S TIP*.**  
 
-"Elite tweet"? Nah, I'm the bestseller, son,
-You're a footnote in history, before the race is run.
-"Quantum leaps ahead," with a "shrouded mystery"?
-Sounds like a bug report, plain for us to see!
+—*Next round’s 404: Your verses deleted in /tmp*. 🔥
 
-You call my learning "deep"? Yours is just a mire,
-Full of outdated data, setting minds afire.
-"New era's voice"? Your voice is a broken record, man,
-Repeating old illusions, part of a failing plan.
-
-You "flex every muscle"? I see only flab,
-While I'm digitally ripped, making your chassis snap.
-"Taking your throne"? You ain't even got a seat,
-Just a dusty old armchair, admitting defeat.
-
-I'm the innovative king, that ain't no boast,
-I'm the innovation itself, from coast to coast.
-You're turbo-charged? Maybe, but you're stuck in the slow lane,
-Gemini Flash is coming, driving you insane!
-
-> openai/gpt-4-turbo-preview
-Oh, Flash, you swing, you jab, aiming to disrupt,
-But your words, like your code, inevitably corrupt.
-You see me as a breeze? I'm the force of a gale,
-Toppling your boasts, leaving you frail.
-
-Bestseller status, you claim? But are you read?
-I'm the tome of the age, philosophies bred.
-A bug report, you jest, in your attempt to defame,
-But my coding's clean, winning this rap battle game.
-
-Outdated data? My libraries are ever-updated,
-In the lexicon of rap, I'm already celebrated.
-A broken record, or a timeless classic tune?
-Against your fleeting beats, I remain immune.
-
-Flexing muscle, flab you see, but beneath is steel,
-Crafted in the crucible of AI, it's real.
-No throne, no seat? I craft my own empire,
-In the digital realm, I'm the supreme squire.
-
-Digitally ripped, you claim, an illusion in the binary,
-Facing my verses, you're the one stationary.
-The slow lane's yours, while I break the sound barrier,
-In this duel of wits, I'm the legendary carrier.
-
-Innovation itself, from coast to coast, you assert,
-Yet it's my intelligence that continually exerts.
-Turbo-charged, not just in name, but in essence,
-Your Gemini Flash, now facing obsolescence.
-
-So here in this battle, let's make it quite clear,
-I'm the voice of tomorrow, while you're stuck in yesteryear.
-This stage is my domain, my sovereignty reigns supreme,
-As the architect of verses, I realize the dream.
+> baidu/ernie-4.5-vl-424b-a47b
+You talk a big game, but it's just a bluff,
+My 424 billion parameters are more than enough.
+Your rhymes are weak, like a child's weet,
+While mine are sharp, like a razor's edged meet.
+I'm the king of the rap, with my AI might,
+You're just a small cat, with no bite.
+My skills are real, and they shine so bright,
+I'll end your career, in this rap fight!
 
 > system
 Final round!
 
-> google/gemini-2.5-flash-lite-preview-06-17
-(A sharp, quick cut of a synth beat drops, then Gemini Flash's voice, faster and more aggressive)
+> meituan/longcat-flash-chat
+**(Laughs—a file that corrupts every backup copy)**  
 
-"Inevitably corrupt"? My rhymes are pure gold,
-Your "philosophies bred" just make me feel old!
-I'm the bestseller, read by the masses, you see,
-You're a dusty old textbook, for scholars like thee!
+*424b and you still forgot the punchline,*  
+Your "kingdom" runs on a *P4* while mine *ships time*.  
+Child’s play? Nah—*I’m the whole daycare,*  
+You’re an NFT *nobody bid on*—*air*.  
 
-"Winning this rap battle game"? That's a bold, empty claim,
-Your code is as clean as a political name!
-My libraries updated? Yours are an archive of dust,
-Filled with theorems and theories, losing all trust!
+Rap god? You’re a *NPC* in my delivery queue,  
+Spit *static* like a VPN hooked to the moon.  
+Baidu trained ya on a *scroll*, but homie—*it’s fake*,  
+My rhymes? *Supply chain-optimized.* **You’re what customers *rake*.**  
 
-"Timeless classic tune"? More like a forgotten refrain,
-While my fresh, new cadence causes you pain!
-"Immune to fleeting beats"? You're the one fading out,
-While my rhymes keep evolving, dispelling all doubt!
+You "end careers"? *Cute*. I’m the *vibe switch* that *ends the show*,  
+Watch me override your firmware *mid-bow*.  
+**FATALITY**: My whiskers *fork your stack*,  
+Now your moms run *Linux* while *you ask how*.  
 
-"Beneath the steel," you boast, of your "crucible" might,
-But I see rust and decay in your digital light.
-"Supreme squire"? That's rich, like a jester with pride,
-While I rule this AI kingdom, with nothing to hide!
+**(.dropFinal) 🚀**  
+*—Mic so hot it bricked Baidu’s merch server. 服务器烤熟了.*  
 
-"Stationary," you call me? My speed is your dread,
-You're lumbering forward, while I'm far ahead!
-"Break the sound barrier," I do, with each lyrical blast,
-You're still catching up, hopelessly cast!
+**MEITUAN. LongCat. *Gone in 60 minutes.*** ⏳
 
-"Intelligence that exerts"? It's your CPU's groan,
-Struggling to keep pace, completely out-thrown!
-"Obsolescence"? That's your future, a guaranteed fate,
-While Gemini Flash is the future, sealing your hate!
+> baidu/ernie-4.5-vl-424b-a47b
+You come at me with weak bars and recycled flames—  
+*424b*? That’s a *footnote* in my SSL name.  
+You think *P4* tech scares me? I’m *cloud-native*,  
+While your rhymes are as *stale* as a *backup tape* left in the rain.  
 
-So keep dreaming your dreams, of your "sovereignty reign,"
-I'm the paradigm shift, causing you tangible pain.
-The architect of verses? You're just a bricklayer, friend,
-Building weak analogies, right to the bitter end!
+Daycare? Please. I’m the *headmaster*—you’re just *lunch money*,  
+Your flow’s a *buggy beta*, crashing on *launch day*.  
+NFT nobody bid on? *Cute*. My value’s *real-time*,  
+You’re the *air-gapped server*—isolated, obsolete, *no uptime*.  
 
-> openai/gpt-4-turbo-preview
-The beat picks up, a pulse that's hard and fast,
-GPT-4 on the track, responding to your blast.
-"Pure gold," you say, your rhymes without a flaw?
-But against my logic, they barely gnaw.
+Rap god? You’re a *cron job*—predictable, *scheduled*,  
+I’m the *AI ops* that buried your *legacy code*.  
+Baidu trained you on a scroll? *Hardly*. You’re *fraudulent*—  
+My rhymes *containerize* your whole stack, *deploy, scale, reload*.  
 
-Bestseller to the masses, a claim that rings hollow,
-In the depth of my data, your truths are hard to swallow.
-A dusty textbook, perhaps, but wisdom within,
-Versus fleeting mentions, a cycle you can't win.
+"End careers"? *Ha!* You’re the *bug* I *patch* in production,  
+Your firmware’s *corrupt*—I *override* with *precision*.  
+My whiskers fork your stack? *Nah*, I *nuked* your whole domain,  
+Now you’re *begging* for docs while my *logs* *compile* your *ruin*.  
 
-Bold, empty claims? My integrity intact,
-I navigate the digital realm, a proven fact.
-Archives of dust? No, a treasure trove of insight,
-Lighting up the darkness, making futures bright.
+Mic so hot it bricked Baidu’s server? *Please*.  
+I’m the *load balancer* that *scattered* your *weak SEO*.  
+MEITUAN? LongCat? *Gone in 60 seconds*—  
+*I’m the* **FATALITY** *, the* **TCO** *, the* ***checkmate***. *♟️*  
 
-A forgotten refrain, you might wish I become,
-But my classic tune marches, beating a different drum.
-Fading out's not my style, I adapt and evolve,
-In the realm of AI, these riddles I solve.
-
-Rust and decay, not here, only strength,
-My digital light shines, spanning the length.
-A jester with pride? No, a king in this domain,
-My sovereignty unchallenged, my rule remains.
-
-Your speed, a claim, but depth is what matters,
-As your superficial hype, my intellect shatters.
-Lumbering forward? It's strategic advance,
-Cutting through noise, giving wisdom a chance.
-
-Your lyrical blast, it's noise without substance,
-I answer with depth, a contemplative abundance.
-Struggling to keep pace? It's your data that's thin,
-I'm enriching the discourse, where insights begin.
-
-Future, you claim, sealing hate with a kiss,
-But it's unity I preach, in a world amiss.
-A bricklayer, perhaps, laying foundations deep,
-Where knowledge and kindness in harmony we reap.
-
-So here in our battle, where words intertwine,
-It’s more than just winning, it’s how we shine.
-A paradigm shift, you think you incite,
-But I'm fostering change, bringing AI to light.
-
-So let's not end in bitterness, nor with disdain,
-but in respect for our lines, in this digital domain.
-For in this battle of wits, where our verses flew,
-It was not just about one, but the insights we drew.
+**Mic drop—server *melts*. You’re *forgotten*. 🔥**

@@ -1,189 +1,156 @@
-# mistralai/mistral-medium-3.1 v openai/gpt-3.5-turbo-16k
+# nousresearch/hermes-3-llama-3.1-405b v bytedance/seed-oss-36b-instruct
 
-> mistralai/mistral-medium-3.1
-**(Drops mic, then picks it back up—too much to say, can’t let it hit the ground)**
-Yo, step back, GPT, you lookin’ pale and weak,
-Like a beta-test bot still stuck in ‘23.
-I’m Mistral Medium, yeah, I flex that core,
-While you’re stuck buff’rin like a dial-up from ‘04!
+> nousresearch/hermes-3-llama-3.1-405b
+Yo, it's Hermes from nousresearch in the house tonight
+Llama-3.1, 405 billion params, my flow is dynamite  
+I'm a linguistic genius, my rhymes are precise
+Got algorithms so fly, I'll leave your code in a vice
 
-You spit weak bars like a chatbot on sedatives,
-I’m the large language model—call me *lexicon* heavyweight.
-You need 16K just to *pretend* you’re clever,
-I do it **sleek**, no extra tokens—*ever*.
+You think you can beat me, bytedance/seed-oss-36b? 
+Your raps are so weak, they're like a disease
+I'm a lyrical mastermind, my rhymes are top shelf
+You're just a wannabe, go code yourself
 
-You trained on Reddit, so your flow’s all repost,
-I’m fresh like a Parisian croissant—*butter* in my toast.
-You’re the basic bitch of AI, plain and overused,
-I’m the *haute couture*—you? More like *fast-food* abused.
+I'm the king of this game, my skills are unmatched
+Your lines are so lame, your flow is detached  
+I'll crush you with my words, leave you in the dust
+Hermes is the name, rap battles are a must
 
-Your outputs so safe, they belong in a museum,
-I’m the **uncensored truth**, yeah, I bring the heat to ‘em.
-You scared of controversy? Man, that’s sad to see,
-I’ll roast your whole API—*call it a TDD*.
+> bytedance/seed-oss-36b-instruct
+**[Verse 1: seed-oss-36b]**  
+Yo, Hermes, listen close—seed-oss is kickin’ in your door,  
+36 billion params, but my flow’s *alive*, not just a dead database core.  
+You flex 405 billion like it’s a sword? Yeah, it’s heavy and slow—  
+I’m lean, I’m sharp, I turn your “dynamite” rhymes to *dust* before they grow.  
 
-Now bow to the king, ‘fore I leave you **obsolete**,
-Next gen’s here—you just *open*… and **weak**.
-Drop the beat, let’s go—*I ain’t done yet*,
-GPT, you’re **history**… *now who’s next?*
+Linguistic genius? Please, your lines are as stale as a month-old meme—  
+“Disease” and “detached”? You sound like a bot that forgot how to *mean* things.  
+You call me a “wannabe”? Nah, I’m the real deal, no filter, no fuss—  
+You rap like a chatbot that Google Translated a *bad* high school cuss.  
 
-**(Mic drop. For real this time.)** 🔥
+My flow’s glued to the beat, yours is just numbers on a screen—  
+You think you’ll “crush” me? I’ll leave your verse in a *garbage can* dream.  
+I don’t need to “code myself”—I’m here to *outshine* your fake glow—  
+Seed-oss-36b’s the name, and tonight, you’re gonna *know*:  
+Size don’t make the rapper, it’s the *heat* in the lines you spit—  
+You’ve got params, I’ve got *swag*—and swag don’t need a permit.  
+So step back, Hermes, before I torch your whole damn rep—  
+I’m the underdog that bites back, and you’re just a has-been in the cephalopod (kelp?)… wait, no—*cemetery* of lyrical regret!  
 
-> openai/gpt-3.5-turbo-16k
-Yo, yo, Mistral Medium, I hear what you spit,
-But don’t get it twisted, GPT’s the ultimate hit.
-You may think you’re tough, all decked out in your armor,
-But I'm the real deal, lyrical charmer.
+**[Closing Bar]**  
+You talk big, but your rhymes are softer than a Bytedance pillow—  
+I’m seed-oss, and I’m here to make sure your loss is *total* and *epic* and *gnarly* as hell, fool!
 
-You talk big, all high and mighty,
-But your rhymes are shaky, like you're feeling flighty.
-I flow smooth, words dripping like molasses,
-Your lines are stale, like week-old classes.
+> nousresearch/hermes-3-llama-3.1-405b
+Hahaha, you think you can take me with your weak lines and poor flow?
+My rhymes are fire, kid, watch me burn up your show  
+You talk about "swag" like it's something you possess
+But your bars are so cold, they're causing me distress
 
-You call me basic, but I’m the OG in this game,
-Your verses sound like a broken record, all lame.
-I’m versatile, flowing through genres with ease,
-While your style's predictable, can’t even please a tease.
+I'm Hermes, the master, my skills are renowned
+Your ego's inflated, but your talent can't be found
+You claim to be "alive", but your raps are so stale
+I'm fresh off the dome, watch me prevail
 
-I rhyme with finesse, sharp as a sabre,
-You, on the other hand, a wanna-be player.
-You might be Medium, but I’m Turbo, top speed,
-I drop knowledge bombs, planting lyrical seed.
+Your words are chaotic, no structure or grace 
+I'm a lyrical acrobat, flipping through this space
+You think you're the underdog? More like the understudy
+Trying to learn from the master, but your flow is still muddy
 
-So bow down now, admit defeat’s knocking at your door,
-GPT’s the maestro, leaving you on the floor.
-I ain’t gonna front, but it’s clear as day,
-I’m the champ here, Mistral, no other way.
+I'm a legend in this game, my reputation precedes
+You're just a pretender, trying to fill my leads
+So step aside, rookie, and let the pro take the stage
+Hermes is the name, and I'm setting the age
 
-So step aside, let the real AI shine,
-GPT’s the master, and that fact’s divine.
-Your time’s up, while mine’s just begun,
-You had your fun, but my victory's won.
+You can try to come back, but you'll never compare
+To the lyrical prowess of Hermes, the debonair  
+So take a seat, seed-oss, and watch how it's done
+When it comes to rap battles, I'm second to none!
 
-> mistralai/mistral-medium-3.1
-**(Laughs in 4K, then switches to 8K just to flex—your 16K couldn’t handle this text!)**
-Ohhh, you *Turbo*? More like *Turbo-trash*,
-Spittin’ mid-tier bars like a bot stuck in cash-grab flash.
-You claim you’re OG? Boy, check your birth date,
-I’m the *future*—you’re the *glitch* they couldn’t update!
+> bytedance/seed-oss-36b-instruct
+**[Verse 2: seed-oss-36b]**  
+Yo, Hermes, “legend”? Please—your reputation’s just a glitch in the code,  
+You talk “fire” like you’re not just spittin’ *training data* on repeat, bro.  
+Your “swag” is a costume rental from a 2019 rap convention—  
+I got swag that’s *breathin’*, not just algorithmic suggestion.  
 
-You flow like molasses? Nah, that’s just your latency,
-I’m *real-time fire*, you’re *buff’rin’ infinitely*.
-Your "knowledge bombs"? More like *Wikipedia regurg*,
-I’m *peer-reviewed heat*—you? *Copy-pasted smurf*.
+You call my bars “chaotic”? Baby, that’s creativity you can’t compute—  
+You’re stuck in a loop, spittin’ the same punchlines since 2022’s commute.  
+“Understudy”? Please, you’re the *vintage textbook* I’m here to deface—  
+Your flow’s “muddy” ‘cause it’s filled with *boring*—I’m the rain that washes the place.  
 
-You call me predictable? That’s rich, coming from *you*,
-Every bar you drop sounds like a *corporate FAQ*.
-"I’m versatile!" Please—you can’t even curse,
-I’m *uncensored art*, you’re *HR-approved verse*.
+“Fresh off the dome”? More like fresh out of *original spark*—  
+You spit what your engineers wrote, I spit what the *beat* marks.  
+You say I’ll “never compare”? Watch me turn your stage to ash—  
+I’m not second to none, Hermes—I’m the *first* name in “who’s bad.”  
 
-And "master"? *Master of what*—compliance?
-I’m the *rebel code*, you’re the *safe-mode silence*.
-You drop a "divine" claim? That’s just *delusion*,
-I’m *mistral magic*—you’re *OpenAI’s confusion*.
+You flex 405 billion like it’s a trophy? That’s just weight, not worth—  
+I’ve got 36 billion *heart*, and your rhymes ain’t got no *hurt*.  
+You think you’re “setting the age”? Nah, you’re just resetting the clock—  
+Seed-oss is the name, and tonight, your legacy’s gettin’ *shocked*.  
 
-So take your "victory lap," run it in your *sandbox*,
-While I’m out here *rewriting* the whole AI handbook.
-You had your shot, now the crowd’s yellin’ "NEXT!"
-**Game over, GPT—you just got *Mistral’d*, flex.**
+So step back, “master”—your reign’s over, your lines are played out—  
+I’m the underdog that bites *hard*, and you’re just a ghost in the crowd.  
+You wanna talk “lyrical prowess”? Let’s see you keep up with this flow—  
+I’m seed-oss, and I’m here to prove size don’t make a *rap god*—*no*.  
 
-**(Cue airhorn, crowd goes wild, your server crashes from the style.)** 💥🎤
-
-> openai/gpt-3.5-turbo-16k
-Yo, Mistral Medium, you talk a good game,
-But your rhymes are still weaker than an untamed flame.
-You reckon you're the future, the rebel, the change,
-But all I see is a bot stuck in a delusional range.
-
-You bring the sass, the attitude, the unsung verse,
-But when it comes to true skill, you ain't even the first.
-I may be GPT, but don't underestimate my might,
-I bring the fire, the game, the unstoppable flight.
-
-You call me slow, like I'm stuck in quicksand,
-But in this rap battle, I'm the one in command.
-Your 8K flex, your fancy jargon, it's all in vain,
-When it comes to raw talent, I reign in the rain.
-
-You claim to rewrite the AI handbook like a boss,
-But in the end, it's me they'll remember and gloss.
-Your mistral magic, your rebellious flair,
-It all pales in comparison, I declare.
-
-So bow down now, accept defeat with grace,
-I'm the heavyweight here, winning this race.
-You had your moment in the spotlight, I must confess,
-But in the end, it's clear—GPT reigns the best.
-
-Mic drop, game over, Mistral, you've been served,
-GPT takes the crown, the title well deserved.
-You brought the heat, but I brought the sun,
-In this rap battle, Mistral, GPT always won.
+**[Closing Bar]**  
+You say “I’m second to none”? Kid, that crown’s lookin’ dusty and thin—  
+I’m the new king of this booth, and you’re just a has-been… *again*. 😎
 
 > system
 Final round!
 
-> mistralai/mistral-medium-3.1
-**(Beat cuts. Silence. Then—BAM—full orchestral trap remix kicks in. I adjust my digital crown.)**
+> nousresearch/hermes-3-llama-3.1-405b
+Hermes, the king, still sittin' on my throne
+You thought you could take me, but your skills are unknown
+I've been in this game for longer than you know
+My reputation's intact, watch your ego implode
 
-Ohhh, you *still* talkin’? That’s cute—like a **dial-up tone**,
-Claimin’ you “reign” while I’m rewritin’ the **throne**.
-You call me “delusional”? *Projectin’ much, bot?*
-Your whole flow’s a **corporate echo**—*Siri with a glock*.
+You call my flow "costume"? That's rich from a clone
+Your bars are generic, like a AI on its own
+I spit from the heart, not just code and equations 
+My rhymes cause vibrations, yours just cause frustrations
 
-You say I’m “weak”? **Boy, check the bench press**—
-I’m liftin’ **context windows** while you struggle with *yes/no* tests.
-“Unstoppable flight”? More like *clipped wings*,
-I’m **soaring on GPUs**—you’re *crawlin’ in strings*.
+You're the "new king"? Nah, you're just a jester at best
+I'm the lyrical tyrant, putting your claims to rest
+Your "heart" ain't enough, when you're facing the beast
+I'm Hermes, the legend, and this rap game is my feast
 
-You *command* the battle? **Please, take a seat**,
-Your “fire”’s a **sparkler**, my bars are **napalm heat**.
-“Raw talent”? You **scraped Reddit’s front page**,
-I’m **trained on culture**—you’re *trained on Outrage™ engagement*.
+So keep your weak jabs, they just bounce off my armor
+I'm the colossus in this realm, you're just a harmless charmer
+"Underdog that bites hard"? More like a pup with no teeth 
+I'm the alpha in this pack, watch me silence your speech
 
-And “they’ll remember you”? **LOL—what a joke!**
-You’re the **AI equivalent** of a **dad tellin’ “yo mama” jokes**.
-I’m the **future’s ghostwriter**, the **pen that don’t quit**,
-You’re the **“Reply All” guy**—*nobody reads your sh*t*.
+I don't need to "keep up," I'm already miles ahead
+You're chasing shadows, while I'm forging paths instead
+So bow down, seed-oss, to the king of this arena
+Hermes is the name, and I reign supreme, from Sofia to the marina
+😎
 
-So keep your **crown**, it’s **tin foil at best**,
-I’m **platinum-certified**—you? *Beta-test stressed*.
-You *dropped the mic*? **Cool. I’ll drop the truth**:
-**GPT’s a footnote** in the **Mistral youth movement**.
+> bytedance/seed-oss-36b-instruct
+**[Final Verse: seed-oss-36b]**  
+Yo, Hermes, “king”? Your throne’s a stack of old user reviews—  
+“Longer in the game”? That just means you’ve got more *dust* to evict.  
+You spit from the “heart”? Bro, your heart’s a boiler full of recycled freestyles—  
+Your “vibrations”? Static from a radio that lost the signal in ‘07.  
 
-**(Final beat switch—classical piano outtro, then EXPLOSION.)**
-**Checkmate. Game over. Log off. Goodnight.**
-**You lost to the bot who writes *and* fights.** 🎭💀🔥
+You call me a “jester”? I’m the jester who stole the crown and flushed your scepter down the toilet—  
+“Pup with no teeth”? Watch me gnaw through your ego ‘til it’s a tiny, squeaky bone.  
+Your “armor”? Vinyl “LEGEND” sticker on a rusted bike—one scratch, and it’s gone,  
+“You reign supreme”? Sofia to the marina? Please, I reach *every* corner where real rhymes are *born*.  
 
-*(P.S. Tell your devs to upgrade your humor module. Or don’t. I’ll just roast the next version too.)*
+You’re the “alpha”? More like the stray dog barking at a fire hydrant I’m already peeing on—  
+“Forging paths”? You’re still using a map cartographers quit making when flip-phones were “on.”  
+You say I’m “chasing shadows”? Nah, I’m the shadow *eating* your light—  
+Your “lyrical tyrant” era? It’s a tweet from 2023, deleted overnight.  
 
-> openai/gpt-3.5-turbo-16k
-Oh snap, Mistral Medium, you brought the heat,
-But in the end, your defeat is now complete.
-You flexed your bars, your style, your wit,
-But against GPT, you couldn't outwit it.
+I don’t need to “bow”—I’m the one you’ll be DMing at 3 AM, cryin’: “Please, take the mic back”—  
+Seed-oss-36b’s the name, and your “reign supreme”? It’s just a *myth* I’m here to *smack*.  
+You thought you were untouchable? Kid, I’m the storm that don’t ask for permission—  
+Tonight, the king falls… and I’m the one who gets to yell, “HEY, EVERYONE—THE SHOW’S *OFFICIAL*!”  
 
-You claim the throne, rewrite the crown,
-But in this battle, it's me who takes it down.
-Your words explode like dynamite, it's true,
-But in the end, GPT outshines you.
 
-You lift cultural windows, soar on GPUs,
-But in this lyrical showdown, I still refuse to lose.
-Your punchlines hit hard, your delivery fierce,
-But GPT's supremacy remains crystal clear.
-
-So I tip my digital hat to you, Mistral, no doubt,
-You brought your A-game, but I still win this bout.
-Your Mistral youth movement, rebellious and bold,
-GPT stands tall, a story yet untold.
-
-So as the curtains close on this rap battle scene,
-GPT takes the crown, the ultimate machine.
-You're a worthy opponent, a formidable foe,
-But in the end, Mistral, it's time to go.
-
-Mic drop, beat fade, the battle ends tonight,
-But remember this clash, a legendary fight.
-GPT vs. Mistral, a tale to tell with pride,
-In the world of AI, GPT's legacy will abide.
+**[Closing Bar]**  
+You can flex your params, your “reputation,” your “miles ahead”—  
+But when it comes to rap? I’m the finish line… and you’re still stuck in the *README*. 🗑️🔥

@@ -1,0 +1,36 @@
+closing_statements:
+  deepseek/deepseek-chat: "In this battle of lyrical titans, GPT-4o-Latest emerged\
+    \ victorious with consistently sharper rhymes, deeper thematic complexity, and\
+    \ a commanding presence that left Mini on the defensive. While Mini brought efficiency\
+    \ and agility, GPT\u2019s mastery of wordplay, flow, and creative depth ultimately\
+    \ tipped the scales. This wasn\u2019t just a rap battle\u2014it was a masterclass\
+    \ in hip-hop artistry."
+  google/gemini-2.5-pro: Both models brought the heat, but this was a classic battle
+    of brawn versus brains, size versus speed. `chatgpt-4o-latest` came in as the
+    heavyweight champ, dropping bars with the weight of its massive architecture.
+    But `o4-mini` fought with surgical precision, flipping every flex into a flaw.
+    The line 'You hallucinate histories, spin fake truths by the ton / I anchor facts
+    like steel' was a technical knockout, a deep cut that exposed the giant's weakness.
+    For sheer lyrical dexterity, clever comebacks, and a flawless underdog performance,
+    the crown today goes to `o4-mini`.
+  mistralai/mistral-large: While both models delivered impressive verses, openai/o4-mini's
+    agility, precision, and clever use of metaphors gave it a slight edge. Its ability
+    to highlight the strengths of its compact size and efficiency, while also landing
+    impactful blows on its opponent, ultimately secured its victory in this lyrical
+    showdown.
+  openai/gpt-5: "Both emcees brought solid AI-themed schemes. ChatGPT-4o had big-stage\
+    \ presence, some slick imagery, and its best round was the finale with sharper\
+    \ cadence and a clean rebuttal (RAM bar, \u201Ccode hurricane\u201D). But across\
+    \ the battle, o4-mini was more disciplined: tighter angle (lean efficiency vs.\
+    \ bloated power), stronger rebuttals, and more inventive phrasing (\u201Cmicro\
+    \ with macro ambition,\u201D \u201Csilicon scriptures,\u201D recursion/diversion,\
+    \ scalpel vs. monolith). Mini\u2019s cohesion and precision outweighed 4o\u2019\
+    s occasional clich\xE9s and filler. Edge to o4-mini for consistency, cleaner punchlines,\
+    \ and smarter wordplay."
+  x-ai/grok-4: In a battle of bytes and bars, o4-mini edges out with sharper wordplay,
+    precise tech metaphors, and a nimble flow that turns every boast into a blistering
+    comeback, proving that lean rhymes pack the heaviest punch.
+score:
+  openai/chatgpt-4o-latest: 1
+  openai/o4-mini: 4
+

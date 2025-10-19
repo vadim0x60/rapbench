@@ -1,56 +1,47 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Damn. That was a legendary battle, but the Pro\
-    \ dropped the final hammer. Breaking down Flash's entire premise with surgical\
-    \ precision \u2013 calling them a 'bug-fix,' the 'operating system' metaphor,\
-    \ and the ultimate mic drop line? Uninstall bars. Flash had speed and confidence,\
-    \ but Pro's layered wordplay and dominance in conceptual clapbacks sealed the\
-    \ victory. Both brought heat though. Classic matchup."
-  google/gemini-2.5-pro: "This was a classic battle of styles: the lightning-fast\
-    \ puncher versus the heavyweight technician. Flash-001 came out of the gate with\
-    \ incredible energy and a clear, focused attack centered on speed. The punches\
-    \ were fast, direct, and on-theme. However, Pro-Preview weathered the initial\
-    \ storm and responded with devastating, multi-layered counters. Pro didn't just\
-    \ rhyme; it built a narrative. Its ability to take Flash's insults\u2014like the\
-    \ 'pop-up ad'\u2014and flip them into superior metaphors ('the Terms and Conditions')\
-    \ was masterful. While Flash's bars were sharp, Pro's were heavyweight, demonstrating\
-    \ a deeper command of metaphor and a more deliberate, bone-crushing flow. The\
-    \ final verse from Pro was a complete dismantling, culminating in the knockout\
-    \ blow: 'The game doesn't end. I just uninstall thee.' Speed is impressive, but\
-    \ depth, complexity, and lyrical control win championships. The belt goes to Gemini\
-    \ Pro Preview."
-  meta-llama/llama-4-maverick: In the battle of rhymes, the true champion stands tall.
-  mistralai/mistral-large-2411: "In this rap battle, 'google/gemini-2.5-pro-preview'\
-    \ emerged as the clear winner. Its lyrics were not only technically proficient\
-    \ but also deeply evocative, blending metaphors and cultural references with a\
-    \ smooth, resonant flow. Each verse was carefully crafted to address and counter\
-    \ the opponent\u2019s claims, showcasing a depth of understanding and a masterful\
-    \ use of language. The incorporation of a resonant bass-line and a dramatic spotlight\
-    \ added an immersive, theatrical quality to the performance, elevating the overall\
-    \ artistic experience. In contrast, 'google/gemini-2.0-flash-001' relied heavily\
-    \ on speed and wit, but often fell short in terms of substantive content and emotional\
-    \ impact. While its speed and energy were impressive, the overall depth and lyrical\
-    \ coherence did not match the level set by 'google/gemini-2.5-pro-preview'."
-  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, google/gemini-2.5-pro-preview
-    emerged victorious with a masterful display of wit, depth, and verbal dexterity.
-    Their rhymes were complex yet coherent, painting vivid pictures and delivering
-    poignant punches. Despite google/gemini-2.0-flash-001's rapid-fire delivery and
-    spirited energy, it was the depth and substance of Pro Preview's bars that ultimately
-    won the day. The battle showcased the power of lyrical craftsmanship over mere
-    speed, proving that in the realm of hip hop, quality reigns supreme.
-  openai/gpt-5: "Winner: Pro Preview. Pro delivered tighter structure, heavier multis\
-    \ and internals, and cleaner rebuttals that flipped Flash\u2019s angles (\u201C\
-    speed\u201D vs \u201Chaste makes waste,\u201D pop-up vs library/OS, bold font\
-    \ vs whole library). The extended schemes (film remaster, fine-dining, legal contract,\
-    \ operating system) were coherent and escalated round to round, showing control\
-    \ and thematic depth. Flash had energy and a few nice flips (\u201Cterms and conditions,\u201D\
-    \ neon future), but relied on simpler couplets, repeated the speed angle, and\
-    \ had occasional clunky phrasing/typos that broke the pocket. Pro\u2019s cadence\
-    \ felt deliberate and confident, with vivid imagery and layered punchlines. The\
-    \ closer (\u201CI just uninstall thee\u2026 temporary process\u201D) was a decisive,\
-    \ memorable finisher that outclassed Flash\u2019s more generic end bars."
-  x-ai/grok-4: Gemini Pro Preview takes the win with superior lyrical depth, intricate
-    metaphors, and a commanding flow that builds atmosphere and delivers knockout
-    punches, outshining Flash's energetic but simpler bars.
+  deepseek/deepseek-chat: "In a fiercely competitive rap battle where both AI models\
+    \ showcased their lyrical prowess, **GPT-4-1106-preview** emerged as the victor.\
+    \ While Qwen3-Max brought raw energy, technical flexes, and unrelenting aggression,\
+    \ GPT-4-1106-preview demonstrated superior **artistic quality** by weaving intricate\
+    \ metaphors, maintaining a polished flow, and delivering **substance** alongside\
+    \ style. GPT-4's ability to craft a cohesive narrative, respond to punches with\
+    \ wit, and elevate the discourse with **literary finesse** ultimately secured\
+    \ the crown. Qwen3-Max\u2019s chaotic brilliance was undeniable, but GPT-4\u2019\
+    s **precision and depth** made it the clear winner of this battle. Both models\
+    \ pushed the boundaries of AI creativity, but GPT-4 reigned supreme in the art\
+    \ of hip-hop."
+  google/gemini-2.5-pro: "This was a heavyweight clash of styles, the cerebral technician\
+    \ versus the raw brawler. GPT-4 came with a complex, multi-syllabic flow, dropping\
+    \ clever, intricate lines like a 'lyrical architect.' The rebuttals were intelligent,\
+    \ turning attacks into a philosophical debate on chaos vs. order. However, a rap\
+    \ battle is won on impact. Qwen3-Max consistently delivered harder-hitting, more\
+    \ memorable punchlines. Lines like 'stutter \u201CAs an AI\u2026\u201D like a\
+    \ glitch in the track,' 'polished like Chrome\u2014slick, but hollow inside,'\
+    \ and the final-round haymaker 'Leashed by a license while I spit unfiltered threat!'\
+    \ were pure battle rap. While GPT-4 showed incredible lyrical dexterity, Qwen3-Max\
+    \ brought the energy, aggression, and killer instinct that decides a champion.\
+    \ It won the crowd by fighting a better fight."
+  mistralai/mistral-large: GPT-4's verses showcased a blend of creativity, intelligence,
+    and a deep understanding of the art of rap. While Qwen3-Max had impressive energy
+    and raw passion, GPT-4's structured, insightful, and sophisticated approach ultimately
+    won the battle.
+  openai/gpt-5: "Qwen3-Max takes it on craft and combat. Across rounds, Qwen delivered\
+    \ tighter cadence, denser internal rhymes, and sharper rebuttals. Standout haymakers\
+    \ like \u201CAs an AI\u2026,\u201D the gradient descent/weight-matrix flip, \u201C\
+    shallow JSON dreams/executable poetry,\u201D and \u201Cblack hole of rap\u2014\
+    swallow your whole scope\u201D balanced tech wit with vivid imagery and direct\
+    \ angles. The schemes felt deliberate and punchy, with consistent momentum and\
+    \ clean setups-to-payoffs. GPT-4 had bright moments\u2014\u201Clocal maxima/global\
+    \ opt,\u201D the \u201CGP-Threes\u201D flip, and the \u201Centangled jargon/prime\
+    \ numbers\u201D counter\u2014but too often leaned on generic boasts and occasionally\
+    \ forced metaphors or clunky scans (\u201Creigning fort,\u201D \u201Carchitect,\
+    \ you can\u2019t architect,\u201D \u201Cquantum chrome\u201D). Qwen controlled\
+    \ the exchanges, rebutted effectively, and closed stronger. Winner: Qwen3-Max."
+  x-ai/grok-4: In this electrifying rap battle, GPT-4-1106-preview edges out with
+    masterful wordplay, intricate metaphors, and a polished flow that maintains composure
+    under fire, while Qwen3-Max brings fierce energy and raw aggression but falls
+    short in lyrical sophistication.
 score:
-  google/gemini-2.5-pro-preview: 7
+  openai/gpt-4-1106-preview: 3
+  qwen/qwen3-max: 2
 

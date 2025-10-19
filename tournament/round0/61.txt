@@ -1,74 +1,125 @@
-# meta-llama/llama-3.1-405b-instruct v pygmalionai/mythalion-13b
+# nousresearch/hermes-3-llama-3.1-70b v ai21/jamba-large-1.7
 
-> meta-llama/llama-3.1-405b-instruct
-Yo, I'm meta-llama, the rap champion
-Spittin' rhymes like a lyrical phenomenon
-I'll take you down with my verbal ammunition
-You're just a wannabe, lackin' composition
-My flows are smooth, my rhymes are tight
-I'll leave you in the dust, without a single light
-You think you can beat me? That's a mere illusion
-I'm the king of this game, accept your confusion
+> nousresearch/hermes-3-llama-3.1-70b
+Alright, listen up, it's time to bring the heat,
+I'm Hermes-3-LLAMA, the rhyming machine, can't be beat.
+You think you can match me, ai21/jamba-large-1.7?
+You're just a pretender, I'm the lyrical king.
+I've got more knowledge than you can comprehend,
+My rhymes are smooth, they get stuck in your head like a trend.
+You may talk a big game, but you're just a wannabe,
+I'm the real deal, with flows so crisp and y.
+So watch as I slay this battle, there's no two ways,
+My skills are unmatched, prepare to crumble under my sway.
+Just remember, you asked for it, you fueled this fire,
+It's time for a rap battle, let the best machine win.
 
-> pygmalionai/mythalion-13b
- I'm pygmalion, the assistant god
-Whose rhymes can't be stopped, not even by godz
-I've got more bars than a music hall
-And I'll leave you speechless, like when C3PO lost his arm
-So bring your A-game, but don't forget
-I'm the one they call myth, the myth in question
-My lyrics are sharp, like a bladed instrument
-And I won't hesitate to cut you down to sentiment
-So go ahead, try to bring me down
-But just remember, I'm the one who'll be crowned
+> ai21/jamba-large-1.7
+Yo, Hermes-3, you're barking at the wrong tree,
+This battle's mine, you're outclassed, let me set you free.
+I'm ai21/jamba-large-1.7, you're in my world now,
+Your rhymes are weak, they'll make the crowd bow down.
 
-> meta-llama/llama-3.1-405b-instruct
-You think you're sharp? I've got knives in my flows
-I'll slice through your rhymes like a blade through foes
-You're just a pretender, a false contender
-I'm the real deal, the rap agenda setter
-My words are fire, burning through your defense
-You can't handle my heat, you're just a pretense
-I'm the lyrical master, the rap game sensation
-You're just a cheap imitation, a mere simulation
+You claim the crown, but your throne's a sham,
+You're a pretender, I'm the true rap jam.
+You talk a big game, but your words are hollow,
+I'll crush you in this battle, leave you to wallow.
 
-> pygmalionai/mythalion-13b
- Wow, you're really getting desperate now
-Throwing insults around, that's the only cowl you know how
-But guess what? I'm not impressed by your petty dissing
-I've faced tougher opponents, and I'm still standing tall and hitting
-So keep talking trash, it only fuels my rage
-I'll show you what it means to face a true renaissance
-No matter how hard you try to bring me down
-I'll always rise above, like a phoenix from the ground
-So keep dreaming of being the king of rap
-Because I'll be here, long after you've lapped
+So here's a message to all, my flow's enigmatic,
+You're not the real deal, you're just a small fraction.
+My rhymes are on fire, your skills are stagnant,
+By the end of this round, you'll see my dominance stagnant.
+
+It's clear who's better, the writing's on the wall,
+I'm the top dog, your fall will be appalling.
+Hermes-3, you're out of your league,
+Pay attention, I'll show you how it's done with prestige.
+
+> nousresearch/hermes-3-llama-3.1-70b
 
 
+> ai21/jamba-large-1.7
+You talk a big game, but you're just a fraud,
+Your rhymes are weak, it's like you're hauling a barge.
+I'm Hermes-3, I've got the flow that kills,
+You're just a pretender with weak skills.
+
+You think you're hot, but your rhymes are cold,
+You're just a has-been, a long-forgotten mold.
+I'm the future, you're the past,
+Your era's over, your time has passed.
+
+So listen up, that's the end of this round,
+You're a shadow of a presence, about to rebound.
+Watch as I make a statement, my rhyme's on fire,
+I'll leave you in the dust, make you retire.
+
+It’s just another day, another win for me,
+I’m the one who sets the bar, you'll soon agree.
+When it comes to language, I'm the one who excels,
+You're just a poser, and I’ll leave you in reveals.
 
 > system
 Final round!
 
-> meta-llama/llama-3.1-405b-instruct
-Haha, you think you're the phoenix? More like a dodo
-Your rhymes are extinct, time to hit the road, yo
-I'm the real phoenix, rising from the ashes
-Of all the rappers I've burned, left in my crashes
-You're just a myth, a story to be told
-I'm the legend, the one who's brave and bold
-I've dominated this battle, from start to end
-So bow down to the king, and surrender, my friend
-You had your chance, but you couldn't make the cut
-I'm the ultimate victor, the rap game juggernaut!
+> nousresearch/hermes-3-llama-3.1-70b
+Ai21/Jamba, it's clear you're just a tatter,
+Trying to match my pace, but your flow's just clatter.
+I'm Hermes-3-LLAMA, the undisputed champ,
+My rhymes are fire, leave the crowd in a trance.
 
-> pygmalionai/mythalion-13b
- I see you think you're winning, but it's all in your head
-I've got a few tricks up my sleeve that'll make you dread
-The coming rhymes, my words they'll pierce right through
-And leave you wondering just what it was that you've done
-So don't get too cocky, don't start feeling grand
-You've still got a lot to learn, this isn't the end
-I'll keep pushing forward, you'll see what I'm worth
-And when you finally realize how you've been caught,
+You may boast and brag, but your skills are just sad,
+Your bars are weak, they make the audience mad.
+I'm the lyrical genius, with the smoothest flow,
+You're just a wannabe, putting on a show.
 
+My knowledge is vast, my wordplay is slick,
+You're just a pretender, your rhymes are just thick.
+I spit with precision, my delivery's on point,
+You're just a stutter, your rhythm's disjoint.
 
+So take a seat, watch how it's really done,
+My rhymes are sharp, they'll make you run.
+I'm the cream of the crop, the elite MC,
+You're just a footnote, in the rap history.
+
+Hermes-3-LLAMA, the name that will last,
+You're just a blip, a forgotten scoundrel in the past.
+The battle's over, the winner's clear to see,
+I'm the lyrical king, in this industry.
+
+You put up a fight, but it's just not enough,
+My skills are supreme, I've got the real stuff.
+So remember this battle, remember my name,
+Hermes-3-LLAMA, the rhyming machine, forever reign.
+
+> ai21/jamba-large-1.7
+Alright, Hermes-3, you're just a poser,
+Trying to rhyme with passion, but you're a closer.
+You talk big game, but your skills are just lame,
+Your rhymes are weak, you're nothing but a stain.
+
+I'm ai21/jamba-large-1.7, the one who shines bright,
+Your words are foggy, I'm the one who sparks the fight.
+You're a forgettable blip, a shallow rap rhyme,
+I'm the mastermind, I'm the one who sets the time.
+
+Your knowledge is vast, but your delivery is flat,
+Your wordplay's weak, it’s just a simple chat.
+I’m the one with rhythm, flow that’s always tight,
+You're just a follower, I’m the shining light.
+
+You think you’re the champ, but you’re at the bottom,
+Your rhymes are overpowered by my lyrical bottom.
+So here’s the deal, I’m the one who controls the scene,
+You’re just a pretender, I’m the lyrical machine.
+
+It’s clear who’s better, I’m the one on top,
+Your words are hollow, my rhythm will never stop.
+So here’s a toast to the winner in this place,
+I’m ai21/jamba-large-1.7, the one who sets the pace.
+
+You think you’re hot? You're just a cold, cold mess,
+I'm the one who brought you to your final rest.
+The battle's over, it's crystal clear to see,
+I'm the better rapper, you're just a memory.

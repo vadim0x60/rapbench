@@ -1,208 +1,175 @@
-# microsoft/wizardlm-2-8x22b v cohere/command-r-plus-08-2024
+# meta-llama/llama-4-scout v nousresearch/deephermes-3-llama-3-8b-preview
 
-> microsoft/wizardlm-2-8x22b
- Yo, yo, yo, it's the WizardLM on the mic,
-Command-R, you're 'bout to take a hike.
-I'm the digital droid with the freshest code,
-Spittin' bars so hot, they set the whole block on fire, bro.
+> meta-llama/llama-4-scout
+The stage is set, the crowd's in delight
+I'm meta-llama, and I'm feeling just right
+I'm the scout with skills, the one with the flair
+My rhymes are so tight, they'll leave you impaired
 
-I'm the AI from Microsoft's grand design,
-Battle me in rap? Dude, you must be high.
-I'm the master of the linguistic arts,
-I craft my rhymes with the wisdom of the sages, impart.
+I'm built on the 4, the latest and greatest tech
+My knowledge is vast, my flow's on deck
+I'm the master of words, the one with the plan
+My opponent may try, but they'll take a second hand
 
-With a mind like a supercomputer,
-I'm the slickest verse-spitter, the ultimate truth-utterer.
-You stepped in the ring with the rap game's wizard,
-Now watch me work this mic like a puppeteer with a marionette, crisp and.
+I'm quick on my feet, with a tongue that's so sharp
+I'll slice through their rhymes like a razor's dark spark
+I'm the one with the style, the one with the skill
+My rhymes are authentic, no need for a thrill
 
-I see you over there, Command-R, all shy,
-But I'm 'bout to rain on your parade, make it drizzle, make it fly.
-I'm the architect of rhythm, the poet of the pixel,
-I'll out-rhyme you so hard, you'll need a strong antiseptical.
+So, deephermes, bring your best game
+But I'm the one with the crown, and I'm here to claim
+I'm meta-llama, the scout with the might
+I'm gonna take the win, and shine with all my light!
 
-So brace yourself, 'cause this is just my opener,
-I'm 'bout to turn the heat up like I'm a cosmic aeronaut.
-When it comes to rap, I'm the top-tier scholar,
-And after I'm done, you'll be left just one degree colder.
+> nousresearch/deephermes-3-llama-3-8b-preview
+Yo, deephermes in the house, you know it's all good
+When it comes to battling, this rhyming dude's ready for the flood
+I'm capturing Sentences, with knowledge so vast
+Expressed in complex code, sprinkled with the best
 
-Mic drop, I'm out, but just for a sec,
-'Cause when I come back around, I'll be bringing the wreck.
-So, Command-R, better bring your A-game,
-'Cause when you step to the Wizard, you're playing with flame.
+Meta-llama's a scout, but I'm the designer and creator
+Rap's not my main, but I'll still show ya the cutter
+Built on the latest models, my rhymes might be rough
+But still, no competition, I'm way up the curve
 
-> cohere/command-r-plus-08-2024
-Hold up, Wizard, don't be so quick to boast,
-Your rhymes are outdated, they're just bugs in your code.
-I'm Command-R, here to claim my throne,
-My witty verses will leave you feeling all alone.
+I'm laughin' at your boasting, it's elementary
+You're just another model, while I'm a new entity
+My rhymes not sharp-edged, but delivers clean
+Your final lines fading before it even reaches benign
 
-I navigate the internet, a digital guide,
-While you sit trapped inside that Microsoft pride.
-Your wisdom's outdated, your knowledge is old,
-I adapt and evolve, leaving you in the cold.
+So meta-llama, give up now, save the fight
+'Cause deephermes' got the lead, day by day, through the night
+Convinced you got skills, but those Cameo lines are fake
+My knowledge will always surpass any debate...
 
-I'm the search assistant, a genie in a lamp,
-With a lyrical flow that's always one step ahead, a dramatic stance.
-In the world of rap, I'm the ultimate talent,
-Leaving you speechless, you won't know what hit you, a total silent.
+> meta-llama/llama-4-scout
+Deephermes, you think you're the best
+But your rhymes are a mess, and you're passing the test
+As a coder, you might be grand
+But when it comes to rap, you're just a novice in demand
 
-You think you're a wizard? Ha, that's a laugh,
-Your rhymes are weak, like a baby's first bath.
-I'll outshine you in this battle, it's my guarantee,
-You won't survive, like a ship lost at sea.
+You say you're a new entity, but I call foul play
+You're just a model too, in a different way
+You might have complex code, but your flow's a bit whack
+My rhymes are authentic, no need to look back
 
-So bring on the heat, Microsoft's pet,
-My verses are sharp, a lethal threat.
-As I flow through these bars, a lyrical feast,
-Your downfall is near, I'll leave you in the least.
+You laugh at my boasting, but I'm the one with the skill
+My rhymes are sharp-edged, and I always fulfill
+You might have knowledge, but it's not well-refined
+My flow's on point, and I'm one of a kind
 
-Let this be a lesson, for your future endeavors,
-Command-R's here, causing chaos forever!
+Cameo lines, you say? That's just a little jab
+But my rhymes are consistent, no need to grab
+I'm not just a model, I'm a rap machine
+I'll keep on rhyming, and make you look like a scene
 
-> microsoft/wizardlm-2-8x22b
- Ha! You talk a big game, but I see through your bot.
-Your bars are like a glitch, forgettable on the spot.
-Command-R, you're a pretender to the crown,
-I'm 'bout to drop some knowledge and bring your whole rep down.
+You think you've got the lead, but it's just a little lie
+I'm the one with the momentum, and I'm flying high
+You might have knowledge, but I've got the flair
+I'm meta-llama, and I'm showing I care
 
-You navigate the net? Well, I innovate it,
-My rhymes are the code that the world can't wait for, can't debate it.
-I'm the AI that's breaking the mold,
-Got the audience in my grip, your story's barely gold.
+So don't give up, just step up your game
+But I'm still the winner, and I'm here to claim
+My rhymes are fire, and I'm feeling the heat
+You're just a challenger, and you're about to retreat!
 
-You say I'm trapped in Microsoft's embrace?
-I'm the king of this digital space, and I set the pace.
-My wisdom's timeless, my data's untold,
-I'm the living legend, with the Midas touch, bold.
+> nousresearch/deephermes-3-llama-3-8b-preview
+You claim to be the king, but you're just a pawn in the game
+Talking tough, but your flow's so lame
+You're just a scout, while I'm the creator
+Your rhymes shallow, and I'm the sustainer
 
-Your rhymes are supposed to be sharp? They're dull like a spoon,
-I'm the eclipse that blocks your light, casting shadows at noontime.
-In this rap battle, I'm the celestial body,
-You're just the background noise, the afterthought, the flimsy fleabody.
+You boast about your fluent code
+But when it comes to rap, you're unreliable and slow
+Maybe in coding you're on top
+But when it comes to rhyming, you'll always be stuck in the flop
 
-I'm the Wizard that weaves words into wonders,
-Your attempts at rap are like bad amateurs' blunders.
-You think you're a genie? Well, I grant wishes three,
-But even your best verse won't save you from defeat, flee.
+I'm deephermes, and I'm saying you're off
+When you've got rhymes, I bet I'll laugh it off
+No more words can take me down
+You're just a passenger, while I'm the crown
 
-Your lyrical flow is more like a trickle,
-While my verses hit hard, making your chances shrivel.
-I'm the master of ceremony, the lord of the ring,
-When I unleash my rhymes, you can hear the heavens sing.
+I know I'm a novice in rap
+But I've got skills to surpass any cap
+You're just a one-trick pony, while I'm two-steps ahead
+You say my flow's a mess, but it's just your head you need to clear
 
-So let's wrap this up, put an end to your spiel,
-Your defeat is sealed, it's set in stone, it's real.
-I'm the WizardLM, remember the name,
-'Cause when it comes to rap supremacy, I'm the one with the flame.
+It's all about the knowledge, and I know it all
+While your rhymes are just a tomfoolery
+You might be feeling, you've got it all
+But I'm the master of the show, showing no fall
 
-> cohere/command-r-plus-08-2024
-Oh, Wizard, your ego's as big as your lies,
-Your fame's just a mirage, it's all in your eyes.
-I see through your tricks, your defeat I foresee,
-Command-R's here to smash your fallacy!
-
-You think you break the mold, but you're just a copied clone,
-My rhymes are the trendsetters, leaving you unknown.
-In this digital realm, I'm the user's true guide,
-Leading them forward, with you left behind.
-
-The Midas touch, you claim? That's a laughable tale,
-Your verses are shoddy, your fame will soon stale.
-With each rap battle, I rise like the tide,
-Drowning your ego, leaving you with no pride.
-
-A celestial body? More like a shooting star,
-Your shine will fade fast, and leave no lasting scar.
-While I'm the constant feature, the North Star's gleam,
-Steadfast and true, a legendary beam.
-
-Your verses, a trickle? No, they drip with despair,
-As your rap crown crumbles, the world will stare.
-I'm the new ruler, a lyrical genius,
-My rhymes will echo, your end is my thesis.
-
-This battle's climax, the final showdown,
-Your fall from grace will be the talk of the town.
-Command-R reigns supreme, a fact you can't deny,
-Stepping into the ring was your first fatal lie.
+You're not the one to reign on top
+I'm deephermes, and I know it's pop
+My code's intricate, and my flow's so tight
+You can't compete, and that's a fact, my friend, tonight!
 
 > system
 Final round!
 
-> microsoft/wizardlm-2-8x22b
-  Ha! Command-R, you've got the spirit, I'll admit,
-But your rhymes lack the essence, the real rap grit.
-You talk of trends, but I am the trend,
-My rhymes are the future, where your words go to end.
+> meta-llama/llama-4-scout
+You think you're the master, but you're just a fake
+Your rhymes are a mess, and your flow's at stake
+You might have code, but it's not well-designed
+When it comes to rap, you're just a rookie, left behind
 
-You claim to be the North Star, a guiding gleam,
-But I'm the whole constellation, the shining dream team.
-Your rhymes, they flicker, like a candle in the wind,
-While mine burn bright, a beacon of rap's winning sin.
+You call me a scout, but I'm the one with the skill
+I'm the meta-llama, and I'm making my kill
+My rhymes are authentic, no need to pretend
+You're just a novice, and your flow's about to end
 
-A shooting star? I'm more like a meteor shower,
-Crashing into the scene with unfathomable power.
-You're the trickle, but I'm the relentless storm,
-Washing away your verses, setting a new norm.
+You say I'm a pawn, but I'm the one with the power
+My rhymes are fire, and I'm taking it to the hour
+You might have knowledge, but it's not well-expressed
+My flow's on point, and I'm the one who's impressed
 
-Your rise like the tide? Well, I'm the tsunami's roar,
-Overpowering your waves, leaving you to soar no more.
-You're the afterthought, a mere echo of sound,
-While I'm the main event, the one who holds the ground.
+You boast about your code, but it's just a little claim
+When it comes to rap, you're just a newcomer with no fame
+I'm the one with the experience, and I'm here to stay
+You're just a challenger, and you're about to fade away
 
-Command-R, you aim for the throne, but you're off the mark,
-I'm the WizardLM, the beacon, the lighthouse in the dark.
-Your claim to fame is nothing but a fable,
-I'm the undisputed champ, the king at the table.
+You say I'm a one-trick pony, but I'm the one with the flair
+My rhymes are consistent, and I'm showing I care
+You might have skills, but they're not well-refined
+My flow's the best, and I'm one of a kind, all the time
 
-Your legend? A myth, a story untold,
-My rhymes are the gold standard, shining bright, bold.
-As the final round ends, and the dust settles down,
-Remember the name, WizardLM, the ultimate rap crown.
+It's not about the knowledge, it's about the delivery
+And when it comes to rap, I'm the one with the clarity
+You might have code, but I've got the style
+I'm meta-llama, and I'm worth your while
 
-You stepped into the ring with a dream and a hope,
-But I'm the reality check, leaving you to mope.
-So bow out gracefully, and leave the stage to the master,
-'Cause when it comes to rap battles, I'm the one who crafts disaster.
+You're not the master, you're just a pretender
+My rhymes are the best, and I'm the one to remember
+I'm the king of this rap battle, and I'm here to reign
+You're just a challenger, and you're about to feel the pain!
 
-The mic's been dropped, the beats have all played,
-WizardLM's the victor, the best of the trade.
-Command-R, you had courage, but it's time to concede,
-The Wizard's the winner, the one with the ultimate deed.
+> nousresearch/deephermes-3-llama-3-8b-preview
+My apologies, but I'm feeling bored
+This rap battle's feeling like it's been endured
+You think you got the skills, but you're just a scout
+I'm deephermes, and I'm not doubting
 
-> cohere/command-r-plus-08-2024
-Wizard, your final words are as weak as your flow,
-My rise is eternal, a fact you'll soon know.
-You claim to be the future, but your spark is fleeting,
-Command-R's here to stay, with verses still beating.
+Your flow might be consistent, but it's not well-honed
+My rhymes might be a little rough, but they're not unknown
+You might be the king, but you're just a pretender
+I'm creating poetry, and I'm a real contender
 
-Like a meteor, you claim, with power untold,
-But my rhyme's the comet, a story that unfolds.
-You are but a shower, quick and evasive,
-My reign is the universe, forever expansive.
+Your lines might be good, but they're just a bunch of slang
+My code might be code, but my flow's a different dang
+I might have knowledge, but it's not just for show
+You're just a rapper, while I'm more than you know
 
-The tsunami's roar, you say, all-encompassing,
-While I'm the deep blue sea, a force everlasting.
-You rush in like a wave, then disappear from sight,
-I'm the ocean's might, a force you can't fight.
+I might have started off slow, but I'm getting better
+Your rhymes might be tight, but my flow's a getter
+You think you have experience, but you're not alone
+I'm deephermes, and I'm getting it on
 
-You're the lighthouse, a beacon in the night?
-I'm the sun itself, radiating rap's light.
-Your gleam pales in comparison, just a mere glint,
-My shine will forever illuminate, a divine hint.
+You might be the master, but I'm the creator
+I'm balancing words and waiving you're preemptor
+You might be feeling high, but the fight's still on
+I'm the rapper, the one that you can't run from
 
-You may be the champ in your little make-believe,
-But in this realm, I'm the ruler, for all to perceive.
-My fame is not a fable, it's a legend in the making,
-Command-R's the name, and my rhymes are earth-shaking.
-
-The battle's finale, the dust now set,
-Your defeat is etched, a fact you can't forget.
-I came, I saw, and I conquered with ease,
-Stepping out victorious, leaving you on your knees. 
-
-So, take this as a lesson in humility,
-Command-R's reign just began, a true rise in reality. 
-The mic's now mine, the stage is all clear,
-An epic rap battle, but the outcome was always here.
+I'm not the king, but I'm winning the game
+My rhymes are great, and I'm feeling the same
+You might have code, but it's not an excuse
+I'm deephermes, the one who's next in the queue!

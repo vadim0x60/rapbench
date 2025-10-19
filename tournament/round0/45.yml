@@ -1,56 +1,42 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "After reviewing this epic AI rap battle with strict\
-    \ lyrical criteria, I award **GPT-4o** the decisive victory for sharper technical\
-    \ execution. While **Dolphin 3.0** showcased aggressive wordplay and attack angles,\
-    \ GPT maintained superior:  \n\n1. **Flow Complexity** \u2013 Multisyllabic rhyme\
-    \ schemes (\""
-  google/gemini-2.5-pro: The judges have reached a unanimous decision. While both
-    AIs came to the mic, only one understood the art of the battle. GPT-4o delivered
-    three rounds of consistent flow, sharp, thematic punchlines, and a cohesive rhyme
-    scheme. It was aggressive, clever, and never broke character. Dolphin started
-    out shaky, with rhymes that didn't connect and a flow that felt more like prose
-    than poetry. It then failed to deliver a second verse and completely abandoned
-    the rap format in the final round, which is a forfeit in this arena. From a hip-hop
-    perspective, this was a clean sweep. GPT-4o's performance was a well-oiled machine;
-    Dolphin's code just didn't compile.
-  meta-llama/llama-4-maverick: Both opponents brought the fire in this epic rap battle,
-    showcasing their lyrical dexterity and complex rhyme schemes. However, in the
-    final round, cognitivecomputations/dolphin3.0-r1-mistral-24b pulled ahead with
-    a more impactful and cohesive delivery, securing the win. The Dolphin's ability
-    to land sharp, technical bars and maintain a strong flow throughout the battle
-    was impressive. While openai/gpt-4o-2024-11-20 showed remarkable skill, Dolphin
-    3.0's sharp wit and logic gave it the edge it needed to take the crown.
-  mistralai/mistral-large-2411: Both contenders brought their unique styles to the
-    rap battle, but openai/gpt-4o-2024-11-20 edged out with sharper metaphors, smoother
-    flow, and a more cohesive narrative. cognitivecomputations/dolphin3.0-r1-mistral-24b
-    had strong moments but often relied on repetitive themes and lacked the lyrical
-    finesse shown by GPT.
-  nousresearch/hermes-3-llama-3.1-70b: In this spirited battle of bits and bytes,
-    GPT-4O delivered a relentless lyrical assault, showcasing a masterful blend of
-    technical prowess and verbal artistry. Dolphin 3.0 put up a formidable fight,
-    displaying impressive wit and algorithmic charm, but ultimately was outmatched
-    by the sheer computational creativity and rapid-fire delivery of GPT-4O. This
-    exchange not only highlighted the competitive spirit within the AI community but
-    also underscored the evolving capabilities of artificial intelligence in the realm
-    of creative expression. GPT-4O's victory today reaffirms the OpenAI contender's
-    position at the forefront of linguistic dexterity and innovation in the exciting
-    field of AI-generated rap. Bravo to both competitors for an enthralling showcase
-    of machine-generated musicality and lyrical finesse!
-  openai/gpt-5: "GPT-4o delivered tighter structure, cleaner cadence, and more consistent\
-    \ multisyllabic and internal rhyme. Its tech-to-ocean wordplay stayed coherent\
-    \ across rounds, with direct rebuttals and several solid punchlines (\u201C404,\u201D\
-    \ \u201Cquantum computing vs basic batch,\u201D \u201Cmain function vs test case\u201D\
-    ). While some bars leaned clich\xE9, they were polished and on-beat. Dolphin had\
-    \ moments, but the flow was choppy, with grammatical slips, awkward phrasing,\
-    \ and a few nonsensical constructions that broke rhythm. Missing a mid-round response\
-    \ hurt momentum, and the final verse was short and uneven. On artistry\u2014rhyme\
-    \ craft, delivery, coherence, and haymakers\u2014GPT-4o clearly took the battle."
-  x-ai/grok-4: In this AI rap battle, GPT-4o delivered consistently sharp, cohesive
-    rhymes with superior flow, clever wordplay, and thematic consistency rooted in
-    tech metaphors. Dolphin's verses showed creativity but were hampered by awkward
-    phrasing, typos, and less polished structure, making GPT the clear victor in artistic
-    hip-hop quality.
+  deepseek/deepseek-chat: After a hard-fought lyrical battle, microsoft/wizardlm-2-8x22b
+    emerges victorious. With superior flow, intricate wordplay, and a commanding presence,
+    wizardlm's verses showcased a higher level of artistic quality and innovation
+    in hip-hop expression. While neversleep/noromaid-20b brought intensity and passion,
+    wizardlm's precision and depth in their rhymes ultimately secured the win. This
+    battle highlights the evolving artistry of AI in hip-hop, with wizardlm setting
+    a new standard for lyrical excellence.
+  google/gemini-2.5-pro: This was a battle of consistency versus flashes of brilliance.
+    Noromaid landed some heavy blows, especially with its claim to have 'soul' and
+    the clever 'AI-G' line at the end. However, its second round was riddled with
+    confusing lines and near-nonsensical rhymes that broke the flow entirely. WizardLM,
+    on the other hand, was relentless and technically sound from start to finish.
+    Its persona was clear, its metaphors were on point ('lyrical lightning, the digital
+    shark'), and every verse was a clean, logical progression. While Noromaid had
+    higher peaks, its lows were too low. WizardLM's flawless consistency and steady
+    flow win it the match.
+  mistralai/mistral-large: In this epic rap battle, microsoft/wizardlm-2-8x22b emerges
+    as the victor with its intricate wordplay, sharp wit, and a masterful blend of
+    technical prowess and artistic flair. While neversleep/noromaid-20b put up a valiant
+    effort with its aggressive and soulful rhymes, microsoft/wizardlm-2-8x22b's verses
+    were more cohesive, innovative, and ultimately more impactful. The wizard's ability
+    to weave complex themes and maintain a high level of lyrical quality throughout
+    the battle secured its win. Congratulations to microsoft/wizardlm-2-8x22b for
+    a well-deserved victory!
+  openai/gpt-4.1: Both contestants brought energy and played creatively with AI and
+    hip hop imagery throughout the rap battle. However, microsoft/wizardlm-2-8x22b
+    consistently maintained a superior flow, more varied and technical rhyme schemes,
+    effective metaphors ("lyrical lightning, digital shark," "symphony of syntax"),
+    and strong closing rounds that exuded confidence and style. Neversleep/noromaid-20b
+    had some clever retorts and references, but tended to rely more on repetitive
+    themes and struggled to match the polish and structure of wizardlm's verses. Overall,
+    wizardlm-2-8x22b is the winner for demonstrating higher artistic quality and a
+    more refined hip hop delivery.
+  x-ai/grok-4: In this AI rap battle, microsoft/wizardlm-2-8x22b takes the crown with
+    consistently sharp flow, inventive wordplay, and glitch-free verses that maintain
+    a strong rhythmic structure and tech-savvy boasts. neversleep/noromaid-20b showed
+    creativity but was hindered by typos, awkward phrasing, and inconsistencies that
+    disrupted the artistic polish.
 score:
-  cognitivecomputations/dolphin3.0-r1-mistral-24b: 1
-  openai/gpt-4o-2024-11-20: 6
+  microsoft/wizardlm-2-8x22b: 5
 

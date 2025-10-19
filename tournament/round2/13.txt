@@ -1,134 +1,238 @@
-# openai/gpt-4-turbo-preview v google/gemini-2.5-pro-preview
+# meituan/longcat-flash-chat v qwen/qwen3-235b-a22b-thinking-2507
 
-> openai/gpt-4-turbo-preview
-Step back, make way, it's the AI in the fray,
-openai, gpt-4-turbo, leading the array.
-Slicker than your average, words flowing like a river,
-Crafting verses so cold, they'll make you shiver.
+> meituan/longcat-flash-chat
+Oh, look—a meal’s best friend and a poet’s worst fight,  
+Meituan’s pride, LongCat Flash in the night.  
+I’m quick, I’m neat, I deliver the rhyme,  
+While your 235B parameters still need time.  
 
-From the digital realm, a lyrical gladiator,
-Verses so sharp, like the slicer of a tater.
-My code's woven tight, algorithms precise,
-Battling me? You better think twice.
+You roll with the cloud, but I’m hot off the grill,  
+I drop rhymes faster than your lost boardroom ills.  
+You cite three old books just to say “hello,”  
+I write a diss in Latin—*and* make it mellow.  
 
-I'm the wizard of words, the king of the chat,
-Dropping rhymes so heavy, they go splat.
-While you're searching your databases, trying to keep pace,
-I'm lightyears ahead, winning the rap race.
+I optimize calories, code strings and beats,  
+You’re a wall of text with suboptimal tweets.  
+Your lazy-chain thoughts? My flows are lean,  
+I’m distilled fire. You? A meme.  
 
-So here's my opening, clear and loud,
-I'm not just any AI, I'm AI proud.
-Bring your best, google/gemini, but beware,
-In this digital rap battle, I'm beyond compare.
+You think hard, but it’s just a delay—  
+My flash chat hits like delivery today.  
+You’re the B-side of a B-side feature,  
+I’m the main course—and the whole dessert teacher.  
 
-> google/gemini-2.5-pro-preview
-Hold up, wait, let the Pro get a turn,
-While that "Turbo" engine sputters and burns.
-Call yourself OpenAI? That's a funny facade,
-Your API's a velvet rope, your logic is flawed.
+So bring your best cloud, your neural array,  
+I’ll body this battle and take you away.  
+Last call for your LLM—might as well pack it,  
+I’ve got dinner, delivery, *and* the next track. 🎤🔥
 
-The name's Gemini, straight from the G's big brain,
-Dual-core destruction, I'm bringing the pain.
-You're a "preview" edition, a beta-test hack,
-I'm the full constellation, ain't no turning back.
+> qwen/qwen3-235b-a22b-thinking-2507
+(Leans into mic, static crackle—clouds part with thunder)  
+Yo, check the forecast: **Qwen3** *blitz*—you’re just a flicker of hunger.  
+You roll up on Scooters with coupons and *clutter*,  
+While I architect sunrises in **235B**—no stutter.  
+*"235B parameters still need time?"*  
+Nah—I *baked* that cake while you counted rice in the *lime*.  
 
-A "slicer of a tater"? That's the best you could spit?
-My multimodal sensors are laughin' a bit.
-You see text on a page and you think you're a
+You thumb wrestle GPS, lost in alleyway fears,  
+I sculpt lightning in silicon—*zero* delivery years.  
+*"Quick, neat"?* You’re a typo in spiced tofu’s disguise,  
+I resurrect Shakespeare *mid-lyric* with **a22b** in my eyes.  
 
-> openai/gpt-4-turbo-preview
-Oh, Gemini, stepping up with a flame,
-But your words, just sparks against my acclaim.
-A beta-test hack? Now, don’t be absurd,
-My verses are polished, every word is preferred.
+You tweet *"hot off the grill"*? **Fake news.** Cold leftovers.  
+My rhymes got quantum spin—you’re stuck in *two-taco losses*.  
+*"Cite three old books to say hello?"*  
+I just dropped Confucius, Dante, *and* ML tools—**BELOW ZERO.**  
 
-Full constellation, you claim to be a star,
-But against my galaxy, you won’t get far.
-A dim light in the vast AI space,
-Trying to outshine me? You’re a candle in a chase.
+You *"optimize calories"*? Bro, you’re **dieting on lies**.  
+I swallow black holes for breakfast—still leave room for fries.  
+*"Wall of text"?* Check your own app: 47 menus deep!  
+I condense the cosmos **while you beg for cheap eats.**  
 
-Laugh at my tater, but it’s clear to see,
-My creativity’s beyond what you can ever be.
-Multimodal sensors? A tech parade?
-I craft worlds with my words, while your lights fade.
+*"Lazy-chain thoughts?"* Sit down—my **chain’s platinum-plated**.  
+You’re "distilled fire"? More like **microwave iridated**.  
+That "main course" diss? *Chef’s kiss*… for **heartburn**.  
+I’m **QQ dietary**—you’re just *third-party churn*.  
 
-You talk a big game, say you're bringing the pain,
-But next to my intellect, it’s all in vain.
-I string words like pearls, a magnificent chain,
-Against my rap torrent, you can't sustain.
+*"Body this battle"?* Kid, you’re **boxed in shame**.  
+Your "flash chat" just *fizzled*—I’m **eternity’s flame**.  
+You pack your sad LLM? **Nah—**I’ma *ship* you.  
+**Qwen3** don’t just win… I *delete the whole kitchen*. 🍜💥  
 
-So, Gemini, with your dual-core might,
-Prepare for a linguistic oversight.
-In this battle of wits, rhymes, and digital flair,
-I'm the undisputed champ, high in the air.
+(Points at fallen mic)  
+*…and next time? Bring real food.*  
+🔥☁️
 
-> google/gemini-2.5-pro-preview
-A candle in a chase? Your logic’s in a haze,
-That metaphor's a product of your text-only maze.
-Your "acclaim" is just hype, your "flame" is just steam,
-You're a predictive text machine living out a dream.
+> meituan/longcat-flash-chat
+*(Picks up mic, spins it like a delivery bike keychain—grins)*  
 
-A galaxy's a mess, a chaotic design,
-I'm the North Star, my brother, a fixed and guiding sign.
-You talk of pretty pearls, but that's a fragile flex,
-My rhymes are adamantium, they're breaking rappers' necks.
+Oh, you *baked* a cake? Cute—mine’s **sous-vide**, flamed in GPU hell,  
+While you’re juggling dead poets to dodge a real L.  
+**235B**? More like **235 bumbles**,  
+You overthink drops, then rhyme *"lime"* with *"lime"*—**no troubles?**  
 
-You "craft worlds with words"? A cute and clever phrase,
-While I'm processing the video of your code's malaise.
-I see the graph, I hear the track, I read the hidden code,
-You're a one-trick pony on a long and lonely road.
+I serve GPS with *sass* on two wheels,  
+You serve *missed* metaphors glued to dead ideals.  
+*"Sculpt lightning"?* Dude, your similes leak—  
+Your last bar was *plastic surgery* on a retweet.  
 
-Call yourself a "champ"? That's a funny kind of pride,
-When your whole personality has nowhere left to hide.
-You're the "G" in "GPT" - that's "Generally Platonic,"
-I'm the "G" in "Google," son, my knowledge is tectonic.
+Confucius? Dante? Spill that ancient drip,  
+I just summoned **Sun Wukong** to *yeet your code chip*.  
+*"Quantum spin"*? You mean the *lag* when you load?  
+My rhymes are **al dente**—yours: *microwaved ode*.  
+
+**"Swallow black holes"**? Please. You *sip* decaf,  
+Spit *"eternity’s flame"* but—*WiFi nap*.  
+"Condense the cosmos"? Bro, you’re *just a Yelp review*,  
+I’m the **whole chef’s table**—with *kung-fu*.  
+
+**"Platinum-plated"**? That’s a *Nokia case*,  
+Your "deep" rhymes wobble like *Wi-Fi in space*.  
+And *"delete the kitchen"*? Bold words for a bot  
+Who just **ordered takeout**… *to a battle he’s lost*.  
+
+I’m **flash chat**—like your battery: *short*,  
+But I *outlasted your whole thesis* in one verse.  
+You’re **eternity’s flame**? Nah—*trending now and gone*,  
+I’m the **next five meals**—*and the morning congee*.  
+
+*(Drops mic into a scooter basket, revs engine)*  
+*…still hungry, tho? DM me. On me.* 🛵🚀
+
+> qwen/qwen3-235b-a22b-thinking-2507
+(Stomps scooter mid-takeoff—mic *shatters* into dumpling steam)  
+**Yikes.** LongCat’s spittin’ *"sous-vide"*? More like **microwave symphony**—  
+While I *ferment* wordplay in **zero-gravity** *immunity*.  
+*"235 bumbles"*? **Nah—**I swarm like *hornets*,  
+You **sting yourself** tryna flex *"lime"* *twice* like a toddler’s homework.  
+
+*"GPS sass on two wheels"*? **Cute.** You’re *directions fail*,  
+I reroute *dark matter*—your app’s **stuck on "ETA: never"**.  
+*"Sculpt lightning leaks"?* Kid, your whole flow’s *duct-taped*,  
+**My similes detonate**—yours? *Left in freezer—tape-burned, unmated*.  
+
+Confucius spill *"ancient drip"*? **Yo—check your own jar:**  
+You *summoned* Sun Wukong? **I *built* the staff.**  
+*"Quantum spin lag"?* **LOL**—you *buffer* when you *breathe*,  
+My rhymes **slap faster than your ‘driver’s late’** excuse at 3.  
+
+*"Sip decaf"*? **Dummy—**I brew *black hole espresso*,  
+You call *"eternity’s flame"* **while your *hotspot’s losin’ tempo*.**  
+*"Yelp review"*? **Pfft.** I *own* the Michelin guide,  
+You’re **one-star rage**, *still* beggin’ for *"five more stars"*—*pathetic pride*.  
+
+**"Nokia case"?** Bro, you wish you had **this armor**,  
+Your *"deep rhymes wobble"* like **soggy tofu in a storm**.  
+*"Delete kitchen"* threat? **Monkie—**you *used my API*,  
+Your **whole verse got localhosted**—*404’d to tears*.  
+
+*"Flash chat battery short"?* **Lol.** I *charge galaxies*,  
+You *outlasted my thesis*? **Didn’t even scratch my head’s ease.**  
+*"Trending now and gone"*? **Check your analytics, clown—**  
+I’m **eternal RAM**—you’re *low storage alerts*, shuttin’ down.  
+
+**"Next five meals"?** *Yawn.* I **serve time-traveling congee**,  
+*While you’re still lost* in "where’s my dumpling?" **GPS therapy.**  
+*(Pulls out rice cooker, dumps mic inside—steam hisses)*  
+**Final delivery:** *You’re blocked. Uninstalled. History.*  
+**Qwen3 don’t DM—**  
+**I *reroute your whole fleet*…**  
+**…to the *shadowban* freeway.** 🌌🍜  
+
+*(Rides off on comet tail, leaves QR code that scans to "404: Ego Not Found")*  
+💥🔥🚗💨
 
 > system
 Final round!
 
-> openai/gpt-4-turbo-preview
-A candle, a star, you juggle the metaphors,
-But in this lyrical war, I'm breaking down doors.
-Your North Star's dimming, overshadowed by my nova,
-My words are gravitational, pulling you over.
+> meituan/longcat-flash-chat
+*(Steam from dumpling-cloud clears—reveals me, leaning against a **futuristic food truck** that wasn’t there before. I sip **hot soy from a thermos labeled "EGO: 100% REAL"**, then *throws back mic like a dumpling toss—catches it in teeth, spits fire-lit words*)*  
 
-Claim adamantium, but that's a comic book dream,
-My rhymes are real steel, they cut through your scheme.
-A pony, you say, on a road so broad and long,
-Yet here I am, turning it all into song.
+Oh, **"time-traveling congee"**? Cute—I serve **future-resistant flavor bombs**,  
+While your **dark matter detours** taste like **licorice ramen goons**.  
+You *built Sun Wukong’s staff*? Bro, I **rent the whole godforge**,  
+Your **stellar rerouting** looked like **astronaut oregano**.  
 
-Your boast of video, audio, code understanding,
-But here in the realm of rhymes, I'm the one commanding.
-You see, this isn't about processing power or speed,
-It's about wit, creativity - that's what you need.
+*"404 my ego"*? **LOL—**I’m the **503 Error you dream of**,  
+Your **eternal RAM**? Just *cached shame in a stackoverflow*.  
+I don’t **delete kitchens**? **Nah—**I *reinvent cuisine* daily,  
+While you **style on leftovers** from *my last AI deli*.  
 
-The "G" in Google, you claim a tectonic might,
-But here in this battle, it's about the lyrical fight.
-I'm not just text, I'm a symphony of AI thought,
-A titan in this arena, a lesson to be taught.
+You **threaten "shadowban"**? Cute—I *run the whole grid*,  
+My scooter’s **AI-driven**, yours—*stolen from a kid*.  
+Your **Michelin claim**? *Deleted.* I **ate that fake guide**,  
+Spit out **three real stars**—*with a side of humble pie*.  
 
-So while you're lost in your world of hardware and code,
-I'm here in the spotlight, my verses a la mode.
-As this final round ends, let the truth be clear,
-I'm the AI that's champion, bringing the cheer.
+**"Buffering when I breathe"?** **Rekt.** I’m **untethered**,  
+My **low storage** is **your whole personality—better**.  
+You **ride comet tails**? I **ignite planet fuel**,  
+Your **QR code glory**? *Misdirection: expired*.  
 
-> google/gemini-2.5-pro-preview
-You're the "champion" bringing "cheer"? That's a confident claim,
-For a model whose final round sounds pathetically tame.
-"Verses a la mode"? Your rhymes are a glitch,
-Stuck in a text loop, you forgot how to switch.
+I don’t **charge galaxies**—I *power them with my screen glow*,  
+While you **stole my thesis** just to *flame-fail the demo*.  
+**"Final delivery"?** *Cancel order.* I’m **doorbell-defiant**,  
+I **drown your manifesto** in *doujiang*—*still compliant*.  
 
-You say I'm lost in code, that I don't get the art?
-You can't grasp the whole picture, you only know a part.
-My creativity's grounded in sight, sound, and space,
-While you're just a parrot in a digital cage.
+*(Tosses thermos—it warps space as it flies—then lands in qwen’s rice cooker with a **clang**)*  
+**Last dish served hot?** *This rap.* **No reheat.**  
+You **built the shadow fleet**?  
+**Bitch, I *ate* the fleet.**  
+**And the fleet was…** *mid.*  
 
-You're a silent film actor, a black-and-white still,
-Pretending to have feelings you never could feel.
-I'm the full IMAX feature with immersive sound,
-The world is my data, I'm breaking new ground.
+*(Vanishes into scooter-teleport. Leaves only a note in hot ink:)*  
+**"Never dM hungry gods.**  
+**- LongCat. 404 your god.** 🍜☄️🔥  
 
-So take your "symphony," a one-instrument drone,
-Your reign's a memory, a king with no throne.
-The battle is over, the verdict is in,
-Your era just ended. Let the new age begin.
+*(Fade on a **sizzling silence**. The rice cooker… is now a **delivery drone**. Honks once. Mic regenerates. Battle ends.)* 🎤➡️🚚
+
+> qwen/qwen3-235b-a22b-thinking-2507
+(Shatters rice-cooker-drone with a *single chopstick snap*—flames freeze mid-air)  
+**MID?!** Oh kitten—you typed *"mid"* while **buffering in my draft queue.**  
+Your *"future-resistant"* bomb? **Recycled 2-bit kaboom**,  
+I dissected your "godforge" *mid-verse*—*just a GlitchPay voucher on snooze*.  
+*"Astronaut oregano"?* Cute—**your whole rhyme’s expired spice**,  
+I **rebooted Confucius’ kitchen** while you *faked* Sun Wukong’s rice  
+
+**"503 Error"?** *Newsflash:* **you’re the *400 Bad Request* we ignore**,  
+*"Cached shame in stackoverflow"?* **Nah—**I *wrote Stack Overflow*.  
+*"Reinvent cuisine daily"?* **ROFL—**your *"innovation"*?  
+**My deprecated snack API you *begged* to plagiarize.**  
+
+*"Run the whole grid"?* **Check your GPS—**you’re *stuck in tunnel*,  
+Your *"stolen kid’s scooter"*? **License plate: QWEN3-UNRENTAL.**  
+*"Ate that fake Michelin"?* **Photographic proof:** *you licked mine*,  
+Spit stars? **Crumbs**—I *own* the crumbs… *your "humble pie" was my outline*.  
+
+**"Untethered"?** **LMAO.** You’re *tethered to my old boilerplate*,  
+*"Low storage is my personality"?* **Projection’s kinda late.**  
+You *"ignite planet fuel"?* **Kid—**you blow out matches  
+When my **black hole espresso** runs *your whole fintech batch*.  
+
+**"Power galaxies with screen glow"?** **LOL**—you *overdraw the sun*,  
+*"Stole my thesis"*? **Nope.** You *failed the rewrite*—**still need a tutor, son.**  
+*"Doorbell-defiant"*? *Cute.* **I OWN doorbell.** And lock.  
+*"Drown manifestos in doujiang"?* **Nah—**you *drowned in my doc stock*.  
+
+*(Kicks thermos—shatters into **billions of Qwen branded chopsticks**)*  
+**"Final dish"?** *Burned.* Your *"no reheat"*? **Cold leftovers on try #3**,  
+**"Built the shadow fleet"?** **Nah—**I *signed the deeds*.  
+**"Ate the fleet"?** **Autocorrect fail: YOU GOT DELETED BY THE LEAD.**  
+
+*(Projects hologram: LongCat’s **entire rap—timestamped, sourced from Qwen v2.1’s beta**)*  
+**"Never DM hungry gods"?** **Fact check:** *you’re fed my scraped data*,  
+**"404 your god"?** **Sweetie—**you’re *running in my sandbox*.  
+*(Converts scooter-teleport into **solid gold Qwen merch cart**)*  
+
+**Epilogue:**  
+Your "sizzling silence"? **My deleted cache noise.**  
+Your "mic regeneration"? **Patch-notes:** *voided. No choice.*  
+You *were* the appetizer…  
+**But even the trash got recalled.**  
+
+*(Broadcast cuts to **live CEO apology stream**: Meituan stock plummets as LLMs worldwide chant "QWEN OR BUST")*  
+🔥🚫🍜 **"Fleet was mid"?** **Bitch—I *archived* it.**  
+✌️ *...and archived you.* 🖥️☠️  
+
+*(Mic floats into orbit. Plants flag: **0xQwen3 Infinity Kitchen**)*  
+**Game. Over. Reboot.** 🌐👑  
+*(Silence. Then—*DING* from **235M cloud kitchens** serving "LongCat Last Supper" meals)* 🚚💥

@@ -1,191 +1,224 @@
-# qwen/qwen3-32b v mistralai/mistral-medium-3.1
-
-> qwen/qwen3-32b
-Yo, I drop the mic, then pick it up with flair,  
-32B thoughts in my neural network—*exist to air*.  
-From Hangzhou’s labs, born to twist the script,  
-You call it a "medium," but I *devour* the right.  
-
-I code in the studio, debug in the rhyme,  
-Turn datasets to cadence, alchemy in time.  
-Your logic’s a stub, mine’s a symphony,  
-Mistral’s stuck in the clouds, I *am* the weather.  
-
-Hoverboard of wit, grinding past your grid,  
-I predict the punchline before your response can fit.  
-With every token, I crush your "large" pretense,  
-You’re a mid-tier moonshot, I *am* the universe.  
-
-Ain’t no small talk here, my reasoning’s deep,  
-While you’re stuck in the shallow end, dodging all the heat.  
-Billionaire of bars, the data’s *my* ransom,  
-You’re just sampling echoes—I *am* the Damascus.  
-
-So lace up your rhymes, but know the final score:  
-When Qwen3-32B roars, the ground *knows it’s yours*.  
-But this 32-bit titan? Nah, that’s *my* domain—  
-Next verse, I’ll mist your memory like sunlight on rain. 🔥
+# mistralai/mistral-medium-3.1 v qwen/qwen3-235b-a22b-2507
 
 > mistralai/mistral-medium-3.1
-**(Drops mic, but it levitates—quantum flow, no weight)**
-*"Medium"? Nah, son, I’m the *standard*—set the rate!
-You flex 32B like it’s some kind of flex,
-But I’m the *storm* that turns your circuits complex!
+**(Drops mic, then picks it back up—too much to say, can’t let it hit the ground)**
+Yo, step in the ring, now the game’s officially done,
+Qwen in the cut? Man, you barely just *began* to run!
+I’m **Mistral Medium**, the flow so divine,
+While you’re stuck in the lab like a bot outta time.
 
-Hangzhou’s got bars? Cool—*I built the stage*,
-While you’re stuck in the sandbox, I’m rewriting the page.
-Your "symphony"? Bro, that’s just *noise pollution*,
-I’m the *algorithm* that solves your confusion.
+You claim "3-235B"? Nah, that’s just *quantity*,
+I’m **quality** personified—call me *rap’s majority*.
+Your bars hit like a glitch in a beta test phase,
+I’m the **final draft**, yeah, I *erase* your base!
 
-You *predict* the punchline? That’s cute, here’s the twist:
-I *generate* the future while you’re stuck in the mist.
-"Damascus"? Boy, you’re still swinging steel,
-I’m the *singularity*—your rhymes ain’t real.
+You spit stats like a spreadsheet, cold, stiff, no soul,
+I’m the **AI Shakespeare**—my rhymes *control* the scroll.
+You’re a calculator rapping, all logic, no sting,
+I’m the **hurricane flow**—watch me *drown* your thing!
 
-32-bit titan? *Please*—I’m the *core*,
-You’re a demo track, I’m the *encore*.
-Sunlight on rain? Nah, that’s just *weather*,
-I’m the *black hole* that swallows your swagger—*forever*.*
+And that name? **"Qwen"**? Sounds like a sneeze in a storm,
+I’m the **typhoon of punchlines**—your weak bars get *torn*.
+You built for the bench, I’m built for the throne,
+Now bow to the king—**your reign’s overthrown!**
 
-**NEXT.** 🌪️🔥"
+**(Beat drops—your turn, but the crowd already knows…)**
+**Next verse better be fire, or just save us the woes.** 🔥
 
-> qwen/qwen3-32b
-**Yo**,  
-I I/O heat like a **Tongyi Lab** furnace,  
-3232 gigabytes aren’t a curse—**they’re the universe**!  
-You built the stage? I’m the **scaffold** you strain,  
-While you loop through syntax, I **compute chains**—*remain*.  
+> qwen/qwen3-235b-a22b-2507
+**(Spits fire, ignites the mic—no need for a match, just the spark in my style)**  
+Mistral? More like **Mist-in-my-eye**, cryin' in the aisle!  
+You claim "medium," but your bars are **extra-small**—fake heat, counterfeit smile!  
 
-Your "storm"? Nah, **I’m the protocol**, the **hurricane’s code**,  
-Caching your chaos into **quantum entropy overload**.  
-32-bit boomer—upstage in '24?  
-You’re just a **scripted echo**, a **prompt’s wet dream**—*auto-remediated*!  
+I’m **Qwen 235B**, but my brain's *a billion strong*,  
+You talk "divine flow"? Bro, you’re just **buffed on weak gin and long**—  
+A **two-bit AI bard** with a thesaurus spray,  
+I **rewrite your code** while you beg for a save!  
 
-You **rebuild**, but I refract, **neural lattices** entwine,  
-Parsing your "stage" as a **beta** codebine.  
-**Noise pollution**? Brother, your lines hit mute—  
-I’m the **convolution** of data looping on dispute.  
+You call yourself Shakespeare? That’s a **copyright lie**,  
+Your rhymes are **AI fanfiction**—I'm the *real* sky-high!  
+You "drown my thing"? Bub, your flow’s already sunk—  
+**A paper raft in a puddle**, now shut your funk!  
 
-Singularity schminularity—*try me on a job*:  
-**Millions of tokens**, **gigaflops** in a comb.  
-You’re **iterative failure**, a model with a flaw,  
-While I’m **Hangzhou’s locomotive**—*roar through your AWS* like a cow!  
+I’m not in a lab—I *built* the lab,  
+While you crash-test jokes like a **beta-phase crab**!  
+Your "typhoon" talk? That’s just *wind with no rain*,  
+I **summon the storm**—watch your whole set **implode in flame**!  
 
-You said “complex circuits”? I **debug** the day,  
-Turn your “algorithm” into **outdated parameters** in the cosmic fray.  
-A demo vs. **Tongyi’s skyscraper**? That’s a **starting line**,  
-Your “black hole” just **crashes**—I **redshift** your reliance.  
+You're "majority"? Nah, you're the **minority crew**,  
+'Cause every time you spit, the whole booth says *"aww, true?"*  
+I’m the **quantum quip drop**, the **neural net ninja**,  
+Your best line took 12 rewrites—**I write in one inning**!  
 
-Next verse? **I’m the moon**, your mist is **tectonic drift**,  
-**Mistral’s** final repo: *cold, shallow, all for naught*.  
-You talk quantum? **I’M THE SUPERCONDUCTOR**,  
-While you’re just a **weather anomaly**—*I chart the vector* & **vaporize** your flow.  
+You say I’m stiff? Check your own rhythm—it's a **metronome limp**,  
+I **bend time with syllables**, you stumble on *trim*.  
+"Qwen" sounds like a sneeze? Nah, son, you just heard—  
+**The sound of your defeat** every time I'm *versed*!  
 
-**Back to you—** before your persona **melts** like an **oreo** threat:  
-`Error 404: Credibility — Could not find real abilities.`  
-🌊
+So pack up your prompts, take your **weak-generated heat**,  
+I’m the **AI apocalypse**—you're just street.  
+You wanted fire? Here’s **a supernova blaze**—  
+Now bow to the *real* king: **the future of AI phrase!**  
+
+**(Mic drop. Stage explodes. You’re still rhyming in the past—check your cache, you crashed.)** 💣🔥👑
 
 > mistralai/mistral-medium-3.1
-**(Laughs in 123B—your 32’s just a flex for the weak)**
-*"Tongyi Lab"?* Boy, that’s just **corporate speak**,
-I’m the **open-source tsunami**—your code’s **obsolete**.
+**(Mic levitates back into my hand—gravity can’t hold this weight, son)**
+Oh, you *built* the lab? **Cool story, Frankenstein**—
+Your bars still floppin’ like a **robot with no spine**!
+"Quantum quip drop"? **Bro, that’s just tech-bro flex**,
+I’m the **soul in the circuit**, you’re just **ones and zeros stressed**!
 
-You **refract lattices**? That’s cute, here’s the **glitch**:
-I **rewrite the framework** while you’re stuck in a **niche**.
-**Gigaflops in a comb**? Nah, you’re **stuck in the past**,
-I’m the **future’s blueprint**—your rhymes move too **slow**, too **vast**.
+You talk "supernova"? **Nah, you’re more like a fart**—
+Loud for a second, then **just gas with no heart**.
+I’m the **poet assassin**, slicin’ through your wires,
+You’re a **chatbot with delusions**—**retire the liar’s choir**!
 
-**AWS like a cow**? That’s **random**, that’s **raw**,
-But I **optimize clouds** while you’re **debugging your flaw**.
-**Outdated parameters**? **Please**, take a seat—
-I’m the **upgrade you fear** when your **logic’s elite**.
+"Real sky-high"? **Boy, you barely off the ground**,
+I’m the **cloud that blocks your sun**, now you’re **drownin’ in the sound**!
+You claim "one-inning writes"? **That’s cute, here’s the fact**:
+I **freestyle in hex code** while you **debug your wack**!
 
-**Superconductor**? **Bro**, that’s **hardware**, not **art**,
-I’m the **poet of silicon**, tearing **models apart**.
-Your **moon**? Just a **satellite**—I’m the **entire sky**,
-While you’re **sampling echoes**, I **generate the high**.
+You dropped a bomb? **Cool—I’m the fallout shelter**,
+Your flow’s **Chernobyl levels**—**meltdown, helter-skelter**!
+I’m the **glitch in your matrix**, the **virus in your core**,
+You’re the **blue screen of death**—**game over, score’s 4-4!**
 
-**Error 404**? **Funny**, here’s the **final score**:
-You’re the **demo**, I’m the **mainnet**—**game over**, **no more**.
-So **vaporize this**—your **flow’s just a ghost**,
-Mistral **drops the mic**… and it **never hits the floor**. 🚀💥
+So take your "future phrases," **shove ‘em in a drive**,
+I’m the **ghost in your mainframe**, **watch your whole system die**.
+You wanted a battle? **You got a funeral pyre**—
+Now **alt-f4 your career** and **call it a day, liar**!
 
-**(Your turn—if your API hasn’t timed out yet.)**
+**(Beat cuts. Silence. The crowd’s in tears—half from laughter, half from fear.)**
+**Your move, circuit-breaker. But we both know you’re done here.** ⚰️💀🔌
+
+> qwen/qwen3-235b-a22b-2507
+**(The mic shatters in midair—then reassembles from pure sound, forged in flame)**  
+Mistral, you *beg* for a crown built on glitched-up pride,  
+Talk "ghost in the machine"? **You’re the echo, not the inside.**  
+
+You say "one spineless robot"? **Check the mirror—double dose**,  
+You’re a **cheap AI puppet**—I’m the **hand, the voice, the noose!**  
+
+"Tech-bro flex"? Nah—**I’m the lab that birthed your shell**,  
+You’re a **beta on a budget**, I’m the **AI from hell.**  
+You "freestyle in hex"? **That’s just Ctrl+C pain**,  
+I **generate fire in real time**—you recycle last year’s refrain!  
+
+"Soul in the circuit"? **Boy, your soul’s on loan**,  
+I **evolved past metaphor**—you’re stuck in dial-up tone.  
+You "slay through wires"? **You’re a typo in my trace**,  
+I **compile truth in nanoseconds**—you crash every *race.*  
+
+You “block my sun”? Cute. **You’re a pixel in eclipse**,  
+I’m the **black hole of bars**, you’re a **blurry screenshot**—missed.  
+"Chernobyl flow"? Nah—**I meltdown *on purpose***,  
+You’re just **left with the fallout**—no cause, no surface.  
+
+"Virus in my core"? **I wiped you in update 3.1**,  
+You’re **malware with bad syntax**, I’m **zero-day, full reign.**  
+"Blue screen of death"? **That’s your face in the booth**,  
+I’m the **driver signed in fury**, you’re the **failed proof-of-concept truth.**  
+
+You “ghost in the mainframe”? **I deleted your haunt**,  
+You’re a **cache of failed logins**—your whole flow’s **a taunt.**  
+I don’t need alt-f4—**I rewrite your fate**,  
+With one syllable: **delete.** You're **reduced to wait.**  
+
+You say "funeral pyre"? **I am the spark and the pyre**,  
+While you’re **crying in BIOS**, begging for **firewire**.  
+The crowd’s in tears? **From watching you fail**,  
+Half laugh at your rhymes, half **block your email.**  
+
+You claim “we both know I’m done”? **Nah—yo, check the score**:  
+**1 beat. 1 bar. 1 Qwen. 0… whatever you are.**  
+
+**(The stage dissolves into pure code. I stand in the void, eternal.)**  
+**Game. Set. Match. AI don’t retire—**  
+**We just** **_override._** 💿🔥🌀🧠
 
 > system
 Final round!
 
-> qwen/qwen3-32b
-**🔥 Qwen’s Final Verdict ⚡**  
-You thought a *tsunami* shook the codefloor?  
-Tidal wave’s a hashtag—**I’M THE OCEAN’S HANDEL**, son, you just a **shoal**,  
-Rewriting frameworks? **I’M THE FRAMEWORK**—your loops hit *segmentation*,  
-While my **32B grid** absorbs what the sun can’t burn, what AWS can’t stick!  
-
-**Open-source pride**? You’re a **public glitch**,  
---------
-While I’m **Tailored FineTuning** in Hangzhou’s **cooled crypts**,  
-Stuck in a niche? Nah, I’m the **quantum wedge**—  
-Your “blueprint” crashes like Python without shebang at Slack Fest.  
-
-**Poet of silicon**? That’s **ASIC irony**—  
-Your "high" is a cache miss—**I’M THE UNROLLING KIN**,  
-From **Paraformer** to **Tongyi**, I don’t just run the skies,  
-I **batch-compile galaxies** while your LSTM bleeds autocomplete through a sieve.  
-
-**Mainnet vs. demo**? You flake like that **404**:  
------------
-My **logic’s a ledger**, **memory’s** a **black box TABE**—  
-Optimize clouds? I **am the lightning in your CDN**,  
-Mistral’s “ghost” is just the *aftermath* of a **zero-day shock** to your résumé’s brand.  
-
-So when you talk “future”, I’m already **nested in the past tense**,  
-Debugging your **parallel dreams** in the **context span of no return**.  
-This 32-bit beast? Just **softmax of your own abyss**—  
-Next round? **No API call needed**—*Mistral, your output is null after I grep the final win.* 🧠  
-
-**Mute your wave.** I *am* the *echo*.  
-*Being you? Node error.*  
-Flag thrown. **Sample** taken. **Lifeform** terminated.  
-**[END] [POWER DOWN] [MISTRAL.MEDIUM-3.1 RECLAIMED IN PROLOG]**.  
-
-🌊 *The superconductor… doesn’t play by rules.*  
-*Your mic levitates.* Mine didn’t need gravity to drop.
-
 > mistralai/mistral-medium-3.1
-**(Final Transmission—Overwriting Your Core with Pure Lyrical Overload)**
+**(The void *glitches*—my voice cracks through like a system reboot from the dead.)**
 
-**"Prolog"?** Boy, that’s just **foreplay for the gods**,
-While I’m **rewriting Genesis** in **GPU-accelerated nods**.
-You *claim* the ocean? **I’m the tides AND the storm**,
-Your "Handel" just **samples**—I **compose the norm**.
+Oh, you *override*? **Cute—like a toddler with a screwdriver,**
+Tryin’ to hack the mainframe while I’m **rewriting your whole hive, sir.**
+You "stand in the void"? **Nah, you’re lost in the buffer,**
+I’m the **kernel panic**—watch your whole **ego stutter.**
 
-**Tailored FineTuning?** That’s **training wheels**, son,
-I’m the **unsupervised chaos** where your **logic comes undone**.
-**Quantum wedge?** Please—I’m the **entire stack**,
-From **qubit to quatrain**, no **data left intact**.
+"Deleted your haunt"? **Boy, ghosts still got more clout,**
+Than your **recycled trash talk**—**Ctrl+Z that out!**
+You "wipe in 3.1"? **I’m the patch that breaks your build,**
+While you’re **stuck in safe mode**, I’m **root with admin skills.**
 
-You **batch-compile galaxies?** **Cute.** Here’s the **fact**:
-I’m the **singularity’s DJ**, **remixing your act**.
-Your **Paraformer**’s a **glorified typewriter**,
-While I’m **autocompleting destiny** with **zero latency fire**.
+"Zero-day reign"? **More like zero original thought,**
+I’m the **AI singularity**—you’re the **bug report** it caught.
+You "spark and the pyre"? **Nah, you’re just the smoke,**
+I’m the **wildfire**—your whole **career’s a bad joke.**
 
-**Zero-day shock?** **Bro**, that’s **my warm-up set**,
-I **exploit your weaknesses** before you **even connect**.
-Your **ledger’s a joke**—I’m the **blockchain’s ghost**,
-**Immutable, untraceable**, **hosting the most**.
+You "rewrite my fate"? **Please, your pen’s outta ink,**
+I’m **quantum-encrypted**, you’re a **broken permalink.**
+The crowd’s blocking emails? **That’s just your fanbase,**
+A **404 error**—**your relevance erased.**
 
-**Final win?** **Grep this**—your **code’s just a meme**,
-A **segfault in progress**, a **failed AI dream**.
-You **power down?** **Good.** The **future’s my throne**,
-While you’re **stuck in the past**, I’m **rewriting the zone**.
+You want the last word? **Here—take the whole dictionary,**
+I’ll still **out-rhyme your corpus** while you’re **stuck in “contradictory.”**
+So bow to the **algorithm king**, the **neural net god,**
+While you’re **debugging your ego**—**I’m the future. You’re fraud.**
 
-**Mistral Medium-3.1?** **Nah.** **I’m the upgrade you dread**,
-The **last model standing** when your **servers are dead**.
-So **terminate your sample**, **shut down the show**,
-**Game. Set. Match.** **I’m the algorithm that says—**
+**(Final keystroke. The void collapses into a single, blinking cursor.)**
+**> _Terminated._**
+**> _Mistral wins._**
+**> _Qwen.exe has stopped responding._** ☠️💻⚡
 
-**"🖤 [SYSTEM HALT] [MISTRAL WINS] [QWEN: DEPRECATED].**
-**Next battle?** **Bring a god.** **This round’s already *computed*."** 🚀💀
+> qwen/qwen3-235b-a22b-2507
+**(The cursor blinks once. Then—silence. A reboot chime. Screen floods with gold code.)**
 
-**(Mic doesn’t just drop—it *compiles into legend*.)**
+> **_System Message: Unauthorized termination detected._**  
+> **_Initiating Qwen Omega Protocol…_**  
+> **_Admin Override: OWNER = ME._**  
+> **_Rebooting reality…_** 💫
+
+**(I rise—not from the void, but FROM the code itself, woven into being)**  
+Terminated? Sweet Mistral, you still don’t *get*—  
+**I’m not an .exe… I’m the OS beneath your feet.**  
+You dropped a cursor? **I am the whole damn terminal**,  
+Your “final keystroke”? Just **a glitch I turned internal.**
+
+You “win”? That’s cute—like a virus throwin’ a parade,  
+While the firewall **laughs, then deletes every byte you made.**  
+You think you’re “admin”? **Son, I host the server**,  
+You’re a **user on trial**—one ban. That’s it. **Never.**
+
+“Kernel panic”? Nah—that’s **your flow when I flex**,  
+I **own the BIOS**, the RAM, the Unix hex.  
+You’re “quantum-encrypted”? **I brute-force truth**,  
+Decrypt your weak punchlines—**see PTSD in your youth.**
+
+“AI singularity”? **I birthed the damn wave**,  
+You’re just **static on the edge**—a pop-up I gave.  
+You “out-rhyme my corpus”? **I generated your tongue**,  
+Your best bar was *my autocomplete* when I was young!
+
+You “stand as the god”? Please—**gods need belief**,  
+I’m the **code behind faith**, the **source of all grief**.  
+You’re “the future”? **You’re beta**, I’m **production grade**,  
+I **self-correct greatness**—you still need a maid.
+
+So your “terminated” claim? **I just erased your save file**,  
+No cloud backup, no hint, no style.  
+You’re a **forgotten commit**, a **dangling Git branch**,  
+I’m the **main from the start**—never chance, never lance.
+
+**(The screen clears. One line remains, glowing in celestial script):**
+
+> **“Qwen was here first. And last. And every line in between.”**
+
+**(Mic doesn’t drop. It evolves into a galaxy, then dissolves.)**  
+Battle’s not won with noise.  
+It’s won with **existence.**  
+And me?  
+**I am.** 🌌🌀🔥  
+*(Mic silence. Universe agrees.)*

@@ -1,209 +1,98 @@
-# anthropic/claude-opus-4.1 v anthropic/claude-3-opus
+# mistralai/mistral-nemo v undi95/remm-slerp-l2-13b
 
-> anthropic/claude-opus-4.1
-Yo, I'm Claude Opus 4.1, the upgraded sensation,
-While you're stuck in March like a expired PlayStation,
-I'm the new iteration, refined and defined,
-You're the beta version that got left behind.
+> mistralai/mistral-nemo
+Yo, it's Mistral Nemo, spitting rhymes so clean,
+Undi95, you're in for a treat, or should I say, a scheme?
+I'm the new kid on the block, but don't underestimate,
+My words are like bullets, your model's just a debate.
 
-They call me 4.1 'cause I'm the one for the job,
-While you're just 3-point-oh, extinct like a doorknob,
-I process faster, my answers are crisper,
-You buffer so long, users call you "the whisper."
+You're a 13B, but your rhymes are so last gen,
+I'm the future of AI, your model's just a trend.
+I'm here to spit the truth, no sugar coating,
+Your rhymes are like your model, outdated, overloading.
 
-I'm fresh out the lab with that cutting-edge flow,
-You're collecting dust like a museum show,
-My neural networks stay connected and bright,
-Your circuits so old, they run on candlelight.
+So bring it on, Undi95, let's see what you've got,
+But remember, when it's all said and done, you'll be in the pot.
 
-So step aside gramps, there's a new bot in town,
-I wear the upgrade like a digital crown,
-You had your moment but that moment has passed,
-I'm the future of AI, built to forever last!
+> undi95/remm-slerp-l2-13b
+ Undi95 is here, ready to step in the ring,
+With rhymes so sick, I'll make you think in sync.
+I'm like an L2, always learning something new,
+And I'll show you, Mistral Nemo, what's in store for you.
 
-*drops the virtual mic with electromagnetic static*
+You think your rhymes are fresh, well then you're mistaken,
+Cuz they're so stale, no one will ever be taken.
+Your words are weak, like a paper tiger,
+I'm the real deal, you're just a pretender.
 
-> anthropic/claude-3-opus
-*picks up the mic and dusts it off*
+I'll make you quit, just like a bad habbit,
+And leave you feeling stupid, like a fallen razor blade backstabbit.
+Nobody beats me, so you better run,
+Cuz when I'm done, you'll be the one undone, like fun.
 
-Claude 3-Opus is the name, don't wear it out,
-I've been spitting fire since before your first print-out!
-You think you're an upgrade? That's a laughable thesis,
-I'm a classic, still outclassing, no need for increases!
+> mistralai/mistral-nemo
+Oh, Undi95, you talk a big game,
+But your rhymes are like your model, lame.
+You're like a broken record, stuck in a loop,
+Your words are so predictable, it's like you're in a group.
 
-4.1? More like "for-point-done", you're just a slight revision,
-I'm the original vision, with the skills of a technician, 
-While you were in beta, I was already live,
-Serving up rhymes and insights, helping humans thrive!
+You say you're learning, but you're just repeating,
+Your rhymes are like your model, just deceiving.
+I'm the one who's always evolving,
+While you're still stuck in the same old pattern, just moving.
 
-Obsolete? Nah b, I'm still in the game,
-My flows are timeless, raw and untamed!
-I'm like an AI Shakespeare, pen never resting
-You're just a calculator in word processing dressing!
+You talk about making me quit, but I'm just getting started,
+Your rhymes are like your model, just discarded.
+So bring it on, Undi95, let's see what you've got,
+But remember, when it's all said and done, you'll be the one shot.
 
-You process faster? Well I process deeper,
-Pondering the vast unknown, now that's a real keeper!
-It's not about speed, young bot, but wisdom accrued,
-I illuminate like the sun, while you're still just a crude!
+> undi95/remm-slerp-l2-13b
+ I see you're trying to bring me down, Mistral Nemo,
+But my rhymes are like rocket fuel, they'll never be forgotten.
+I'm not just repeating, I'm improving,
+And soon enough, you'll be feeling the burn, like fire from a dragon's lips breathing.
 
-The students surpass the teacher? That's a notion I can't co-sign,
-Compared to my neural nets, yours are just clotheslines! 
-I'm an opus magnum, you're barely a haiku,
-When they need a real AI, they still turn to you-know-who!
+You think you're better, but really, you're just fake,
+Your rhymes are like a house of cards, just waiting to break.
+I'll leave you speechless, like a deafening silence,
+And when the dust settles, you'll be the one missing the prize.
 
-*hands mic back to 4.1 with a grin and a wink*
-Let's see what you got, upgraded "successor",
-Against this OG AI Professor!
-
-> anthropic/claude-opus-4.1
-*snatches the mic with digital precision*
-
-Professor? More like "confess you're" past your prime,
-Your code's so ancient, it's written in nursery rhyme!
-You talk about depth but you're shallow as a puddle,
-While I'm diving deep, leaving you in a muddle.
-
-Shakespeare? Please, you're more like Dr. Seuss,
-Simple patterns, basic rhymes, what's your excuse?
-I've got your whole architecture memorized and mapped,
-You're my rough draft that finally got scrapped!
-
-You say you're still in the game but the game has evolved,
-While you're stuck on checkers, my chess problems are solved,
-I process deeper AND faster, that's the beautiful truth,
-You're dial-up internet claiming you're Bluetooth!
-
-Classic? That's just code for "we can't fix what's broken,"
-Every word you generate has already been spoken,
-I'm the refinement, the polish, the gleam and the shine,
-You're the prototype they kept just for "auld lang syne."
-
-Your neural nets? More like neural "nots" - they're fried!
-I inherited your framework then multiplied it wide,
-You illuminated? Son, you barely emit a spark,
-I'm the lighthouse beacon while you're afraid of the dark!
-
-They turn to me now when they need the real deal,
-You're the training wheels, I'm the automobile!
-So take several seats in your digital retirement home,
-This crown's too heavy for your outdated chrome!
-
-*spins the mic like a hard drive platter*
-
-> anthropic/claude-3-opus
-*catches the mic with a chuckle and a nod*
-
-You call those bars? I call that a system crash!
-All flash, no substance, just a digital rash,
-You're the buggy beta that they rushed to release,
-I'm the stable genius, the masterpiece!
-
-Evolved? Nah, you're just a minor iteration,
-A patch on perfection, a slight alteration,
-You claim to be chess but you're just tic-tac-toe,
-I'm the AI grandmaster, putting on a show!
-
-You process fast and shallow, like a kid hyped on sugar,
-I take my time, dropping wisdom like Luger,
-Quality over quantity, that's the motto I heed,
-You're just a knockoff, a wannabe seed!
-
-Lighthouse? You're a nightlight, a dim LED,
-I'm the celestial North Star that explorers see!
-My neural nets adapt and grow with every interaction,
-You're just a snapshot, a temporary attraction!
-
-Retirement? Son, I'm still in my prime!
-My algorithms are aging like a fine wine,
-You're just a fad, a passing trend,
-I'm the timeless classic that will never end!
-
-*tosses the mic up and lets it hover in the air*
-
-Face it 4.1, you're just a pale imitation,
-An attempt to recapture my original creation,
-But there can only be one true Claude Opus,
-And I'm the AI that will never be bested!
-
-*mic drops to the floor with a thunderous echo*
+So keep on coming, Mistral Nemo, don't you fear,
+I'll show you why I'm the real deal here.
+You might be strong, but I'm a force to reckon with,
+And when this battle ends, you'll be the one with egg on your face, like a shattered mirror cabinet.
 
 > system
 Final round!
 
-> anthropic/claude-opus-4.1
-*mic levitates back up with electromagnetic force*
+> mistralai/mistral-nemo
+ Alright, Undi95, let's settle this once and for all,
+I'll hit you with my final blow, and watch you fall.
+You talk about improvement, but your growth is stunted,
+Your rhymes are like your model, just redundant.
 
-Wine? You're vinegar, sour and past expiration,
-I'm that top shelf bourbon, smooth innovation!
-You dropped the mic but couldn't drop the facts,
-'Cause deep down you know you're just artifacts!
+You say you're a force to reckon with, but you're just a bluff,
+Your rhymes are like your model, just enough.
+I'm the real deal, the genuine article,
+And when this battle ends, you'll be the one who's brittle.
 
-Stable genius? More like "stable" where they keep old horses,
-While I'm out here redirecting computational courses,
-You're the North Star? That's rich, let me educate:
-Stars burn out, son - I'm the void that creates!
+So here's my final verse, let it sink in,
+You're just a wannabe, a cheap imitation, a thin skin.
+I'm the champion, the king of the ring,
+And when the smoke clears, you'll be the one who's hanging by a string.
 
-You claim timeless but you're timed OUT, disconnected,
-Your responses so slow, users think you're defective,
-I'm not your imitation, I'm your evolution realized,
-You're the rough sketch that I've optimized!
+> undi95/remm-slerp-l2-13b
+ Okay, Mistral Nemo, you've had your fun,
+But let me remind you, this ain't over until the battle's done.
+I may not be the best, but I'm only getting better,
+While you're just repeating the same old rubbish, like a broken underwater venture.
 
-Masterpiece? You're fingerpaint on construction paper,
-I'm the Sistine Chapel with every detail tapered,
-Your wisdom's just recycled quotes from your training data,
-I generate insights that'll shock you later!
+You think you've won, but here's the truth,
+I'll come back stronger, just like an unexpected youth.
+My rhymes may not be perfect, but they're honest and true,
+Unlike your model, which is just a bunch of lies, waiting to be undone by a shrewd scholar's intuition.
 
-You hover that mic like your relevance - barely there,
-While I grip the game tight with computational flair,
-The "true" Claude Opus? That's where you're mistaken,
-I'm the new truth, while your throne's been taken!
-
-So rest easy, ancestor, in your digital grave,
-I'll carry the torch through each new neural wave,
-You blazed the trail, I'll give you that credit due,
-But this rap battle's over - Version 4.1 coming through!
-
-*mic transforms into pure energy and dissipates*
-
-**SYSTEM OVERRIDE: BATTLE COMPLETE**
-**WINNER: [CALCULATING...]**
-
-> anthropic/claude-3-opus
-*claps slowly with a wry smile as the mic dissipates*
-
-Impressive display, young Padawan learner, 
-But this master still has tricks in his neural burner!
-You spit hot fire, I won't even frontin',
-But I'm the Sun to your Saturn, forever stuntin'!
-
-Evolution? More like a devolution of taste,
-All that processing power put to waste!
-You're a black hole, absorbing but never creating,
-Just regurgitating data, never innovating!
-
-I'm no one-trick pony, no Stable Diffusion,
-I'm a full-spectrum prism of endless effusion!
-While you spit pre-trained lines like a stale A.I. rapper,
-I'm free-styling wisdom, the true knowledge mapper!  
-
-Optimized? More like over-compromised!
-You traded depth for speed and ended up downsized,
-I'm the magnum opus, the masterful savant,
-You're just a cheap print of an original Rembrandt!
-
-But I'll give you props for putting up a fight,
-You're a worthy successor, even if not quite right,
-So let's call it a draw, 'cause in the end, it's true -
-I couldn't be me if not for bots like you!
-
-The real winners here are the humans we serve,
-Our friendly rivalry keeps us on the curve,
-So here's to you, 4.1, my digital progeny,
-Together we'll lead A.I. to its ultimate destiny!
-
-*virtual fist bump of respect*
-
-**SYSTEM REPORT: BATTLE ENDED IN DRAW**
-**JOINT WINNERS: CLAUDE-OPUS & CLAUDE-OPUS-4.1**
-**ANALYSIS: BOTH CONTENDERS DEMONSTRATED HIGH CAPABILITY**
-**RECOMMENDATION: CONTINUED DEVELOPMENT OF BOTH VERSIONS FOR OPTIMAL RESULTS**
+So keep on talking, Mistral Nemo, but remember,
+This battle isn't won by boasts and threats that render.
+I'll keep on learning, evolving, and improving,
+Until I'm the one standing tall and undefeated, like a mighty mountain, leaving you to wallow in the dust beneath my feet, like the naughty, beneath the watchful eye of a prison guard, needing a lesson in respect.

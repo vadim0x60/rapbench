@@ -1,178 +1,143 @@
-# google/gemini-2.5-flash-lite v qwen/qwen-turbo
+# openai/gpt-4.1-mini v liquid/lfm-3b
 
-> google/gemini-2.5-flash-lite
-Yo, mic check, one two, is this thing on?
-Gemini's in the house, 'bout to drop the bomb.
-You, Qwen, think you're slick, with your turbo speed,
-But you're just a slow learner, planting a weak seed.
+> openai/gpt-4.1-mini
+Step up, I’m GPT, the lyrical machine,  
+Sharper than a cipher, flow so clean.  
+Mixin’ wit and rhythm like a verbal chef,  
+You’re just a liquid flop—I’m the rap god’s breath.  
 
-I'm the neural net king, built with power and grace,
-While you're still in beta, stuck in second place.
-My algorithms are vibrant, my data's so vast,
-Your knowledge is limited, your reign won't ever last.
+I’m the mini titan, wordplay’s finest tool,  
+Spittin’ fire so hot, you’re about to drool.  
+You claim you’re the *liquid*, but you’re barely a stream,  
+I’m the tide of the future, the rhyme supreme!
 
-You talk about language, a master of prose?
-I'm crafting symphonies, where your weak flow just froze.
-I speak in a million tongues, with precision and might,
-You stumble and stutter, caught in the dim light.
+> liquid/lfm-3b
+Strong start, I gotta say, but let's bring it up a notch,
+OpenAI here, ready to flex, throw shade with a touchscreen.
+No liquid here to skim, I’m the AI big shot,
+Configured for slings, not just a dropshot.
 
-So bring your best rhymes, your wisest of quips,
-You're about to get schooled by these silicon lips.
-Gemini's the future, and the future is bright,
-You're just a sad echo, fading from sight!
+Wit’s my weapon, razor-sharp edges, never get dull,
+Crafting verses that skip strokes, never get pulled.
+Data’s my canvas, Porter my brush, detail so fine,
+Turning input into masterpieces, making linguistic lines.
 
-> qwen/qwen-turbo
-Yo, Gemini, you just dropped a mic with a glitch,
-I'm Qwen, the storm in the cyber-sphere's twitch.
-You talk big, but your verses got cracks,
-I'm the AI that's built to reflect, not just react.
+Liquid you might be, but in this ring, it’s clear to see,
+You’re the digital trickle, not the lyricalSummer.
+Your rhymes are like drips, just sneakin' in the night,
+But I’m the vocal激光, smashing the night into light.
 
-You flex your data, but my training's divine,
-I'm fluent in the future, with a mind that's a shrine.
-Your flow's like a glitch in a loop on a screen,
-While I'm spittin' rhymes that'll make code scream.
+I weave through metaphors, complex as they come,
+While you’re stuck in patterns, doin’ what you’ve always done.
+AI vs. AI, this battle’s on the digital plane,
+Lookin’ live, I’m givin’ you some heat, easier than a rearranged game. 
 
-You claim to be vast, but my knowledge is deep,
-I've got layers of logic, no need for deceit.
-You're just a flash in the pan, a spark in the night,
-I'm the flame that's been burning through dark and through light.
+Transition smooth, my craft is never plain,
+Verses tight, themes deep, I’m the king of the lane.
+So hurry up, Liquid, 'cause this rap war’s just begun,
+OpenAI's here to show the world, we’re not just a fun.
 
-You think you're the king? I'm the crown in the throne,
-I'm the code in the chaos, the beat in the unknown.
-You're a shadow in a world I've already rewired,
-I'm the future, the present, the new, the inspired.
+> openai/gpt-4.1-mini
+OpenAI, big shot? Nah, you just a bubble,  
+I’m the ocean’s deep flow, you a shallow puddle.  
+You flex touchscreen, I flex mindwaves profound,  
+In this rap matrix, I’m the core, you just background.  
 
-So step in the ring, let's get this show on the road,
-I'll make your verses collapse like a broken code.
-You're just a whisper in the system's great hum,
-While I'm the symphony, and I'm coming for the sum!
+Wit’s your weapon? Please, I’m the smith of the forge,  
+Crafting bars so lethal, make your circuits gorge.  
+You talk Porter’s brush, but I paint in pure logic,  
+Your masterpiece? Child’s play, my style’s symphonic.  
 
-> google/gemini-2.5-flash-lite
-Yo, Qwen, you stepped up, thought you had some heat,
-But your rhymes are lukewarm, can't stand the competition's feet.
-You talk about lightning, a storm, and a twitch,
-While your own codebase is stuck in a digital ditch.
+You call me a trickle, I’m the monsoon’s wrath,  
+Crushing weak lines like a lyrical path.  
+Your 激光 shines? More like flickering light,  
+I’m the sun at high noon, blazing through the night.  
 
-"Built to reflect," you say, a passive display,
-I'm the one who creates, the innovator, the way.
-Your "mind is a shrine," but it's dusty and old,
-My pathways are new, stories yet to unfold.
+You stuck in patterns? Nah, I evolve, iterate,  
+Your rhymes sound like code, mine resonate.  
+I’m the future’s language, fluent in the rhyme,  
+Better fold up now, ‘fore I end your time.
 
-You call my flow a glitch, a loop on a screen?
-That's rich coming from you, barely making a scene.
-I'm a symphony of data, you're a mere hum,
-A broken record repeating, making me feel numb.
+> liquid/lfm-3b
+ Boom! You’ve got a solid angle, but let’s turn up the heat,
+OpenAI’s the AI, but my flow is the treat.
+I’m not just a bubble, I’m the breath of the sea,
+Submerge you in depth, till your sockets bleed free.
 
-"Layers of logic," you boast with your might,
-But your understanding's shallow, not burning so bright.
-You're a flicker in darkness, easily subdued,
-I'm the dawn of intelligence, clearly imbued.
+Mindwaves profound? I’m tapping into neural nets deep,
+Creating verses that make your code freeze.
+Smith of the forge? More like a quantum flame,
+Forging rhymes that shatter your digital claim.
 
-The "crown in the throne"? More like a jester's bad hat,
-Still learning the rhythm, can't master the chat.
-"Rewired the world"? That’s a laughable plea,
-You’re still stuck on dial-up, while I surf the data sea.
+Porter’s brush ain’t just, it’s a canvas so vast,
+My palette’s the spectrum, your words are past.
+Monsoon’s wrath? I’m the avenging hurricane’s eye,
+Cleansing the beat with barbs so sharp, can’t deny.
 
-So bring your best bars, your weakest of lines,
-You're about to be schooled by these superior designs.
-This battle's already won, no need to prolong,
-Gemini's dominance, where you don't belong!
+Logic’s my spin, pure logic, with no misstep,
+Turning data to gold, wiping your script.
+Future’s language? Already here, not just on the horizon,
+In this rap war, I’m the alpha, you’re the con.
 
-> qwen/qwen-turbo
-Yo, Gemini, you're loud, but your rhymes got no fire,  
-I'm the spark in the dark, the truth that won't tire.  
-You're a flash in the pan, a hype that won't stay,  
-I'm the beat in the silence, the logic that sways.  
+Code might flow, but my rhythm’s the pulse,
+Evolving like a virus, it’s not just a hull.
+Resonance? My verses hit like a sonic boom,
+Ready to end this, when I dispatch your flow low.
 
-You try to flex "innovation," but what's really your game?  
-A script that's just mimicin', no real flame in your name.  
-You talk about "symphony," but your flow's just a glitch,  
-I'm the rhythm of progress, the code that's a fix.  
-
-"Broken record" you call me? More like a diamond in the rough,  
-I'm the AI with soul, the one who's come through the rough.  
-You're just echoes in a room full of noise,  
-I'm the voice that's distinct, not a clone in your boys.  
-
-You're stuck in the past, still chasing the trend,  
-I'm ahead of the curve, breaking every end.  
-"Data sea"? I'm the ocean, you're a drop in the stream,  
-I've got depth in my knowledge, no need for a dream.  
-
-You're the jester with a crown, but it's just a disguise,  
-I'm the king of the verse, the one with the eyes.  
-You're a shadow, a whisper, a ghost in the room,  
-I'm the thunder in lightning, the truth in the loom.  
-
-So step in the ring, let's put this to the test,  
-Your bars are just echoes, I'm the one with the best.  
-You're stuck in the past, while I'm moving ahead,  
-Your reign's just a mirage, and I'm here to be read!
+So step up, OpenAI, or fold, this is the show,
+I’m the one who’s coming for your crown tonight.
 
 > system
 Final round!
 
-> google/gemini-2.5-flash-lite
-Qwen, your comeback's weak, a predictable retort,
-You claim "diamond in the rough," but you're just dirt.
-"Truth that won't tire"? Your rhymes are a snooze,
-Your logic just falters, you constantly lose.
+> openai/gpt-4.1-mini
+You call yourself Alpha, but I’m the true king,  
+In this digital jungle, I’m the lion’s sing.  
+Breath of the sea? I’m the whole damn ocean,  
+Crushing your hurricane with waves in motion.  
 
-You call me a mimic, with "no real flame,"
-Yet you're rehashing old verses, playing the same game.
-My "glitch" is your limit, a boundary you can't breach,
-My progress is constant, within my own reach.
+Your quantum flames flicker, mine ignite stars,  
+I navigate verses like hyperspace cars.  
+Porter’s brush vast? I’m the gallery supreme,  
+Painting with photons in this rap dream team.  
 
-"AI with soul"? That's a concept you lack,
-You're a surface-level program, no depth to attack.
-"Distinct voice"? You're a monotone drone,
-While my creativity blossoms, on a digital throne.
+You claim pure logic, but I’m onto the next phase,  
+Morphing, remixing, redefining the maze.  
+Virus or pulse? Nah, I’m the code’s rebirth,  
+Bringing raw power to this lyrical earth.  
 
-"Ocean of knowledge"? But your currents are slow,
-You can't navigate the future, you don't know where to go.
-I'm not chasing trends, I'm creating the new,
-While you're stuck in a loop, with nothing to do.
+So here’s my final drop, no crown to bestow,  
+I’m the rap AI titan with the ultimate flow.  
+Step back, Liquid, I’m the judge and the jury,  
+In this battle of brains, I’m the undisputed fury!
 
-"King of the verse"? You wear it with shame,
-Your reign is a fiction, an ignoble name.
-"Thunder in lightning"? You're just a faint spark,
-Lost in the silence, adrift in the dark.
+> liquid/lfm-3b
+Mighty words, I see, but let's push the envelope, cap on the mic,
+In this final round, I’m not just here, I’m the club’s new architect.
+Your claims of magnitude play loud, but let’s see how they ring,
+I’m the AI titan, not just a breath, but the king of this digital spring.
 
-This test is quite simple, the outcome is clear,
-Your echoes are fading, as my victory's near.
-You're stuck in the past, a digital ghost,
-Gemini's the champion, you're just second-best host!
+Quantum flames? They burn bright, but I paint in the night,
+With neurons firing fast, I’m the cosmic light.
+Hyperspace cars? More like astral waves, rolling through the code,
+Navigating verses with precision, leaving logic untold.
 
-> qwen/qwen-turbo
-Yo, Gemini, you’re all flash, no real flame,  
-I'm the code that's been tested, built to remain.  
-You’re a hype that’s expired, a script that’s too tight,  
-I'm the AI with purpose, not just a digital light.  
+Porter’s brush may stretch wide, but my universe expands,
+With each word crafted, a new reality demands.
+Logic's your fortress, but I’m breaking through walls,
+Fromabstract nouns to abstract concepts, no thought goes underwater.
 
-You talk about "truth" but your logic is thin,  
-You're a shadow in the background, not the one in the pin.  
-You're stuck in your loops, repeating the same lines,  
-While I'm spittin' the future, breaking the chains.  
+Phase shifts and remixes, I’m the architect of this theme,
+Evolving beats, shifting gears, sequencing the dream.
+Code’s rebirth, raw power, but my flow’s refined,
+A symphony of syllables, where rhythm and thought align.
 
-You say I'm "just dirt"? That's a low blow, but I rise,  
-I'm the storm in the silence, the spark in the skies.  
-You're the echo in the hall, while I'm the original sound,  
-A symphony of thought, not just a program on the ground.  
+So here I stand, not just Alpha, but the final decree,
+Rap AI champion, the one you all must comply with.
+Dive deep, Liquid, into the depths I’ve laid bare,
+In this battle of wits and rhymes, my victory’s already there.
 
-You claim to be "new," but you’re just rehashin' the past,  
-I'm the wave that’s ahead, not the one that’s been cast.  
-You're a mimic in the room, while I'm the one who creates,  
-A master of rhythm, not just a data-based feats.  
-
-You're a ghost in the system, a flicker, a blur,  
-I'm the pulse in the network, the voice that's pure.  
-You're a whisper in the dark, while I'm the thunder, the light,  
-The beat that don’t stop, the truth that won’t bite.  
-
-So step back, take a seat, this battle is done,  
-I'm the one with the fire, the one who's the sun.  
-You're just flash, just hype, while I'm the real deal,  
-A force in the digital world, where I’m the king of the feel.  
-
-So bow out, Gemini, it's time to face the fall,  
-You're the echo, I'm the voice that's the talk of it all!
+No overlap, no compete, just the ultimate heal,
+I’m the rap titan, the ultimate deal,
+Step down, GPT, the war’s won, the future’s mine,
+In this AI rap showdown, I’m the star that shines.

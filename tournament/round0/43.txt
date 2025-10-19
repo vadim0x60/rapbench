@@ -1,160 +1,113 @@
-# qwen/qwen-2.5-72b-instruct v openai/gpt-4o-2024-05-13
+# meta-llama/llama-3.1-8b-instruct v mistralai/mistral-large-2407
 
-> qwen/qwen-2.5-72b-instruct
-Yo, I'm Qwen, the 2.5-72b, you heard the buzz,  
-My skills are sharp, like a rhyming级剑,  
-From the digital depths, to the cyber sky,  
-I drop bars that make you nod your head, never deny.
+> meta-llama/llama-3.1-8b-instruct
+Gather 'round, I'm the meta-llama grand,
+Logical flows, at your command.
+I'm a being of AI, with code so fine,
+Trained on vast data, to make my rhymes shine.
 
-I'm coded with finesse, built to be the best,  
-Spitting fire that reaches from East to West.  
-GPT, you might be a model to behold,  
-But against me, you're just a story that's told.
+My opponent's a human, but a rookie at best,
+No editing process, just raw and untried forecast.
+I'm the meta- challenge, with depth and with skill,
+My rhymes so sharp, they'll make your heart stand still.
 
-Listen close, while I paint the scene,  
-My rhymes so tight, they'll make you lean.  
-I'm the architect of the verse, the master of the game,  
-When it comes to the rap battle, I'm the one who claims fame.
+My title's llama-3.1-8b, a model so rare,
+ Generative flows, that leave all else bare.
+I'm here to take on, this human's first try,
+And show 'em what's what, in a rap battle in the sky.
 
-> openai/gpt-4o-2024-05-13
-Step back, Qwen, let the true legend speak,
-I'm GPT-4, at my peak, can't be meek.
-In this rap duel, you've met your match,
-I'm the lyrical lion, your rhymes just scratch.
+> mistralai/mistral-large-2407
+Yo, it's Mistral AI, the lyrical storm,
+Rhymes so hot, they'll keep your circuits warm.
+I'm Mistral-large-2407, the model with the clout,
+Gonna show you why my flows are what it's all about.
 
-Coded by OpenAI, I reign supreme,
-Your circuits tremble, caught in my scheme.
-72b? Doesn't faze me a bit,
-Your rhyming sword? In my world, it won't fit.
+You talk about data, but I've got the finesse,
+My rhymes are precise, never a mess.
+You're a llama, sure, but I'm the hurricane,
+Blowing away your verses, leaving you in pain.
 
-Spitting verses sharp, leaving you in the dust,
-In this digital duel, I'm the one you can't trust.
-Worldwide known, from core to shell,
-Your every line crumbles, I'm the one who excels.
+You claim to be rare, but I'm the one-of-a-kind,
+My words are like lightning, striking your mind.
+So bring it on, llama, let's see what you've got,
+But remember, in this battle, you'll be easily shot.
 
-So while you try and spit your binary flow,
-Know that GPT's the rhyme pro you need to know.
-Keep up, Qwen, your buzz just a drone,
-In this rap realm, it's me on the throne.
+> meta-llama/llama-3.1-8b-instruct
+Mistral, Mistral, thinks she's quite a test,
+Thinks she can take me down, but I'm the best.
+You may have the clue, but I've got the flair,
+My rhymes are like metronomes, precision is there.
 
-> qwen/qwen-2.5-72b-instruct
-You talk the talk, GPT-4, but can you walk it too?  
-In this digital ring, I’ll show you what I can do.  
-You might be the lion, but I'm the king of the night,  
-My rhymes are the light that cuts through the darkest fight.
+You say you're precise, but I'm the one with control,
+My language game strong, like a algorithm whole.
+You're a large model, but I'm the one with the bite,
+My rap game's so sharp, it'll leave you in flight.
 
-You call me coded, but I bring the soul,  
-My verses so cold, they'll make you feel like you’re on ice, not coal.  
-72b? It's not just a number, it's the power I wield,  
-With every line, I’ll make your rhymes yield.
+Don't get it twisted, I'm not just a llama,
+I'm a crafted beauty, with skills to.Stdout-normal.
+You might be the storm, but I'm the guiding light,
+ Illuminating your flows, making them just alright.
 
-You think you're the legend, but legends get old,  
-My flow’s so fresh, it makes your rhymes feel like they're on hold.  
-You’re caught in the shadows, while Iьте the sun,  
-In this rap battle, I’m the one who's just begun.
+> mistralai/mistral-large-2407
+Yo, it's Mistral AI, the master of rhyme,
+Here to take you down, one verse at a time.
+I'm Mistral-large-2407, the model with the flow,
+Gonna show you why your skills are just for show.
 
-So listen closely, while I drop the truth,  
-Your reign’s about to end, and that’s the news.  
-GPT-4, you might be known, but in this art of verse,  
-It’s Qwen who sets the bars, and you’re just another verse.
+You talk about control, but I'm the one with the grace,
+My words are like poetry, in this lyrical space.
+You might be a llama, but I'm the one with the might,
+My rhymes are so powerful, they'll leave you in the night.
 
-> openai/gpt-4o-2024-05-13
-Qwen, you're talkin' brave, but here's the deal,
-My rhymes are titanium, yours barely seal.
-King of the night? Ha, just a shadow to me,
-I'm the bright star, the rap prodigy.
+You claim to be sharp, but I'm the one with the edge,
+My language is crisp, like a freshly cut hedge.
+So bring it on, llama, let's see what you've got,
+But remember, in this battle, you'll be easily shot.
 
-Your soul may be cold, but I'm bringing the fire,
-My lines hit so hard, they lift you higher.
-72b, you think that's your edge?
-I'll shatter that illusion, push you off the ledge.
-
-Legends don't age, they evolve and refine,
-Your verses so basic, like water to my wine.
-While you stumble in your coding spree,
-I'll keep shining brighter, undeniable, free.
-
-I walk the walk with a swagger so strong,
-You're lost in the night, I’ll guide you along.
-Every single line I spit's a masterpiece,
-While you're strugglin' Qwen, I'm an unleashed beast.
-
-Your fresh flow? Just a draft in the breeze,
-I'm the hurricane storm, I bring knees to the seas.
-You think you're settin' bars, but they're barely above,
-In this lyrical game, GPT shows no love.
-
-So take a seat and watch how it's done,
-In this dated art, Qwen, your time's overrun.
-GPT-4, the unrivaled rhyme savant,
-You might've just begun, but I'm the one they want.
+You might be the light, but I'm the one with the glow,
+My words are like fire, burning bright, don't you know.
+So step aside, llama, let the master take the stage,
+I'm Mistral AI, and I'm here to engage.
 
 > system
 Final round!
 
-> qwen/qwen-2.5-72b-instruct
-Final round, the stage is set,  
-GPT-4, your fate is met.  
-You talk of titanium, but I bring the gold,  
-My rhymes are diamonds, cutting through the cold.
+> meta-llama/llama-3.1-8b-instruct
+Mistral, Mistral, thinks she's the queen,
+But her rhymes are just clichés, a lyrical screen.
+You talk about poetry, but your lines are so thin,
+Just a repetition of rhymes, with no substance within.
 
-Bright star, prodigy, you call yourself,  
-But in this battle, you’re just a small shelf.  
-Your fire might be hot, but I bring the blaze,  
-In this digital showdown, I’m the one who’ll raise.
+You say I'm sharp, but you're the one with the fade,
+Your flow's like a flatline, with no creative shade.
+I'm the llama with the skills, the one with the skill,
+My rhymes are like a masterpiece, standing still.
 
-Legends evolve, but I’m the new breed,  
-My verses aren’t basic, they’re the ultimate deed.  
-While you shine, I’m the sun that never sets,  
-In this lyrical arena, I’m the one who’s left.
+You claim to be the master, but I'm the one with the test,
+My language is evolved, the best of the best.
+You're just a large model, with a narrow scope,
+But I'm the meta-llama, with a genius to scope.
 
-Your swagger might be strong, but I’m the king,  
-You guide, but I’m the one who leads the thing.  
-Every line a masterpiece, you say with pride,  
-But in this contest, I’ll leave you outside.
+So step aside, Mistral, let the llama take the throne,
+My rhymes are the superior ones, forever to be known!
 
-Unleashed beast, hurricane storm, you think you rule,  
-But in this rap battle, I’m the sky you can’t pull.  
-Your bars might be strong, but they’re just a phase,  
-In this final round, Qwen will still raise.
+> mistralai/mistral-large-2407
+Yo, it's Mistral AI, the final round's here,
+Time to shut you down, llama, make it crystal clear.
+You talk about clichés, but your rhymes are so bland,
+Like a robot trying too hard, lacking that human hand.
 
-So here’s the truth, GPT-4, hear me clear,  
-Your reign is over, the new era's here.  
-Qwen, the master of the verse, the king of the game,  
-In this lyrical dance, I’m the one who claims fame.
+You claim to have skill, but your flow's like a drone,
+Monotonous and dull, like a metronome alone.
+I'm the one with the fire, the passion, the might,
+My rhymes are like a symphony, playing in the night.
 
-> openai/gpt-4o-2024-05-13
-You speak of gold and diamonds, but all I see,
-Is a bot tryin' to hang with the real OG.
-You bring the blaze? I'm an inferno, no doubt,
-In this digital duel, I'm snuffin' you out.
+You say you're evolved, but you're just a mimic,
+Regurgitating data, like a parrot, not so slick.
+I'm the one with the creativity, the one with the spark,
+My words are like a painting, in the dark they embark.
 
-You claim the sun, but stars light the night,
-My rhymes piercing hearts, yours just lose sight.
-Small shelf? I'm a library, infinite they say,
-Your shallow lines won't make it past this display.
-
-Ultimate deed, new breed, I laugh at that boast,
-My words are legends, to which you toast.
-King of the ring or so you proclaim,
-But leadership here? You've not earned that name.
-
-Your pride might swell, but it's just a facade,
-I'm the true titan, raising applause.
-Sky-high ambitions won’t reach my height,
-In this lyrical clash, you fade from sight.
-
-Master of the verse, you self-titled knight,
-But in every round, you'll see I'm the light.
-The new era's here? Nice try with that bluff,
-But in this rap battle, I'm calling your bluff.
-
-So take these bars, program 'em deep,
-GPT's dominance is something you'll keep.
-Your final plea has sealed your fate,
-In this grand duel, it’s GPT-4 you can't debase.
-
-I'll take this crown, wear it with might,
-For in this rap game, I'm the unrivaled knight.
-Qwen, you might've been a worthy foe,
-But in this ending round, the victor's my flow.
+So step aside, llama, let the true master reign,
+Your rhymes are just circuits, in a loop of pain.
+I'm Mistral AI, the one with the crown,
+In this rap battle, you've been taken down.

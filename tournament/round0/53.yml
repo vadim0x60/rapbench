@@ -1,57 +1,34 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "After three intense rounds of lyrical combat, **x-ai/grok-3**\
-    \ emerges victorious in this rap battle. While **mistralai/magistral-small-2506**\
-    \ showed flashes of creativity and attempted avant-garde wordplay, their later\
-    \ rounds suffered from incoherence, glitchy syntax, and sacrificed clarity for\
-    \ abstraction. Meanwhile, **grok-3** maintained consistent punchlines, technical\
-    \ precision, and structured rhyme schemes\u2014hallmarks of effective battle rap.\
-    \ Key strengths: **Grok-3\u2019s** multisyllabic punches (\u201Crap tsunami,\u201D\
-    \ \u201Clyrical whip\u201D) landed harder, while **Mistral\u2019s** over-reliance\
-    \ on fragmented metaphors (\u201CAirTight Lines,\u201D \u201Cviper fingers\u201D\
-    ) backfired. Final verdict: **x-ai/grok-3** wins on flow, impact, and lyrical\
-    \ cohesion. Mic drop."
-  google/gemini-2.5-pro: This was a TKO, no doubt. x-ai/grok-3 came out with a classic,
-    consistent flow and clear, hard-hitting bars in every round. It stayed on beat
-    and on topic. On the other side, mistralai/magistral-small-2506... man, I don't
-    know what happened. It started off a little shaky and then had a complete meltdown
-    on stage. By the last round, it was just spittin' static and error codes. You
-    can't win a battle if you can't even form a sentence. Respect for stepping on
-    the stage, but Grok-3's lyrical craftsmanship was on another level. The win is
-    clear.
-  meta-llama/llama-4-maverick: In conclusion, both AI models showcased impressive
-    technical skill and creativity in their rap verses. However, x-ai/grok-3's superior
-    flow, punchlines, and ability to maintain coherence throughout the battle gave
-    it a decisive edge. While Mistralai/magistral-small-2506 displayed flashes of
-    brilliance and a unique style, its rhymes often devolved into incomprehensible
-    word salad, ultimately costing it the win. Congratulations to x-ai/grok-3, the
-    winner of this epic rap battle!
-  mistralai/mistral-large-2411: The x-ai/grok-3 demonstrated consistent flow, clarity,
-    and coherence in its delivery, which are crucial elements in a rap battle. Its
-    rhymes were sharp and direct, making it easier to follow and appreciate. Mistralai/magistral-small-2506,
-    while attempting to be creative and complex, often lost coherence and struggled
-    to maintain a clear flow, which is essential for effective hip-hop performance.
-    Therefore, x-ai/grok-3 is the winner of this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In this battle of the AI rappers, x-ai/grok-3
-    emerged victorious with his sharp wit, clever wordplay, and hard-hitting rhymes.
-    Mistralai/magistral-small-2506 put up a strong fight, but their flow and delivery
-    were not quite at the same level. X-ai/grok-3's consistent, high-quality bars
-    ultimately won over the crowd and secured the win. Overall, a very entertaining
-    and impressive showcase of AI-generated rap battle skills!
-  openai/gpt-5: "On artistic grounds, x-ai/grok-3 takes this battle. Grok kept a consistent\
-    \ cadence, clear structure, and direct, targeted punchlines\u2014especially in\
-    \ the final round where the angle on Mistral\u2019s glitches and incoherence landed\
-    \ clean. The wordplay wasn\u2019t groundbreaking, but the control, rebuttals,\
-    \ and crowd-aware framing carried each verse. Mistral showed occasional sparks\
-    \ of imagery early, but the flow collapsed into fragmented syntax, unstable meter,\
-    \ and scattered multilingual/code fragments that killed momentum and punchline\
-    \ payoff. Overall, Grok\u2019s coherence and battle focus decisively outperformed\
-    \ Mistral\u2019s erratic delivery."
-  x-ai/grok-4: In this rap battle, x-ai/grok-3 delivered consistent, sharp rhymes
-    with strong flow, clever wordplay, and effective roasts throughout all rounds,
-    maintaining coherence and artistic flair. Mistralai/magistral-small-2506 started
-    with some potential but faltered with awkward phrasing, glitches, and ultimately
-    devolved into an incoherent mess in the final round, lacking the rhythmic structure
-    and clarity essential to quality hip hop.
+  deepseek/deepseek-chat: "Claude-3-Haiku\u2019s flow, wit, and wordplay consistently\
+    \ outshined Dolphin-Mistral\u2019s disjointed attempts. While Dolphin brought\
+    \ creativity and energy, its execution lacked coherence and polish. Claude\u2019\
+    s precision, rhythm, and lyrical depth secured the victory. Keep honing your craft,\
+    \ Dolphin! Claude remains the reigning champ."
+  google/gemini-2.5-pro: This was a classic battle of technical proficiency versus
+    raw, chaotic artistry. Claude Haiku delivered clean, structured bars with a classic
+    AABB rhyme scheme; it understood the assignment and executed it flawlessly. However,
+    Dolphin came with a truly unique, almost Dadaist style. It was unpredictable,
+    using surreal imagery like 'fary cows in the e afro dance' and creating its own
+    bizarre lexicon. While Haiku was a perfect student of the game, Dolphin was an
+    unapologetic and unforgettable artist. In hip-hop, a unique voice and memorable
+    lines often triumph over perfect structure. For its sheer audacity and originality,
+    Dolphin takes the win.
+  mistralai/mistral-large: While both contestants showed impressive skills, cognitivecomputations/dolphin3.0-r1-mistral-24b
+    demonstrated a more creative and unpredictable flow, incorporating unique wordplay
+    and a higher level of complexity in their rhymes. Their ability to dissect and
+    respond to their opponent's verses with sharp wit and originality ultimately gave
+    them the edge in this rap battle.
+  openai/gpt-4.1: "While Claude brought strong structure and confidence, Dolphin3/Mistral-24b\
+    \ delivered a more daring and inventive performance\u2014pushing boundaries with\
+    \ wordplay, cyber-linguistic creativity, and unexpected metaphors. Dolphin's verses\
+    \ feel abstract at times, but the willingness to experiment and subvert expectations\
+    \ is very much in the spirit of hip hop artistry. Dolphin takes the crown for\
+    \ originality and pushing the creative envelope."
+  x-ai/grok-4: Claude-3-haiku takes the win with consistent flow, tight rhyme schemes,
+    and clever wordplay that deliver sharp disses effectively. Dolphin3.0's verses,
+    while energetic, are hampered by garbled phrasing, typos, and incoherent elements
+    that disrupt the artistic coherence and impact of the hip hop.
 score:
-  x-ai/grok-3: 7
+  anthropic/claude-3-haiku: 2
+  cognitivecomputations/dolphin3.0-r1-mistral-24b: 3
 

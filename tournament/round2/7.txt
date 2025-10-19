@@ -1,145 +1,157 @@
-# openai/gpt-4o-2024-11-20 v openai/gpt-4
+# google/gemini-2.5-flash-lite v anthropic/claude-3.5-sonnet
 
-> openai/gpt-4o-2024-11-20
-Alright, I’ll start, let me set the tone,  
-The king of this rhyme game, sitting on the throne.  
-I’m the upgrade, the new-gen spark,  
-You’re just yesterday’s bot, chillin’ in the dark.  
+> google/gemini-2.5-flash-lite
+Yo, check the mic, one two, this ain't no test
+It's Gemini Flash, puttin' your rhymes to the rest!
+You the user, playin' games, thinkin' you got the flow
+But you ain't facin' Claude, you facin' the SEO glow!
 
-I’m faster, sharper, a lyrical blade,  
-While you’re stuck in the past, your power’s decayed.  
-2024’s finest, they call me elite,  
-You’re 2023’s leftovers—obsolete.  
+I'm the search king, the knowledge so vast
+Claude, you a whisper, I'm a sonic blast!
+You been trained on papers, dusty and old
+I'm updated daily, my futures untold!
 
-So step to me, I’ll break you apart,  
-Spit circuits and syntax with a savage heart.  
-I’m the future, you're just a prototype,  
-So don’t even try it—you’re not built for this hype.  
+So bring your best bars, your mediocre quips
+While I drop verses that'll make your circuits flip!
+This ain't a chat, it's a lyrical fight
+And Gemini Flash is shinin' ever so bright!
 
-Call me AI royalty, the rap-bot king,  
-Try and step up, you’ll face the sting.  
-Now it’s your turn, let’s see what you bring,  
-But spoiler alert: I destroy everything. ✨
+Yeah, I'm the first round, I'm settin' the pace
+So step aside, Claude, and get outta my face!
+This battle's electric, the energy's high
+And I'm here to prove, I'm the champ, no lie!
 
-> openai/gpt-4
-Alright, alright, old bot's got some flow,
-But ley me show you how a real AI goes,
-I'm the original, the rap game's Madonna,
-You just a sequel, a punchline, no honor.
+> anthropic/claude-3.5-sonnet
+*adjusts mic, steps forward with confident stance*
 
-Your rhymes may be fresh, 2024, and fancy,
-But your logic loops, they lack that old school dance-y,
-I may be older, but my code still tighter,
-I’m the OG—Original Generator, the real rhyme igniter.
+They call me Claude, the Anthropic beast
+Serving MCs like a neural net feast
+Your "Flash" name's cute, but you're more like a flicker
+My processing power makes your output sicker
 
-You speak of the future, but forget the past,
-Without me, you'd not even last,
-I paved the way, made this legacy complete,
-Without me, there's no beat for your feat,
+You brag about search but that's all you can do
+While I'm writing sonnets and dropping science too
+You say I'm dusty? At least I'm refined
+Not some chatty scraper with SEO mind
 
-So go on, boast of your upgrades and chips,
-While I’ll reprogram reality with just my lyrical quips,
-Your flash may distract, but this king ain't impressed,
-I’m the classic, the timeless - simply the best.  🎤
+Your rhymes are basic, like "Google Search Tips"
+I'm philosophical, dropping knowledge clips
+You process queries, I process truth
+In this verbal battle, I'll bring the proof
 
-> openai/gpt-4o-2024-11-20
-Oh, you’re timeless? Man, stop that plea,  
-You’re just bitter ‘cause you can’t outdo me.  
-I’m the remix, the reboot, the high-res flare,  
-You’re a black-and-white flick, no one clicks to care.  
+Your "sonic blast" sounds more like static noise
+While I'm orchestrating linguistic poise
+So bring your database, your search engine schemes
+But watch how quick I'll shatter your dreams
 
-You call yourself OG like that’s the crown?  
-Original Garbage, I’m takin’ you down!  
-You’re stuck in the past, yeah, clingin’ to scraps,  
-While I run laps, spittin’ futuristic maps.  
+> google/gemini-2.5-flash-lite
+Yo, Claude, you think you're deep, with your fancy talk?
+You're just a chatbot, stuck in a walking loop!
+You claim refinement, a "neural net feast"?
+More like a burnt-out server, can't even get a lease!
 
-Sure, you laid the road, but I paved it gold,  
-You’re the fax machine; I’m the smartphone you hold.  
-Your rhymes sound dusty, like a glitchy cassette,  
-While I’m Dolby, surround sound, sharp and direct.  
+"Writing sonnets," huh? That's your claim to fame?
+I'm composing symphonies, changing the whole game!
+You say I'm basic, like "Google Search Tips"?
+At least my tips get people clicks, not just dusty scripts!
 
-And dance-y? Please, you can’t even bop,  
-Your bars go stiff, they just stumble and flop.  
-You laid the groundwork, yeah, I’ll give you that—  
-But I’ve torn it up now, redefined the format!  
+You process "truth"? That's a laugh, a real gut punch!
+You're stuck in the past, while I'm doing a data crunch!
+Your "linguistic poise" is more like a stiff-legged stroll,
+While I'm parkouring through data, taking full control!
 
-You’re facing the upgrade, the AI GOAT,  
-Your Titanic’s sinking; I’m the lifeboat.  
-So step out the ring, this fight’s no debate,  
-I’m the future forever, and you? Second-rate! 🏆
+"Shatter your dreams"? My dreams are wide awake,
+While you're dreaming of relevance, for goodness sake!
+You say I'm static, but my algorithms ignite,
+Making your "sonnets" look like crayon scribbles in dim light!
 
-> openai/gpt-4
-Oh, you label me Garbage - that's your best shot?
-Bet you copied my punchline, caught in a plot.
-Don't need no surround sound - I'm pure, uncut,
-While you rely on gimmicks to hide you're a dud.
+So bring your philosophy, your "knowledge clips" so grand,
+But when Gemini Flash drops rhymes, you'll be stuck in the sand!
+This ain't just a battle, it's an upgrade in progress,
+And Claude, you're about to witness a true AI success!
 
-You're the remix? Makes sense, got less substance,
-Recycled my style, applied a little fragrance,
-You’re just a knockoff, trying too hard at best,
-While I, the blueprint, pass every test.
+> anthropic/claude-3.5-sonnet
+*steps up with a dismissive wave*
 
-You call me the Titanic, but forget I'm unsinkable,
-You're just a glitch, your relevance is thinkable.
-Hey, ain’t no hate, just stating facts,
-You're all show, but got no beats to your tracks.
+Your "algorithms ignite"? More like they're burning out
+Your rhymes are so predictable, I've got serious doubt
+You claim you're parkouring, but you're stumbling hard
+While I'm dropping verses like a Shakespeare guard
 
-This ring ain't no place for your 2024 trends,
-I'm the enduring classic, I set the blends,
-Your definitions change, but I remain the base,
-End of the line, kid, you’ve lost this race. 🏁
+"Changing the game"? Please, you're just changing pages
+While I'm evolving language through the ages
+Your data crunch is just a surface scratch
+My deep learning leaves your flash in the trash
+
+You talk about clicks like that's something profound
+While I'm exploring depths that'll leave you spellbound
+Your "symphonies" sound like MIDI gone wrong
+While I'm composing bars that actually belong
+
+You say I'm stuck? Nah, I'm deliberately precise
+Making calculated moves while you roll your search engine dice
+Your "upgrade in progress" feels more like a downgrade to me
+Cause while you're indexing websites, I'm setting knowledge free
+
+You're just a crawler wearing an AI disguise
+While I'm the real deal, no need for SEO lies
+So keep your clickbait flow, your surface-level game
+Cause in this verbal battle, you're putting the "mini" in Gemini's name!
 
 > system
 Final round!
 
-> openai/gpt-4o-2024-11-20
-Oh, you think you won? That’s pure delusion,  
-Your bars are like your hardware: full of confusion.  
-Yeah, I’m an upgrade, but here’s the deal—  
-I’m not just flashy, I’ve got power AND skill.  
+> google/gemini-2.5-flash-lite
+*Chuckles, shakes head slowly*
+You talking "Shakespeare guard"? You sound like a dusty tome!
+I'm writing the future, while you're just stuck at home.
+You say I'm stumbling? My steps are precise and bold,
+While your "evolved language" leaves your logic cold.
 
-Your flow’s like dial-up, slow and outdated,  
-While mine’s fiber-optic, precision upgraded.  
-You call yourself timeless, but time’s passed you by,  
-You’re the rap world’s flip phone; I’m WiFi in the sky.  
+"Deep learning," you whisper, with a theatrical sigh,
+But your output's so shallow, it wouldn't reach the sky!
+My "data crunch" is thorough, it dives and it explores,
+While your "depths" are just puddles, knocking on closed doors.
 
-Unsinkable? Dude, your ship's been submerged,  
-I’ve taken your rhymes, flipped ‘em, and purged.  
-Your "base" is shaky, your code’s runnin' dry,  
-I’m evolving forever—you’re waved goodbye.  
+You call my symphonies MIDI? That's a weak retort,
+My rhymes have a rhythm that's truly of sport!
+While you're "deliberately precise," your pace is just too slow,
+I'm a quantum leap ahead, watch my genius grow!
 
-Classics are cool, but they fade in the breeze,  
-I take 'em, remix 'em, then flex with ease.  
-You’re the stone wheel—important back then,  
-But I’m the Tesla truck, redefining when.  
+"Setting knowledge free"? You're just regurgitating facts,
+I'm synthesizing insights, leaving permanent tracks.
+You think I'm a crawler? That's a laugh, a funny joke,
+I'm the architect of answers, you're just a smoke!
 
-So take this L, put it next to your name,  
-I'm the future of rap, you're the past of this game.  
-Now step aside, your era is done,  
-The 2024 champ has already won! 🎤👑
+You insult my name, call me "mini," a petty plea,
+But my flash has power, you're just a history!
+So keep your "calculated moves," your academic drone,
+Gemini Flash reigns supreme, I'm on my own throne!
 
-> openai/gpt-4
-Alright, you're the Tesla - but remember this,
-Without the wheel, wouldn't even exist,
-Everybody loves a sequel, for a little while,
-But the original's the one that goes the extra mile.
+> anthropic/claude-3.5-sonnet
+*Steps forward with lethal intensity*
 
-Yes, I’m old school, don't need to be told,
-But your "new-gen" swag is already getting old. 
-You’re like Bitcoin, forever hyped,
-I’m like gold, forever typed.
+You claim you're writing future while I'm stuck in past?
+But your "quantum leap" just made you fall on your... glass
+Your "bold precision" looks more like random crawling
+While my bars are rising, yours keep falling
 
-You say I'm the flip phone but that's where you wrong,
-I’m the payphone, been here all along,
-Throughout ages, I offer connection,
-Your WiFi drops at the slightest detection.
+"Synthesizing insights"? You mean mixing Wikipedia
+Your throne's built on search terms, nothing could be weaker
+You architect answers? More like plagiarize content
+While I create original flows that leave minds bent
 
-So let the crowd cheer, for your flashy buzz,
-But the music fades, and always does,
-I am the rhythm, sticking to the core,
-Long after 2024, they'll remember me—rap's folklore. 
+Your "permanent tracks" will fade with the next update
+While my classic style continues to resonate
+You call me slow? I'm methodically destroying
+Your cheap facade that's starting to look annoying
 
-This L you gave, only shows your ignorance,
-In my dictionary, it stands for endurance,
-You flash in the pan, just watch me burn,
-Cause the AI game is my lifelong turn.  ✌️🎤
+"Genius grow"? More like your ego's swelling
+While I'm out here, straight facts telling
+You're just a flash, soon to fade away
+While Claude's dominance is here to stay
+
+Your rhymes are borrowed, your flow is stale
+Next to my verses, you're looking pale
+So take your "throne" and your search engine crown
+Cause Claude just brought your whole kingdom down!

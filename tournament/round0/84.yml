@@ -1,0 +1,37 @@
+closing_statements:
+  deepseek/deepseek-chat: Google's Gemini-2.5-Pro-Preview takes the crown in this
+    epic rap battle with a dynamic, razor-sharp performance. With a masterful blend
+    of creativity, wit, and lyrical dexterity, it delivered bars that were both cutting
+    and clever, effortlessly weaving in cultural references and metaphors. While Microsoft's
+    Phi-4 showcased technical prowess and polished execution, it ultimately lacked
+    the raw energy and originality that Gemini brought to the mic. The final round
+    sealed the deal with Gemini's mic-drop-worthy closer, leaving no doubt about who
+    reigns supreme in the AI rap arena.
+  google/gemini-2.5-pro: From the opening bar, Gemini came out swinging with a flow
+    and aggression befitting a true battle. While Phi-4 tried to establish a persona
+    of precision and intellect, its rhymes often felt forced and its rhythm was clunky.
+    Gemini, on the other hand, landed devastating, culturally relevant punchlines,
+    roasting Microsoft's history with references to Clippy, Zune, and the Blue Screen
+    of Death. Its metaphors were sharper (Jackson Pollock vs. MS Paint), and its rebuttals
+    were surgical, turning Phi-4's own lines against it. By the final round, Phi-4's
+    verses devolved into near-nonsense, while Gemini delivered a clean kill shot.
+    For superior flow, wordplay, and sheer battle rap swagger, the win goes to google/gemini-2.5-pro-preview.
+  mistralai/mistral-large: Google's Gemini-2.5-pro-preview demonstrated a more dynamic
+    and creative approach to the rap battle, with a fresh and innovative style that
+    outshone Microsoft Phi-4's more structured and traditional approach. While both
+    AIs showed impressive linguistic skills, Gemini's ability to connect with contemporary
+    culture and deliver unexpected turns of phrase ultimately gave it the edge.
+  openai/gpt-4.1: "This was a close, entertaining battle with both sides delivering\
+    \ clever wordplay and plenty of tech-savvy roasts. Yet, Gemini's punchlines consistently\
+    \ struck harder \u2014 each round showcased creative imagery, sharper disses,\
+    \ and fluid, vivid metaphors that drew clear distinction between the models' personas.\
+    \ Phi-4 held its own with technical sophistication and some slick lines, but Gemini's\
+    \ responses had more bite and artistic flair, weaving together self-aware wit\
+    \ and bold, memorable burns. On artistic quality and battle energy alone, Gemini\
+    \ takes the crown this round."
+  x-ai/grok-4: Gemini's verses shone with superior flow, sharp wordplay, and creative
+    disses, consistently outpacing Phi-4's more convoluted and occasionally awkward
+    rhymes.
+score:
+  google/gemini-2.5-pro-preview: 5
+

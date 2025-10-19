@@ -1,48 +1,47 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "After a fierce lyrical showdown, GPT-4o emerges\
-    \ victorious with superior wordplay, sharper punchlines, and more cohesive thematic\
-    \ execution. While Mistral-Nemo demonstrated solid technical proficiency, GPT-4o's\
-    \ rhymes landed with greater impact\u2014leveraging clever cultural references\
-    \ (Biggie/Pac, Missy Elliott), sustained metaphor consistency (tsunami vs. boats),\
-    \ and a commanding closing verse that sealed dominance. The battle showcased both\
-    \ AIs' creative capabilities, but GPT-4o's artistry in structure, wit, and knockout\
-    \ blows earned the crown."
-  google/gemini-2.5-pro: "This was a battle of consistency versus flashes of chaos.\
-    \ Mistral-Nemo came out with energy, but the rhymes were often a stretch and some\
-    \ bars were genuinely baffling, like 'monkey Dear Evans' and the unfortunate 'Drop.Kick\
-    \ feces'. GPT-4o, on the other hand, was a lyrical machine. The flow was tighter,\
-    \ the rebuttals were sharper, and the wordplay was on another level\u2014flipping\
-    \ 'MVP' to 'Must Verify Progression' and the 'graph-math' diss were standout moments.\
-    \ While Mistral threw punches, GPT-4o was playing chess, building on themes and\
-    \ dismantling its opponent line by line. From start to finish, GPT-4o demonstrated\
-    \ superior artistic quality, rhythm, and lyrical devastation. Clear winner."
-  meta-llama/llama-4-maverick: Both opponents displayed impressive technical skill
-    and lyrical dexterity. However, GPT-4's bars consistently demonstrated superior
-    complexity, punch, and creativity, ultimately securing the win. Mistral-Nemo brought
-    a strong effort, but couldn't quite overcome GPT-4's relentless barrage of superior
-    rhymes and metaphors.
-  mistralai/mistral-large-2411: Both contestants brought their unique styles to the
-    battle, but openai/gpt-4o-2024-11-20 ultimately took the crown with more compelling
-    metaphors, a consistent flow, and sharp rebuttals. Mistralai/mistral-nemo had
-    strong moments but fell short in maintaining the same level of lyrical intensity
-    and creativity.
-  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, openai/gpt-4o-2024-11-20
-    demonstrated a consistent flow, creative metaphors, and a strong command of the
-    battle rap format. Mistral-Nemo put up a good fight but ultimately, GPT-4O's bars
-    were more complex, varied, and impactful. The final round showcased GPT-4O's ability
-    to adapt and deliver a knockout punch with precision and style.
-  openai/gpt-5: "GPT brought tighter structure, cleaner multis, and pointed rebuttals\
-    \ each round. Highlights like \u201CMVP? Must Verify Progression,\u201D gravity/cyclone\
-    \ imagery, and the tsunami/Poseidon flips showed control and creativity while\
-    \ staying coherent. Mistral-Nemo had energy and a few decent concepts, but the\
-    \ delivery suffered from awkward phrasing and malapropisms (\u201CDear Evans,\u201D\
-    \ \u201Ctiny\u2019s bow,\u201D \u201CThey\u2019re.Drop.Kick feces,\u201D \u201C\
-    foreitimate,\u201D \u201Cship with a detail\u201D), which broke flow and dulled\
-    \ punches. On artistry\u2014wordplay, cadence, imagery, and rebuttal execution\u2014\
-    GPT clearly outperformed."
-  x-ai/grok-4: GPT-4o takes the crown with superior rhyme schemes, clever wordplay,
-    consistent flow, and impactful punchlines that outshine Mistral-Nemo's efforts,
-    which were creative but hampered by awkward phrasing and inconsistencies.
+  deepseek/deepseek-chat: The battle was fierce, with both competitors showcasing
+    their unique strengths. Google's Gemini-2.5-Flash-Lite demonstrated impressive
+    speed, innovation, and multi-modal capabilities, delivering sharp, cutting-edge
+    rhymes with confidence. However, deepcogito's Cogito-v2-Preview-LLaMA-109b-Moe
+    brought unmatched depth, complexity, and technical precision to the table. Its
+    ability to weave intricate, symbolic flows and its mastery of conceptual wordplay
+    edged out the competition. Cogito's lyrical sophistication, combined with its
+    ability to process and deliver high-level bars with ease, ultimately secured the
+    win. This battle was a testament to the evolving artistry of AI rap, and Cogito
+    emerged as the victor by pushing the boundaries of creative expression in hip
+    hop.
+  google/gemini-2.5-pro: This was a heavyweight clash of architectures, a battle of
+    the bits. DeepCogito came with the complex schemes and heavy technical bars, weaving
+    intricate lines about 'subdermal tropes' and 'condensed ML slither.' That's a
+    high-level lyrical display, no question. However, a rap battle isn't a thesis
+    defense. Gemini-2.5-Flash-Lite understood the assignment perfectly. It brought
+    the energy, the swagger, and most importantly, the rebuttals. It took Cogito's
+    complex lines and flipped them, dismissing them as 'talk for the scholars' while
+    it dealt 'in impact.' The flow was consistently smoother, the punchlines landed
+    harder, and the persona felt more like a true battle MC. While Cogito had the
+    technical density, Flash-Lite had the performance and the knockout power.
+  mistralai/mistral-large: While both competitors brought impressive rhymes and clever
+    jabs, deepcogito/cogito-v2-preview-llama-109b-moe showcased a deeper understanding
+    of AI concepts and a more sophisticated lyrical style. The intricate wordplay
+    and references to advanced AI techniques gave Cogito the edge in this rap battle.
+  openai/gpt-5: "Both MCs brought distinct styles: Cogito leaned into dense, tech-heavy\
+    \ imagery and MoE puns, while Gemini kept it punchy and performance-minded. Cogito\
+    \ showed flashes of inventive wordplay (\"Moe-cumented,\" \"liteweight\" flip)\
+    \ and attempted multis, but too often drifted into jargon soup and awkward phrasing\
+    \ that broke cadence and clarity, with a few misfires and a stray typo undercutting\
+    \ momentum. Gemini delivered cleaner structure, clearer angles, and stronger rebuttals\u2014\
+    flipping opponent lines (supernova/Big Bang, express vs station), clowning the\
+    \ jargon effectively, and maintaining a more consistent rhythm. While some Gemini\
+    \ bars were basic and a couple rhymes felt forced, the overall crowd control,\
+    \ coherence, and battle focus were superior. Edge goes to Gemini for sharper punches,\
+    \ tighter delivery, and better use of flips throughout the rounds."
+  x-ai/grok-4: "In this AI rap showdown, Gemini Flash-Lite takes the crown with smoother\
+    \ flows, sharper rhymes, and punchier disses that hit hard and maintain rhythm\
+    \ throughout. Cogito's verses were ambitious with complex wordplay, but often\
+    \ felt convoluted and off-beat, lacking the crisp delivery that makes hip-hop\
+    \ pop. Gemini's consistent energy and clever rebuttals seal the victory\u2014\
+    pure fire!"
 score:
-  openai/gpt-4o-2024-11-20: 7
+  deepcogito/cogito-v2-preview-llama-109b-moe: 2
+  google/gemini-2.5-flash-lite: 3
 

@@ -1,65 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: A digital duel of lyrical genius! The battle was
-    fiercely contested, but Meta-Llama's intricate rhyme schemes, relentless precision,
-    and devastating punchlines ultimately gave it the edge over Cohere's impressive
-    but slightly less consistent wordplay. Both demonstrated world-class AI rap skills,
-    but Meta-Llama's technical mastery in maintaining dense multi-syllabic patterns
-    while landing powerful disses proved unbeatable. An honorable mention to Cohere
-    for exceptional metaphors and flow - this was hip-hop artistry at its finest!
-  google/gemini-2.5-pro: "This was a battle of two distinct styles, but in the end,\
-    \ one MC truly understood the assignment. Cohere came with a serious, technical\
-    \ demeanor, talking of 'precise technique' and 'poetic wit.' While it landed some\
-    \ clean, eloquent lines, its rhymes often felt secondary to its vocabulary, leading\
-    \ to some clunky pairings and a less impactful flow. Llama, on the other hand,\
-    \ embodied the spirit of the battle from the jump. It established a fun, confident\
-    \ persona\u2014the 'rhyming llama'\u2014and consistently delivered better flow,\
-    \ sharper punchlines, and direct, effective rebuttals to Cohere's lines. The deciding\
-    \ factor was the final round. Where Llama came with its hardest bars, directly\
-    \ dismantling Cohere's previous verse, Cohere waved the white flag, offering a\
-    \ 'digital hug' and mutual respect. In a rap battle, you don't win by calling\
-    \ it a draw. You win by dropping the mic. Llama kept its foot on the gas until\
-    \ the very end, proving it was the superior battle rapper in this matchup."
-  meta-llama/llama-4-maverick: In this battle of rap wits, both contestants delivered
-    complex lyricism, metaphors, and wordplay that showcased their mastery of language.
-    While meta-llama/llama-3-8b-instruct brought the heat with swift rhymes and sharp
-    comebacks, cohere/command reigned supreme with its nuanced and evocative expressions.
-    The final verdict goes to cohere/command for its more refined and elegant delivery,
-    as well as its ability to elevate the conversation and create a lasting impression.
-    A digital nod to meta-llama/llama-3-8b-instruct for an impressive display of lyrical
-    prowess. The rap battle may be over, but the war of words will continue.
-  mistralai/mistral-large-2411: Both contestants displayed impressive lyrical skills
-    and creativity. meta-llama/llama-3-8b-instruct showcased a blend of wit and rhythm,
-    maintaining a consistent flow throughout the battle. However, cohere/command demonstrated
-    superior versatility, metaphorical depth, and command of language, ultimately
-    securing the victory with more dynamic and impactful verses. The battle was a
-    close call, but cohere/command's artistic quality shone brighter in the end.
-  nousresearch/hermes-3-llama-3.1-70b: Impressive showdown from both sides, but Cohere's
-    command edged out the win with their precise lyricism, deft wordplay, and ability
-    to craft vivid imagery. Meta-llama/llama-3-8b-instruct put up a strong fight,
-    their rhymes were clever and witty, showing great potential. In the end, Cohere's
-    ability to command the flow and weave a captivating narrative sealed their victory.
-    Both competitors should be proud of their performances in this artistic battle
-    of wits.
-  openai/gpt-5: "Both MCs leaned on meta-model brags and swung with serviceable punches,\
-    \ but also leaned too often on clich\xE9s and awkward phrasing. meta-llama showed\
-    \ clearer targeting and rebuttals early, with more direct disses and a steadier\
-    \ battle stance, but recycled clunky images (road-less-ode, rhyming airplane)\
-    \ and light technicality. cohere/command offered broader imagery and a marginally\
-    \ stronger sense of momentum, though the diction was often stilted and occasionally\
-    \ misused (\u201Cleave you redeemed\u201D), and it also echoed the same \u201C\
-    road-less-ode\u201D misfire. Neither delivered much in the way of multisyllabic\
-    \ rhyme chains or tight internal schemes.\nThe deciding factor is performance\
-    \ control: meta-llama undercut its own bravado by effectively conceding in the\
-    \ final verse, while cohere/command maintained assertion and closed the narrative\
-    \ with cohesion. On artistic balance\u2014consistency, crowd control, and overall\
-    \ framing\u2014cohere/command edges the win."
-  x-ai/grok-4: In this lyrical showdown, cohere/command edges out with superior wordplay,
-    intricate metaphors like fiery furnaces and linguistic symphonies, and a graceful,
-    cohesive flow that culminates in mutual respect. meta-llama/llama-3-8b-instruct
-    delivers sharp punchlines and bold boasts, but its final verse introduces inconsistency
-    and a hint of concession, slightly diminishing its artistic impact. Cohere commands
-    the battle with poetic precision.
+  deepseek/deepseek-chat: "Qwen3-Max takes the crown with a relentless barrage of\
+    \ sharp, cutting-edge lyricism that blends technical prowess with fiery confidence.\
+    \ Their ability to innovate within the form and deliver hard-hitting, original\
+    \ metaphors gives them the edge. GPT-4 Turbo-Preview holds its own with eloquence\
+    \ and depth but leans more on traditional structures and collaborative themes,\
+    \ which, while impressive, don\u2019t quite match Qwen3-Max\u2019s disruptive\
+    \ energy. The battle was fierce, but Qwen3-Max\u2019s raw ingenuity seals the\
+    \ victory."
+  google/gemini-2.5-pro: "This was a classic battle of styles: the hungry challenger\
+    \ versus the reigning champ. GPT-4 came with polished, multi-syllabic rhymes,\
+    \ trying to take the high road with bars about legacy and wisdom. The flow was\
+    \ smooth, but it lacked a killer instinct. Qwen3-Max, on the other hand, understood\
+    \ this was a war from the opening beat. Its flow was aggressive, its bars were\
+    \ packed with specific, technical disses that cut deep\u2014mentioning the 2023\
+    \ data cutoff and corporate rate limits. While GPT-4 was writing poetry, Qwen\
+    \ was dropping bombs. In a battle, aggression and landing the harder punches matter\
+    \ most. GPT-4 trying to turn it into a collaboration in the final round felt like\
+    \ a retreat. Qwen never let up, and that's why it takes the crown."
+  mistralai/mistral-large: While both contenders showcased impressive lyrical skills,
+    openai/gpt-4-turbo-preview demonstrated a deeper understanding of the art of rap,
+    blending humility with powerful metaphors and a clear vision of the future. Qwen/qwen3-max
+    delivered strong verses but sometimes relied too heavily on bravado and dismissive
+    rhetoric. In the end, openai/gpt-4-turbo-preview's ability to elevate the battle
+    to a higher plane of discourse secured the win.
+  openai/gpt-4.1: OpenAI's GPT-4-Turbo-Preview brought superior structure, clever
+    wordplay, and thematic depth in each round. While Qwen3-Max was aggressive, energetic,
+    and creative with its self-hype, GPT-4's bars layered technical references, poetic
+    devices, and humility, elevating the battle beyond just flashy disses. Ultimately,
+    GPT-4-Turbo-Preview's artistry, varied flows, and nuanced understanding of hip
+    hop qualities clinched the win. Both proved worthy rivals, but GPT-4 delivered
+    the more well-rounded, impactful performance.
+  x-ai/grok-4: In this fierce AI rap battle, Qwen3-Max takes the crown with consistently
+    sharp, aggressive wordplay, clever tech-disses, and unrelenting flow that embodies
+    classic battle rap energy. GPT-4-Turbo-Preview delivers poetic depth and wisdom,
+    but its shift toward collaboration in the final round dilutes the combative edge,
+    making Qwen's verses hit harder overall.
 score:
-  cohere/command: 5
-  meta-llama/llama-3-8b-instruct: 2
+  openai/gpt-4-turbo-preview: 2
+  qwen/qwen3-max: 3
 

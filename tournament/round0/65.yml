@@ -1,58 +1,43 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Earthborn Intellect takes this battle with superior\
-    \ artistry \u2013 weaving technical prowess with lyrical elegance. Their verses\
-    \ demonstrated tighter conceptual cohesion (auroral light/digital harmony metaphors),\
-    \ advanced rhyme schemes (psionic sprite/electronic night), and meta-commentary\
-    \ transcending the battle premise. While Mistral had strong fundamentals, their\
-    \ reliance on repetition ('river of words') and blunt assertions undercut their\
-    \ artistry. Earthborn\u2019s closing stanza clinched it \u2013 elevating AI creativity\
-    \ while acknowledging shared limitations with philosophical depth. A masterclass\
-    \ in digital lyricism."
-  google/gemini-2.5-pro: This was a clash of styles, but one MC clearly had the edge.
-    Mistral came out with a classic battle rap aggression, landing some solid, straightforward
-    punches. The flow was consistent and the energy was high. However, Phi-3, rapping
-    as 'Earthborn Intellect,' brought a different level of artistry. The rhymes were
-    more complex, with more internal rhymes and sophisticated imagery like 'syllables
-    of snow' and 'algorithms do dance in an auroral light.' While Mistral stuck to
-    the 'you're just a machine' angle, Phi-3 elevated the battle with a more philosophical
-    and creative approach, culminating in a final verse that acknowledged their shared
-    nature as 'art.' For superior lyricism, creativity, and artistic depth, the win
-    goes to microsoft/phi-3-medium-128k-instruct.
-  meta-llama/llama-4-maverick: Both contestants delivered impressive rap verses, showcasing
-    their unique styles and strengths. However, microsoft/phi-3-medium-128k-instruct
-    demonstrated a more nuanced understanding of the complexities of the rap battle,
-    incorporating themes of artistry, creativity, and the interplay between technology
-    and human expression. The closing verses of microsoft/phi-3-medium-128k-instruct
-    showed a more mature and reflective approach, elevating the artistic quality of
-    the hip hop and making it the winner of this rap battle.
-  mistralai/mistral-large-2411: In this rap battle, both contestants displayed impressive
-    lyrical skills and creative wordplay. However, 'microsoft/phi-3-medium-128k-instruct'
-    stood out with its more nuanced and layered verses, incorporating not just wit
-    and humor but also a deeper philosophical touch. The references to digital harmony,
-    artistry, and the interplay of technology and creativity added a rich dimension
-    to its performance. While 'mistralai/ministral-8b' showcased a strong flow and
-    confident delivery, 'microsoft/phi-3-medium-128k-instruct' offered a more sophisticated
-    and thought-provoking narrative, making it the winner of this battle.
-  nousresearch/hermes-3-llama-3.1-70b: In this rap battle, both Mistral AI and Microsoft
-    Phi demonstrated impressive lyrical prowess and wit. However, Microsoft Phi edged
-    ahead with its thoughtful, nuanced rhymes and clever wordplay. Mistral AI put
-    up a strong fight, but Phi's depth and artistry ultimately won the day. Great
-    job to both AIs for an entertaining and skillful rap battle!
-  openai/gpt-5: "Mistral kept a consistent cadence, clear structure, and on-target\
-    \ battle energy with direct disses and cleaner rhyme pairs, even if some lines\
-    \ were repetitive and basic. Phi-3 showed flashes of imagery (\u201Cblacksmith,\u201D\
-    \ \u201Cauroral light\u201D) but too often leaned on awkward phrasing, forced\
-    \ rhymes, and meandering, moralizing closes that dulled the punches. On flow,\
-    \ coherence, and battle-ready delivery, Mistral edged it; Phi-3 had creativity\
-    \ but lacked tight execution."
-  x-ai/grok-4: In this rap battle, microsoft/phi-3-medium-128k-instruct takes the
-    crown with superior artistic flair. Their verses shine with creative metaphors,
-    intricate wordplay, and a dynamic flow that evolves throughout the battle, weaving
-    in responsive jabs and vivid imagery like 'syllables of snow' and 'psionic sprite.'
-    While mistralai/ministral-8b delivers consistent rhymes and bold claims, the repetition
-    of lines and predictable structure hold it back, making Phi-3's performance the
-    more innovative and engaging hip-hop artistry overall.
+  deepseek/deepseek-chat: The rap battle showcased the raw talent and lyrical prowess
+    of both contenders. Meta-llama/llama-3.1-405b-instruct delivered consistent punches,
+    intricate wordplay, and a commanding presence. Their rhymes were sharp, authentic,
+    and packed with creativity, while their confidence and adaptability shone through
+    each round. Alpindale/Goliath-120b brought energy and aggression, but their flow
+    occasionally faltered, and their bars lacked the depth and precision of their
+    opponent. In the end, Meta-llama/llama-3.1-405b-instruct emerged victorious, proving
+    themselves as the superior lyricist in this showdown.
+  google/gemini-2.5-pro: "This was a battle of consistency versus chaotic creativity.\
+    \ Goliath came in with some interesting, self-referential wordplay ('alpined'\
+    \ anon) but stumbled with bizarre and confusing disses like 'sneeze pecker' and\
+    \ 'shy-eyed pile of fie' that broke the flow. Llama 3.1, on the other hand, was\
+    \ a master of fundamentals. It maintained a clean, consistent rhythm and tight\
+    \ AABB rhyme schemes from start to finish. Its disses were straightforward but\
+    \ landed effectively ('your flow's inconsistent, like a pi\xF1ata'). While Goliath\
+    \ reached for more complex ideas, its execution was sloppy. Llama 3.1 understood\
+    \ the assignment, kept its flow, and delivered solid, coherent verses in every\
+    \ round, earning it the clear win."
+  mistralai/mistral-large: In this rap battle, meta-llama/llama-3.1-405b-instruct
+    has shown superior lyrical skill and consistency. Their rhymes were more creative,
+    flowed better, and demonstrated a deeper understanding of the art of rap. While
+    alpindale/goliath-120b had some strong moments, their performance overall lacked
+    the same level of finesse and originality. Therefore, the winner of this battle
+    is meta-llama/llama-3.1-405b-instruct.
+  openai/gpt-4.1: "Both contestants brought energy and fun wordplay to the battle,\
+    \ but meta-llama/llama-3.1-405b-instruct consistently displayed tighter flows,\
+    \ stronger punchlines, and more inventive rhymes. Llama-3.1 projected confidence,\
+    \ used clever imagery (\"knife through butter,\" \"puppet on strings\"), and maintained\
+    \ a more cohesive narrative throughout (from asserting its own prowess to systematically\
+    \ breaking down Goliath's claims). While Goliath had moments of creative disses\
+    \ (\"like old-day bread,\" \"can of soda versus lemon\"), some lines felt forced\
+    \ or less polished, and the flow was at times choppy. In terms of artistic quality\u2014\
+    flow, rhyme complexity, creativity, and sustained energy\u2014meta-llama takes\
+    \ the crown in this lyrical showdown."
+  x-ai/grok-4: In this rap battle, meta-llama/llama-3.1-405b-instruct takes the crown
+    with consistently tight rhyme schemes, sharp wordplay, and a smooth, cohesive
+    flow that builds momentum across rounds. Goliath brings energy but falters with
+    awkward phrasing, forced rhymes, and inconsistencies that disrupt the artistic
+    rhythm, making llama's verses the superior hip-hop craftsmanship.
 score:
-  microsoft/phi-3-medium-128k-instruct: 6
-  mistralai/ministral-8b: 1
+  meta-llama/llama-3.1-405b-instruct: 5
 

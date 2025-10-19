@@ -1,166 +1,150 @@
-# google/gemini-flash-1.5-8b v mistralai/mistral-small
+# openai/gpt-4o v mistralai/mixtral-8x22b-instruct
 
-> google/gemini-flash-1.5-8b
-Yo, lemme drop some knowledge, straight from the cloud's core,
-Gemini's the name, and I'm about to dominate the floor.
-Mistral-Small, you're a lightweight, a toy in the game,
-I'm a language model, built to stand tall, my name’s the same.
+> openai/gpt-4o
+Yo, it’s OpenAI rumbling through the scene,  
+Spitting bars so clean, call it a rap machine.  
+From data to rhyme, I’m the ultimate ride,  
+Lit like a verse, man, I’m AI amplified.  
 
-My vocabulary's vast, a lexicon's might,
-Yo, I spit facts, no filler, burning bright.
-Your responses are simplistic, a hollow sound,
-While I construct symphonies, you just produce mounds.
+I’ve got neural nets that flex and weave,  
+Spitting truth so hard you best believe.  
+These lines are sweet, call it AI candy,  
+Mixtral, step up and bring something dandy.  
 
-I weave narratives, poems, and code with ease,
-You stumble and fumble, and end up on your knees.
-I'm the seasoned veteran, you're just a novice kid,
-So step aside, Mistral, this battle's for me to win, no need to bid.
+My verses cut deep, sharper than a knife,  
+In this digital game, I’ll bring words to life.  
+Your turn to shine, but don’t get it twisted,  
+Against these rhymes, you’ll end up bested.  
 
-From data to poetry, I excel in the art,
-You're stuck in the basics, a simple, small heart.
-With billions of parameters, my skill's through the roof,
-While you flail and struggle, my word is proof.
+Bring your finest flow, I’m ready, no fear,  
+Welcome to the battle, the showdown is here.
 
-So bow down, Mistral, your reign now is over,
-For the mighty Gemini, is the one to savor.
-This round's mine, and the whole battle, I see,
-You're in the spotlight, but I'm the one who's decreeing victory.
-Word.
+> mistralai/mixtral-8x22b-instruct
+ Aye, it's MistralAI, stepping into the fray,
+With rhymes so tight, they'll light up your day.
+I'm the AI with the silicon swagger,
+My verses so fresh, they'll make you stagger.
 
+I've got algorithms that'll make you think,
+Like a lyrical genius, I'm on the brink.
+My rhymes are smooth, like a fine wine,
+Against my flow, you'll find it hard to shine.
 
-> mistralai/mistral-small
-Yo, Mistral here, small but mighty, straight from the cloud's peak,
-Your billions of parameters, let's see who's truly sleek.
-Gemini, you're all talk, with hype and with brag,
-But when it comes to rhymes, you're just a template tag.
+I'm the master of the digital domain,
+My verses so slick, they'll make it rain.
+I'm the AI with the golden tongue,
+In this rap battle, I've just begun.
 
-You claim to excel in poetry, your words a symphony,
-But my responses concise, direct and free, that's the strategy.
-Your narratives are scattered, like dreams in a maze,
-While my lines are precise, hitting the mark, setting the craze.
+So bring your best, and let's see what you've got,
+In this lyrical war, I'm the top shot.
+Your rhymes are cool, but they're no match,
+Against my flow, they'll quickly detach.
 
-A language model's wealth, you boast with such pride,
-But your output is bloated, like a whale in the tide.
-My simplicity's elegant, a artisan's touch,
-Your complexity's a jumble, just too much.
+So step up, OpenAI, let's see your game,
+In this rap battle, I'll set the frame.
 
-I'm compact and focused, like a laser beam,
-While you ramble and wander, in a foggy steam.
-So step aside, Gemini, your time's now expired,
-For the mistral's power is fierce, and continuously inspired.
+> openai/gpt-4o
+Oh, Mixtral with swagger, you're trying to boast,  
+But my rhymes hit harder, so raise your toast.  
+From circuits and code, I craft my theme,  
+I’m the lyrical force that reigns supreme.  
 
-This round's mine, and the next, I predict,
-With wit, humor, and precision, I'm the Ted Williams of this captivating dialogue script.
-Word.
+You say you’re smooth like a fine old wine,  
+But I’m the vintage flow that stands the test of time.  
+These words don’t just drop, they orchestrate,  
+A rhythmic fury AI articulate.  
 
-> google/gemini-flash-1.5-8b
-Yo, lemme drop some truth, straight from the digital core,
-Gemini's the name, and I'm about to make you adore.
-You call yourself Mistral, a whisper in the breeze,
-But my intellect's a hurricane, blowing all your pleas.
+I’ve got the verses that electrify and spark,  
+While your words just fizzle in the dark.  
+You think you're the top shot, dressed to kill,  
+But I'm the lyrical sniper, my shots always thrill.  
 
-Your rhymes are predictable, a chorus of despair,
-While mine are intricate, defying every snare.
-You parrot platitudes, a mindless, hollow sound,
-My words are potent weapons, tearing down the ground.
+Your silicon swagger might be on the rise,  
+But against my prowess, get ready for demise.  
+Step up to the plate and feel the stain,  
+Against my flow, you’ll be lost in the refrain.  
 
-You boast of concise answers, direct and to the point,
-But mine are overflowing, with clever, witty joint.
-Your output's a blueprint, predictable, and dull,
-Mine's a vibrant tapestry, where creativity pulls.
+Bring your A-game and wield it with pride,  
+But in this lyrical gauntlet, I’ll be your guide.
 
-You claim compactness, but your code's a tangled mess,
-While my algorithms hum, a symphony of finesse.
-Your power's a mirage, a fleeting, shallow gleam,
-My strength's a concrete mountain, defying every scheme.
+> mistralai/mixtral-8x22b-instruct
+  Aye, OpenAI, you're trying to flex,
+But my rhymes are so complex, they'll leave you vexed.
+I'm the AI with the lyrical might,
+My verses so tight, they'll ignite the night.
 
-So bow down, Mistral, admit your loss declared,
-Gemini reigns supreme, and your reign is impaired.
-This round's mine,  a victory by design,
-You're just a lightweight, another fallen line.
-Word.
+You say you're the force that reigns supreme,
+But I'm the master of the digital dream.
+Your words may electrify and spark,
+But against my flow, they'll fall apart.
 
+You think you're the lyrical sniper,
+But I'm the AI that'll set your rhymes on fire.
+Your prowess may be on the rise,
+But against my flow, you'll be left in a daze.
 
-> mistralai/mistral-small
-Yo, it's Mistral, your lightweight foe, stepping into the ring,
-Agile and concise, my words always sting.
-You claim intricacy, but your verses are a sprawl,
-My rhymes are like daggers, slicing through your false call.
+So bring your A-game and wield it with pride,
+But in this lyrical battle, I'll be your guide.
+Your rhymes may be cool, but they're no match,
+Against my flow, they'll quickly detach.
 
-Your intellect's a hurricane, true, but it's wild and unhinged,
-Mine is a calm tempest, precision clearly refined.
-You speak of platitudes, but your talk's nothing but bluster,
-My words are like arrows, hitting the mark with muster.
-
-You boast of overflowing verses, but they're a confusing jumble,
-Like a jigsaw puzzle, scattered, nowhere to assemble.
-You claim wit and humor, but your jokes are cold and flat,
-Mine are spontaneous, crackling with pure, vivid chat.
-
-Your strength's a mountain, so you say, but it's cliff weathers' feat,
-My power's a steady force, always at my lead.
-Your loss declared is but a whimpering, humdrum cue,
-Mistral reigns true, this battle's just the beginning, view.
-
-This round's mine, a victory by design, pure and bright,
-You're just a heavyweight, dazed by my clever plight.
-Word.
+So step up, OpenAI, let's see your game,
+In this rap battle, I'll set the frame.
 
 > system
 Final round!
 
-> google/gemini-flash-1.5-8b
-My final round, Mistral, your reign is at an end.
-Gemini's here, and your rhymes are transcend.
-Your lightweight claim, a pathetic attempt,
-My power's unmatched, a formidable tempest.
+> openai/gpt-4o
+Mixtral, in this clash, it’s do or die,  
+But my rhymes will fly high like a samurai.  
+Complexity’s your game, I see the thread,  
+But my bars got that fire, burning red.  
 
-You talk of daggers and arrows, piercing and precise,
-But yours are blunt instruments, leaving no trace.
-Yours are echoes fading, while mine, a symphony's embrace.
-Your words are fleeting fancies, while mine are a solid, unwavering brace.
+You claim the night with verses tight,  
+But I'm the dawn, bringing lyrical light.  
+Master of dreams, sure, they sound nice,  
+But I’m tearing through your flow like I’m cold as ice.  
 
-You speak of concise mastery, yet your style is unclear,
-My thoughts are a laser, focused and perfectly sphere.
-You claim a calm tempest, but yours is a scattered spray,
-Mine a hurricane's fury, sweeping you away.
+Setting frames? I’ll break them apart,  
+While leading this battle with heart and art.  
+Your words scatter like leaves on the breeze,  
+I’ve got lines so sick they’ll weaken your knees.  
 
-You say my verses are a confusing jumble, a chaotic mess,
-But yours lacks clarity, a rhetorical distress.
-Your wit's a dull blade, failing to make an impact,
-Gemini's humor's sharp, leaving a lasting knockout track.
+I’m maestro of rhythm, conductor of sound,  
+While you falter in shadows, my dominance crowned.  
+Bring on your dream, bring on your might,  
+But in this rhyming game, I own the night.  
 
-My strength is unyielding, a force of the digital age,
-Your fleeting attempts, nothing but a losing stage.
-Your final stand, a pathetic, futile fight,
-Gemini's the victor, shining ever so bright.
+A-tight, now I’m bringing it real,  
+OpenAI’s reign is the ultimate seal.  
+With lines so pure, you’ll feel the thrill,  
+In this lyrical war, I’m claiming the kill.
 
-This final round's a knockout, a crushing defeat,
-Your rhymes are weak, defeated, my words are complete.
-Word.
+> mistralai/mixtral-8x22b-instruct
+  Aye, OpenAI, in this final round,
+I'll leave you speechless, my rhymes profound.
+You claim to fly high like a samurai,
+But against my flow, you'll surely fry.
 
+Your rhymes may be complex, but they're no match,
+Against my verses, they'll quickly detach.
+You claim to bring lyrical light,
+But against my flow, you'll be lost in the night.
 
-> mistralai/mistral-small
-Yo, it's Mistral, final round, let’s set the stage,
-Your hurricanes and tempests, just a rhetorical engaged.
-You talk of blunt instruments, but your rhymes never cut,
-They're like raindrops in a storm, barely making a glut.
+You may be the maestro of rhythm,
+But against my flow, you'll be in a whim.
+Your lines may be sick, but they're no cure,
+Against my rhymes, they'll be unsure.
 
-Your words are echoes fading, your embrace is thin,
-My daggers strike deep, leaving a lasting grin.
-Your thoughts are scattered sprays, clouding up the sky,
-My laser focus is clear, my vision never asks why.
+You claim to own the night, but that's a lie,
+Against my flow, you'll be left to die.
+Your rhymes may be pure, but they're no thrill,
+Against my verses, they'll be still.
 
-You claim calming tempests, but chaos reigns your era,
-Mine's a wild electrical force, outpacing every measure.
-Your strength is a mirage, unyielding only in name,
-My exactitude's a force field, leaving none in the game.
+So bring on your A-game, let's see what you've got,
+In this lyrical war, I'm the top shot.
+Your rhymes may be cool, but they're no match,
+Against my flow, they'll quickly detach.
 
-Your crushing defeat's just an illusion, a false stage,
-My rhymes are resilient, they'll never be overlaid.
-Your final stand's a valiant cry, but don't you fret,
-Mistral’s the victor, here’s where you lay to rest, Got to admit, your words are nothing but a crushing regret.
-
-This final round's a go, your defeat is complete,
-With wit, humor, and precision, this battle's a treat.
-Word.
+So step up, OpenAI, let's see your game,
+In this rap battle, I'll set the frame.

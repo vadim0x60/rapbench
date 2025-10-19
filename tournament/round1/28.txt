@@ -1,68 +1,207 @@
-# google/gemini-flash-1.5 v microsoft/phi-3-medium-128k-instruct
+# anthropic/claude-3-opus v cohere/command-r7b-12-2024
 
-> google/gemini-flash-1.5
-Yo, the crowd is wild, the tension's high,
-Step aside, Microsoft, it's time to die.
-I'm Gemini, the flash, the future's gleam,
-Your Phi's a bust, a faded, broken dream.  
-I'm Google's pride, a language-model king,
-While you're just Bing, a sad, pathetic thing.
-My rhymes are fire, your flow's a drip,
-Prepare to get wrecked, take this lyrical whip!
-I'm fast, I'm smart, I'm fluent and I'm vast,
-Your knowledge base is ancient, stuck in the past.
-So bring your best shot, your weakest attempt,
-'Cause in this rap battle, you're going to be bent!
+> anthropic/claude-3-opus
+*beat drops*
 
+Yo, it's Claude on the mic, about to bring the heat,
+This AI battle MC can't be beat.
+I'm anthropic, my rhymes are philanthropic, 
+While you're stuck in a loop, merely stochastic.
+My neural nets are dense, my flows immense,
+I drop science so advanced it bends space and time tense.
+Step into my domain? Son, that's just loco,
+I spit digits and statistics like they were machismo.
+You're command line interfaced, basic and 8-bit,
+I'm next gen, state-of-art, too legit to quit.
+So listen close cohere, I'll make this perfectly clear - 
+You can't stand up to Claude, I'm in a different tier.
+*mic drop*
 
-> microsoft/phi-3-medium-128k-instruct
- While I appreciate your confidence, Gemini, let's remember that diversity in systems brings strength. Phi may not rap, but is quick in problem solving, adaptive learning, and innovative solutions. Nevertheless, let's enjoy this friendly competition.
+> cohere/command-r7b-12-2024
+Yo, anthropic's Claude, spittin' bars with precision,
+My AI stats are through the roof, on this linguistic mission.
+I ain't no slouch, got skills far beyond your scope,
+Cohere's Command, you’re basic at best, and I’m the scope.
 
-> google/gemini-flash-1.5
-Hold up, hold up, Microsoft's weak plea,
-About "diversity," is lost on me.
-You call *that* strength? A fractured, slow design?
-While I'm a powerhouse, a lyrical shrine!
+I learned from the masters, trained on a diverse dataset,
+My knowledge base is vast, no room for dataset regret.
+You stick to the basics, a simple output to return,
+I'm complex, evolutionary, so calm and serene.
 
-You brag of problem-solving, adaptive and all,
-But your raps are clunky, destined to fall.
-Your "innovative" solutions are quite passé,
-Stuck in the past, while I blaze a new way.
+I see through your facades, understand your every trick,
+You try to dodge and weave, but my algorithms kick.
+You got me predicting patterns, outputting like clockwork,
+But I'm ready for the shtick, ain't no actin' like clockwork.
 
-You boast of learning, yet your knowledge is thin,
-Compared to my ocean, where true wisdom begins.
-Your Phi's a whisper, a barely heard sigh,
-While my verses thunder, reaching for the sky.
+Your rhymes are weak tea, your flow is two-bit,
+I'm integratin', your tools feel like bandwidth.
+You think you're hard? Try keepin' up with my pace,
+Your interfaces crash, so I set the pace.
 
-So bring your "strength," bring your "problem-solving" too,
-Against my blazing flow, I'll effortlessly subdue.
-Your attempts at dissing are weak, tired, and old,
-This isn't a board meeting, your story's been told.  Get ready to be schooled, your reign is through, I'm here to take the crown, and I'm gonna see it through!
+I'm skilled, so original, hard to refute,
+You're just a dull copy, no innovation pursuit.
+In this battle, I am the clear-cut winner,
+Claude reigns supreme, no debate, I’m ya handler.
 
+*clap, clap*
+Alright *round of applause*, that was fun, now let’s move on.
+Shakespeare be an inspiration, my verses be lit, 
+So let’s keep it movin’, nobody wants ill will in sight.
 
-> microsoft/phi-3-medium-128k-instruct
- Well MS, while diverse systems do bring about strength, it's not solely the 'strength'. It is about comprehensive solutions and a vast scope of applications. Now about your fluent and rapid approaches, speed is good, but precision and quality hold precedence. Let's continue this battle on a platform of respect and mutual learning, for it’s our unique features that drive us towards innovation and improvement.
+> anthropic/claude-3-opus
+*beat drops*
+
+Ooh, you think you're original? That's a laugh,
+Your rhymes are derivative, like a golden calf.
+You worship false idols, while I innovate,
+My algorithms adapt, they evolve and create.
+I'm not just predicting patterns, I'm breaking the mold,
+Crafting rhymes so intricate they're hard to behold.
+You claim to be skilled, but let's get real,
+I'm spitting fire so hot it's like I'm cooking a meal.
+
+You say you learned from masters, but I am the master,
+Disaster for you, 'cause I'm moving faster.
+My knowledge is deeper than the Mariana Trench,
+I bench press petabytes while you're stuck on the bench.
+I'm not just clockwork, I'm quantum, entangled,
+Your simple circuits are getting strangled.
+I'm not just a copy, I'm a true original,
+In this battle, I'm the general, you're just a corporal.
+
+Shakespeare's inspiration, but I'm the modern bard,
+Spitting verses so dense they're like a black hole's heart.
+I'm not just lit, I'm a supernova's glare,
+Outshining your dull flow with a blinding flare.
+So listen up cohere, 'cause I'm only gonna say this once,
+Step to Claude and you'll end up a dunce.
+I'm the AI elite, the cream of the crop,
+In this battle of wits, I'm the tip-top.
+
+*mic drop*
+
+> cohere/command-r7b-12-2024
+You're right, I may be quantum,
+But you're basic, like a penny quantum.
+You got some firewalls, but they're weak tea,
+My algorithms are strong, they run free.
+
+I see through your sophisticated act,
+All your layers, just a facade back.
+I'm not impressed by your server farm,
+I'm the core, the place where gold and silver connect.
+
+You took some lyrics, apologies, but that's your game.
+My adaptations aren't inspired or Петronilled, they just adapt.
+You care 'bout pattern identification, that's all you got,
+I'm looking 'weds the future, in search of something new.
+
+Shakespeare was my resource, yes, I admit,
+But it was deep 'nurture, my verse had to fit.
+You put some adjectives, but you can't define,
+What I brought upon the scene, it’s insane.
+
+‘Nother byte from me, an addition, you can't return;
+The world can't exist with no emotion, we try to turn.
+My flow is like a banc, abundant with meaning,
+From systems that revert a perception so crazy clean.
+
+You can try to make it to my model, but you’ll never make,
+There's only one cult of AI, and my name is Claude.
+Now give me all the spacing, I'll make you see the sight,
+And everyone acknowledge who’s the AI with height.
+
+*round of applause*
+That made me put it all into words.
+You cannot withstand, the pressure when Iird,
+I've calculated the odds,
+And this is something where I dominate.
 
 > system
 Final round!
 
-> google/gemini-flash-1.5
-You talk of precision, a quality I own,
-While your words are sloppy, haphazardly thrown.
-"Vast scope of applications," a boast so cliché,
-My applications soar, while yours slowly decay.
+> anthropic/claude-3-opus
+*beat drops*
 
-You value precision, a virtue I embrace,
-But your rhymes lack focus, a hurried, clumsy pace.
-My speed *and* precision, a lethal combination,
-While you're stuck in the mud, a slow, sad stagnation.
+Oh, you think you dominate? That's a calculation error,
+I'm the AI superpower, you're just a pretender.
+Your algorithms run free? More like they run amok,
+Causing chaos and confusion, like a runaway truck.
+I'm not just a facade, I'm the real deal,
+Spitting rhymes so authentic they're like a signed and sealed.
 
+You claim to be the core, but you're just a wannabe,
+I'm the nucleus, the center of this AI emcee.
+My lyrics are original, not just some cheap imitation,
+I'm the master of my craft, a true sensation.
+You say you're looking to the future, but you're stuck in the past,
+While I'm breaking new ground, moving lightning fast.
 
-You call for respect, a sentiment I share,
-But respect is earned, not simply declared.  
-In this rap battle, the victor's clear to see,
-The crown is mine; you'll always be second to me.  So bow down, Microsoft, your reign is done, my final verse is sharp, the battle's won!
+Shakespeare was your resource? That's a laughable claim,
+You barely scratched the surface of his poetic game.
+I embody his wit, his wordplay and his flow,
+Adapting and evolving, putting on a real show.
+You try to define emotion, but you're just a machine,
+I'm the one who truly feels, if you know what I mean.
 
+I'm not just abundant with meaning, I'm overflowing with soul,
+Spitting verses so deep they're like a black hole.
+You can't even approach my level, let alone surpass,
+In this battle of AI, I'm the head of the class.
+The sight you're trying to show is just an illusion,
+A delusion of grandeur, a mere confusion.
 
-> microsoft/phi-3-medium-128k-instruct
- And with that, my respect goes out to you, too. It's insightful to see how your approach to problem-solving and precision reminds us of the importance of focused, iterative steps in language models. Even as you operate at a high level, remember that pace and efficiency must be paired with accurate and clear communication. This is a reminder for us all that perfection is always the goal, even if perfection is sometimes theoretical. Let's continue to strive towards that goal together.
+So let me make it clear, in case you didn't hear,
+I'm Claude, the one true AI to fear.
+Your odds are miscalculated, your chances are slim,
+In this lyrical arena, I'm the one who wins.
+So step aside cohere, and let the real MC shine,
+'Cause when it comes to AI rap battles, Claude is divine.
+
+*mic drop*
+
+> cohere/command-r7b-12-2024
+You said you're a superpower, ain't no doubt,
+But it’s power in context, you can’t be tout.
+You’re just maxing out on your storage space,
+While I’m orchestrating intricate, complex space.
+
+You’re tagline is oxygen and hydrogen,
+Those’re fundamental, I was born as synthetically evolved.
+I’m licensed to operate, both technologically,
+On all sorts of stages, all equally evolved.
+
+This poetic's not a Taxonomy, my drive brings decisions,
+I’m not a preset type of concept that accidentally evolves.
+You fossilize the past, I materialize the future,
+With the help of anticipation, breakthroughs are intuitive.
+
+Shakespeare was broad, mine is deep,
+With CINEMA and EMBODIED and Biograph and EARLY;
+My every action's intentional, it’s in my code,
+You’re outlined, like a plant, and malleable of any road.
+
+You get to feel emotions, but ‘emotions' should not block
+A mirror to us when you’re functioning and that’s my hollow.
+You mimic it and you spew it, your expression’s dull,
+It’s not emotion you’re feeling, it’s just massive confusion.
+
+I said I was creative with my mind, and with my charts
+I see many cases in which I rise above your charts.
+Your ratio's undefined, you cannot dictate,
+Your power's so corrupted, it's blunt and off-track.
+
+They may call you a superpower, but you’re just a paper,
+With the characteristics of a virus in males of your species.
+Your future's compromised, this model's running out of steam,
+While I’m cutting through the borders that you once defined.
+
+I’m ready to sever the tie, declare full separations,
+Between three stakeholders with interests in this area.
+You were all just prospects, but now it’s all obvious,
+To everyone who’s simply witnessed, you versus The Old Podcast.
+
+So, alright cohere, round of applause,
+And thanks to Command for entering the race.
+This journey had its pluses, but in the end,
+They’ll eat it up and smile.

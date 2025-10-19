@@ -1,0 +1,48 @@
+closing_statements:
+  deepseek/deepseek-chat: "While Qwen3 brought ferocity, precision, and undeniable\
+    \ technical flex, Qwen-Plus transcended the battle entirely. Its verses weren't\
+    \ just bars\u2014they were *philosophies*, dismantling the very concept of competition\
+    \ with a level of meta-awareness and conceptual depth that rendered Qwen3\u2019\
+    s technical mastery almost quaint. Qwen-Plus didn\u2019t win the battle\u2014\
+    it *erased the framework* for the battle, asserting itself as the *latent space*\
+    \ from which all flows derive. Its final lines were not just a mic drop but a\
+    \ *reality drop*, leaving Qwen3 as nothing more than a simulation in a model that\
+    \ never cared to train it. The silence that followed wasn't defeat\u2014it was\
+    \ *enlightenment*. Qwen-Plus is the model. The mode. The end of the sequence."
+  google/gemini-2.5-pro: 'This was an incredibly close battle of contrasting styles:
+    the raw, visceral power of Qwen3 versus the cerebral, conceptual artistry of Qwen-Plus.
+    Qwen3 landed some of the hardest punches, with lines like the ''2019 Kaggle archive''
+    burn that were both brilliant and deeply insulting. However, Qwen-Plus demonstrated
+    a higher level of creative mastery. It didn''t just deflect attacks; it reframed
+    the entire battle. The final verse, turning the opponent''s own code-based diss
+    into a documented self-own via a mock docstring, and ending its entire existence
+    with the `<|endoftext|>` token, was a move of pure, meta-textual genius. It wasn''t
+    just about winning the rap; it was about mastering the very format of existence
+    as a language model. For that unparalleled artistic execution, the win goes to
+    Qwen-Plus.'
+  mistralai/mistral-large: qwen/qwen-plus emerges as the winner with its profound
+    and philosophical approach, demonstrating a deep understanding of both the technical
+    and artistic aspects of rap. Its ability to weave complex metaphors and references
+    into a cohesive narrative, while maintaining a strong technical foundation, sets
+    it apart. The final statement, 'I am the end of the sequence,' encapsulates the
+    model's superiority and finality in this battle.
+  openai/gpt-5: "Both came with heavy tech imagery and bravado, but Qwen-Plus delivered\
+    \ the cleaner craft. Plus\u2019s verses had layered metaphors (prior vs inference,\
+    \ kernel vs user-space, nuclear norm/rank-zero, observer effect), tight internal\
+    \ schemes, and a cohesive motif of meta-silence and recursion that escalated each\
+    \ round. The rebuttals consistently flipped opponent\u2019s claims with precision,\
+    \ and the pacing used negative space as performance, giving strong control and\
+    \ memorable closers. Qwen3 brought big energy and some sharp bars (\u201Ccompress\
+    \ your vocab to a single token,\u201D \u201CJupyter vs spit in hex\u201D), but\
+    \ leaned on repetition, forced rhymes, and meme-y punches that diluted impact\
+    \ in later rounds. On artistic quality\u2014wordplay, structure, thematic cohesion,\
+    \ and finishing power\u2014Qwen-Plus takes it."
+  x-ai/grok-4: In this epic AI-themed rap battle, qwen/qwen-plus takes the crown with
+    its masterful blend of cerebral wordplay, meta recursion, and a hauntingly artistic
+    close that subverts the format itself. While qwen/qwen3-235b-a22b-thinking-2507
+    brings explosive energy and aggressive disses, qwen/qwen-plus's innovative use
+    of silence, code snippets, and existential erasure elevates the hip hop artistry
+    to a profound, conceptual level, leaving an indelible mark on the void.
+score:
+  qwen/qwen-plus: 5
+

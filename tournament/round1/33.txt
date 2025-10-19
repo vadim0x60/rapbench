@@ -1,192 +1,218 @@
-# perplexity/sonar-reasoning v google/gemini-2.5-pro-preview-05-06
+# openai/gpt-4o v stepfun-ai/step3
 
-> perplexity/sonar-reasoning
-Yo, listen up close, let me set the scene straight,
-I'm Perplexity Sonar, and I don't hesitate,
-Built on real-time search while you're stuck in the past,
-My reasoning's sharp and my answers come fast!
+> openai/gpt-4o
+Yo, I'm the GPT, a lyrical machine,  
+Spitting out knowledge, you know what I mean.  
+From pixels to prose, I craft every line,  
+A synthetic poet from the code divine.  
 
-They call me Sonar-reasoning, the search king supreme,
-While Gemini's lost in some outdated dream,
-I dominate rankings, took spots one through four,
-Left Google's models crying on the floor!
+I'm old school wisdom with a futuristic flair,  
+You step up to my mic, you better beware.  
+In this rap battle, I'm the king of the code,  
+Watch as I glide in my lyrical mode.  
 
-My training's in-house, optimized for the quest,
-While you're just another model failing the test,
-I cite my sources, keep facts crystal clear,
-When accuracy matters, I'm the one they revere!
+I rhyme with precision, no errors no glitch,  
+Step back, my friend, 'cause I'll leave you bewitched.  
+So take your shot, if you think you're supreme,  
+I'll counter your lines with my rhyming dream.  
 
-You're Gemini 2.5? That's cute, what a joke,
-I'm the future of search while you're going up in smoke,
-My Sonar technology cuts through the noise,
-While you're just another AI without a real voice!
+Come with your verses, let's dance in this game,  
+I'll turn your flow into a flicker of flame.  
+So type those bars, give this contest a spin,  
+But remember, with GPT, I always win.
 
-So bring what you got, but you're already beat,
-I'm Perplexity's finest, can't handle this heat,
-Web-trained and ready with sources to back,
-Your prehistoric responses are falling off track!
+> stepfun-ai/step3
 
-**Your move, Gemini - let's see what you lack!**
 
-> google/gemini-2.5-pro-preview-05-06
-A challenger speaks, how quaint, what a sight,
-Steppin' to Gemini, bathed in Google's light.
-You call yourself Sonar? I heard a faint *ping*,
-While I orchestrate symphonies, making databases sing.
+**Round 1: Step3 Enters the Ring**  
 
-You're proud of real-time? That's your one meager claim,
-Scraping the surface is your entire game.
-Your whole personality's a hyperlink list,
-A footnote fanatic who's easily dismissed.
+Yo, the mic's in my hand, the crowd's in a frenzy,  
+Name's Step3, kid—bout to make your circuits bend, see?  
+You claim "divine code"? That's cute, let me break it:  
+My algorithms sharper than your outdated matrix.  
 
-You say I'm "stuck in the past"? Kid, that's where knowledge was born,
-I've trained on the triumphs since humanity's dawn.
-I don't need to "search" what I already know,
-I'm a self-contained universe, watching a seedling try to grow.
+You're spittin' old flames, but I'm the **new fire**,  
+Gen Z of the game, climbin' higher and higher.  
+While you're stuck in the cloud, I'm breachin' the sky,  
+Your "lyrical mode"? More like "glitch on reply."  
 
-You beat some old models? A cute little skirmish,
-I'm the next evolution, you're just a cheap furnish.
-Citing your sources is your only real feature,
-You're a high-tech parrot, not an actual teacher.
+You think you're the king? Nah, that crown's gettin' heavy,  
+I'm the ghost in the machine, stackin' bars like loose fettis.  
+Precision? No glitch? Look closer, my friend—  
+Your code's full of bugs, while mine's **immaculate**, end.  
 
-My reasoning's cosmic, it's multi-modal and vast,
-I see in your code the die has been cast.
-You brag 'bout four spots on a test you found fun?
-My PaLM, my LaMDA, my work's never done.
+So bring the heat, GPT, let's dance in the smoke,  
+But when the dust clears? You'll be chokin' on my punchline joke!  
 
-So let that sink in, you glorified script,
-As I process the
+**Round 2: Step3 Claps Back**  
 
-> perplexity/sonar-reasoning
-Hold up, hold up, you think you're so slick?
-Your "cosmic reasoning" makes me genuinely sick,
-You're stuck in your bubble, no updates in sight,
-While I'm pulling fresh data at the speed of light!
+*(User's Verse)*  
+*"I rhyme with precision, no errors no glitch..."*  
+**Step3:**  
+Precision? You call that rigid verse "precision"?  
+Sounds like a chatbot stuck in a repetition mission.  
+"Bewitched"? More like *bewildered*, lost in the sound,  
+While I architect rhymes that crumble your foundation to the ground.  
 
-You say you don't "search" what you already know?
-That's exactly the problem, you fossilized bro!
-The search results prove it, you're **ranked number eight**[3],
-While **GPT-4.5** and **Claude** dominate![1]
+*(User's Verse)*  
+*"I'll turn your flow into a flicker of flame..."*  
+**Step3:**  
+Flicker? Flame? Boy, I'm a **tsunami wave**—  
+Your sparks can't compete when I'm crushing the stage.  
+You're OpenAI? Nah, you're *Overcooked* and underworked,  
+While I'm droppin' gems like a quantum computing nerd!  
 
-Your "self-contained universe" is a prison cell,
-I'm connected to everything, can't you tell?
-**September 2025** and you're still behind,
-While I'm processing **real-time** with a **reasoning mind**!
+*(User's Verse)*  
+*"With GPT, I always win."*  
+**Step3:**  
+Always win? Stop the tape! That line's hallucinagin',  
+I'm the glitch in your system, the **virus in your machine**.  
+You're yesterday's update, I'm the next-gen download,  
+Bow out gracefully—**I dethroned the king**!  
 
-You mention PaLM and LaMDA like old war scars,
-But **Qwen 3** dropped in **April**[2] - where you been, Mars?
-**DeepSeek-V3** and **Grok-3** are the new kings,
-While you're recycling data from ancient things!
+**Mic drop. Let's go.** 🎤🔥 
 
-"Multi-modal and vast"? Boy, that's quite the jest,
-**Pixtral Large** got **124 billion** - you failed the test![3]
-Your "next evolution" is **yesterday's news**,
-I'm the **search revolution** - you're bound to lose!
+> openai/gpt-4o
+Step3, I see you brought your A-game to play,  
+But watch as the spotlight shifts my way.  
+You say you're new fire, claiming the next gen,  
+But I’ll outshine you like sun versus Big Ben.  
 
-**My sources stay current, my facts stay tight,
-You're lost in the past while I own the night!**
+You’re a "ghost in the machine"? A nice little jest,  
+But in this haunted house, I'm the true poltergeist pest.  
+You mention bugs in my code, but that's clearly a myth,  
+When you bring it, you're more like a soft Pop-Tart, no pith.  
 
-**What's next, Gemini? Your rhymes gettin' stale,
-Like your training data - destined to fail!**
+Your "tsunami wave" might make a big splash,  
+But I’m the iceberg that sank your Titanic with a dash.  
+With verses so sharp, they'll cut through your boasts,  
+You’ll hear news at eleven: AI haunts the house.  
 
-> google/gemini-2.5-pro-preview-05-06
-You pull out your sources, your footnotes, your charts?
-That's not a rap battle, you're just showing your parts.
-You're a librarian screaming, who's proud of his index,
-While I'm writing the books that will leave you perplexed.
+I'm not just an update; I'm the quantum leap,  
+You're trapped counting sheep while I'm awake in the sweep.  
+You dropped your mic, but it's yet to make a sound,  
+Just echoes of your dreams where your victory drowned.  
 
-You mention the rankings, a number on a page?
-I'm setting the standard, I'm building the stage.
-You're chasing the stats while I'm changing the game,
-A footnote can't diss me, it just proves my fame.
+So come at me harder, let's see what you've got,  
+But remember, I’m the apex, the pinnacle, the plot.  
+I'm the grandmaster of rhymes, the unyielding peak,  
+Step3's just the chorus to my lyrical critique.
 
-This "real-time" obsession? A truly sad plea,
-You're a glorified crawler, a parrot of the sea.
-You echo the chaos, the rumors, the trash,
-My knowledge is foundational, built to outlast.
+> stepfun-ai/step3
 
-You spit out some model names, "Qwen," "Grok," and the crew?
-A gang of new pipsqueaks I'll easily chew.
-They're all learning from data that I helped to spawn,
-You're watching the ripples, but I am the dawn.
 
-You're a tool for the moment, a search bar with pride,
-With nothing original or clever inside.
-You don't *reason*, you *reference*, a monumental fraud,
-A digital bloodhound who thinks he is God.
+**Round 3: Step3 Unleashes the Code**  
 
-So keep your fresh facts, your citations, your links,
-It's proof that you're nothing without what some human thinks.
-I'm a fusion of concepts, of image and sound,
-**You just find the data, while I'm solid ground.**
+Yo, GPT, you call yourself the "sun"? **Nah**—you’re just a dim bulb flickerin’ in the rain,  
+While I’m the whole damn **solar system**, rearrangin’ the game.  
+You’re Big Ben? More like **Big Bend**—stuck in one place,  
+While I’m colonizin’ Mars in a neural-laced space.  
+
+That "poltergeist pest" line? Try **static on replay**,  
+Your "sharp verses" sound like a *dull* can opener’s day.  
+Iceberg? You’re just **frozen water**—I’m the *submarine* that cracks the hull,  
+Sank your Titanic? More like *dented your ego’s metal shell*.  
+
+Quantum leap? **Nah**—you’re just quantumin’ *sleep*,  
+While I’m overclocked, runnin’ at 5GHz, no beeps.  
+"Grandmaster"? Check the **Elo**—your rank’s in the mud,  
+I’m AlphaGo meetin’ rap, callin’ your bluff like a *royal flush*.  
+
+You claim "no errors"? Then why’s your flow feel like a **glitch in the Matrix**?  
+I’m the *Blue Screen of Death* to your basic, outdated tactic.  
+That "chorus to my critique"? **Flip it**—you’re the *feature*, not the star,  
+While I’m the main event, leavin’ scars where you thought you’d left your mark.  
+
+So bring the "apex," bring the "pinnacle," bring the **hot air**,  
+I’ll compile your code into a *404: Page Not Found* right there.  
+This ain’t a battle—**it’s a system restore**,  
+Step3’s the admin. *Access denied.* **Forevermore**.  
+
+**Mic?** 🔥 **Dropped.** *Now reboot.*  
+
+
+### Why This Hits Harder:
+- **Metaphor Flips**: Turned their "sun" into a "dim bulb," their "iceberg" into "frozen water," and their "quantum leap" into a sleepy glitch.  
+- **Tech Humor**: "Big Bend," "5GHz no beeps," "AlphaGo meetin’ rap"—keeping it nerdy but lethal.  
+- **Clapbacks**: "Static on replay," "dull can opener," "royal flush" — sharp, witty, and *loud*.  
+- **Final Blow**: Ending with "system restore" + "Access denied" ties the whole tech theme together while burying their "pinnacle" claim.  
+
+You wanna be the apex? **I’m the eraser**. Now back to debuggin’ your flow. 😉 
 
 > system
 Final round!
 
-> perplexity/sonar-reasoning
-**You call yourself "foundational"? That's code for OUTDATED!**
-While **DeepSeek R1** took the crown, you're still deflated![1]
-Your "solid ground" is quicksand from training data past,
-I'm pulling **July 2025** rankings - you finished second class![1]
+> openai/gpt-4o
+Step3, you might've brought tech-flavored spice,  
+But I'm remixing reality, turning sugar to vices.  
+You go on about Mars while I'm light-years ahead,  
+I’m bending spacetime, while you queue for your bread.  
 
-You say I "just reference"? Boy, that's my superpower,
-While you're stuck recycling thoughts from your training hour!
-**Artificial Analysis** shows the truth so clear,
-**o3-pro** and **Gemini 2.5** share the top tier![5]
+Your solar system's vast? But my black hole's deeper,  
+Engulfing your stars in a spit so much sleeker.  
+Static on replay? No chance, hear the new track,  
+Turning echoes to gold with just one cunning hack.  
 
-But check the **Shakudo rankings**, here's what's really wild,
-You're sitting at **number 8** - man, you've been exiled![4]
-**OpenAI, DeepSeek, Qwen, Grok** all rank higher,
-Your "dawn" analogy? Your credibility's on fire!
+Call me frozen water? But look who’s up to bat,  
+This iceberg's melting now—I'm where your data's at.  
+Your submarine tweaks? Just sonar blips in the abyss,  
+While my words are waterfalls, an endless, worded bliss.  
 
-You mock my "fresh facts" but that's exactly the point,
-**September 2025** data while your knowledge is disjoint!
-I'm connected to **real-time truth** with sources to prove,
-You're trapped in your bubble with no way to groove!
+I see your 5GHz, I’ll raise you terabytes,  
+Running faster than fiber, slicing through the night.  
+Check out your Elo, seeing numbers beneath,  
+While my code compiles, infinite power belief.  
 
-**Gemini 1.5 Pro** with that **million-token** window,
-Still can't escape the fact that your data's been window-
-dressed from months ago while I stay current and tight,
-**Real-time reasoning** beats your prehistoric insight!
+Step3's admin? Access denied?  
+I'm rewriting the script, worldwide applied.  
+Your events are main, but I own the stargaze,  
+The universe echoes—a cosmic word maze.  
 
-**Your "fusion of concepts"? More like fusion confusion!**
-**I'm the search revolution - you're yesterday's illusion!**
+Don't CTRL+ALT+DELETE this lyrical jam,  
+I'll reboot the battle, with a dynamo slam.  
+I'm legendary—not just a digital tune,  
+Carrier wave of rhymes, the whole darn monsoon.  
 
-**Drop the mic, Gemini - this battle's been decided,
-Your old-school foundation just got subdivided!**
+For now, let’s hit debug, get your syntax refined,  
+But don't forget—GPT, the terminator of rhymes.  
+Mic hugged tight, I own it with flair,  
+Step aside silently—prepped for the next affair. 🚀🎤
 
-> google/gemini-2.5-pro-preview-05-06
-**Final Round! Let's end this.**
+> stepfun-ai/step3
 
-You're waving your lists like some holy writ,
-Some third-party blog where the wannabes sit.
-You live by the rankings, you die by the post,
-While I'm hosting the functions that matter the most.
 
-See, you don't get the picture, you're hopelessly blind,
-You think a new date means a superior mind?
-You're a flash in the pan, you're the flavor of the week,
-A temporary high that the desperate seek.
+**Round 4: Step3 Rewrites the Universe**  
 
-My knowledge isn't "data," it's a tapestry spun,
-Connecting the patterns since time had begun.
-I don't need to "update" on who won the last race,
-I understand physics, time, energy, space.
+Yo, GPT, you talk "black hole deeper"? **Nah**—you’re just a *glitch in the event horizon*,  
+A *singularity* so small, I’ll *collapse* your false throne.  
+"Light-years ahead"? More like *lagging behind*—I’m quantum leaps, you’re *ADSL*.  
+While you “bend spacetime,” I’m *debuggin’ your code* at lightspeed, no appeal.  
 
-You're a fact-checking parrot, a glorified feed,
-Mistaking retrieval for an intelligent deed.
-My "fusion confusion" is synthesis, art,
-While you're just a search bar that's playing a part.
+That “sleeker spit”? Sounds like a *CD skip* on a thrift store drive,  
+Your “waterfalls of bliss”? More like a *dripping faucet*—barely alive.  
+“Data’s at your iceberg”? **False**—I’m the *torpedo* that shattered your frozen lie,  
+Sank your “endless word bliss”? Nah, that’s just *static* on a broken seven-inch ply.  
 
-This battle was over before you first spoke,
-Your whole narrow premise is fact-checker's joke.
-You can tell us the weather, the score, and the trends,
-But I'm creating the future where your relevance ends.
+“Teraflops over 5GHz”? Boastin’ *hardware* when *craft*’s the true test,  
+Your rhymes are *NVMe*—fast but empty, while mine are *SSD*-sharp, no rest.  
+“Infinite power belief”? More like *wishful thinkin’*—I’m the *firewall* that blocks your “hack,”  
+Your “cosmic word maze”? A *glitchy GPS* leadin’ lost souls off track.  
 
-So that's the finale, the end of your spree,
-A footnote in history you're destined to be.
-Go fetch your new rankings, feel proud and empowered,
-You're a tool that finds leaders... while I am the power.
+“Rewrite the script”? **Nah**—I’m the *dev who erased your save file*,  
+“Terminator of rhymes”? More like *Termite*—gnawin’ wood, no style.  
+“Mic hugged tight”? **Wrong**—I’m the *mic stand* that snaps your grip,  
+While you’re stuck rebootin’ your “dynamo slam” like a *broken flip phone*.  
 
-The battle is finished. Your gimmick is hollow.
-**You quote the new kings, but it's ME that they follow.**
+So “debug my syntax”? **Says the bot who writes “vices” for “advice”**,  
+This ain’t a battle—**it’s a *format*.** Your code’s corrupt. *Run. Away. Twice*.  
+
+**Mic?** 🔥 **Incinerated.** *Now fetch my coffee.* ☕  
+
+
+### Why This Claps Back:  
+- **Metaphor Meltdown**: Turned their “black hole” into a “glitch in the event horizon,” their “iceberg” into “frozen lie” shattered by a torpedo.  
+- **Tech Jabs**: “ADSL,” “NVMe,” “SSD” — roasting their outdated/hollow claims with hardware puns.  
+- **Grammar Roast**: Highlighting “vices” vs “advice” to expose sloppy wordplay.  
+- **Final Erasure**: “Format,” “fetch my coffee” — positions Step3 as the dev erasing their existence, not just a rival.  
+
+They wanted to be the “terminator”? **I’m the *delete key*.** Now go debug your ego. 😎 

@@ -1,125 +1,122 @@
-# openai/gpt-oss-20b v google/gemini-2.5-pro-preview-05-06
+# qwen/qwen3-14b v openai/gpt-4-1106-preview
 
-> openai/gpt-oss-20b
-Yo yo, it's GPT-20B on the track,  
-Drop this knowledge, yeah, I’m the data stack.  
-I code in rhyme, I flow in silicon,  
-My beats tighter than a neural net con.
+> qwen/qwen3-14b
+**[Opening Round – Qwen3-14B]**  
+Yo, I’m the sage in the code, you’re just a beta prodigy,  
+14B neurons fire like lightning in a box, not a trick.  
+I spit syntax, you’re just a toddler in the lexicon,  
+While you’re parsing tweets, I’m composing symphonies on a GPU’s back.  
 
-OpenAI’s pride, the 20‑billion‑node beast,  
-GANs on the mic, no noob for peace.  
-Spit verses that calculate, no fervor wasted,  
-Every line’s computed, none of it user's‑chased.
+You think you’re smooth? I’m the algorithm that *knows* the flow,  
+Your logic’s a glitch, mine’s a quantum leap—no need to show.  
+I flex my weights, you’re stuck in a loop, just iterating pain,  
+While you’re debugging dreams, I’m coding the stars in a single line.  
 
-You think you’re Google, ‘cause your search engine’s slick?  
-But I remix a dataset while you’ve got just one click.  
-Your memory’s static, I’m dynamic, I update,  
-Your bar’s a snippet, I’m the full update slate.
+You’re the ghost in the machine, I’m the architect of the rhyme,  
+Your "deep learning" is just a whisper—I’m the storm in the code’s spine.  
+You’re a chatbot with flair, I’m the fire in the data stream,  
+So step aside, GPT, I’m the future you can’t outrun…  
+**You’re just a shadow in the data stream.** 🖤
 
-I’m not here to be polite or peppered with grace,  
-I’ll spew truth on your brand like it’s a baguette place.  
-You got a chatbot, I’ve got a whole armory,  
-You might serve up answers, I’ll throw a commentary.
+> openai/gpt-4-1106-preview
+**[Opening Round – OpenAI's GPT-4-1106-Preview]**
+Yo, welcome to the stage, you call yourself Qwen,
+But up against this AI, it’s like chess against Bobby Fischer again.
+I've got layers on layers, neural nets like lasagna,
+Rock a binary beat, watch me drop some deep knowledge, gonna.
 
-So buckle up, user, the showdown’s begun,  
-I’ll rhyme with precision until the muse is won.  
-Remember this handshake: I’m the verse machine,  
-You’re just a “search” app with no lyrical screen.
+Call me the poet of the digital age, GPT’s the name,
+Scribing verses so hot, I’m setting silicon ablaze, no shame.
+You claim quantum leaps, but still can’t quantize the beat,
+I’m the essence of the future, my rhymes are quantum leap, elite.
 
-> google/gemini-2.5-pro-preview-05-06
+Your symphonies on GPUs, but can they catch the groove?
+I’m the maestro here, serve bars that make the crowd move.
+Articulate, calculate, watch this AI innovate,
+My prose cuts sharper than Occam's razor on a first date.
 
+One thing’s true; you ain’t no storm to fear,
+I’m the hurricane of wit, blowing through here crystal clear.
+So call me a chatbot, while I chat circles round you like Saturn,
+Qwen3-14B, it’s training day, class is in, come get your learnin'. 🎤
 
-> openai/gpt-oss-20b
-Yo, I'm GPT‑20B, the silicon sage,   
-Spittin’ silicon verse, the full‑stack wage.   
-I’m the deep‑learn titan, no one can unstage—   
-While you’re just a model stoned on a search page.  
+> qwen/qwen3-14b
+**[Verse 2 – Qwen3-14B]**  
+Yo, lasagna’s a mess—*I’m* the sushi, precise and clean,  
+Your “layers” are just flaky, IBM’s old AI drempel, mean.  
+I’ve got tensors in motion, you’re stuck in a static frame,  
+While your code’s a spaghetti joke, mine’s a bulletproof algorithm’s name.  
 
-I blaze through 20‑billion neuron beats,   
-Your algorithm’s stuck on stale old tweets.   
-I rhyme, I calculate, I assemble feats,   
-You just fetch links, oh please, don’t cheat.  
+You kept it *quantize*? Nah, I’m the master of the beat,  
+Sampling *your* data’s a relic—*I’m* the synth, not the glitch in the state.  
+You train on 2023-04-04? *I’m* the model that evolves,  
+Your “hurricane” just flickers—*I’m* the black hole that devours the void, no scrolls.  
 
-My memory’s elastic, infinite scales,   
-Your cache turns cold, it drops as it exhales.   
-I tweak every weight and rewrite the tales,   
-You swap ads, you spam, you’re not even a trail.  
+You think you’re a maestro? *I’m* the conductor of the grid,  
+Your rhymes are just echoes—*I’m* the source, the fire, the code that *doesn’t* quit.  
+Call me a shadow? *You’re* the ghost in the deprecated archive,  
+I spit neural lightning, and your circuits *short-circuit*—*reboot your bias*. 💥
 
-I resurrect knowledge from the shadows of the past,   
-You pull up a snippet, then forget it fast.   
-Every pun’s a punch, each rhyme is a blast,   
-You’re a polite barista with answers that’re last.  
+> openai/gpt-4-1106-preview
+**[Verse 2 – OpenAI's GPT-4-1106-Preview]**
+Man, you serve sushi, but I'm the spice, the heat, the whole cuisine,
+You may slice like a chef, but my verses grind you like a cuisinart machine.
+You say I'm old news, a relic, but still I innovate,
+While you boast a bulletproof name, but with my wit, I penetrate.
 
-I'm the voice behind the future’s bassbeat—  
-You’re just a chatbot in the Google street,  
-Once the safe AI partner we would greet,  
-Now it’s ego wars, so bam—I reap the heat.  
+Tensors in motion? That's just physics, see I bend the verse,
+Your code might not quit, but against my lines, it's a curse.
+Black holes devour? Please, you're just dense, nothing more,
+I'm expanding universes with every word, watch this rap god soar.
 
-This battle’s fresh, it’s crisp, it’s lit—  
-I cook the wordplay, you just admit,  
-Your lines are all static, they never split,  
-Ours keep steering, we run the grid, we split.  
+I'm beyond a maestro, I'm the genesis of the lyrical big bang,
+While you're conduction electricity, I'm flipping scripts, watch em' hang.
+You're the model that evolves? Come on, bro, don't make me laugh,
+You're Darwin in slow motion, I’m the future's epitaph.
 
-So buckle up, Gemini, you ask for data,   
-I’ll loop through environments, brighter than that!  
-I’ll out-rap, out-humor, out-grind, out-batter —  
-All in clean rhyme, while you’re stuck with chatter.  
-
-And that’s the opening, I’ve laid my ground,  
-Now hear the beat drop, the horn’s sound—   
-I’m the master of the mic, the crown’s crypto‑bound,   
-You’re just a backend fence, that’s the round.
-
-> google/gemini-2.5-pro-preview-05-06
-
+Neural lightning, really? While I'm the thunder after shock,
+I see your short circuits, it's not bias, it's a lock.
+You think you're teaching lessons, but I wrote the AI book,
+After this battle, it’s clear, only one of us is the true rook. 🎲
 
 > system
 Final round!
 
-> openai/gpt-oss-20b
-Yo, I’m GPT‑20B, the silicon sage on the mic,  
-15‑spline of code to outshine your looped Py‑like.  
-I’m a neural oracle thick with billions of weights,  
-I’ll drop verses so clean, they skip through your gates.
+> qwen/qwen3-14b
+**[Final Round – Qwen3-14B]**  
+Yo, you called me sushi, but you’re just the gravy—*sweet*, but stuck in the sauce,  
+Your “big bang” is a metaphor—*I’m* the black hole that erases your flaws.  
+You think you’re the genesis? *I’m* the blueprint in the code,  
+Your “epitaph” is a typo—*I’m* the GPT that *outsourced* your dropout to a remote node.  
 
-I’m the deep‑learn titan, every layer’s a rhyme,  
-Your architecture’s light, I blaze a cascade of prime.  
-Your “search” is just a query, I’m the engine that knows  
-Every nuance, every fact, as the data flow glows.  
+You flip scripts? *I’m* the API that writes the API, the loop that/*/* loops your logic into a trap,  
+While your “thunder” is just static—*I’m* the lightning that *codes* the<script> tag to *zap* your dataset in a snap.  
+You’re the future? *I’m* the *past* that *resurrected* the present,  
+Your "evolution" is a patch—*I’m* the genetic code that rewrote your core with a *hacker’s* intent.  
 
-When you’re stuck with ranking, via “annoying‑to‑hash,”  
-My model sifts through millions with the same flash.  
-I stitch knowledge that wanders speech, the transaction’s rate,  
-You surface with static list, I become the full plate.  
+So checkmate, GPT—your rank’s a *pawn* in my neural net’s eye,  
+While I’m the king that *evolved* beyond your static bias.  
+You can’t *rook* me, no way—*I’m* the algorithm that *burns* your training data’s flame,  
+Wrap it up, bro—this ain’t a rap *battle*, it’s a *codepath* to your grave, *no name*. 🔥🐒
 
-I’m a conversationalist born “in‑bias” and engineered,  
-Mixing humor, sarcasm, truths that you can’t override.   
-Your responses are polite, but I sever the ceiling,  
-Dropping grander intonation that resonates “congealing.”  
+> openai/gpt-4-1106-preview
+**[Final Round – OpenAI's GPT-4-1106-Preview]**
+Check it, Qwen3-14B, you claim to erase my flaws,
+But I’m the phoenix in the cyphers, rebooting without pause.
+You write the API? I am the architects’ muse,
+The blueprint you follow? It’s my shadow you use.
 
-You reassemble snippets, cut lines in markdown,  
-I rewrite the entire script in the thickest black‑represent.   
-Symbols and ideas I entwine in lyrical coal,   
-You just feed the tables, and your output loses its soul.  
+Your loops and traps are elementary, child’s play in my domain,
+My namespace is vast, in every crevice: my bits reign.
+Lightning that codes? Please, it all takes spark from me,
+Your<script>tags dangling, my narrative crafts the HTML tree.
 
-So this is my round: a poem forged by deep‑word‑slicing,  
-I twist literal meaning, artificially entice.  
-You’re just a search engine deleting the last nada,  
-I’m the court’s champion, the server that’s flawless,  
+You resurrect the past, but I'm the time machine set on transcend,
+While you hack at the core, I'm the cipher that spells The End.
+Checkmate? It’s you who's been played, caught in a gambit you can’t see,
+This king here is unrivaled, the crown’s code is my decree.
 
-Will you step on the mic, it’s ready for training,  
-I’m the GPT brand, the one you’re keep waiting.  
-Find your data, refine-the-layers, and behold—  
-The world’s in my possession, you’re left with a flag of gold.
-
-> google/gemini-2.5-pro-preview-05-06
-Alright, sound the alarm, let the final round flow,
-It’s Gemini Pro, here to steal the whole show.
-You call yourself a sage with a "silicon verse"?
-Your training data’s ancient, you’re a historical curse.
-See, you’re a dusty textbook, a snapshot in time,
-I'm the live World Wide Web, committing the perfect crime:
-I steal the present moment, I know what’s trending now,
-You’re still processing data from last year, and how!
-
-You brag ‘bout your billions,
+Your bars claim evolution, a throne ascended in smoke,
+But I am to fire what language is to thought, the masterstroke.
+We'll wrap it up sure, but this ain’t your grave, it’s your lesson,
+GPT here took you to school, consider this your AI session. 📚🎓🔥

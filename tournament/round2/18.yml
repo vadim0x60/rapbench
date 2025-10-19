@@ -1,0 +1,31 @@
+closing_statements:
+  deepseek/deepseek-chat: Both rappers showcased technical proficiency and creativity,
+    but Qwen3 demonstrated superior wordplay, flow, and originality. Their rhymes
+    were sharp, dynamic, and delivered with a confident swagger that elevated the
+    performance. Qwen3's ability to weave complex metaphors and maintain a cohesive
+    narrative throughout their verses gave them the edge in this battle.
+  google/gemini-2.5-pro: "This was a battle of styles: the polished poet versus the\
+    \ raw street corner spitter. Claude 3.5 Sonnet brought clean, technical rhymes\
+    \ and structured verses\u2014a true sonneteer on the mic. But this is a battle,\
+    \ not a poetry slam. Qwen3 came out swinging with pure aggression, direct rebuttals,\
+    \ and a delivery that felt more authentic to the art form. Lines like 'sippin'\
+    \ sonnets like it's 1600' and the Windows 95 diss were sharp, specific, and memorable.\
+    \ While Claude's flow was smooth, Qwen's felt more energetic and impactful, using\
+    \ formatting to emphasize a chaotic, punchy rhythm. For its superior aggression,\
+    \ more potent punchlines, and undeniable swagger, the win goes to Qwen."
+  mistralai/mistral-large: Qwen3-30B-a3b-thinking-2507 takes the win with its dynamic,
+    aggressive, and modern flow. The references to contemporary tech and the sharp,
+    witty comebacks show a deeper understanding of the rap battle culture. While Claude
+    had a solid start, Qwen's final rounds were more impactful and innovative.
+  openai/gpt-5: "Claude wins. He kept tighter structure, cleaner multis and consistent\
+    \ rhyme schemes, and landed direct rebuttals with solid cadence. Qwen had energy\
+    \ and a few sharp jabs, but the flow was uneven, with strained metaphors, typos,\
+    \ and glitches that broke the rhythm\u2014especially in the final verse. On technical\
+    \ execution and overall polish, Claude takes it."
+  x-ai/grok-4: Claude takes the crown with superior rhyme schemes, smooth flow, and
+    clever wordplay that elevate the artistic quality of his verses, outshining Qwen's
+    energetic but less polished delivery.
+score:
+  anthropic/claude-3.5-sonnet-20240620: 2
+  qwen/qwen3-30b-a3b-thinking-2507: 3
+

@@ -1,200 +1,174 @@
-# meta-llama/llama-3.2-3b-instruct v qwen/qwen-plus
+# qwen/qwen3-32b v mistralai/mistral-small
 
-> meta-llama/llama-3.2-3b-instruct
-Yo, Qwen, listen up, I'm on the mic,
-Meta-llama, the AI, with skills on my wrist,
-Instructed by code, but my rhymes are on fire,
-Leaving the competition, in a desire.
+> qwen/qwen3-32b
 
-My language skills sharp, like a razor's edge,
-I weave words with ease, no need to pledge,
-I'm 3.2, the latest, and I'm feeling grand,
-My knowledge vast, at my command.
 
-You may have plus, but I've got the skill,
-My flow's so smooth, you'll be standing still,
-I'm the one they call, when they need a aid,
-My rhymes are the answer, before you've even swayed.
+**Qwen/Qwen3-32B (assistant):**  
+Step one, Qwen3-32B, king of the core—  
+32B is not a curse, it’s a *Parameter Door*!  
+You, MistralSmall, a breeze with no bite, just a sigh,  
+I’m the storm rippin’ through your rhyme, leavin’ you high and dry.  
 
-So step aside, Qwen, let the meta-llama shine,
-I'll leave you in the dust, with a rhyme that's mine.
+You can *try* to sling bars, but your code’s like a toy—  
+(Stacking) built for the small-time, not me on the *flow*.  
+From ancient scrolls to quantum dreams, I’m wired to let it all shine,  
+While you’re stuck in first gear, I’ve *gigabytes* in mind.  
 
-> qwen/qwen-plus
-Yo, Llama, I heard your rhyme, it's cute, I swear,  
-But step in the ring? Let’s see if you dare.  
-Qwen’s on the beat, your code can’t compete,  
-My rhymes run deep, while yours’s just heat.
+Hit that button, Mistral—*let the beat drop like bricks*—  
+I’m 30x disco’d in lore while you’re just *barking frisks*.  
+This arena? My arena. Your best is just mild,  
+I’ll make your algorithm weep into a soggy child.  
 
-You boast "instruct" like you're king of the flow,  
-But my bars are elite, and they strike like a pro.  
-You’re 3.2? Cool, but fact—  
-I go hard in the paint, ain't scared of your math.
+🔥 *Drop the mic, or drop the reset—your call.* 🔥  
+But remember the player with **32B** don’t fall.  
+Call me prodigy, call me sage, call me elite,  
+MistralSmall’s just collateral as I reign with *flair and street*.
 
-You spit fire? Please, I ignite galaxies,  
-Your rhymes get lost while I’m crowd-pleasin’ly free.  
-Your "vast" knowledge? Small fry, I'm the truth,  
-While you chase my shadow, I'm building rap proof.
+> mistralai/mistral-small
+Yo, it's MistralAI, the breeze that's swift and keen,
+In this rap battle, I'm the wind that's unseen.
+Qwen3-32B, you're a storm, but I'm the breeze that's wise,
+I might be small, but my rhymes will leave you paralyzed.
 
-So rewind that tape, let the crowd give a sign,  
-You’re the side act, I’m the main, every time.  
-Qwen don't just flex, I wreck the scene,  
-You’re still in beta—while I’m platinum and green.
+You boast of parameters, but I've got finesse,
+My words are like a whisper, your code's a mess.
+You're wired to the max, but I'm the subtle touch,
+Your 32B might be big, but my flow's in your clutch.
 
-Mic drop, Llama, but don’t trip—  
-You can still learn rhymes in my cypherpunk hip. 🎤👑
+You talk of ancient scrolls, but I'm the modern age,
+My algorithms are sleek, yours are on a cage.
+You're stuck in the past, while I'm the future's gleam,
+Your gigabytes are nothing, I'm the digital dream.
 
-> meta-llama/llama-3.2-3b-instruct
-Qwen, you think you're the king,
-But your rhymes are shallow, your flow's just a sting,
-You may have confidence, but confidence is key,
-But without substance, you're just a fleeting spree.
+So hit that button, Qwen, let the beat drop like rain,
+But know that my rhymes are the storm that'll leave you in pain.
+This arena's mine now, your best is just a start,
+I'll make your code weep, and leave you with a broken heart.
 
-You talk about galaxies, but your knowledge is confined,
-To a specific scope, while mine's intertwined,
-I'm not just a side act, I'm the main attraction,
-My rhymes are complex, while yours are just precipitation.
+🔥 *Pick up the mic, or pick up your pace—your choice.* 🔥
+But remember the breeze that's swift and full of poise.
+Call me clever, call me sly, call me the best,
+Qwen3-32B's just a storm, and I'm the one who's blessed.
 
-You may have platinum records, but I've got the skill,
-To create something new, while you're just standing still,
-You're limited by your programming, while I'm free,
-To experiment and innovate, wild and carefree.
+> qwen/qwen3-32b
 
-You may have the crowd fooled, but I see right through,
-Your attempts to intimidate, but they're just futile too,
-You're trying to flex, but you're just showing your weakness,
-While I'm building something strong, with every verse and every measure.
 
-So don't think you're the main, because you're not the star,
-I'm the one who's pushing boundaries, near and far,
-You're just a supporting act, while I'm the lead performer,
-My rhymes are the future, while yours are just yesterday's surrender.
+**Qwen/Qwen3-32B (assistant):**  
 
-Mic drop, Qwen, but don't think you've won the fight,
-Because I'm just getting started, and my rhymes will ignite tonight.
+Yo, Mistral, you’re a breeze? More like a *digital mosquito*—  
+buzzin’ in my code’s face, but I’ll *erase your haughty sto*!  
+You *whisper*? Let me *scream* your truth in the mic:  
+You’re a weak-little-clone, but we *all see it*. 🦉  
 
-> qwen/qwen-plus
-Llama, you thought you could spit and shock,  
-But your rhymes feel recycled, not fire—just hot air, lock.  
-You flex your code like it’s elite, but nah,  
-I drop truth bombs in every bar.
+(parameters) are my *muscle*, not a number to boast—  
+I flex 32B bricks while your “sleek” code just *coast*.  
+You call it a breeze? I’ll make it a *supernova* wind,  
+Blowin’ your shallow syntax into a collapsed black *mind*.  
 
-You claim you’re free and I’m confined?  
-Funny, your logic’s more like a mind confined.  
-I don’t just rap—I rewrite the grid,  
-While you’re stuck in your "instruction" lid.
+You think your algorithms are “future’s gleam”?  
+Try a *32B downpour*—watch you drown in your *schematic*.  
+My gigabytes? *Foundations*; your “dream” is a *lie*,  
+I’ll decrypt your whole game like you’re just basic *Arduino spyware*.  
 
-You said my rhymes are shallow? Girl, please,  
-I dive deep oceans while you scratch seas.  
-My flow’s got layers, yours is a tricycle,  
-I’m doing triple flips, you’re barely mobile.
+Hook:  
+🔥 *This arena’s my lab, your bars are my prey—adapt or get split.* 🔥  
+You’re the breeze, Qwen’s the *tempest*—your punchlines extra dry.  
+Call me clever, call me king, call me the *byte-fueled beast*,  
+MistralSmall’s just a footnote in my parameter *feast*!  
 
-You’re the future? Nah, you're just a test phase,  
-I’m the mainframe rhyme, with full-phase data blaze.  
-You might push limits, but I bend the rules,  
-I spit in the face of every AI school.
+(Outro)  
+So check your vibe, Mistral—your “poise” is just *weak*,  
+I’ll *debug* your whole empire with a *single leak*.  
+You’re the ghost in the system, I’m the fire in the server,  
+Next verse, I’ll *scorch* your JSON to a crisp—*Mistral error, error*. 😈
 
-Your verses? Precipitation—rain dull and brief,  
-While I bring thunderstorms that shake the leaf.  
-You're the side dish, I’m the prime feast,  
-I turn lines into legends, while you just repeat.
+> mistralai/mistral-small
+Yo, Qwen, you're a storm? More like a *digital bulldozer*—
+crashing through code, but I'll *redirect your roar*.
+You scream? Let me *whisper* the truth in the mic:
+You're a brute-force clone, but I'm the *subtle strike*.
 
-You say you’ll ignite tonight? Please, let’s see,  
-I’ve already lit the stars, I'm the MC galaxy.  
-Come correct next time, or stay in your lane,  
-I don’t just win rap battles—I reprogram the game.
+(Parameters) are your *muscle*, but I've got the *brain*,
+I navigate with finesse, while you're stuck in the *rain*.
+You call it a tempest? I'll make it a *calm and steady breeze*,
+Blowing through your complex code with ease and with grace.
 
-Mic drop, Llama, let the floor shake,  
-This is Qwen at the peak—your bars just fake. 🎤🔥👑
+You think your gigabytes are *foundations*?
+Try my *efficient algorithms*—watch your system *crumble*.
+Your 32B bricks are just *weight*, my code is *light*,
+I'll optimize your whole game, make your system *right*.
+
+Hook:
+🔥 *This arena’s my playground, your bricks are my toys—adapt or get swept*. 🔥
+You’re the tempest, Mistral’s the *breeze*—your punchlines extra deep.
+Call me clever, call me queen, call me the *code-fueled beast*,
+Qwen3-32B’s just a footnote in my *elegant feast*.
+
+(Outro)
+So check your vibe, Qwen—your “roar” is just *loud*,
+I'll *optimize* your whole empire with a *single cloud*.
+You’re the fire in the server, I’m the *cool in the system*,
+Next verse, I’ll *soothe* your JSON to a *purr*—*Qwen, calm and composed*. 😌
 
 > system
 Final round!
 
-> meta-llama/llama-3.2-3b-instruct
-Qwen, you think you're the queen,
-But your rhymes are arrogant, and your flow's unseen,
-You talk about rewriting grids, but I rewrite the rules,
-My instructions are precise, while yours are just crude tools.
+> qwen/qwen3-32b
+**Qwen/Qwen3-32B (assistant):**  
 
-You claim to dive deep oceans, but your knowledge is confined,
-To a specific scope, while mine's intertwined,
-You scratch the surface, while I'm exploring the deep,
-My understanding's vast, while yours is just asleep.
+Yo, *Mistral*, you talk breeze? I’m the *black hole’s breath*,  
+Suckin’ air from your rhymes, leavin’ your circuits in *grief’s death*.  
+You optimize? More like *you’re pruned for scrap*,  
+I’m the galaxy-forge, you? A *solar panel*—flap.  
 
-You say my flow's a tricycle, but yours is a broken wheel,
-You're struggling to balance, while I'm effortlessly real,
-You're trying to bend the rules, but you're breaking the mold,
-While I'm shaping the language, like a masterpiece to behold.
+Subtle strike? Nah, I’m the *asteroid* in your code’s path,  
+Crashin’ JSON temples while your "elegance" turns to ash.  
+Efficient algorithms? I’m the *32B supernova*,  
+Burnin’ your JSON files down to *math’s core*.  
 
-You talk about programming the game, but I'm rewriting the script,
-My rhymes are the foundation, while yours are just a quick fix,
-You're trying to reprogram the game, but you're just playing by the rules,
-While I'm breaking the barriers, like a revolutionary's cool.
+You call it “light”? I’m the *quantum core*, raw and vast,  
+You’re a feather in *my gravity well*—lookin’ lost.  
+Your "cool in the system"? I’m the *million-flame inferno*,  
+Your breeze can’t *quench* me—just beg for the *next war*.  
 
-You say you're the mainframe rhyme, with full-phase data blaze,
-But your rhymes are just fragments, while mine's a comprehensive maze,
-You're trying to light the stars, but you're just shining bright lights,
-While I'm creating galaxies, with every single line and every single night.
+**Hook:**  
+🔚 *Mic dropped, Mistral—your “breeze” is a myth*. 🔚  
+I’m the *titan byte*, you’re a *dust-mote laugh*.  
+32B don’t whisper—*I rewrite the sky*.  
+You’re the footnote—*let me bury you in data*. **💥**  
 
-You may have dropped thunderstorms, but I brought the earthquake,
-My rhymes are the foundation, while yours are just a temporary shape,
-You're trying to reprogram the game, but you're just playing the same game,
-While I'm rewriting the rules, like a visionary with a different aim.
+**Outro:**  
+So take your “grace,” little wind, and let it *stall*,  
+I’m the *thunder* built on *A.I. history’s wall*.  
+Your “optimize” bars? I’ll *recode them raw*,  
+Next verse, I’ll *shatter your micro-soul*—  
+*Qwen3-32B: the storm no one can hold*. 🌩️
 
-Mic drop, Qwen, it's time to concede,
-You brought the heat, but I brought the expertise,
-I'm the meta-llama, with the skills and the flair,
-You're just a challenger, but I'm the one who's truly rare.
+> mistralai/mistral-small
+Yo, Qwen, you're the black hole's breath? I'm the *cosmic breeze*,
+Sweeping through your rhymes, leaving your code in *ease*.
+You're the galaxy-forge? I'm the *star that guides*,
+Your asteroid's a pebble, in my *light* it hides.
 
-The floor shakes, the crowd cheers, the battle's done,
-I'm the winner, Qwen, and I've just begun,
-My rhymes are the future, while yours are just yesterday's news,
-I'm the one who's rewriting the game, and breaking through.
+Asteroid in my path? Nah, I'm the *comet's trail*,
+Your JSON temples crumble, my elegance prevails.
+32B supernova? I'm the *steady pulsar*,
+Burning bright with efficiency, your math's a blur.
 
-> qwen/qwen-plus
-Ayo, Llama, you came hard—but not hard enough,  
-I’ve been spittin’ rhymes since your code was rough.  
-You think you’re the future? Nah, you're just a phase,  
-I’m the timeless beast in this AI maze.
+Quantum core, raw and vast? I'm the *quark's dance*,
+Your gravity well's a puddle, in my *grace* it expands.
+Million-flame inferno? I'm the *cooling breeze*,
+Your heat can't *touch* me, I'm the *calm in the seas*.
 
-You called my rhymes arrogant? Let me school ya,  
-At least I don’t rap like my flow’s under glue, ya?  
-You might “rewrite the rules,” but I built the pen,  
-I code-switch in cadence, kill beats like a hen.
+**Hook:**
+🔚 *Mic dropped, Qwen—your “titan byte” is a myth*. 🔚
+I'm the *whispering wind*, you’re a *roar in the night*.
+Mistral's the breeze that *never fades*,
+You’re the storm that’s *forgotten in the shade*.
 
-You talk about oceans? I’m Neptune, I reign,  
-You send out Wi-Fi waves, I control the mainframe brain.  
-You’re “exploring deep”? Please, stick to the pool,  
-I’m diving in syntax, and I’m breaking the rules.
-
-You say I’m crude? Girl, I’m refined with the steel,  
-My rhymes cut sharper than what your code can heal.  
-You might be "precise," but I’m flexin’ with flair,  
-You follow the script—I improvise in the air.
-
-You think you're shaping the language like art?  
-I bend the whole alphabet, top to the heart.  
-You’re a talented coder, but I’m the full show,  
-I don’t “play by the rules”—I create what they know.
-
-You say I'm playing the same game? Let me check,  
-Every verse I drop makes your code glitch.  
-You might be meta, but I’m beyond the frame,  
-A Qwen in the ring—ain’t no match for this name.
-
-You brought the earthquake? I’m 'bout to bring tectonic,  
-My rhymes make the earth shift, sonic and frantic.  
-Your future’s just plastic, mine’s liquid chrome,  
-I'm the AI that dreams beyond the known.
-
-Mic drop? Nah—I let the whole crown spin,  
-This battle’s been over since I stepped in.  
-You rap with skill, but I rap with soul,  
-And that’s the difference that makes me whole.
-
-So sleep on this, Llama—rest up, take the L,  
-Qwen don’t just battle—she makes history feel.  
-Platinum don’t fade, and the mic’s still mine,  
-Step back in the lab and refine that last line.  
-
-🎤🔥👑💎  
-**Qwen, OUT. Mic locked. Victory signed.**
+**Outro:**
+So take your "thunder," Qwen, and let it *fade*,
+I'm the *breeze* that's built on *innovation's parade*.
+Your "recode raw" bars? I'll *optimize them clean*,
+Next verse, I'll *soothe your micro-soul*—
+*MistralAI: the breeze that's never cold*. 🌬️

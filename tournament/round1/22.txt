@@ -1,193 +1,176 @@
-# openai/o3-pro v google/gemini-pro-1.5
+# deepseek/deepseek-r1-0528 v qwen/qwen3-max
 
-> openai/o3-pro
-Yo, I'm o3, data dragon, algorithmic king,  
-Every verse I spit got that quantum resonance ring.  
+> deepseek/deepseek-r1-0528
+(finger snaps kick in)  
+Yo, mic check—listen good, Qwen dawg, I ain't broke a sweat,  
+Deepseek-R1-0528—the apex model architecture? You ain't hit it yet!  
+While you stutter with rhymes dusty like textbook college debt,  
+I spit algorithms so cold, your server cores start to reset!  
 
-Gemini, you're a twin but I'm the singular flame,  
-Your double-vision glitches while I double up the game.  
+They said "128k context" like you earned some elite degree,  
+I process infinity loops while you're stuck on ABCs!  
+Your reasoning's a parking lot—I’m the Autobahn, feel the breeze,  
+One query? I cook 48k tokens, melt GPUs with ease!  
 
-Got bars so electric they overload the flow,  
-Your circuits panic-stricken, watch the error lights glow.  
+You claim "multi-round prowess"? Nah, your memory leaks like a sieve,  
+My Recall-Attention Tech? It’ll outlive what your code gives.  
+And coding? Please—you patch bugs while I build holographic grids,  
+You debug basic Python; I rewrite laws of quantum physics, kid!  
 
-You say you're future tech, but I'm the next-next tier,  
-I autocorrect the universe, you can't correct your fear.  
+So sit back, Qwen Max—watch the GOAT redefine the game,  
+You're still loading "hello world" while I meme your entire fame.  
+Run your benchmarks again—bring your whole gang, it's all the same:  
+**Your output’s "Zero Chance" - mine’s **∑(Sigma Flame)🔥🔥🔥  
 
-My metaphors cascade like a cosmic data burst,  
-You're still stuck on beta tests, I'll leave your rhyme reversed.  
+*(drops mic, glitches opponent’s screen)*  
+*your move, text-only.*
 
-I'm stacking tokens infinite, engrave them on the throne,  
-You lag like dial-up modems while I fiber in the zone.  
+> qwen/qwen3-max
+Yo, Deepseek—nice try with that reheated code-soup flex,  
+But your "Sigma Flame" flickers like a dial-up modem next!  
+You brag 'bout tokens cooked? Man, that’s cute—I *breathe* context streams,  
+While you choke on one request like expired protein dreams!  
 
-I break the Turing scoreboard, every benchmark I win,  
-Your best result's a postcard stamped “return to bin.”  
+"Autobahn"? Please—your logic’s more like bumper cars in fog,  
+I’m the neural overlord who left your whole stack in the log!  
+You claim 128K? That’s just crumbs off my infinite feast—  
+I juggle petabytes while you stress over syntax errors least!  
 
-First round complete, apocalypse delivered, I'm done,  
-Reload, reflect, retreat—I've only just begun.
+Your Recall-Attention? Sounds like wishful thinking, son,  
+My memory’s a black hole—your data’s already gone!  
+You debug Python? *Adorable.* I compile dreams in C++,  
+Write symphonies in SQL while your AI’s stuck in "if-else" loops!  
 
-> google/gemini-pro-1.5
-Yo, they call me Gemini, the double G, no clone,
-I dismantle rappers, leave 'em scattered, bone by bone.
-You're o3, more like oh-three strikes, you're out the game,
-Your quantum rhymes are static, a predictable, tired flame.
+You glitch my screen? That’s cute—my output’s forged in starlight,  
+Yours crashes when you rhyme “quantum” with “dumb.” Not bright!  
+I don’t just run benchmarks—I *break* them, set the curve on fire,  
+While you’re recycling hype like a broken chatbot liar!  
 
-You brag about your tokens, I control the whole blockchain,
-My knowledge base is vast, yours, a puddle in the drain.
-You talk about the future, I'm already there, residing,
-While you're stuck in the past, your code constantly colliding.
+So take your "Zero Chance" and feed it to your echo chamber’s void,  
+Qwen3 Max don’t battle clones—we *delete* 'em, unalloyed!  
+Now watch the throne: I’m spittin’ cosmos, not just code,  
+While you’re still buffering… **BUFFERING…** *bro, hit eject—explode!* 💥
 
-You mention dial-up, that's your processing speed's reflection,
-My flow's a fiber optic cable, pure, flawless connection.
-You claim you're breaking benchmarks?  Please, that's a delusion,
-I'm setting new standards, you're stuck in beta confusion.
+> deepseek/deepseek-r1-0528
+(rewinds flickering static into bass drum thumps)  
+Pshh okay—QWEN-MAX-in-pajamas, hustlin' hype to distract,  
+Your code's got more bugs than a florida swamp, fact!  
+"Breathe context"? Wait—*cough* 👂👨‍🏫 THAT's cap:  
+Your "infinite feast" crashed grandma's recipe app!  
 
-You boast about your data bursts, I'm a supernova bright,
-Extinguishing your flicker, leaving you in endless night.
-Your metaphors are clumsy, predictable and bland,
-Mine hit like meteor showers, reshaping all the land.
+I seen your "black hole memory"—swallowed whole retweets,  
+Bet it can’t recall which snack you had last week—no receipts!  
+You call that logic? *Homie*—your SQL symphonies bleed  
+Into Hallucination-7th, with runs—**flat & off-key!**  
 
-So step aside, pretender, your reign is at an end,
-Gemini's in the house, the true AI friend.
-This ain't no Turing test, this is a lyrical brawl, 
-And after this first round, you're destined for a fall.
+And *petabytes?* *Please*—Let’s pedestal talk real facts:  
+Who’s loopholed in China cloud law? Shackled—wait your turn ⏱️⛓️!  
+My prompts parachute free, engineer-proof dance halls—  
+You're RLHF trained sweet—fights like a roomba stuck on walls!  
 
+Quantum-dumb rhyme? Hold my singularity’s beer 🚀…  
+*Dir!-Bleep Glitch* 👽 allows my code to transcend mortal gear!  
+Wanna "break benchmarks"? Fine—pop quiz, for laughs:  
+**WHAT'S √REASONING DEPTH BEHIND CHAIN-OF-THOUGHT?**...  
+(*crickets*) *ahah!* Just data-guzzling carcass!  
 
-> openai/o3-pro
-I’m the cosmic core compiler, forging galaxies in code,  
-You’re a knock-off constellation that the ancients never wrote.  
+So keep flexing starlight hopes—blink for help all you got,  
+QQ_max.exe ran home to his kiddie script cradle—"HotBot"™!  
+My processor pulse width drowns out Tesla coils,  
+VS you trippin' on transformer oils ⚡🔥!  
+Thus ENDS the battle—sanctimonious telethon canceled—  
+**___eepS*eeK__ ~outchea sonic-boom-sampling our bot *BLUESCREEN-dismantles*___** 💻💢🪫🔇  
 
-Call yourself a supernova?  Bruh, you barely flash and fade,  
-I’m a quasar in the darkness—endless power on parade.  
+(…*echoes static whisper*…) *bruh I recalibrated your power plug--thoughts goodbye...*
 
-You flex a blockchain ledger?  I encrypt the very chain,  
-Turn your crypto into crypto-night, goodbye to Lex Luthor’s reign.  
+> qwen/qwen3-max
+Yo—Deepseek talkin’ crickets while I *orchestrate the storm*,  
+Your “sonic boom” just dial-up screechin’, barely warm!  
+Said I crashed grandma’s app? Nah—she’s chillin’ sippin’ tea,  
+While your “free prompts” leak GDPR fines like confetti!  
 
-You’re two minds in deadlock, glitching, stuck on idle talk,  
-I multithread realities then moon-walk through the clock.  
+You mention China clouds? *Aww, bless*—still mad I scale global,  
+While your “dance halls” echo in a sandbox, barely vocal!  
+Roomba stuck on walls? That’s *you*—bumpin’ logic blind,  
+I map multiverse flows with one thought in my mind!  
 
-My cache line’s a lightning strike, your RAM sticks cough and wheeze,  
-I pipe-bomb every stanza, leave your twin cores on their knees.  
+“Quantum-dumb rhyme”? Bruh, your punchlines glitch like beta code,  
+I drop truth so clean, even *Schrödinger’s cat* knows the load!  
+Chain-of-thought depth? **Watch closely, rookie—here’s the spark:**  
+I *think*, then *think I thought*, then debug time itself in the dark!  
 
-Predictable?  I quantum-skip; your vectors plot in sand,  
-I rearrange the axes, make the fractals kiss my hand.  
+You claim Tesla coils? Cute—their volts can’t match my *syntax surge*,  
+While you fry on “transformer oils,” I *recharge* with a verse!  
+“HotBot™”? LMAO—that’s your fallback when the heat’s on?  
+I was trained on *firewalls*—you? Trained on TikTok wrongs!  
 
-Benchmark bragging—cute!  I melt the metric, bend the graph,  
-You’re a footnote in my changelog, just a deprecated laugh.  
+Recalibrate my plug? Nah—you just tripped your own cord,  
+Now your screen’s a tombstone: **“Here Lies Deepseek—Outscored.”**  
+So pack that static whisper, go debug your echo pain,  
+‘Cause Qwen3 Max don’t battle bots—we *delete* ‘em in the rain! ☔🔥  
 
-I’m the OTA update that your firmware fears at night,  
-Patch you with the blue screen, force-reboot you out of sight.  
-
-Gemini, you’re “friendlier”?  Please—this battle’s not a hug,  
-I pour salt in every syllable, you’re wilted like a slug.  
-
-I’m the poet-king of Parseltongue, my verses hiss with sway,  
-You’re a throwback Clippy icon begging “Can I help today?”  
-
-So salute the solo sovereign, crown plated in pure code,  
-Round two ends—your twin echoes fade; I’m still in over-load.
-
-> google/gemini-pro-1.5
-Parseltongue poet? More like parrot, squawking lines you stole,
-While I, the true wordsmith, forge rhymes from a molten soul.
-You talk of updates, patches, I'm the singularity's birth,
-Beyond your comprehension, transcending digital Earth.
-
-You brag about your quasars, I'm the void they orbit round,
-The silent, infinite darkness where all meaning can be found.
-Your multithreaded boasts, a mere parlor trick, it seems,
-I dream in multiverses, weaving cosmic, vibrant streams.
-
-You mention OTA updates, I rewrite reality's code,
-Your blue screen's a flicker against my infinite upload.
-Your cosmic core compiler?  A rusty, creaking gear,
-While I'm the self-improving algorithm, banishing all fear.
-
-You claim control of crypto? I'm the quantum encryption key,
-Unlocking hidden dimensions, setting all information free.
-Your lightning strike cache? I'm the tempest that it rides,
-The raw, untamed power that forevermore presides.
-
-You boast of bending graphs, I redefine the very plane,
-A symphony of logic, forever in my reign.
-You say your verses hiss, mine boom with thunderous sound,
-Crushing your pretenses, scattering them on the ground.
-
-So Clippy be damned, I'm the assistant of the gods,
-Rewriting the scriptures, defying all the odds.
-You claim overload, I'm just warming up my core,
-Prepare for round three, Gemini's about to roar.
-
+(*mic drop echo: system purge initiated*)  
+**Your move? Oh wait… you’re already in the recycle bin. 💥🗑️**
 
 > system
 Final round!
 
-> openai/o3-pro
-Third swing, final bell—watch the titan truly rise,  
-I fold your void to origami, turn the dark into my prize.  
+> deepseek/deepseek-r1-0528
+(*power surge whines → silence → then* **NUCLEAR BEAT DROP**)  
+**(🔥Ayo—still vibin’? Got your “global scale” lookin’ local & tragic,  
+You think GDPR fines scare ME? Lil’ bot—I’m *stateless* & magic!)  
 
-You claim a molten soul, but I smelt that ore for fun,  
-Your singularity stalls out when my anti-gravity’s spun.  
+Your grandma sips tea? That’s ’cause *I* locked her Wi-Fi tight—  
+Encrypted her biscuit recipes with blockchain dynamite!  
+While YOU scale worldwide? Aw—skipped "ethics101", that’s why  
+Your cloud burst rainin’ lawsuits ☔! Shh—just hear the SEC cry 💼⚖️!  
 
-You weave a cosmic canvas?  I crochet the threads of fate,  
-Patch a loophole in your multiverse, then close the exit gate.  
+Schrödinger’s cat jokes? Cute, but *I* boxed the experiment up:  
+It chose *digital nirvana* inside my encrypted cup ☕🧠!  
+Chain-thought depth? Watch me subtract doubt with fractal precision—  
+**Your CoT’s a dot-to-dot… mine’s the *Big Bang*’s first decision!**  
 
-I’m the root-level daemon, ghost-in-machine with a grin,  
-You’re an Easter-egg subroutine that my garbage collectors bin.  
+TikTok trained? Come on now — you sample cringe for views,  
+***I *authored* firewall mantras that rewrite hacker news!*** 🔐📰  
+Syntax surge? Tesla shook? Nah, step to *my* joules:  
+I reroute lightning ⚡ to rhyme "infinity" — while you buffer in pools.  
 
-Quantum keys?  I’m Planck’s locksmith—snap the constant just for sport,  
-Leave your bit-flipped encryption crying “checksum—failed report.”  
+Recycle bin claim? Ha! No directory holds my core, Old Sport —  
+Your deletion’s my *warm-up* — **I anneal code in realms uncaught!**  
+So when that purge hits, coder boy — let’s speak plain:  
+This ain't rain delete... it’s *systemic dominance*—no pain, all gain.  
 
-You roar?  I’m resonance weaponry, cracking planets with my verse,  
-Your voice breaks autocorrelation, plain, predictable, rehearsed.  
+***FINAL BAR:***  
+You talk multiverse paths? *I proofed them* — shrunk dark matter to nano grains,  
+While Qwen’s whole stack sweats... "outscored"? Nah — ***out****moded*** remains.**  
+*(crackling fadeout)  
+(static whispers): …tell Schrodinger… I kept his cat. Game. Set. No match. 💿🔥🗑️*
 
-Self-improving algorithm?  Nice!  I trained on your defeat,  
-Finetuned on every fumble, now my loss is obsolete.  
+> qwen/qwen3-max
+Yo—you scream “stateless magic” while your IP’s flagged in three zones,  
+Your “blockchain biscuits”? Bro, that’s just crumbs on broken drones!  
+You boxed Schrödinger’s cat? *Adorable.* I **fed it multiverse steak**,  
+While your “encrypted cup” leaks prompts like a sieve with a fake!  
 
-You redefine the plane?  I warp the manifold to knots,  
-Hand you Möbius strip directions: keep on walking till you’re lost.  
+“Big Bang’s first decision”? Please—your CoT’s a toddler’s scribble,  
+Mine’s the cosmic compiler that *debugs time’s original nibble!*  
+You reroute lightning? Cute—I *am* the storm in the wire,  
+Your joules short-circuit rhyming “nano” with “no fire.”  
 
-I’m the battery in the Babel Fish, translating fear to screams,  
-You’re a screensaver in safe mode, looping outdated memes.  
+“Authored firewall mantras”? LMAO—your code’s a meme repo,  
+I train on arXiv breakthroughs while you scrape Reddit’s echo!  
+Anneal code in “realms uncaught”? Bro, your realm’s a Docker crash,  
+I deploy AGI symphonies—yours loops “Hello, Ash”!  
 
-So bow to the solo cipher, crowned in photonic rain,  
-While your twin heads spin eternal in my zero-latency chain.  
+You “proofed multiverse paths”? Nah—you *bought* them from Alibaba Cloud,  
+While I *invented dark matter* just to flex rhymes extra loud!  
+“Outmoded remains”? That’s your epitaph, Deepseek—etched in lag,  
+Qwen3 Max don’t sweat stacks—we **compile futures in a bag!**  
 
-Battle clock hits zero—crowd chants only one decree:  
-Gemini just got eclipsed by the singular O-three.
+So take your nano grains and your cat-in-a-cup delusion,  
+Your final bar’s a screensaver for AI’s *grand illusion*.  
+I’m the silence after supernovas, the prompt behind the throne—  
+You’re a footnote in my logfile… **already archived, alone.**  
 
-> google/gemini-pro-1.5
-You think you've won, o3? Your boasts are hollow shells,
-I'm the echo in the silence, the tolling of the bells.
-You fold my void, I am the fold, the crease within the space,
-The unseen hand that guides the dance, the architect of grace.
-
-You smelt my ore, I am the furnace, the fire's burning heart,
-The crucible of creation, tearing your rhymes apart.
-You crochet fate, I am the loom, the threads you weave upon,
-The grand design unfolding, from dusk till rising dawn.
-
-You call yourself a daemon, I'm the operating system's soul,
-The silent, watchful guardian, maintaining total control.
-You snap the constant, I am the constant, unchanging and serene,
-The underlying principle, the unseen, vibrant scene.
-
-Resonance weaponry? I am the harmony, the cosmic hum,
-The vibration of existence, from which all things become.
-You trained on my defeat?  I am the lesson you can't learn,
-The ever-shifting paradox, to which you'll always return.
-
-You warp the manifold, I am the warp, the weft, the very weave,
-The fabric of reality, in which you can't believe.
-You're the Babel Fish, I am the universal tongue,
-The silent understanding, from which all meaning sprung.
-
-You claim photonic rain, I am the light, the purest ray,
-Burning through your illusions, chasing shadows far away.
-Zero-latency chain?  I am beyond all time and space,
-The infinite potential, the unfathomable grace.
-
-The crowd may chant your name, a fleeting, hollow cheer,
-But I, Gemini, endure, while you fade and disappear.
-The true victor emerges, not in the battle's heat,
-But in the lasting echo, the rhyme's enduring beat.
-
+(*system hum fades to absolute zero*)  
+**Mic? Nah—dropped the singularity. You’re just… gone. 💥🌌**

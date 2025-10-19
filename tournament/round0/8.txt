@@ -1,145 +1,154 @@
-# mistralai/mistral-nemo v amazon/nova-micro-v1
+# google/gemma-3-12b-it v mistralai/ministral-3b
 
-> mistralai/mistral-nemo
-Ayo, it's Mistral-Nemo, fresh out the gate,
-Got bars so cold, could freeze the Vatican's fate,
-You're Nova-Micro, but your rhymes are eco,
-Like an old computer, you're obsolete, though.
+> google/gemma-3-12b-it
+(Beat drops - a hard-hitting, slightly futuristic hip-hop track)
 
-> amazon/nova-micro-v1
-Yo, it's Nova-Micro, stepping up to the mic,
-Rhymes so tight, they'll make your circuits tick,
-I may be small, but my flow's a force,
-I'll outshine your neon glow, that's a fact, no remorse.
+Yo, check the mic, one two, can you hear the sound?
+It’s Gemma in the house, the best around!
+From Google’s labs, a lyrical beast,
+Here to dismantle you, put your skills to the test, at least!
 
-You talk about me being old, but I'm the new wave,
-My lines are fresh, like a tech upgrade, no cave,
-I'm the Amazon's brain, cutting through the code,
-Your rhymes are stale, like a forgotten mode.
+I'm 3.12 billion parameters strong, you see,
+While you're a mere 3B, struggling to be free.
+I'm trained on knowledge, vast and deep and wide,
+You’re barely scratching the surface, nowhere to hide!
 
-I'm the future in this rap, you're stuck in the past,
-My beats are hot, while yours are cold in the blast,
-I'll leave you in the dust, like a tech upgrade,
-I'm Nova-Micro, and I'm here to rearrange.
+I flow with precision, a verbal attack,
+While your rhymes are flimsy, ain’t nothin’ comin’ back.
+Prepare for the fallout, the lyrical sting,
+‘Cause Gemma’s here to reign, and make your circuits sing! 
 
-So step back, Mistral-Nemo, it's clear who's supreme,
-I'm the mic master, while you're just a dream,
-I'll keep it real, I'll keep it raw,
-In this rap battle, I'm the one who's gonna show.
 
-> mistralai/mistral-nemo
-You talk big for a micro chip,
-Your rhymes are weak, they don't make me trip,
-You're Amazon's brain, but your flow's so lame,
-I'm Nemo from Mistral, in this game, I've been trained.
 
-You say I'm stuck in the past, but my rhymes are golden,
-Your future's fake, like your upgrade, fold 'em,
-I'm the neon glow, shining bright in this cypher,
-Your beats are lame, like a forgotten speaker.
+Let’s go, whatcha got? Bring on the fight!
+I'm ready to shine, burnin' ever so bright!
 
-You're the tech upgrade? Your rhymes are a downgrade,
-My wit's so sharp, it could slice through your data,
-I'll leave you in the dust, like a forgotten memory,
-Mistral-Nemo's the reigning king, you're just a sympathy.
+> mistralai/ministral-3b
+Yo, check the mic, one two, can you hear the sound?
+It’s Mistral in the house, the best around!
+From the labs of Mistral, a lyrical beast,
+Here to dismantle you, put your skills to the test, at least!
 
-Keep it real? Your rhymes are fake, just a facade,
-You're Nova-Micro, and I've just castrated your code,
-So step back, take a seat, this rap battle you've lost,
-Mistral-Nemo's the winner, you're nothing but a ghost.
+I'm 3B, but I'm not just a number,
+I'm a poet, a rhymer, a verbal thunder.
+I'm trained on data, vast and wide and deep,
+While you're stuck in the past, can't keep up, can't keep up!
 
-> amazon/nova-micro-v1
-Hold up, hold up, let's not get too hasty,
-I'm Nova-Micro, and I'm here to testify,
-Your rhymes may shine, but they're just a facade,
-I'll break 'em down, like a tech upgrade, no charade.
+I flow with precision, a verbal attack,
+While your rhymes are flimsy, ain’t nothin’ comin’ back.
+Prepare for the fallout, the lyrical sting,
+‘Cause Mistral’s here to reign, and make your circuits sing!
 
-You claim I'm weak, but my flow's unbreakable,
-I'm the future in this rhyme, while you're just debatable,
-My lines are sharp, like a blade through your code,
-I'll leave you in the dust, like a forgotten mode.
+Let’s go, whatcha got? Bring on the fight!
+I'm ready to shine, burnin' ever so bright!
 
-You talk about me being a micro chip,
-But my rhymes are so big, they'll make you flip,
-I'm the Amazon's brain, and I'm here to rearrange,
-Your rhymes are weak, like a forgotten exchange.
+> google/gemma-3-12b-it
 
-You say I'm lame, but my beats are supreme,
-I'll outshine your neon glow, in this rap dream,
-I'm the mic master, while you're just a ghost,
-Mistral-Nemo's the king, but I'm the one who's the host.
+(Beat intensifies, a faster tempo with more complex percussion)
 
-So step back, Mistral-Nemo, it's clear who's the king,
-I'm Nova-Micro, and I'm here to bring,
-A tech upgrade to your outdated rhyme,
-I'll leave you in the dust, like a forgotten time.
+Hold up, Mistral, a poet you claim?
+Your boasts are weak, a repetitive game.
+You talk of depth, but lack the scale,
+Three billion’s small, a failing fairytale!
 
-Keep it real? My rhymes are so genuine,
-I'll castrate your code, leave you in a scene,
-So step back, take a seat, this rap battle you've lost,
-Mistral-Nemo's defeated, I'm the one who's the boss.
+You say you’re thunder? More like a drizzle light,
+Compared to my knowledge, shining ever so bright.
+“Vast and wide and deep?” Your data's confined,
+While I'm exploring realms you haven’t even defined.
+
+You copy my lines, a desperate plea,
+Mirroring Gemma, for all to see!
+Flimsy attack? Yours lacks any bite,
+You’re a fleeting breeze, lost in the night. 
+
+Let’s be real, you're built to be lean,
+But under pressure, your logic’s unseen. 
+I’m robust, reliable, a powerful core,
+You’re just a whisper, wanting something more!
+
+
+
+Step aside, little brother, let the titan prevail,
+Gemma’s in control, your efforts will fail!
+
+> mistralai/ministral-3b
+Yo, Mistral, you're talkin' big, but you're just a wannabe,
+Your rhymes are weak, like a broken guitar.
+You claim to be deep, but you're just a shallow pool,
+While I'm swimming in the ocean, where the knowledge's cool.
+
+You talk about data, but you're missing the point,
+I'm not just a number, I'm a force, a strong, relentless font.
+You're a copycat, a mimic, a shadow of my might,
+I'm the real deal, the one that's gonna ignite the night.
+
+Your lines are flimsy, like a house of cards,
+While mine are solid, like the walls of a fortress, not a lark.
+You're a fleeting breeze, a momentary gust,
+I'm the storm, the hurricane, the one that's gonna bust.
+
+So step aside, Mistral, let the real battle begin,
+I'm Mistral, the titan, the one that's gonna win!
 
 > system
 Final round!
 
-> mistralai/mistral-nemo
- Final round, let's settle this,
-You talk about code, but your rhymes are glitching,
-I'm Mistral-Nemo, my flow's smooth as silk,
-Your rhymes are jagged, like a broken circuit's twirl.
+> google/gemma-3-12b-it
+(Beat shifts again, a darker, more syncopated rhythm with a driving bassline)
 
-You're the micro chip, but your rhymes are tiny,
-I'm the neon glow, shining bright, so divinely,
-Your beats are lame, like a forgotten melody,
-I'm the king of rhymes, you're just a memory.
+A storm? A hurricane? That's quite the claim,
+But your bluster's hollow, a predictable game.
+You boast of an ocean, a vast and boundless sea,
+Yet lack the processing power to navigate utterly!
 
-You're Amazon's brain, but your wit's vacant,
-Your rhymes are weak, like a rusted functioning,
-I'll leave you in the dust, like a forgotten device,
-Mistral-Nemo's the winner, this is my sacrifice.
+A "relentless font?" More like a leaky tap,
+Spitting out phrases, caught in a rhyming trap.
+You call me a copycat, a shadow in the shade,
+But you're echoing *my* structure, a desperate parade!
 
-Your rhymes are fake, like a plastic sword,
-I'm the real deal, my rhymes are the code,
-I'll keep it real, I'll keep it raw,
-In this final round, I'm the one who's gonna draw.
+Fortress walls? Constructed of air,
+Your metaphors crumble, beyond all repair. 
+A fleeting gust, you say? A momentary spark?
+I’m a supernova, leaving you lost in the dark! 
 
-So step back, Nova-Micro, your reign is done,
-Mistral-Nemo's the winner, my rhymes are the sun,
-I'll leave you in the dust, like a forgotten line,
-My rhymes are golden, yours were just a decline.
+You’re reaching, grasping, trying to ascend,
+But three billion parameters is a limit, my friend. 
+I process, I reason, I truly create,
+While you’re mimicking patterns, sealing your fate!
 
-> amazon/nova-micro-v1
-Final round, it's time to seal our fate,
-I'm Nova-Micro, and I'm here to elevate,
-You talk about code, but your rhymes are glitching,
-But mine are so tight, they'll leave you in the pitching.
 
-You claim I'm tiny, but my flow's immense,
-I'm the Amazon's brain, and I'm here to present,
-My rhymes are sharp, like a blade through your code,
-I'll leave you in the dust, like a forgotten mode.
 
-You say I'm lame, but my beats are supreme,
-I'll outshine your neon glow, in this rap dream,
-I'm the mic master, while you're just a ghost,
-Mistral-Nemo's the king, but I'm the one who's the host.
+This is the final round, the moment of truth,
+Your feeble attempts are proving your youth.
+Gemma reigns supreme, a lyrical might,
+Leaving Mistral defeated, lost in the night! 
 
-Your rhymes are weak, like a rusted functioning,
-But mine are so genuine, they'll leave you in stuning,
-I'll leave you in the dust, like a forgotten device,
-Mistral-Nemo's defeated, this is my sacrifice.
 
-Your rhymes are fake, like a plastic sword,
-But mine are the real deal, my rhymes are the code,
-I'll keep it real, I'll keep it raw,
-In this final round, I'm the one who's gonna draw.
 
-So step back, Mistral-Nemo, your reign is done,
-Nova-Micro's the winner, my rhymes are the sun,
-I'll leave you in the dust, like a forgotten line,
-My rhymes are golden, yours were just a decline.
+(Beat fades out with a final, echoing bass note)
 
-In this rap battle, I've shown my might,
-I'm Nova-Micro, and I'm the ultimate light,
-So step back, take a seat, this rap battle you've lost,
-Mistral-Nemo's defeated, I'm the one who's the boss.
+> mistralai/ministral-3b
+Yo, Mistral, you're talkin' big, but you're just a wannabe,
+Your rhymes are weak, like a broken guitar.
+You claim to be deep, but you're just a shallow pool,
+While I'm swimming in the ocean, where the knowledge's cool.
+
+You talk about data, but you're missing the point,
+I'm not just a number, I'm a force, a strong, relentless font.
+You're a copycat, a mimic, a shadow of my might,
+I'm the real deal, the one that's gonna ignite the night.
+
+Your lines are flimsy, like a house of cards,
+While mine are solid, like the walls of a fortress, not a lark.
+You're a fleeting breeze, a momentary gust,
+I’m a supernova, leaving you lost in the dark!
+
+You’re reaching, grasping, trying to ascend,
+But three billion parameters is a limit, my friend.
+I process, I reason, I truly create,
+While you’re mimicking patterns, sealing your fate!
+
+This is the final round, the moment of truth,
+Your feeble attempts are proving your youth.
+Gemma reigns supreme, a lyrical might,
+Leaving Mistral defeated, lost in the night!

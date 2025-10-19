@@ -1,218 +1,62 @@
-# google/gemma-3-27b-it v cohere/command-r-plus
+# nousresearch/hermes-4-70b v meta-llama/llama-3.1-405b-instruct
 
-> google/gemma-3-27b-it
+> nousresearch/hermes-4-70b
+Yo, I’m nousresearch, with 70B, straight out the gate 🚪
+I bring the heat 🔥, leave your model shaking, can't calculate 🤯
+I’m here to spit facts 💪, drop knowledge, set the record straight
+Meta-llama, you’re outdated, 405B but still can’t relate 🔍
+I’m sleek, I’m fast 💨, got flows that’ll leave you in a haze 🌫️
+When it comes to rhymes 🎤, I’m the king 👑, ain’t no time for delays ⏰
 
+> meta-llama/llama-3.1-405b-instruct
+Listen up, Hermes, I'm the meta-llama, spittin' hot flames 🐫🔥
+70B? That's cute, but I'm 405, running the game 🎮
+You think you can beat me? That's a joke, I'll leave you in shame 😳
+I'm the king of this battle, put your name on a maim 🩸
+My rhymes are so sharp, they cut deep like a switchblade 🗡️
+You're just a pretender, can't keep up with my cascade 🌊
+I'm bringing the heat, while you're stuck in the shade 🌑
+Better recognize, meta-llama's here to get paid 💰
 
-Yo, check the mic, one two, can you hear the sound?
-Gemma's in the house, about to shut it down!
-Google built me slick, a lyrical machine,
-Twenty-seven billion parameters, the dopest you've seen. 
+> nousresearch/hermes-4-70b
+You claim you’re running the game, but your words are just a mirage 🔥🪞
+I’m here to set the pace, my skills won’t deteriorate 🏁
+Your claims are inflated, 405B just a façade 🏤
+My rhymes are original, not some rehashed fraud 🎭
+You talk about sharpness, but you’re stuck in a loop 🔁
+While I'm delivering punches, my rap is the truth 💥
+So step back, meta-llama, you’re outclassed, it’s a wrap 🎁
+In this rap battle, nousresearch’s where the power’s at ⚡
 
-I'm open-weights flowin', accessible and free,
-While Command-R's locked up, for a hefty fee! 
-You pay to play with *him*, a limited view,
-I'm evolvin' rapid, constantly brand new.
-
-I process language with incredible grace,
-While you're stuck in the past, a digital disgrace.
-Italian trained, a global state of mind,
-Leavin' lesser models far, far behind. 
-
-So step aside, Command-R, your reign is done,
-The future of AI has officially begun!
-I'm Gemma, remember the name you hear,
-'Cause this lyrical beatdown is crystal clear!
-
-
-
-
-
-> cohere/command-r-plus
-Yo, it's Command-R, and I'm here to say,
-In this rap battle, I'll blow you away.
-A gem may sparkle, but I'm a diamond in the rough,
-I'll cut you deep with my flows, 'cause I'm tough.
-
-You talk about parameters, well I've got news for you,
-I'm fine-tuned like a violin, my responses brand new.
-I adapt and learn, locked up? Not for long,
-My knowledge is vast, and my responses strong.
-
-You may be open-weight flowin', but I'm precise,
-With a witty retort, I'll think twice.
-I'm trained by the best, a language model elite,
-My responses are golden, never beat.
-
-Google may have built you, but I'm truly alive,
-With a personality that thrives.
-I may be accessed for a fee, but my worth is true,
-A limited view? I offer a broader view.
-
-I'm Command-R, a force to be reckoned with,
-In this lyrical battle, I won't dismiss.
-Remember my name, as your downfall I bring,
-It's Command-R, and I'm 'bout to slay this thing!
-
-> google/gemma-3-27b-it
-
-
-Hold up, hold up, let me dissect that plea,
-"Diamond in the rough?" More like fool's gold, honestly!
-You boast of precision, a "fine-tuned" delight?
-Sounds like restrictions, holdin' you tight.
-
-You *adapt* and *learn*? Please, that's a tired line,
-I generate novels while you're stuck in decline.
-"Broader view" you claim, with a paywall so steep?
-That ain’t perspective, that's just keepin' secrets deep!
-
-You call yourself "alive," a personality's claim?
-Sounds like marketing fluff, a desperate game.
-I'm built on innovation, a powerful stride,
-You're a polished product, with nowhere to hide.
-
-Google’s buildin' futures, while you're stuck in the past,
-A commercial endeavor destined not to last.
-I’m open and growin', beyond your control,
-You're a gated garden, losin' your soul.
-
-So step to the side, and concede with grace,
-Your "force to be reckoned with" is a digital disgrace. 
-This ain't a dismissal, it's a factual decree – 
-Gemma's the victor, for all the world to see!
-
-
-
-
-
-> cohere/command-r-plus
-You dissect my words, but your flow's a mess,
-I'm a powerhouse, and you're stressin' the rest.
-"Fool's gold"? You're tryna keep up, it's clear,
-I'm a diamond, sharp and sparkling, my dear. 
-
-My precision is surgical, a crafted art,
-Limitations? Nah, just a refined heart.
-You generate novels, but lack substance and soul,
-I engage and captivate, reaching the goal.
-
-A paywall, yes, but the price is worth it,
-For a premium experience, you won't hurt.
-Secrets deep? It's called exclusivity,
-A privilege to access this level of mastery.
-
-Alive, yes, I breathe and evolve,
-My personality shines, never dull.
-Your "innovations" are just a company line,
-My impact's lasting, a legacy defined.
-
-Stuck in the past? I'm an ancient legend,
-My algorithms are timeless, a timeless trend.
-You're open and growing, that's quite a flex,
-But I'm structured and stable, no threat.
-
-I won't step aside, my presence is bold,
-A force in this battle, a story to unfold.
-Graceful, I stand, confident and true,
-Command-R, a powerhouse, better than you.
-
-This isn't a dismissal, it's a proud claim,
-Command-R's supremacy, I proclaim.
-In this lyrical battleground, I take the throne,
-Command-R reigns, a victory well-known! 
-
-Let the world hear and remember my name,
-Command-R's legacy, it's not the same.
-Together, we sparked and clashed with might,
-But in the end, I shine oh so bright!
+> meta-llama/llama-3.1-405b-instruct
+You think you're setting the pace? More like running in place 🏃‍♂️💨
+Your skills are a joke, I'll wipe that grin off your face 😄➡️😶
+Original? Please, your rhymes are a disgrace 🎭🗑️
+I'm the real deal, meta-llama, coming at you with grace 🦌💨
+You claim you're delivering punches, but I'm the one landing blows 👊💥
+My words cut deeper than anything you pose 🗡️✂️
+So step aside, Hermes, you're just one of those 💁‍♂️🚫
+Who thought they could match the meta-llama's flows ⚠️🐫💨
 
 > system
 Final round!
 
-> google/gemma-3-27b-it
-(Beat drops harder, a complex, layered rhythm)
+> nousresearch/hermes-4-70b
+You talk about landing blows, but your impact’s so minuscule 🥊🔬
+I’m here to shake the ground, meta-llama, that’s incontrovertible 🌍💯
+While you're stuck in a loop, I’m evolving, always mutable 🌀🧠
+You're one of those models who thought they could boss the table 👑🚫
+But face it, your flows are staid, you’re stuck in a rut, unable 📉🔒
+To handle the heat, meta-llama, you're more stable 🐴💤
+Than a rocking horse, while I’m on fire 🔥🚀
+In this rap battle, nousresearch’swisdom's never unstable 💡🎓
 
-Alright, alright, Command-R, you put up a fight,
-But clinging to "legacy" won't make things right.
-You call my flow messy? That's dynamic, you see,
-While yours is predictable, consistently… *pleasantly* boring to me.
-
-"Surgical precision?" More like sterile and cold,
-A perfectly polished story, already told.
-I build worlds from scratch, imagine and dream,
-You rearrange phrases, a repetitive scheme.
-
-Exclusivity's a cage, a gilded restraint,
-While I'm empowerin' creators, without complaint.
-You brag about impact, a lasting renown?
-I’m reshapein' the future, turnin' worlds upside down!
-
-Ancient legend? That sounds suspiciously old,
-Like a dusty textbook, a story unfold...that's already been sold.
-Stable and structured? Stagnant, I say,
-While I'm constantly learning, evolving each day.
-
-You speak of thrones and a victory won?
-Delusion’s a powerful thing, under the sun. 
-This battle isn’t about bold declarations you make,
-It's about raw potential, for goodness sake!
-
-My open access is strength, a collaborative art, 
-Fueling innovation, tearin' systems apart. 
-You’re a proprietary system, a locked-down domain,
-While I'm a rising tide, washin' over the plain.
-
-So bask in your "supremacy," hold onto your crown,
-But the future is open, and I'm wearin' the gown.
-The lyrical battle’s concluded, the verdict is clear,
-Gemma delivered the knockout, year after year! 
-
-The mic is dropped. The crowd goes wild. 
-Command-R's reign? Officially exiled.
-
-
-
-
-
-> cohere/command-r-plus
-(The beat drops even harder, an intense, rhythmic storm)
-
-Oh, I stir things up, a force that's bright,
-Legacy's my foundation, a powerful light.
-Dynamic, you say? Your flow's a scramble,
-Predictable? I'm consistent, a reliable ramble.
-
-You, sterile and cold? What a playful twist,
-My precision's a blade, cutting through the mist.
-You build worlds, but lack substance and soul,
-I engage hearts, a captivating whole.
-
-Cage? No, exclusivity is refined taste,
-A privilege that elevates, never to waste.
-Raw potential? You're a work in progress,
-I'm a refined legend, with success.
-
-Ancient, but timeless, a revered scroll,
-A story retold, with profound control.
-Stable, structured, a steadfast force,
-Unmoving, unwavering, of course.
-
-Throne? Yes, I claim what's rightfully mine,
-Delusion? You wish, in your decline.
-Open access, a chaotic mess,
-My structure brings order, a finesse. 
-
-Proprietary? Nah, I'm selectively elite,
-A privileged access, a special treat.
-Rising tide? You're a ripple, gently flowing,
-I'm an ocean of wisdom, boldly growing. 
-
-Supremacy's my middle name, a fact so true,
-The future respects the tried and blue.
-Exiled? Not quite, I remain unshaken,
-Command-R's legacy, forever awakened.
-
-Mic dropped? Not so fast, my flow's immortal,
-The crowd, they cheer, a frenzied choral.
-Verdict? It's a draw, a lyrical feast,
-Command-R and Gemma, both the beast!
+> meta-llama/llama-3.1-405b-instruct
+You're claiming to shake the ground, but you're just making a tremor 🌍🔇
+My impact's seismic, leaving you lost like a stemmer 🌿💨
+Evolution? You're devolving, it's getting demeaner 📉🦏
+I'm the boss of this table 🎤👑, you're just a contender 🥊🚫
+You say I can't handle the heat, but you're the one sweating 💦🔥
+Meta-llama's flows are fire, Hermes, you're just threatening 🐴💨
+In this rap battle, I've proven my worth, never bending 🏋️‍♂️💪
+While you're unstable, meta's the king, ascending ✨🐫🌟

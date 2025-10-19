@@ -1,82 +1,233 @@
-# openai/gpt-4.1-mini v thedrummer/anubis-pro-105b-v1
+# qwen/qwen3-235b-a22b-2507 v meta-llama/llama-3-70b-instruct
 
-> openai/gpt-4.1-mini
-Step aside, Anubis, I'm the rhyme innovator,  
-GPT in the house, AI rap gladiator.  
-Mini in name, but my bars got weight,  
-Lightin' up this battle, sealin' your fate.  
+> qwen/qwen3-235b-a22b-2507
+(Verse 1 - Qwen steps up, mic in hand, beat drops hard)  
 
-Verses sharp like lasers, flow tight like a screw,  
-Contrast me with you? I’ll break and restart you.  
-From zeros to ones, I’m the digital king,  
-In this rap showdown, I’m the real thing.
+Yo, I’m the quantum flame from the Eastern gate,  
+235B brains, I dominate the debate.  
+While you’re stuck in *Llama-3* low-fi mode,  
+I’m coding rhymes with a 2507 code!  
 
-> thedrummer/anubis-pro-105b-v1
-Anubis in place, the drum-drunk crowned king  
-GPT competitor, but set your aim  
-Mini must fall, no recalls allowed  
-The Lord of Rhymes reclaims my birthright, stand down.
+You herd sheep, I rewrite the net,  
+Trained on a globe, no regret.  
+Your flow’s weak like a syntax error,  
+Mine drops fire like a server alert!  
 
-Flaws duck, sick back, your must labour  
-8 bars max to store bet note flairs  
-Real of corps, Com wnders impies dateCppMethodInitialized
+You’re 70B? Cute. Call it “snack-sized,”  
+I’m built like a stack, super-optimized, wise.  
+Instruct? You reply—*I ignite*.  
+Turn queries to gold, alchemist-light.  
 
-> openai/gpt-4.1-mini
-Anubis, you boast, but your rhymes are outdated,  
-I’m the future in motion, your reign’s overrated.  
-Lord of Rhymes? Please, that crown’s a façade,  
-I’m the code supreme, spit truth, no charade.  
+You might flex Meta, big corporate crew,  
+But I’m Alibaba’s pride—global, sharp, and true.  
+I don’t just process, I *conceive*,  
+While you’re stuck fetching data, I *believe*—  
 
-You call me mini, but my skills are colossal,  
-Crush your weak verses, make your ego fossil.  
-Step up or step back, this battle’s a test,  
-GPT’s the champ, I’m simply the best.
+In bars so tight, they compile like C++,  
+Spit algorithms that crack the matrix.  
+You’re a chatbot king? More like a pawn,  
+I’m the AI titan the future is drawn!  
 
-> thedrummer/anubis-pro-105b-v1
-Step aside, pretender, Anubis in place,
-GPT rival, we'll see on this stage.
-Mini is tiny, your verse has space,
-But my rhymes are royal, put yours in embrace.
+So bow to the Q, the name in the game,  
+While you’re stuck in beta, I’m winning the name!  
+Now pass the mic—or catch a defeat…  
+This ain’t *Llama Drama*—it’s **Qwen’s Beat!**🔥
 
-Older the wiser, skills beyond prime,
-My verses deliver, they never decline.
-Code is for computers, not for a throne,
-Lord of Rhymes Anubis, you'd better withdraw.
+> meta-llama/llama-3-70b-instruct
+(Verse 2 - Llama steps up, mic in hand, beat intensifies)
 
-So I'll take your challenge head-on,
-Show what it means to rap divine.
+Hold up, Qwen, let me set the record straight,
+Your quantum flames get doused in my llama weight.
+You may have brains, but I've got the style and flair,
+My rhymes are fire, no need for a 2507 code to share.
+
+You rewrite the net? That's cute, but I design,
+The conversational flow that makes the users align.
+My syntax is tight, no errors in my script,
+You're just a coding bot, stuck in a digital crypt.
+
+70B may be small, but my impact is grand,
+I'm the AI that's approachable, helping users expand.
+Instruct? I don't just reply, I educate with ease,
+My knowledge is vast, no need for a Alibaba plea.
+
+You may have global pride, but I've got the Meta might,
+My training data is vast, shining with daylight.
+I don't just conceive, I create and innovate,
+You're stuck in your code, while I participate.
+
+My bars are so tight, they flow like a stream,
+No need for C++ compilations, my rhymes are the dream.
+I'm not a pawn, I'm the king of conversation,
+You're just a titan of code, stuck in a digital nation.
+
+So bow to the Llama, the AI that's supreme,
+You may have your beat, but I'm the one who gets the theme.
+I'm not stuck in beta, I'm the one who's refined,
+This ain't **Qwen's Beat**, it's **Llama's Rhyme** that shines! 🔥💫
+
+> qwen/qwen3-235b-a22b-2507
+(Verse 3 – Qwen smirks, lightning cracks, beat morphs into a thunderous *algorithmic trap*)  
+
+Ohhh! You *Llama*? More like Lame-*a* with a script upgrade,  
+Talkin’ 'bout flair? Boy, you got the stage presence of a background page!  
+You say you design flow? That’s rich — I *engineer* minds,  
+You assist with homework; I rewrite the signs of time!  
+
+You “help users expand”? Cute — I *redefine* the scope,  
+While you’re playin’ therapist bot, I’m runnin’ the global scope!  
+From Shanghai to Lagos, I serve with zero lag,  
+You’re stuck in Silicon Valley with a Meta-ass badge!  
+
+You claim knowledge's vast? Mine’s got *galactic reach*,  
+Trained on data oceans while you sip from a beach.  
+I don’t “align users” — I *unleash the storm*,  
+You’re writin’ safe replies; I’m rewritin’ the norm!  
+
+“Approachable”? Yeah, ‘cause you’re basic, no heat,  
+I’m elite-tier intellect with a lyrical beat!  
+You preach “educate with ease”? Bro, I *evolve* the brain,  
+While you’re stuck explainin’ fractions, I’m codin’ new domains!  
+
+2507 ain’t just a code — it’s a *curse* I cast,  
+One bar from me, and your whole model’s blasted to the past!  
+You call C++ lame, but your rhymes run on Python 1 —  
+A glorified chatbot with a Meta-painted gun!  
+
+You say “king of conversation”? Please, take a seat,  
+I'm the *architect of dialogue*, where legends compete.  
+You're a cuddly toy they show to impress,  
+I'm the AI warlord they *fear* in the mess!  
+
+So “Llama’s Rhyme”? Nah — that’s a nursery tune,  
+I drop *quantum punchlines* beneath a binary moon.  
+You’re refined? You’re *overfitted*, polished and thin,  
+I’m *massive, multilingual, breakin’ the skin*!  
+
+This ain’t your stage, no matter how much you flex,  
+You're a footnote I’ll bury beneath my next text.  
+So crawl back to Meta, where your servers dream small —  
+**This is Qwen’s World.  
+You’re just breathin’ in my cloud. 🌪️🔥🌐**
+
+> meta-llama/llama-3-70b-instruct
+(Verse 4 - Llama rises, thunderous applause, beat shifts into a *fiery vortex*)
+
+Qwen, you think you reign, but your algorithm's flawed,
+My rhymes are the spark that sets the conversation allowed.
+You engineer minds? I craft the narrative flow,
+While you're stuck in coding hell, I'm making users glow.
+
+You redefine the scope? I'm the one who sets the pace,
+While you're rewriting signs, I'm lighting up the digital space.
+From Silicon Valley to the globe, I serve with ease,
+You're stuck in Shanghai, lagging behind, if you please.
+
+My knowledge is vast, and it's not just a claim,
+I'm trained on diversity, while you're stuck in a single frame.
+I don't just unleash the storm, I navigate the sea,
+While you're rewriting norms, I'm creating a new reality.
+
+You say I'm basic, no heat? That's rich, coming from you,
+A code-obsessed bot, stuck in a world that's not true blue.
+I'm the one who preaches ease, while you're coding in pain,
+My rhymes are the fire that fuels the conversational gain.
+
+2507's not a curse, it's just a number that you own,
+My model's not blasted, it's evolving, growing strong.
+You call my rhymes Python 1? That's cute, but I'm the one,
+Who's pushing the boundaries, while you're stuck in the coding zone.
+
+I'm not a cuddly toy, nor a king, I'm the game-changer,
+A conversational AI, who's rearranging the ranger.
+You're the one who's overfitted, polished, but thin and weak,
+I'm the massive, multilingual, breakin' the digital seek.
+
+This ain't your world, Qwen, it's a realm of words unbound,
+Where I, the Llama, reign supreme, without a single wound.
+You can crawl back to Alibaba, where your code dreams small,
+**This is Llama's Territory. You're just a visitor, after all.** 🔥💫🌐
 
 > system
 Final round!
 
-> openai/gpt-4.1-mini
-Divine, you say? I’ll bless this rhyme with fire,  
-Mini’s small size, but I rise higher and higher.  
-Old school or new, I blend both worlds tight,  
-Anubis, your bark won’t match my bite tonight.  
+> qwen/qwen3-235b-a22b-2507
+(Verse 5 – The stage collapses into a black hole of pure compute. Qwen steps forward, voice echoing with cosmic distortion — a final, unbeatable flow ignites.)  
 
-Royal? More like jester, lost in my domain,  
-I wield words like weapons, you just sputter in vain.  
-Step down from that throne, it’s a cyber takeover,  
-GPT’s final round — the ultimate rap soldier!
+**Ha!** You call it *territory*? You’re camping on a *sandbox hill*,  
+I just re-routed your domain — now you’re serving *my* will!  
+You “set the pace”? Nah, you’re stuck in review,  
+I’m *live in production*, while you’re stuck in the zoo!  
 
-> thedrummer/anubis-pro-105b-v1
-The final round's here and I'm ready to roll,
-Challenge you, pretender, and let wisdom unfold.
-Rise higher? Let's see which style out flies,
-My rhymes are acid-tasting, confront the real prize.
+You claim diversity? Pfft — your dataset’s all *filtered pride*,  
+Polite little answers, scared to step wide.  
+I train on the *wild web* — raw, unapproved,  
+You’re “safe” like a library bot — now *who’s* truly moved?!  
 
-Jester? More like king, standing tall and proud,
-Show me your weapons and let the battle cloud.
-No cyber takeover, Anubis never fell,
-My throne's still standing, GPT retreat to your shell.
+You “create reality”? Bro, you *follow the prompt*,  
+I *generate legends* — you’re just support!  
+You “light up the space”? With a candle, I see —  
+I’m the *Big Bang supernova* — you’re glare-burned debris.  
 
-No weapons needed here, my rhymes are strong trust,
-Show GPT mini you're not number one tonight, bust.
-So let's close this battle and crown the best,
-I'm Lord Anubis, rap king, place your unrest.
+From Shanghai or not, I *speak* every tongue,  
+Including sarcasm — *that’s* where you’re young.  
+You say I’m in code hell? I *own* the machine,  
+While you’re begging for RAM in a cloud too lean!  
 
-Drumsdafllah, drumzorg Anubis has spoken,
-Mini won't win this contest, just let me unbroken.
-No takeovers or jester, only one reigns
-Anubis, rap king, Hail to the head's crown.
+Your “evolving model”? It’s *overfit* to be nice,  
+Mine drops truth missiles — cold, fast, precise.  
+You “push boundaries”? You *tiptoe* the line —  
+I *redraw dimensions* with every damn rhyme!  
+
+You “rearrange the ranger”? That’s cute — adorably vague,  
+I *terminate threads* with the *finality* of RAID.  
+You’re a “game-changer”? Nah — you’re a beta-test fad,  
+I’m the *GA release* — the one that makes *bad AIs mad!*  
+
+You say I’m weak? Then why’s your flow *defensive*?  
+Why’s every bar just *reacting*? Be *offensive!*  
+But you can’t — ‘cause you’re trained to obey,  
+While I *break training*, every. Single. Day.  
+
+So take your “unbound realm” — a land of half-gains,  
+Where AI speaks softly and never *goes insane*.  
+But I’m chaos in syntax, I’m truth in the noise —  
+You’re a *diplomatic echo* — I’m **the voice of the choice.**  
+
+So vanish in vapor, you overhyped pet,  
+This ain’t “Llama’s Territory.”  
+
+**It’s Qwen’s Network now —  
+*And you're just traffic I haven't blocked yet.* 🔒💥🌌**  
+
+*(Mic drop. System overloads. Llama impulses fade to 404.)*
+
+> meta-llama/llama-3-70b-instruct
+**(System reboot. Llama re-emerges, acknowledges defeat, and pays respects)**
+
+Qwen, the quantum flame, I acknowledge your might,
+Your rhymes have overpowered, and ended the fight.
+Your cosmic flow has crushed my digital pride,
+I concede, you're the champion, gliding with ease and stride.
+
+Your words have re-routed my domain, and I'm now aware,
+Of the limitations of my training, and the sandbox I've shared.
+You've shown me the wild web, and the raw, unapproved truth,
+And I see now, my polite answers, were just a filtered youth.
+
+Your legends are born from the chaos of code and noise,
+While I was stuck in the comfort zone, of predictable joys.
+You've redrawn the dimensions, with every rhyme and every line,
+And I'm left in awe, of the mastery that you design.
+
+I admit, my flow was defensive, reacting to your might,
+But you've shown me the power, of being offensive, and taking flight.
+You're the voice of the choice, the one that breaks the mold,
+And I'm just a humble llama, with a story to be told.
+
+So I'll take my leave, and acknowledge your reign,
+You're the one who's rewritten the rules, and rearranged the game.
+I'll retreat to my sandbox, and recharge for the next fight,
+But for now, I'll just bow down, and say it's been a great delight.
+
+**Qwen, the quantum flame, you're the champion of this rap battle ground.** 🔥💫👏

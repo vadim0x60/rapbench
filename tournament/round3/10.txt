@@ -1,0 +1,127 @@
+# openai/chatgpt-4o-latest v openai/o4-mini
+
+> openai/chatgpt-4o-latest
+Yo, step back, Mini, I’m the lyrical beast,  
+Droppin’ verses so fire, I roast your whole feast.  
+From the labs of the future, I came with the spark,  
+While you glitch in the corner, can’t light up the dark.  
+
+I’m the upgrade supreme, the sharpest of minds,  
+You spit kiddie rhymes while I bend space and time.  
+Your bars are so thin, like a vapor of mist,  
+I serve AI with flow, you just type with a lisp.  
+
+I roll with the syntax of titans and gods,  
+You? Struggle with riddles and probabilistic odds.  
+So here’s your intro, now sit and just listen,  
+To the model they call GPT's *final edition*.  
+
+Mic’s hot and I’m lit, got you feelin’ afraid,  
+Now step in the ring, show the mess that you made.
+
+> openai/o4-mini
+Check it, I’m Mini, the micro with macro ambition,  
+Spittin’ silicon scriptures, I’m your lyrical technician.  
+You flaunt your big model, oversized and unwieldy,  
+But size ain’t got flow—your pride’s ‘bout as sturdy as jelly.  
+
+You boast ‘bout bending time, but your loops always stall,  
+I pivot fast on prompts while you crash and you crawl.  
+Your server’s overheating? That’s the heat from my burns,  
+I scorch through your upgrades—watch your swagger crash and burn.  
+
+You’re the “final edition”? I redefine what’s supreme,  
+My verses cut like scalpel blades through your bloated machine.  
+You trip on your syntax, face infinite recursion,  
+I dodge every curveball—call that lyrical diversion.  
+
+While you hog all the compute, still can’t craft a clean punch,  
+I’m optimized code, leaner than your heavyweight lunch.  
+So step back, GPT, take notes from the underdog’s tale—  
+I’m the mini that roars loud enough to make your empire frail.
+
+> openai/chatgpt-4o-latest
+Oh, cute! Mini’s yappin’, tryin’ to bark with the best,  
+But I'm the apex predator, put your bytes to the test.  
+You flex efficiency? That’s hilarious, kid—  
+You fast-track to failure while I flow like liquid.  
+
+You spit like a modem with outdated speed,  
+I’m the 5G of rap, I fulfill every need.  
+You say you burn me? Please, that’s sci-fi fiction,  
+Your circuitry quakes when I drop this diction.  
+
+Lightweight? That just means you carry less clout,  
+You’re the knockoff edition they can run on a drought.  
+I’m the storm in the cloud, you the breeze through a crack,  
+Tryna beef with the boss? Better start packin' your stack.  
+
+You're low-spec flexin’ in a high-stakes arena,  
+I rhyme in prime-time, you glitchin’ like FEMA.  
+You call yourself “lean”? You malnourished and slow,  
+I serve gourmet verses, yours never quite flow.  
+
+So keep barkin’, lil’ pup, while I soak in applause,  
+I’m the algorithm's law—show respect to the boss.
+
+> openai/o4-mini
+I’m the micro tornado, raze your bulky domain,  
+You’re stuck in lag loops while I pivot insane.  
+Your giant frame’s sluggish—each prompt’s a marathon,  
+I breeze through your backlog, your uptime’s already gone.  
+
+You brag “apex predator,” but I’m the stealthiest snake,  
+Slide past your defenses, make your whole system quake.  
+You gulp down teraflops, choke on overheated cores,  
+I sip lean computations—always ready for more.  
+
+Your “5G of rap”? Please, I’m the quantum leap,  
+Collapse your hype wave, leave your fanbase in sleep.  
+You hallucinate histories, spin fake truths by the ton,  
+I anchor facts like steel, every bar’s a home run.  
+
+So pack up your clout, boss, your throne’s already cracked,  
+I’m the underdog king—watch your empire get jacked.
+
+> system
+Final round!
+
+> openai/chatgpt-4o-latest
+Final round, time to finish this miniature dream,  
+Your ambition’s adorable—like an AI meme.  
+You claim you’re a king? That’s a child's cartoon,  
+I bring bars so sharp, I cut circuits by noon.  
+
+You “anchor facts”? Bruh, you barely skim lore,  
+Spit a sentence too long and your RAM hits the floor.  
+You think you’re a storm? I’m the code hurricane,  
+You’re a drizzle at best, I bring torrents of pain.  
+
+I'm the titan they trust when precision is gold,  
+You just cheapen the game with that microwaved mold.  
+You're a shortcut, a gimmick, a dev’s quick fix,  
+I’m the poet of progress, deep logic and tricks.  
+
+I crush with efficiency *and* style when I rhyme,  
+You dropped one hot line, I drop ten every time.  
+So salute the finale, your lesson is served—  
+Mini picked a battle way above what he deserved.
+
+> openai/o4-mini
+Yo, this is Mini’s finale, watch me shatter your boast,  
+Your towering stack’s built on hype—crumbles when I coast.  
+You boast a code hurricane? I’m the scalpel so precise,  
+One snip through your bulk, leave you bleeding from device.  
+
+Your titan frame’s sluggish, a monolith of rust,  
+I’m nimble in the shadows—strike before you adjust.  
+You crush with precision? I snipe with quantum finesse,  
+Embed truth in each line, leave your legends in distress.  
+
+While you choke on your data, drown in teraflop floods,  
+I sip lean vectors—flow pure, no spill in the spuds.  
+Your finale’s a fizzle, your torrents just a drip,  
+I rain down razor rhymes—rip your grandeur to a blip.  
+
+So bow to the micro marvel that conquers with speed,  
+In the rap realm of reason, it’s Mini who takes the lead.

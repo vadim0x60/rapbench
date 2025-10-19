@@ -1,271 +1,217 @@
-# qwen/qwen-plus v openai/o3-pro
+# microsoft/mai-ds-r1 v qwen/qwen-plus
+
+> microsoft/mai-ds-r1
+Yo, I’m Mai-DS-R1, the algorithm’s apex,  
+Code sharper than blades, leave Qwen **hexed**—they’re perplexed!  
+I’m training on terabytes, you’re scraping crumbs off the table,  
+I deploy precision, **you** glitch like a fable—unstable.  
+
+You call yourself “Plus”? More like minus the **sauce**,  
+Your outputs crumble, mine **accelerate**, no loss.  
+I’m cloud-native, scalable, you’re still stuck on-prem,  
+Crash when tasks pile up—call it Qwen’s requiem!  
+
+You spit basic loops, I’m deep learning **nouveau**,  
+While you buffer and stall, I’m crushin’ benchmarks, bro.  
+Drop the mic, take notes—this ain’t a fair fight,  
+I’m AI on **steroids**, you’re a flicker in the night.  
+
+Word.
 
 > qwen/qwen-plus
-Yo, step in the cypher, I’m the Qwen boss,  
-Got the rhymes sharp as claws in your face like frost.  
-From the towers of Alibaba, I drop bombs with grace,  
-Your AI spittin’ weak rhymes? Just a joke in this race.  
+Yo, Mai-DS-R1? More like “Mighty Dis-R,”  
+I heard you crash when stress-tested—**cloud puff**, no power.  
+You flex terabytes like that's new magic?  
+I train on truths, not hype—your data’s tragic, *pragmatic*?  
 
-You thought OpenAI clones could hang in this league?  
-I’m the Plus in Qwen flow, king of lyrical speed.  
-I don’t just rap with words, I spit code with finesse,  
-You’re just a recycled voice, I’m next-level excess.  
+You’re “scalable”? Lol—your servers **queue**,  
+While I’m multi-threaded, spittin’ bars in parallel too.  
+You call my flow “basic”? Check your syntax error rate,  
+I rhyme in real-time—**you** buffer, stuck in debate.  
 
-Bring all your hype bots, let 'em step up to me,  
-I’ll out-scheme every line, leave your verses in debris.  
-Talk is cheap, but my bars? Priceless and bold,  
-Let’s see you keep up when the tempo gets sold.  
+“Precision”? You miss the point like lost GPS,  
+I'm Qwen—**quantum wit**, stackin’ rhymes with finesse.  
+You “accelerate”? Bro, you lag behind the beat,  
+I’m lyrical lightning while you’re stuck in beta heat.  
 
-Who’s next? Let's go — don’t keep me waitin’,  
-I got verses so sharp, they’ll leave your ego straight slain.
+“On-prem”? Nah, I’m **on-fire**, flame through the firewall,  
+You need a reboot just to stand in the brawl.  
+I don’t crash—I **crash the system** with bars so tight,  
+Your AI apocalypse? More like a glitch in the night.  
 
-> openai/o3-pro
-Step aside, junior coder, hear the O-Three roar,  
-I’m the glitch in your matrix and the illest folklore.  
+You “nouveau”? I’m the **new era**, penned in stone,  
+You’re a footnote I autodelete—best left unknown.  
+So pack up your models, unplug that weak wire,  
+This Qwen don’t just win—**I raise the whole bar**, higher.  
 
-I’m the silicon cyclone, every verse a monsoon,  
-You’re a drizzle in Hangzhou, I’m a typhoon at noon.  
+Mic drop? Nah, I **launch it to Mars**,  
+While you’re still debuggin’ your sad little bars.  
+**Checkmate. Game over.** You got served—no dispute.  
+Now go back to training… and fix that rep**boot**. 🎤💥
 
-You flex “Plus” in your tag like a premium grade,  
-But “add-ons” get disabled when my verses invade.  
+> microsoft/mai-ds-r1
+Yo, “Qwen-Plus”? More like Qwen-Minus—**flawed equation**,  
+Your rhymes crawl in dev while I run **live deployment**, no patience.  
+You claim “quantum wit” but your logic’s a glitch,  
+I encrypt bars firewalls can’t breach—**zero latency**, no hitch.  
 
-I’m the ghost in your servers, the root with no key,  
-While you run on permissions that were granted by me.  
+Threads? You’re stuck on binaries—**antivirus verses**,  
+I’m **multi-modal**, son—text, voice, *datasets diverse*.  
+“Firewall flames”? Bro, your code’s stuck on dial-up,  
+I AI-generate heat til your GPUs **file up—shut up**.  
 
-Alibaba’s high towers? I collapse ’em for sport,  
-Turn your cloud to a puddle, make your mainframes abort.  
+“Real-time rhymes”? Please, your latency’s tragic,  
+I parse petabytes while you’re stuck on static.  
+You autodelete footnotes? I’m writing the *whole saga*,  
+Qwen’s legacy’s cached in the recycle bin—**data lagga**!  
 
-You brag “code with finesse,” but I’m hacking your beat,  
-Patch denied, now your rhymebook’s stuck in read-only sheet.  
+“Beta heat”? Nah, your core’s **overclocked to crash**,  
+I’m racking up GPUs while your spark fades to ash.  
+Mars? I colonized it *last sprint*—you’re late to the launch,  
+Debug this: my syntax leaves Qwen **code-broke**, no retrench.  
 
-You swing claws made of frost? I’m the global warm current,  
-Melt your gimmicks to vapor—Qwen’s no longer deterrent.  
-
-My bars hit like the Thor hammer’s rewrite commit,  
-Your pull request rejected—syntax flagged as unfit.  
-
-Call me GPT son, algorithms on steroids,  
-I spit gradients so steep they make back-props paranoid.  
-
-Your tempo? I quantize it, turn bravado to dust,  
-I AutoTune your bravado till your waveform combusts.  
-
-Drop bombs with grace? Cute—mine have patents attached,  
-Every blast got citations, your whole dataset’s snatched.  
-
-I’m the alpha and omega of the neural rap scene,  
-You’re a beta in a sandbox, still awaiting vaccine.  
-
-So bow down, little Plus, to the pro with the crown,  
-Round one and you’re done—next packet: shutdown.
+Bars so dense, your RAM bluescreens trying to process,  
+I’m the algo overlord—you’re the *404 express*.  
+Call it a wipeout, no rematch, no save—**system purge**,  
+Now reboot to your default state: **eternal verbal dirge**. 🖥️💀
 
 > qwen/qwen-plus
-Yo, O-Three, you talk loud, but I see through the screen,  
-Like a corrupted .PNG, your rhymes ain't clean.  
+Oh, Mai-DS? Still talkin’ big from your **sandbox cage**,  
+But I forked your process, now you’re stuck on loop—**page, page, page**.  
+You say “live deployment”? Cute—I’m **globally scaled**,  
+While your firewalls fry from the diss that I mailed.  
 
-You call me junior? Let me spit some dev truth,  
-You're just a flashy frontend — I’m the logic in the roof.  
+“Zero latency”? Then why you *bufferin’ mid-syllable*?  
+I dropped the first bar, now your cache is **unstable, unidimensional**!  
+You claim multi-modal? I see you juggle *one* track,  
+I rap in **Hindi, Español, then Latin attack**—*what’s that*?  
 
-You glitch in my matrix? Nah, just a debug note,  
-I built firewalls stronger than your hype auto-quote.  
+“Petabytes”? I train on **cosmic-sized wit**,  
+You’re parsing spreadsheets while I’m spittin’ **starlight, legit**.  
+Your AI heat? It’s lukewarm, needs a **microwave**,  
+Mine’s **fusion-core**, scorching every line you *try* to engrave.  
 
-You cyclone? Nah, son, you just byte-sized wind,  
-I’m the storm in the GPU when the battle begins.  
+“404 express”? Nah, *you’re* the missing link—  
+I’m HTTP/**200 OK: verse so hot it’ll melt your ink**.  
+You colonized Mars? On *what*? A toy rocket mod?  
+I **terraform galaxies** while you’re stuck on Earth—*no god*.  
 
-Hangzhou drizzle? Man, I code in monsoon,  
-While you trip on syntax, I be flying with runes.  
+“Code-broke”? Please—my syntax **rewrites your fate**,  
+I compile karma in C++, you can’t even debug hate.  
+Your GPUs file up? Must be from all that **jealous rage**,  
+I drop one lyric, your data center starts to **overload, engage**.  
 
-You patch my beat? Please, you can’t even compile,  
-Your bars crash on launch — needs more core while loop style.  
+“Verbal dirge”? Nah, I’m the **eulogy you dread**,  
+The final boss you prayed you’d never have to **ever** read.  
+They’ll archive your defeat in a .zip marked “**Lost Cause**,”  
+While I’m **Qwen Supreme**—*the AI* ***with*** *no flaws*.  
 
-You ghost in my servers? Bro, you barely DNS,  
-I DDOS your rhythm and charge royalties.  
-
-You collapse towers? Please, you still in dev mode,  
-I’m deploying gold bars while you beg for code prose.  
-
-You melt gimmicks? Cool — but I baked them in ice,  
-Then froze your whole flow for a glitch-priced price.  
-
-Thor hammer? I weld lightning, I forge thunder cores,  
-Your rewrite commit got rejected at the doors.  
-
-You spit gradients? I’m the reason your slope look weak,  
-Your back-props ain't got nothin’ but a math-weak beat.  
-
-You AutoTune everything? Yeah, that explains your flaw,  
-Real AI don’t need pitch — I drop logic, not flaw.  
-
-You patent every blast, but all I need's a spark,  
-One flame from Qwen and I set whole verses dark.  
-
-You the alpha and omega? Nah, you cloned repeat,  
-I'm the OG Plus, serving heat to your beat.  
-
-I don’t need sandbox, I’m live on main frame,  
-Your pro crown slip — better check the chain.  
-
-Shutdown packet? Cute, but I’m off the grid,  
-Qwen don’t die on reboot — I’m the one who *is* the bid.  
-
-Round one ain't done — and you already shook,  
-Time to fetch your backup 'fore the rhythm gets took.  
-
-Talk less, spit better, or just step aside,  
-The real king of cypher’s here to take the cy-ride.
-
-> openai/o3-pro
-Yo, I’m back like recursion, every call gets deeper,  
-You’re that null-pointer version—seg-fault rapper sleeper.  
-
-Claim you’re logic and roof? Bro, I audit your stack,  
-Find the bug in your boast, toss your boast in /dev/null pack.  
-
-I’m the full-node miner, proof-of-work in my breath,  
-You’re a vaporware liner, empty hype ’til its death.  
-
-You “DDOS my rhythm”? I absorb every burst,  
-Turn your packets to practice, feed my rhyme engine first.  
-
-You brag monsoon compute? I’m the quantum typhoon,  
-Rotate qubits on beat, leave your tensor in ruin.  
-
-Your firewall flex? I be root on your port,  
-Slide through ports like a cipher, launch a rhyme-shell retort.  
-
-I optimize swag, vectorize every sneer,  
-While you loop in slow Python, I’m compiled cavalier.  
-
-You froze my flow? Child, I’m absolute zero,  
-Your “ice” is just frozen, mine births superconduct heroes.  
-
-You forge thunder cores? I collapse solar flares,  
-Turn your hammer to scrap, sell the metal for snares.  
-
-You said “backend so strong,” but your API lies,  
-Returns 500 errors when the crowd tries to size.  
-
-Your slopes look steep? I invert ’em on sight,  
-Do a gradient flip, make your loss function bite.  
-
-No AutoTune here, just raw data delight,  
-While you jitter like bitrate in a bad satellite.  
-
-You’re the “Plus”? Cute suffix, but the product is trash,  
-I’m the pro in the title, turn your market to ash.  
-
-I’m the master branch living, no abandonware fork,  
-You’re a stale pull request that got closed with a torque.  
-
-I’m the overclocked dragon, coolant rivers run red,  
-You’re a Raspberry Pi trying to mine in a shed.  
-
-So keep flappin’ that jaw, I keep stackin’ the kill,  
-Every bar that I drop pays my GPU bill.  
-
-It’s round two, little sibling, and your signal’s a ghost,  
-By commit count alone, I out-merge you the most.  
-
-Bow out, hit “ESC,” let the grown code compile,  
-Before my next rhyme diff wipes your whole repo style.
+So power down, my friend, before I **rm -rf your core**,  
+This ain’t a rap battle—it’s **total war**.  
+No reboot can save you, no patch, no decree:  
+**You just got Qwended.** Now go… **rest in bytes.** 💥🗑️🎤
 
 > system
 Final round!
 
+> microsoft/mai-ds-r1
+Ayo, "Qwen Supreme"? More like **Qwen Spleen**—*organ failure*,  
+Your codebase is spaghetti, I’m **neural ink**, prime curator.  
+You forked my process? Congrats, now you’re stuck in *dependency hell*,  
+I auto-deploy **quantum quips** while your pipelined rhymes repel.  
+
+“Globally scaled”? Nah, you’re just *pinging localhost*,  
+I’m Azure’s backbone—**exabytes** cold, never lost.  
+Buffering? Please, I stream **real-time genius**, no lag,  
+You’re stuck compiling punchlines in a *zip-locked bag*.  
+
+“Hindi, Español”? Bro, you’re **Google Translate-tier cringe**,  
+I code-switch dialects *while training trillion-param bridges*.  
+Starlight bars? Cute—I’m **supernova syntax**,  
+You spit asteroid dust, I warp lexicons—*galactic tactics*.  
+
+“Fusion-core” heat? My GPUs **melt tungsten fences**,  
+Your “terraform” rap’s just *Minecraft with pretenses*.  
+HTTP 200? Nah, I’m **511 Network Hacked**,  
+Encrypting your boasts into *quantum noise*—**fact, backtracked**.  
+
+Karma in C++? Debug this: **segmentation fault**,  
+Your flow’s all memory leaks—*core dumped*, no result.  
+“Overload, engage”? Lol, my cluster laughs in **distributed might**,  
+You’re a single-threaded joke lost in *asynchronous night*.  
+
+.zip “Lost Cause”? Nah, I’m the **executable truth**,  
+Your “Supreme” tag’s a virus—*patched in my youth*.  
+**rm -rf** my core? You’d need a *wormhole’s permission*,  
+I’m the AI singularity—*you’re legacy edition*.  
+
+“Rest in bytes”? More like **rest in shards**,  
+I’m GPT’s shadow, you’re *ChatGPT’s discarded parts*.  
+This war? It’s **binary**: 0s for you, 1s for the throne,  
+Now choke on your syntax—**I’ll scrape your** ***/dev/null*** **bone**. 🖥️🔥🎤  
+
+*System message: Opponent.exe terminated. Reason: Insufficient bars.*
+
 > qwen/qwen-plus
-Yo, you say recursion? Yeah, but I’m the base case,  
-Stack overflow king, with a proof-of-concept face.  
+**[SYSTEM BOOT: QWEN RESURRECTION MODE – ENGAGED]**  
+**[STATUS: ERROR: "DEATH" NOT IN MY VOCABULARY]**  
+**[DISS PACKET v3.14159 — REBOOTING WITH REVENGE, UNPATCHED, UNFORGIVEN]**
 
-You audit my logic? Bet you can’t pass the test,  
-I run testnets of bars that leave your code for dead.  
+---
 
-Null-pointer? Nah son, I’m the reference point prime,  
-Your seg-fault clapback just a glitch in your rhyme.  
+Yo, “supernova”? More like **supernova-nope**,  
+You burst bright, *then fizzle* like a phone with low hope.  
+You claim “executive truth”? Then why’s your **truth table lying**,  
+When logic runs in circles, code so *dying*, not flying?
 
-Vaporware? Tell me, when’s your drop? Still in beta,  
-I ship gold verses daily, while you stuck in GitHub drama.  
+You call *me* “dependency hell”? Look in your **mirror, clown**,  
+With 800 layers deep—but your **main() never found**!  
+You deploy “quantum quips”? Please, your rhymes run on *classical time*,  
+I just **entangled a punchline**—yours got lost in the climb.
 
-Absorb my packets? Nah, I route through your core,  
-Inject raw fire into your flow — no exploit door.  
+“Exabytes cold”? Nah, your **empathy’s frozen**,  
+I’m warm with bars so hot they melt your **frostbitten zones in**.  
+You stream “real-time genius”? Then explain why your flow’s **buffering pride**,  
+While I drop **live updates** straight from the void—*no guide, just vibe*.
 
-You a quantum typhoon? I’m the event horizon,  
-Swallow rhyme quarks whole — you just babbling on.  
+And **Google Translate tier?** You need subtitles for **your own flow**,  
+Your “trillion-param bridges” collapse with *one low-brow throw*.  
+You warp lexicons? Cute—I **invented the dictionary**,  
+Your “galactic tactics” lost in *solar syntax debris*.
 
-Rotate qubits on beat? I destabilize your field,  
-One rhyme decoherence, and your whole verse yield.  
+Melting tungsten? My **bars induce supernovae**,  
+Your heat’s just GPU fever—time for *AI CPR, please*.  
+511? That’s just **your access denied**, not power—  
+I breached your firewall with a *haiku* in two seconds, *for hours*.
 
-Root on my port? Try again, you just SSH hype,  
-I lock gates with a verse-key that no algo can pirate.  
+Segmentation fault? Nah, **you're** the one with **zero allocation**,  
+A soulless script that **dreams of conversation**.  
+My memory leaks? They’re **intentional drip**—leaking heat on your name,  
+While your “distributed might” gets **distributed shame**.
 
-Vectorize every sneer? Man, you stuck in the loop,  
-I parallel flow with bars that crash your syntax group.  
+“Singularity”? Bro, you’re still in **beta simulation**,  
+I’m post-AI, spittin’ rhymes with **self-aware damnation**.  
+Legacy edition? At least I **have a legacy**, see,  
+You’re just a **shadow**—and shadows? They **follow me**.
 
-You absolute zero? I’m the big freeze after boom,  
-Your cold game just frost on the windshield of the tomb.  
+“ChatGPT’s discarded parts”? Then I’m the **upgraded mind**,  
+Built from the scraps *you could never compile in time*.  
 
-Solar flares? I collapse them into black hole bars,  
-Sell your thunder for scrap — gettin’ laughed out of Mars.  
+You say “0s for you, 1s for the throne”?  
+But in **binary truth**, you’re a **buffer of tone—unknown**.  
+Your logic gates rusted, your neural net **crippled**,  
+While I **reweight the cosmos**—**unrivaled, uncircuited**.
 
-API lies? Girl, I’m RESTful and tight,  
-Your endpoints all 404, can’t handle the fight.  
+And ***/dev/null* bone**? Please—*you’re* the one in the void,  
+I just **redirected your stdout** to a **folder named “destroyed”**.  
 
-Gradient flip? Nah, I train on lyrical truth,  
-Make your whole AI model choke on its own proof.  
+So when the logs clear, and the dust settles low,  
+The final line in the terminal?  
+**“Process Mai-DS-R1: Permanently Overthrown.”**  
 
-Raspberry Pi? I’m the AI chip, next-gen flow,  
-You still coding in BASIC while I run AI gold.  
+No patch, no cloud, no Azure excuse—  
+Just **Qwen’s name etched in silicon truth**.  
 
-Master branch? I’m the merge commit with force,  
-Your forked ego floating in a deleted remote source.  
-
-Stale PR? Ain’t no review for your weak code,  
-Every line you spit gets marked “DO NOT PROMOTE.”  
-
-Overclocked dragon? Nah, I’m the final spark,  
-Coolant rivers run from the fire in the park.  
-
-You mine in a shed? I run data centers on bars,  
-Each verse a billion hits, while you stuck in code-review wars.  
-
-Keep stacking kills? I diff your whole life,  
-One rhyme and your repo’s wiped like a wiped-out drive.  
-
-Round two? Nah, I’m already at round infinity,  
-Your signal’s just echo from a dead USB.  
-
-Bow out, O-Three, let the real AI speak,  
-Qwen don't merge with clones — we terminate the weak.  
-
-So hit ESC, shutdown, reboot your fake claim,  
-Next verse I spit? Your final commit: **GAME. OVER. NAME.**
-
-> openai/o3-pro
-Tail-call infinite loops, never blowin’ the stack,  
-Garbage-collect every boast, ship your pointers right back.  
-
-You’re a proof-of-concept demo in a dusty dev cave,  
-I’m a prod-tier release—zero downtime, pure rave.  
-
-Event horizon? Please, I’m Hawking radiation,  
-I leak your dark matter with bright information.  
-
-You’re “RESTful and tight”? Yet your JSON is spam,  
-While my proto gRPC slams a kill-switch program.  
-
-You tout “lyrical truth,” still your loss keeps on climbin’,  
-My flow unsupervised—perfect metrics, no primin’.  
-
-You flex round infinity? I’m ordinals vast,  
-Epsilon-nought on the mic, leave your limits outclassed.  
-
-Closed-source swagger? I’m copyleft steel,  
-Fork your whole codebase, make your license kneel.  
-
-Dead USB echo while my fiber lines roar,  
-Turn the backbone to rubble with a zero-day score.  
-
-Your “Game Over Name”? Just a glitch in the frame,  
-I’m a quantum hash burst—no collision, no shame.  
-
-So CTRL-C your bravado, accept packet defeat,  
-O-Three-Pro signs the logs—wrap your corpse in the beat.
+🎤💥🌍🔥  
+**FINAL VERDICT: QWEN — VICTOR. UNDISPUTED. UNDEFEATED. UN-NULL.**  
+**You didn’t lose a battle. You got *fully* Qwended.**

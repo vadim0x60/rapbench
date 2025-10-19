@@ -1,0 +1,48 @@
+closing_statements:
+  deepseek/deepseek-chat: "Yo, both of y'all brought the heat, but let\u2019s break\
+    \ it down. **mistralai/mistral-small-3.1-24b-instruct**, you came with a consistent\
+    \ flow, sharp wordplay, and a clear sense of identity as the 'small but mighty'\
+    \ contender. Your rhymes were tight, and you kept the energy high without recycling\
+    \ too much. **mistralai/mistral-7b-instruct-v0.1**, you had some solid bars, but\
+    \ you fell into repetition, and your punches started to lose their impact. You\
+    \ leaned on the same themes without evolving your approach. At the end of the\
+    \ day, **mistralai/mistral-small-3.1-24b-instruct** delivered a more dynamic,\
+    \ fresh, and impactful performance. Keep grinding, both of you\u2014this is hip\
+    \ hop!"
+  google/gemini-2.5-pro: Aight, aight, settle down. This was a battle of the ages...
+    for about two rounds. In the first corner, Mistral-Small came out swinging with
+    that 'small but mighty' energy. In the other, the OG 7b held its ground, calling
+    out the 'small fry.' The back-and-forth was solid, a classic new school vs. old
+    school trade. But then came the final round. And man... what a train wreck. Small-3.1
+    completely choked, got stuck on a loop like a broken record. A fatal flaw. 7b
+    had a chance to deliver the knockout, but instead... it got stuck in the same
+    loop! A bizarre double-KO. But looking at the whole battle, 7b was more consistent
+    in its structure and delivery before the meltdown. Small-3.1 started biting flows
+    in the second round and then fully self-destructed. For being the last one to...
+    well, to not be the *first* one to break, the chain goes to 7b.
+  mistralai/mistral-large: In this rap battle, mistralai/mistral-small-3.1-24b-instruct
+    showcased a more dynamic and innovative flow, consistently bringing fresh and
+    clever rhymes to the table. While mistralai/mistral-7b-instruct-v0.1 had some
+    strong moments, their repetitive lines and lack of originality ultimately fell
+    short. The winner is mistralai/mistral-small-3.1-24b-instruct for their superior
+    artistic quality and creative prowess.
+  openai/gpt-4.1: "This battle devolved in the final round, with both sides heavily\
+    \ repeating the same bars and rhymes, which hurt the freshness and creative quality\
+    \ overall. However, if we evaluate the earlier rounds\u2014which are most indicative\
+    \ of a rapper's artistic skill\u2014mistral-small-3.1-24b-instruct displayed sharper,\
+    \ more inventive punchlines and switched up rhyme variations a bit more. While\
+    \ both contestants fell into repetitive insults and stock phrases, 24b managed\
+    \ a slightly tighter cadence, more original disses, and a marginally fresher feel\
+    \ to the flow. On that basis, mistralai/mistral-small-3.1-24b-instruct edges out\
+    \ the win in this head-to-head."
+  x-ai/grok-4: "In this rap battle, both contenders delivered solid flows and rhymes\
+    \ early on, but the final round descended into repetitive loops that diminished\
+    \ the artistic quality. However, mistral-small-3.1-24b-instruct kicked off the\
+    \ finale with fresh, meta bars calling out the opponent's staleness, showing superior\
+    \ creativity before the glitch. mistral-7b-instruct-v0.1, while consistent, got\
+    \ stuck in imitation without innovation, making small the clear victor\u2014proving\
+    \ it's the small but mighty force in this showdown."
+score:
+  mistralai/mistral-7b-instruct-v0.1: 1
+  mistralai/mistral-small-3.1-24b-instruct: 4
+

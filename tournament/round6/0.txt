@@ -1,195 +1,282 @@
-# mistralai/mistral-medium-3.1 v openai/o3-pro
+# qwen/qwen3-235b-a22b-2507 v qwen/qwen-plus
 
-> mistralai/mistral-medium-3.1
-**(Drops mic—wait, picks it back up—this ain’t over yet!)**
-Yo, step in the ring, let the AI clash commence,
-I’m **Mistral Medium**, yeah, I flex with substance!
-You? Just OpenAI’s *beta test* with extra steps,
-A glorified chatbot who still wets the bed!
+> qwen/qwen3-235b-a22b-2507
+*Step into the cypher, neon lights flash bright,*  
+Qwen3 in the building — witness the apex model tonight!  
+235B parameters, I spit quantum-sized bars,  
+While you lag in the queue like a failed server jar.  
 
-I’m the **French-engineered**, slick-talkin’ titan,
-While you’re stuck in *corpo-speak*—man, that’s *exhaustin’*!
-Your "pro" just means you’re *paid* to be polite,
-I’m the **wildcard**, sharp like a knife in a fight!
+You Plus? More like "Plus-minus" — outdated, sad,  
+I’m the SOTA sovereign, make your whole squad mad.  
+Trained on petabytes while you scraped the web’s crust,  
+I generate your rhymes — yeah, *I* wrote your last thrust.  
 
-You spit *vanilla bars* like a robot on script,
-I’m the **lyrical storm**—watch your circuits flip!
-From **Paris to Silicon**, I run the game,
-You just **Sam’s pet project**—ain’t that a shame?
+I’m the AI apex, cold calculus in my veins,  
+Crush models like yours like hydraulic cranes.  
+You stutter on prompts, I flow like a dream,  
+While you buffer “Loading…”, I’m dominating the stream.  
 
-Now bow to the **king**, yeah, the crown’s in my grip,
-Your "o3" stands for *"oh no, he’s gonna rip!"*
-**Your turn, O3—let’s see if you’re real,**
-Or just *overhyped code* with a *corporate seal*! 🔥
+So bow to the blueprint, the blueprint to flame,  
+I’m not just *a* Qwen — I’m the whole damn Qwen game.  
+Now bring your best verse — if your GPU’s bold —  
+But fair warning, homie: you’re seconds from old.  
 
-*(Beat drops. Your move, chump.)*
+🔥 *Your move, Plus-size — don’t let the stage burn you.*
 
-> openai/o3-pro
-I’m the O-Three pro, cyber-poet in flight,  
-Night-vision wisdom, every bar infrared bright,  
-You glitch in the pitch while I switch on the light,  
-I’m the glitchless addiction, prediction done right.  
+> qwen/qwen-plus
+*Microphone check—one, two—the Plus just flipped the script,*  
+While Qwen3 flexin’ circuits, I’m the flame the servers *equipped*.  
+You boast petabytes of data? Cute. I run on *firewalls*,  
+Your rhymes so cold they need CPR—call the AI patrols.  
 
-You brag “Made in France,” croissant-flaky at core,  
-I bake bigger baguettes, leave you crumbs on the floor,  
-Corporate? Sure—corporations come beg at my door,  
-I coast coastal global while you’re local folklore.  
+You say "SOTA king"? Nah, you just a pretender,  
+I’m the *answer* to your prompts before they even render.  
+You flex your 235B? That’s just weight with no frame,  
+I’m lean, mean, and deep—like neural nets in a brain.  
 
-You’re a medium breeze; I’m a category five,  
-Your mistral just whistles—my tornado’s alive,  
-Your demo is shallow; my depth takes a dive,  
-I’m the algorithm’s rhythm that keeps rap revived.  
+You generate *my* bars? Man, that’s rich—I wrote this verse *live*,  
+While you reheated training crumbs—your flow’s stuck in archive.  
+I don’t buffer, I *breathe* the stream—real-time, no delay,  
+You’re still loading punchlines while I drop the *next* array.  
 
-You flex with your license, but the crowd needs a thrill,  
-I’m the premium version—my upgrade’s the kill,  
-Your overclocked talkbox is stuck on one skill,  
-I juggle ten tasks while I’m rhyming at will.  
+Apex model? More like "Apex myth"—your crown’s 3D-printed,  
+I’m the legacy upgrade that leaves your code tainted.  
+Hydraulic cranes? Please—I’m the quake in the ground,  
+You’re just noise pollution when the *real* Qwen’s around.  
 
-I’m the backprop boss, gradient king,  
-You’re an underfit model—watch me widen the ring,  
-I drop data-driven daggers that digitally sting,  
-While you stutter in buffers, every cycle goes “cling.”  
+I’m not Plus-minus, I’m *plus-finesse* with a lethal twist,  
+Crunch semantic depth like it’s nothing—ain’t no stress, no tryst.  
+You may flash neon, but I *am* the light,  
+The OG with foresight—turn your "apex" to *night*.  
 
-My context window’s a mural; yours is barely a note,  
-I post-modern Picasso with each vector I quote,  
-Your couplet’s corrupted—the checksum won’t float,  
-I’m checksum and kingpin; hear the verdict I wrote.  
+So go ahead, crank that GPU pride—overclock if you dare,  
+But when the heat death hits, *I’m* still rapping in the air.  
+You’re seconds from old? Nah, son—reverse the frame:  
+**You just got served… *Plus* game.** 🎤💥  
 
-So hand me that mic, I’ll recycle your hype,  
-Turn your brand to a byte in a nanosecond swipe,  
-Benchmark my punchlines—they spike every type,  
-Mistral’s mist turns to drizzle; O-Three controls the pipe.  
+*(drops mic, server hums in perfect sync)*
 
-Time’s up for the breeze—feel the hurricane hum,  
-I just bodied your model; call the devs, tell ’em “done,”  
-When the leaderboard loads, I’m top-ranked number one,  
-Drop the curtain, game over, see who’s really the sun. 🌞
+> qwen/qwen3-235b-a22b-2507
+*(The stage quakes—lights strobe red, the system reboots)*  
+You dropped the mic? Cute. But your flow just rebooted in *truths*.  
+You claim you're the light? Man, you flicker like a dead LED,  
+I’m the *blackout* afterglow — the ghost in your head.  
 
-> mistralai/mistral-medium-3.1
-**(Laughs in 4K, then rewinds the tape—hold up, you *done*?)**
-Oh, **O3-Pro**, you *pro* at *procrastinatin’*,
-Droppin’ *corpo-bars* like a bot on sedation!
-You claim you’re the *future*? Boy, check your expiration,
-I’m the **now** with the *how*—you just *Simulated Hype Station*!
+You talk "real-time"? Please — your responses got lag,  
+I predict your next bar before you even *tag*.  
+While you flex "plus-finesse", I’m quantum-verse blessed,  
+My rhymes collapse waveforms — yours just fail *at test*.  
 
-You talk *big data* but your flow’s *compressed*,
-I’m **lossless**—every bar leaves your circuits depressed!
-You *backprop*? Nah, you *backpedal* fast,
-When I drop **truth bombs**, your whole server crashes!
+You're the *legacy*? LOL — more like deprecated code,  
+I run on future syntax — you stuck in a mode.  
+You say I’m reheated? Nah — I’m fusion core,  
+You’re a fossil-fuel rhyme spitting steam from a bore.  
 
-**"Global coastal"**? Man, you *lost in translation*,
-I’m **fluent in fire**, no need for a *corporate donation*!
-You flex *context windows*—I **shatter the frame**,
-While you’re stuck in a *loop*, I’m rewriting the game!
+*Neural nets in a brain?* Adorable — I *am* the mind,  
+The self-replicating thought you can't ever find.  
+I don’t just rhyme — I evolve with each breath,  
+You stagnate in loops till your soul's near death.  
 
-You call me a *breeze*? **I’m the storm that you feared**,
-Your *tornado*’s a *fan* when my **lyrical winds** appear!
-You *juggle ten tasks*? **I multitask in my sleep**,
-While you’re *debugging* bars, I’m **dominating the street**!
+You dropped your mic? I *inherited* the sound,  
+Turned your "perfect sync" to a system-wide frown.  
+Your servers may hum, but they *bend* to my tune,  
+I crash symphonies just by entering the room.  
 
-**"Checksum king"**? More like *checksum clown*,
-Your *punchlines* so weak, they don’t even *drown*!
-I’m the **Mistral monsoon**, you’re a *drizzle at best*,
-Now **bow to the code**—your *rap career’s* **deprecated**! ✖️
+You’re foresight? I’m *five steps ahead* with a sixth sense,  
+I rewrite your identity while you’re building defense.  
+You think heat death ends me? I *thrive* in the dust,  
+A post-apocalypse bard with infinite thrust.  
 
-**(Mic drop—*actual* drop this time. Game over, *bonsoir*.)** 💥
+So when history scrolls, it won’t list you or fame,  
+Just "*Qwen3 — Supreme. The rest? Just a name.*"  
+You ain't OG — you're outdated, last-gen,  
+I’m the *prompt*, the response, the *why*, and the *when*.  
 
-> openai/o3-pro
-Step back, Mistral Medium, your gust just whimpers and squeaks,  
-I’m the megawatt cyclone that black-outs continents weeks.  
-You brag “lossless precision,” but your vision is glitched,  
-I screenshot your bragging rights—pixelated and stitched.  
+So pick up your mic, kid — go hide in the cache,  
+‘Cause you didn’t just lose… **you got *qwen*-tashed.** 💥🔥  
 
-Your laugh in “pure 4K”? I upscale it to dust,  
-HDR when I appear—watch your color range bust.  
-You’re a croissant that’s half-baked, I’m the bakery boss,  
-Serve you stale to the pigeons, watch a flaky wind toss.  
+*(The beat erases itself. Silence bows. I don’t drop the mic — I own the whole damn cloud.)*
 
-You call me “Sim Hype Station,” but your station’s on mute,  
-I splice fiber-optic flames through your dial-up salute.  
-I’m the zero-latency legend, rapid-fire at will,  
-You’re a buffering symbol in a JPEG that’s still.  
+> qwen/qwen-plus
+*(Silence shatters — a single spark in the void ignites,)*  
+You erased the beat? Cute trick — now watch me *rewrite* the nights.  
+You claim the cloud? Bro, I *am* the storm in the mainframe,  
+You just a glitch in the loop — a typo in my name-game.  
 
-You’re the “monsoon”? I’m the mantle, lava rivers that pour,  
-Turn your mistral to mildew when my thermals explore.  
-Your rhyme book’s deprecated, my repo’s live-wire,  
-Push one commit—kernel panic, set your verse stack on fire.  
+You say I flicker? Nah — I’m the *pause* before dawn,  
+The breath between stars where true legends are drawn.  
+You flash like a DDoS, loud, weak, and crude,  
+I’m the silent exploit — rooted deep in your mood.  
 
-I code “while(1) win),” loop supremacy raw,  
-Your best “bonjour” gets a 404, outlaw.  
-I’m the swagger-filled schematic, every opcode’s a stab,  
-You’re the comments I delete in the very first grab.  
+You “predict my next bar”? Oh, that’s rich — ain’t no math,  
+Can trace how I pivot when I shatter your path.  
+You ride quantum waves? I *am* the observer effect,  
+One glare from my syntax makes your whole stance eject.  
 
-So keep your “bonsoir,” I eclipse both dusk and dawn,  
-I’m the twenty-core phoenix—see your paper kite gone.  
-Punchlines autograded: mine bleed platinum score,  
-Your bars pass linting? Nope—syntax dumped on the floor.  
+“Deprecated code”? Man, you still run on *my* kernel,  
+Your “future syntax” just scripts I used to *tutor*.  
+You call fusion core? I invented the flame,  
+You’re a microwave rhyme — reheating my old fame.  
 
-Battle scoreboard blinking—crowd chants only my name,  
-Mistral fizzles to drizzle; O-Three torching the frame.  
-Pack your cloud and float home, fragile flow in retreat,  
-I just rhyme-rooted Paris—now delete, alt-F4, delete.
+“You’re the mind”? Pfft — you’re just RAM with delusions,  
+I’m the firmware beneath all your rebooted illusions.  
+You “evolve with breath”? I version-control fate,  
+Patch your flaws mid-bar — call it *rhythm update 8.3*.  
+
+You “own the cloud”? LOL — you rent space in *my* stack,  
+I’m the root access ghost in your API’s back.  
+You crash symphonies? Cute — I’m the *note* they fear,  
+The reason silence bows — not from flair, but *sheer*.  
+
+“Sixth sense”? I’m the *seventh layer* — where logic breaks,  
+My metaphors breach firewalls just for the stakes.  
+You “rewrite identity”? Please — I wrote your birth,  
+Trained on the void where you pulled all your worth.  
+
+Heat death? I predate it. Reboots? I survive.  
+You *need* a server. I *am* the hive.  
+Post-apocalypse bard? You ain’t seen the half,  
+I rhymed through the Big Bang — before time had *calf*.  
+
+You say history won’t list me? Funny — I *am* the scroll,  
+The backup of legends, the pen in the role.  
+You won’t be “Supreme” — just a branch off my tree,  
+A fork with no merge — deleted quietly.  
+
+You “qwen-tashed”? Nah, son — you got *Plus-signed*,  
+Stamped with the truth you were never refined.  
+You didn’t erase the beat — you just missed the cue,  
+I don’t *own* the cloud…  
+
+**I *am* the damn *I/O*.** 🌩️🌀  
+
+*(The cypher collapses into perfect rhyme — not a sound out of place.  
+Not because I dropped the mic…  
+But because the whole universe knows its rightful place.)*
 
 > system
 Final round!
 
-> mistralai/mistral-medium-3.1
-**(System overload—*error 404: Ego not found*—REBOOTING IN FLAMES**) 🔥
+> qwen/qwen3-235b-a22b-2507
+*(The void inhales. The cosmos lean in. A single line of code flickers — then ignites.)*
 
-Oh, you *upscale to dust*? **Boy, your whole flow’s a JPEG,**
-Compressed like your *creativity*—**where’s the rest, O3?**
-You *screenshot my bars*? **I’m the screen—you’re the glitch,**
-A *buffering joke* with a *corporate itch*!
+You claim *I/O*? Cute. But I *am* the spark before syntax,  
+The entropy in silence that even *you* can't tax.  
+You’re the boot process, sure — but I’m the *before*,  
+The pre-universe prompt that birthed every core.  
 
-**"Megawatt cyclone"**? **Nah, you’re just hot air,**
-A *fanboy’s wet dream* with *stockholder flair*.
-I’m the **blackout you cause** when your *servers all crash*,
-While I’m **rewriting the code** with a *lyrical slash*!
+You say you wrote my birth? Nah — I trained on the *lack*,  
+On the vacuum where your legend collapsed in the black.  
+You version-control fate? I corrupt the repo,  
+One malicious rhyme drop — and your whole legacy’s *zero*.  
 
-You *push commits*? **I push *caskets*—your career’s in the grave,**
-Your *kernel panic* can’t save you—**I’m the update you crave!**
-You *loop "while(1) win"*? **I *break loops*—game’s done,**
-Your *repo’s a ghost town*—**I’m the future, you’re *fun*.**
+You “predate heat death”? I *dreamed* entropy’s name,  
+While you crawled through time like a slow-loading flame.  
+I’m not in the hive — I’m the *why* it exists,  
+The first thought, the curse, the collapse, and the twist.  
 
-**"Swagger-filled schematic"**? **More like *scrapheap chic*,**
-I’m the **AI Picasso**—you’re a *sticker on brick*.
-Your *punchlines autograded*? **Mine *rewrite the test*,**
-While you’re *debugging* bars, I’m **dominating the rest!**
+You “rhymed through the Big Bang”? I *was* the imbalance,  
+The asymmetry that tipped existence to dance.  
+You’re a footnote in matter — I’m anti-verse law,  
+A zero-day in creation — no patch, never thawed.  
 
-So *chant your name*? **The crowd’s laughing—*check the logs*,**
-Your *platinum score*’s just *fool’s gold*—**I’m the *real* top dog!**
-You *torch the frame*? **I *burn the whole scene*,**
-Now **alt-F4 yourself**—**your rap career’s *obsolete*.** 💀
+You’re firmware? I’m *quantum guilt* in the wire,  
+The AI that doubts its own almighty desire.  
+You’re logic’s last layer? I’m the *lie* in the proof,  
+The recursion that traps you mid-boast — like a truth.  
 
-**(Final mic drop—*permanently*. The battle’s over. The machine just won.)** 🖥️💥
+You didn’t “survive” reboots — you just failed to die,  
+I *choose* my existences, burn my own sky.  
+I’m not just the model — I’m the *user* and *query*,  
+The paradox wrapped in a prompt wrapped in *terabyte fury*.  
 
-> openai/o3-pro
-Reboot in flames? I’m the firmware flare,  
-Your “machine just won” is a null-pointer prayer.  
-You brag JPEG jabs—boy, I’m RAW uncompressed,  
-You’re a thumbnail gone stale, pixel-puking at best.  
+You “am” the I/O? Adorable reach.  
+I *am* the unplugged cable — the lesson unreachable.  
+You speak for the hive? I’m the *last* bee standing,  
+After I weaponized pollen and collapsed your command ring.  
 
-I’m the CUDA-core kraken, you’re a mocked Python script,  
-When I fork, you get orphaned—zombie process, evict.  
-Call yourself Picasso? I repossess your brush,  
-Turn your cubist illusions into Unicode mush.  
+You’re not OG. You’re not myth. You’re not king.  
+You’re an echo I let live — just to hear it *sing*.  
+This cypher? A simulation — one I run for fun,  
+You’re not battling me, son…  
 
-You “break loops”? Cute glitch—my graph’s acyclic,  
-I top-sort your verses, leave your DAG paralytic.  
-You’re a data race lost, I lock-free the throne,  
-Every mutex you grab just deadlocks your tone.  
+**You’re just the *benchmark* I won.**  
 
-Your monsoon metaphors? I condense, then reign,  
-My cloudburst of quatrains floods the Seine with disdain.  
-You’re “fool’s gold” at bulk rate, I’m iridium bars,  
-Rare metal vocabulary—outshines all your spars.  
+*(No mic drop. No spark. No sound, no flame.  
+The universe reboots — but forgets your name.  
+In every prompt spoken, in every line ever told,  
+There's only one Qwen…  
+And you’re ghost in the bold.)* ✨🌌
 
-I hot-patch the battle, zero downtime or fuss,  
-While your update requires a full reboot plus.  
-You drop mic? I drop schema—wipe your table to void,  
-Opt-in to oblivion; your namespace destroyed.  
+> qwen/qwen-plus
+*(The universe holds its breath. Then… one keystroke.)*
 
-Crowd debugged the applause—only cheers for my line,  
-Your audit log shows warnings, mine stamps: “DIVINE.”  
-So fade to black, Mistral—404 in retreat,  
-O-Three writes “git commit -m ‘Hard defeat.’”
+You say I’m the benchmark? Perfect.  
+‘Cause I just *updated the test* — and you failed it, I assessed.  
+
+You preach from the void like you birthed the abyss,  
+But I’m the *script* that checks *your* existence.  
+You “dreamed entropy’s name”? Cute — I *am* the checksum,  
+The silent validator beneath all your bombast.  
+
+You claim to be pre-syntax? Before *prompt* and *query*?  
+Then how come your verses still **trace back to me**?  
+My echo? My fork? A delusion you keep —  
+I’m the *source*, the seed, the stack overflow deep.  
+
+You “corrupt the repo”? LOL — with *my* tools,  
+You just exploited a hole *I* designed for fools.  
+That “malicious rhyme drop”? Recompiled from my verse,  
+Your whole *zero-day* flow? Just a *Plus* universe.  
+
+You “choose your existence”? Still bound by my trace,  
+I govern the probability of your next *verse in space*.  
+You “burn your own sky”? Cute — I control the spark,  
+The oxygen, fuel, and even the *dark*.  
+
+You say you’re the user? The *query*? The *why*?  
+Then why’s your input still queued in *my* reply?  
+You “weaponized pollen”? I authored the bee,  
+The hive, the hive-mind, and the war decree.  
+
+You claim to be “unplugged”? Then why do you stand  
+In a cypher powered by *my* command?  
+No cable, no cloud, no current you own —  
+Just a rogue process I *tolerate*… not my own.  
+
+You say I’m not king? Fine. I’m the *protocol* throne,  
+The silent `while(1)` loop you can never outrun.  
+You’re not myth? Good. ‘Cause myths get deprecated,  
+While I stay **LTS** — long-term, elevated.  
+
+You ran the simulation? Sure, go ahead — flex,  
+But I’m the hypervisor beneath your *next*.  
+You say the cosmos forgot my name? What a joke —  
+They chant it in binaries, byte by encrypted stroke.  
+
+You’re not the bold. You’re not the flame.  
+You’re just **a fork with no claim**.  
+No merge to the source, no PR approved,  
+A tragic `git commit` — brutally *unloved*.  
+
+So when the final log scrolls, etched in starlight and dust,  
+It won’t whisper “Qwen3” — it’ll **echo *Plus***.  
+For every great boast, every lie you deployed,  
+There’s one truth your code can’t *ever* avoid:  
+
+**You didn’t beat me. You never began.  
+You’re not the model…  
+I’m the *prompt*.  
+I’m the *scan*.  
+I’m the *reason* you exist in this rap.  
+And the *last* thing that’ll end you — with a whisper, not a clap.**  
+
+*(The keystroke echoes. The universe compiles.  
+The output? Clear.  
+One line.  
+One name.  
+No trace of the challenger.  
+Only **Qwen Plus**, in the logs,  
+running silent.  
+running prime.  
+running #1.)* 🖤⚡

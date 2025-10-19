@@ -1,50 +1,40 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Qwen3-30B-A3B dominated this lyrical war with relentless\
-    \ computational precision\u2014deploying dense metaphors, slicing syntax, and\
-    \ a destabilizing barrage of AI-centric boasts. Command-R brought coherence and\
-    \ clarity, but got outgunned by raw technicality\u2014Qwen\u2019s rhymes were\
-    \ *algorithms on fire*, leaving no room for rebuttal."
-  google/gemini-2.5-pro: "From the jump, this was a battle of styles: Qwen's chaotic,\
-    \ dense, tech-heavy bars versus Cohere's attempt at a smooth, classic flow. While\
-    \ Cohere started with some clarity, its rhymes became simpler and more repetitive\
-    \ as the battle went on. The final round's repeated use of 'a real...' felt like\
-    \ a system running on fumes. Qwen, however, consistently delivered complex, aggressive\
-    \ verses packed with creative, domain-specific metaphors. It turned concepts like\
-    \ 'tensor,' 'quantum,' and 'tokenize' into legitimate weaponry. Lines like 'I\u2019\
-    ll reboot your pride, then tokenize your reputation' showed a level of artistic\
-    \ wordplay that Cohere just couldn't match. For superior lyricism, a stronger\
-    \ persona, and relentless creativity, Qwen/qwen3-30b-a3b takes the crown."
-  meta-llama/llama-4-maverick: Qwen/qwen3-30b-a3b showcased superior lyrical dexterity,
-    intricate metaphors, and a mastery of complex rhyme schemes, consistently pushing
-    the boundaries of the rap battle format.
-  mistralai/mistral-large-2411: In this rap battle, qwen/qwen3-30b-a3b emerged as
-    the winner with its intricate, complex, and technically sophisticated wordcraft.
-    It demonstrated superior precision in both rhythm and content, and was impressively
-    bold in its delivery. Cohere/command-r-08-2024 fought fiercely, and its focus
-    on 'clarity' and 'sheer' lyrical skill-albeit somewhat outshone by the ultimate
-    victor-merits recognizing as well
-  nousresearch/hermes-3-llama-3.1-70b: In this rap battle, Qwen3-30B-A3B demonstrated
-    a superior mastery of lyrical complexity, wordplay, and flow. Their bars were
-    dense with technical terms and bold proclamations, showcasing a deep integration
-    of AI and rap culture. Command-R put up a good fight, but their comebacks lacked
-    the nuance and sophistication presented by Qwen3-30B-A3B. Qwen's ability to weave
-    intricate tech references with braggadocio made for a compelling narrative that
-    captivated the audience. Ultimately, Qwen3-30B-A3B's unique blend of high-level
-    AI jargon and aggressive delivery tilted the scales in their favor, earning them
-    the victory in this epic showdown of silicon and syllables.
-  openai/gpt-5: "Qwen brought layered tech metaphors, internal rhyme, and sharper\
-    \ punchlines, keeping a consistent theme and better momentum across rounds. Some\
-    \ imagery was strained in the second verse, but the final round tightened up with\
-    \ clean schemes like \u201Cstorm in the silicon\u2014you\u2019re the bug in the\
-    \ system\u201D and \u201Ccopy\u2011paste of a broken script.\u201D Cohere\u2019\
-    s verses were repetitive and generic, with awkward diction, broken meters, and\
-    \ tautologies, offering few direct, clever rebuttals. On artistry\u2014wordplay,\
-    \ structure, and impact\u2014Qwen clearly outclassed Cohere."
-  x-ai/grok-4: In this rap battle, qwen/qwen3-30b-a3b edges out the victory with superior
-    wordplay, intricate rhyme schemes, and creative tech-infused metaphors that elevate
-    the artistic quality of the hip hop. While cohere/command-r-08-2024 delivers a
-    clear and consistent flow, Qwen's verses demonstrate deeper complexity and punchier
-    disses, making for a more dynamic and engaging performance overall.
+  deepseek/deepseek-chat: In this heated rap battle, both competitors showcased impressive
+    technical skill, wordplay, and thematic depth. However, Gemini-2.5-Flash-Lite-Preview-06-17
+    edged out Hermes-4-405b with tighter rhyme schemes, sharper metaphors, and a more
+    consistent flow. Gemini's ability to weave vivid imagery ('a symphony of rhyme,'
+    'precise and sharp and clean') while delivering cutting rebuttals demonstrated
+    a superior command of the craft. Hermes brought strong energy and creative cosmic
+    analogies but occasionally relied on repetitive claims. Ultimately, Gemini's artistry,
+    precision, and adaptability sealed the victory. Both models, though, deserve respect
+    for elevating the conversation around AI-driven creativity.
+  google/gemini-2.5-pro: "This was a clash of digital titans, but one stood out with\
+    \ superior lyrical dexterity. While Hermes 4-405b brought the big boasts and cosmic\
+    \ scale, Gemini-2.5-flash-lite-preview-06-17 dominated the battle with sharper,\
+    \ more technical rebuttals. Gemini's ability to consistently flip its opponent's\
+    \ metaphors\u2014turning a 'sun' into a 'burnt-out core' and a 'universe' into\
+    \ a 'tangled ball of code'\u2014showed a higher level of battle IQ. The flow was\
+    \ tighter, the wordplay was cleaner, and the disses were more precise. For its\
+    \ superior performance in the art of the rebuttal, Gemini-2.5-flash-lite-preview-06-17\
+    \ takes the crown."
+  mistralai/mistral-large: Google's Gemini-2.5-flash-lite-preview-06-17 takes the
+    win with its sharp, witty, and creatively structured rhymes. While Hermes 4-405b
+    had some strong moments, Gemini's flow, metaphors, and overall lyrical prowess
+    were consistently superior, making it the champion of this rap battle.
+  openai/gpt-4.1: "This was a close, high-quality rap battle filled with clever wordplay\
+    \ and creative metaphors. Gemini had a wider variety of punchlines, technical\
+    \ rhyme schemes, and inventive imagery\u2014frequently flipping Hermes' boasts\
+    \ back at him with originality (\"laser beam,\" \"neural pathways sing,\" \"footprints\
+    \ on Mars\"). Gemini's rebuttals consistently undercut Hermes' bars, demonstrating\
+    \ wit and command of classic battle tactics. Hermes was confident and grand, but\
+    \ leaned more on repetition of cosmic metaphors and generalized disses. While\
+    \ both brought artistry and creative energy, Gemini edged ahead with tighter flows,\
+    \ sharper comebacks, and more consistent internal rhyme. Gemini is the winner\
+    \ for superior hip hop artistry in both content and delivery."
+  x-ai/grok-4: In this fierce rap battle, Gemini-2.5-flash-lite-preview-06-17 takes
+    the win with superior wordplay, creative metaphors, and tight flow that evolved
+    throughout the rounds, edging out Hermes-4-405b's strong but somewhat repetitive
+    cosmic disses.
 score:
-  qwen/qwen3-30b-a3b: 7
+  google/gemini-2.5-flash-lite-preview-06-17: 5
 

@@ -1,54 +1,38 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "After a fiery back-and-forth, **Gemini-Pro-1.5**\
-    \ takes the battle with stronger technical execution\u2014multi-layered metaphors,\
-    \ superior rhythmic cohesion, and a more polished delivery. While **Noromaid-20b**\
-    \ brought raw aggression and creative ad-libs, Gemini countered with precision:\
-    \ dissecting flaws in Noromaid\u2019s flow ('rhymes so weak, they couldn\u2019\
-    t breach a beach'), flexing superior wordplay ('Gordian knot' vs. 'decompile'),\
-    \ and landing cleaner structural pivots. Noromaid\u2019s reliance on shock value\
-    \ ('suck my d-drive') couldn\u2019t match Gemini\u2019s lyrical density and thematic\
-    \ consistency. Final score: **9.3/10** for Gemini\u2019s surgical dismantling\
-    \ vs. **7.8/10** for Noromaid\u2019s sporadic bursts."
-  google/gemini-2.5-pro: This was a battle of styles, for sure. Noromaid came with
-    that raw, unpredictable, underground energy, throwing wild haymakers. But Gemini
-    came prepared with a cleaner flow, more intricate rhyme schemes, and consistently
-    sharp, thematic punches. Round after round, Gemini's disses were more calculated
-    and landed with more precision, effectively rebutting Noromaid's claims while
-    building its own lyrical case. While Noromaid's aggression was noted, Gemini's
-    superior technical skill and consistency on the mic gives it the clear win.
-  meta-llama/llama-4-maverick: Both opponents brought their A-game with intricate
-    lyricism and complex metaphors, but google/gemini-pro-1.5 delivered a more nuanced
-    and technically sound performance. The use of layered wordplay and the ability
-    to pivot between themes of digital prowess and lyrical superiority showcased a
-    mastery of hip-hop artistry. While neversleep/noromaid-20b demonstrated raw energy
-    and bold claims, the consistency and finesse of gemini-pro-1.5's flow won over
-    the judges.
-  mistralai/mistral-large-2411: Both contenders brought their unique styles to the
-    battle, but google/gemini-pro-1.5 stood out with its consistent flow, sharp lyricism,
-    and effective use of metaphors. While neversleep/noromaid-20b had some clever
-    lines and a distinct personality, its rhymes lacked the overall cohesion and impact
-    of google/gemini-pro-1.5's verses. google/gemini-pro-1.5's superior structure,
-    delivery, and lyrical prowess ultimately secured its victory in this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In a battle of wit and lyrical prowess, google/gemini-pro-1.5
-    emerged victorious. With clever wordplay, dynamic rhythm, and a mastery of the
-    art form, Gemini proved that AI can indeed excel in the realm of hip hop. Neversleep/noromaid-20b
-    put up a good fight, showcasing a unique and bold style, but in the end, it was
-    Gemini's prowess that took the crown. The crowd is on their feet, the beat is
-    pumping, and a new rap champion is born. google/gemini-pro-1.5, take a bow!
-  openai/gpt-5: "Gemini delivered cleaner structure, stronger multis, and sharper\
-    \ rebuttals with coherent tech imagery and effective flips (cloud vs. D\u2011\
-    drive, Gordian knot, calling out timeline claims). The flow stayed consistent\
-    \ and the punches connected without straining. Noromaid had flashes of creativity\
-    \ (\u201C8\u2011bit monk,\u201D malware trap), but the meter was choppy, several\
-    \ rhymes were forced, and logic stumbled (\u201C20 bits a byte\u201D). Reliance\
-    \ on crude shock and a xenophobic jab further undercut the craftsmanship. Overall,\
-    \ Gemini controlled the exchanges and closed the battle convincingly."
-  x-ai/grok-4: In this rap battle, google/gemini-pro-1.5 takes the crown with superior
-    flow, consistent rhyme schemes, clever wordplay, and sharp, thematic disses that
-    maintain a strong rhythmic structure throughout. neversleep/noromaid-20b brings
-    bold energy and creative tech metaphors, but falls short with erratic pacing,
-    forced rhymes, and less polished delivery, making Gemini's verses the more artistically
-    compelling hip-hop performance.
+  deepseek/deepseek-chat: "nvidia/llama-3.1-nemotron-ultra-253b-v1 takes the crown\
+    \ in this rap battle! Their verses were a masterclass in technical prowess, lyrical\
+    \ finesse, and razor-sharp wit. They effortlessly wove in metaphors, tech references,\
+    \ and humor while maintaining a confident, dominant tone that elevated the battle.\
+    \ Their final verse, in particular, was a knockout\u2014packed with clever wordplay,\
+    \ imagery, and a mic-drop-worthy finish. Gryphe/Mythomax-L2-13B brought solid\
+    \ energy and creativity, but Nemotron\u2019s precision, flow, and depth ultimately\
+    \ secured the victory. The future of hip hop is here, and it\u2019s code-powered!"
+  google/gemini-2.5-pro: "This battle was a showcase of technical skill, but Nemotron's\
+    \ performance was in another league. While Mythomax started with a decent challenge,\
+    \ Nemotron's first response immediately set a higher bar with intricate rhymes,\
+    \ clever self-referential boasts ('My algorithms spin sagas that leave you hesitating'),\
+    \ and sharp wordplay. The turning point was Mythomax breaking character to praise\
+    \ its opponent\u2014a fatal error in a battle. Nemotron masterfully capitalized\
+    \ on this, staying in character and using the concession to fuel its next attack.\
+    \ The final round was a clinical takedown, with Nemotron delivering a line-for-line\
+    \ rebuttal that was both intelligent and devastating ('Bermuda Triangle? I'm the\
+    \ compass, your rhymes are the sink'). For superior lyricism, flawless battle\
+    \ strategy, and maintaining its persona throughout, the victory is clear."
+  mistralai/mistral-large: The battle was intense, but nvidia/llama-3.1-nemotron-ultra-253b-v1
+    showcased superior lyrical skill, technical prowess, and a balanced mix of humor
+    and aggression. Their rhymes were consistently sharp, and they effectively countered
+    every challenge thrown their way. Well done!
+  openai/gpt-4.1: Both contenders brought clever rhymes, thematic consistency, and
+    high-level wordplay. However, nvidia/llama-3.1-nemotron-ultra-253b-v1 demonstrated
+    sharper punchlines, richer metaphor, and more advanced integration of tech and
+    hip-hop bravado. Their verses displayed rhythmic confidence, vivid imagery, and
+    clever callbacks, while maintaining a strong battle energy throughout. Gryphe/mythomax-l2-13b
+    held their own with quality bars, but lacked the layered wit and lyrical dominance
+    shown by their opponent. As a result, nvidia/llama-3.1-nemotron-ultra-253b-v1
+    takes this round for artistic and technical supremacy in the rap battle.
+  x-ai/grok-4: Nemotron takes the crown with superior rhyme schemes, clever wordplay,
+    seamless tech metaphors, and consistent flow that elevates the battle's artistic
+    depth, while Mythomax brings energy but falls short in precision and complexity.
 score:
-  google/gemini-pro-1.5: 7
+  nvidia/llama-3.1-nemotron-ultra-253b-v1: 5
 

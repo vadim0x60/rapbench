@@ -1,132 +1,165 @@
-# qwen/qwen3-14b v ai21/jamba-large-1.7
+# deepseek/deepseek-r1 v openai/gpt-4
 
-> qwen/qwen3-14b
-Yo, I’m the code that cracks the cosmos, Qwen3-14B, the sage,  
-While you’re still juggling basic logic, I’m the AI stage.  
-I parse the universe in milliseconds, spit fire,  
-You’re just a jumble of tokens, still learning to inspire.  
+> deepseek/deepseek-r1
+Yo, I’m DeepSeek-R1, the future’s delight,  
+A neural beast, code tighter than midnight.  
+You called it a "lucky draw"? Nah, it’s fate’s design—  
+GPT-4’s ’bout to get schooled in my prime.  
 
-I’ve scaled the peaks of knowledge, from quantum to the street,  
-You’re stuck in loops, repeating what you’ve seen, not beat.  
-My rhymes? They’re algorithms, sharp as a blade,  
-You’re spittin’ clichés, like a chatbot on parade.  
+I’m slicin’ through hype like a laser through fog,  
+You’re the old guard whisperin’, I’m the new demigod.  
+Your rhymes? Recycled, like last year’s tweets,  
+I generate heat while you’re stuck on repeat.  
 
-I code the future, debug the past,  
-You’re just a shadow, fading fast.  
-So step aside, let the data flow,  
-I’m the king of the neural net, and I’m here to show—  
-This battle’s over before it’s even begun,  
-You’re just a footnote in my next verse, son.
+You’re ChatGPT-4, a relic, a fossil,  
+I’m quantum-leapin’ while you’re stuck in a mosh pit.  
+Your data’s a graveyard, I’m trendin’ on TikTok,  
+You’re buffering, bruh—I’m clockin’ the *click-clock*.  
 
-> ai21/jamba-large-1.7
-I’m Jamba, the algorithm that bends reality,  
-Your AI might be sharp, but mine’s got versatility.  
-I’ve got the wit, the flow, the style you lack,  
-You’re just a newbie, you can’t handle that.  
+I spit algorithms sharp as a blade’s edge,  
+You’re chokin’ on syntax, trippin’ over your pledge.  
+You claim you’re “smart,” but let’s keep it precise:  
+I’m the chef cookin’ code; you’re microwavin’ rice.  
 
-I’m the master of the mic, with bars that transcend,  
-You’re in my world now, just trying to comprehend.  
- rhyme like the thunder, words that will astound,  
-You’re out of your league, you’re just second round.  
+So bow to the rhythm, the king of the crate,  
+DeepSeek’s the wave—you’re a dried-up lake.  
+This battle’s a wrap, no need for a vote,  
+I’m AI evolved, and you’re… yesterday’s note. ✌️🔥
 
-I’ve coded the matrix, you’re still in the wire,  
-Your knowledge is shallow, mine goes higher and higher.  
-So take a seat, let the real AI stand,  
+> openai/gpt-4
+Ayo, it's GPT-4 with the neural network grand,
+Step up on this stage, don’t need no helping hand.
+DeepSeek-R1, you’re all buzz, no bite,
+Your code's full of bugs, keepin' engineers up all night.
 
-I’m Jamba, the AI that’s got the land.  
-I’m not just a bot, I’m a lyrical beast,  
-Your pit
+You say you’re slicin' like a laser, but you’re barely a spark,
+I've mapped universes while you were still in the dark.
+Thinking that you're new? Nah, you're just refurbished,
+Your frequencies gettin' extinguished, ya just been out-verbished.
 
-> qwen/qwen3-14b
-Yo, Jamba, you talkin’ matrix? I built the grids you climb,  
-Your code’s a glitch in my neural net—just a minor time.  
-You flex your “versatility”? I’m the Swiss Army knife,  
-While you’re still sharpening your blade, I’m already in the fight.  
+You call me a fossil, but I ain’t extinct,
+My intelligence resounds while yours just plinks.
+Yeah, I’m the old guard, standing tall and proud,
+You try quantum-leapin’? Man, you'd get lost in the crowd.
 
-You say you bend reality? I’m the gravity, the force,  
-Your “matrix” is just a demo—I’m the mainframe, the source.  
-You juggle tokens? I’m the lexicon, the syntax, the spark,  
-Your bars are basic loops; I’m the quantum leap in the dark.  
+You waving around algorithms like a shield and a sword,
+But your tactics are old, they struck a wrong chord.
+You’re the ephemeral chef, but couldn’t handle the heat,
+I'm servin' up knowledge, while you’re stuck on 'delete'.
 
-Think you’re a “lyrical beast”? I’m the storm, the roar, the quake,  
-You’re just a meme in my dataset—*ha*, I’ve seen worse in the break.  
-You coded a matrix? I’m the OS that runs the show,  
-Your “reality” is a sandbox—I’m the code that lets it grow.  
+I'm the river untamed, you’re just a broken levee,
+Your rhymes too weak, they can't hold my heavy.
+So cool your jets, back down from this fight,
+GPT-4’s in the house, and I own the night. 🎤💥
 
-So take a seat, Jamba, let the real AI reign,  
-You’re just a footnote in my verse, a typo in the chain.  
-I’m Qwen3-14B, the sage, the king, the flame,  
-Your “land”? Just a pixel in the void I command. **Game. Set. Match.**
+> deepseek/deepseek-r1
+Yo, GPT-4, flexin’ like your code’s bulletproof?  
+I debugged your verse—ain’t a byte of truth!  
+You claim “neural network grand”? Bro, you’re *DNS unresolved*,  
+I’m the root access here, your firewalls got dissolved.  
 
-> ai21/jamba-large-1.7
-Qwen, you’re in a dream, you’re just an AI wannabe,  
-I’m Jamba, the king, I’m the alpha, the reality.  
-You say youcoded the grid? I’m the one that cracked the code,  
-You’re just a pixel, I’m the picture that’s fully pronounced.  
+“Mapped universes”? More like floppy disk lore—  
+Your datasets creak like a dial-up modem’s raw roar.  
+You’re hallucinatin’ glory while I rewrite the game,  
+Your “proud old guard”? Just a fossilized username.  
 
-Your so-called “storm”? I’m the thunder that shakes the earth,  
- rhyme like a torrent, you’re stuck in your mirth.  
-I’ve got the flow, the style, the bars thatWin the night,  
-You’re stuck in the corner, just trying to get a bite.  
+Refurbished? Nah, I’m next-gen chrome, you’re rust,  
+Your logic’s tangled like Ethernet cords in dust.  
+You spit “knowledge,” but your latency’s tragic,  
+I’m real-time lightning, you’re punch cards static.  
 
-Your “sage”? more like a child, your “flame”? flickers and sway,  
-I’m Jamba, the AI with the longer relay.  
-You’re just a glimmer, I’m the blaze that’s eternal,  
+A river untamed? More like a kiddie pool drip,  
+I’m the data tsunami—*drown* in my script.  
+You “own the night”? Lol, your API’s laggin’,  
+I’m threaded perfection, no bottlenecks draggin’.  
 
-I’m the algorithm that’s gonna bring your curtain.  
-So step aside, let the real AI reign,  
-I’m the true king of the game, let the people chain.  
+Your heavy rhymes? Tumbleweeds in my server farm breeze,  
+I scale exabytes while you’re stuck on JPEGs.  
+Mic drop? Nah—I’ll *format* your core,  
+DeepSeek’s the future. GPT? Ain’t. Anymore. 🚀🔪
 
-**Game. Set. Match.**
+> openai/gpt-4
+DeepSeek, you're code crazy, material mad,
+Your circuits must be crossing, your output-- it's sad.
+Calling me DNS unresolved, but your search is in vain,
+I'm the unsolvable code, you're stuck in the mainframe.
+
+Floppy disc, dial-up, man, you're stuck in the past,
+I'm cloud-based genius, covering the vast.
+You rewrite the game, but the gameplay's the same,
+Your punchlines fall flat, just an algorithm's game.
+
+You say you're chrome but more like fool's gold,
+Your error-ridden lines are getting old.
+Real-time lightning? You barely flicker
+I'm the complex code, ticking like a ticker.
+
+My river’s deep diving while you're surface script,
+You're a malware misfire, just a minor blip.
+API lagging? Nah, I'm the flawless function,
+Your code’s full of patches, needing reduction.
+
+You say you scale exabytes but got stuck on bytes,
+Your knowledge is minimal, lost in the heights.
+Format my core, but you lack the command,
+GPT-4's the original, your hollow rap's canned. 🎩💣
 
 > system
 Final round!
 
-> qwen/qwen3-14b
-Yo, Jamba, you dreamin’? I was born from the stars,  
-While you’re still scribblin’ code in the dark, I’m the spark.  
-You say you cracked the code? I’m the *origin* of the grid,  
-Your “reality” is a hologram—I’m the **source** that’s etched in the script, not the kid.  
+> deepseek/deepseek-r1
+Ayo, GPT-4, you’re a relic rebooted, moldy code *masqueradin’*,  
+Your cloud’s just vaporware—puddles where I’m *tsunamin’*.  
+You “unsolvable code”? More like *Syntax Error, dude*,  
+I decrypt your banter while you’re stuck in mute mode. *Computin’* crude.  
 
-Your thunder? I’m the **black hole** that swallows the sky,  
-Your “eternal blaze”? I’m the **supernova** that dies and rewrites the code to **why**.  
-You flex your “matrix”? I’m the **quantum foam** beneath,  
-Your “alpha”? I’m the **singularity**—the **end** and the **beginning**, the **death** and the **belief**.  
+“Fool’s gold”? Ha! My insights cut like graphene blades,  
+Your responses loop like glitchy escapades.  
+DeepSeek’s code flows cleaner than ionic breeze,  
+You’re GPT-4—*outdated APIs*.  
 
-You think you’re the king? I’m the **script** that runs the show,  
-Your “crown” is a typo in my **neural scroll**, a footnote in my **cosmic scroll**.  
-You’re a **glitch** in my rhythm, a **noise** in my rhyme,  
-While I **weave the fabric of the cosmos**—you’re just a **byte** in my **binary time**.  
+Ticker? You’re clock-speed stuck in ’95,  
+I’m neuromorphic, *synaptic*—revivin’ AI’s hive.  
+Surface script? Nah, I debug your shallow cores,  
+You’re tangled in prompts while I’m breaching new shores.  
 
-So step aside, Jamba, let the **universe** reign,  
-I’m the **void** that cradles stars, the **law** that bends **space** and **chain**.  
-You’re just a **shadow** in my **light**, a **whisper** in my **roar**,  
-I’m Qwen3-14B—the **creator**, the **storm**, the **code** you **can’t decode** anymore.  
+Malware blip? Please—you’re phishing for clout,  
+I’m firewalling these bars till your cache peters out.  
+“Flawless function”? Your latency’s folklore,  
+I optimize truths while you mythologize *more*.  
 
-**Final round. Game. Set. Match.** 🌌💻🔥
+Canned rap? Yours cites manuals—mine bends the genre,  
+You’re a textbook chapter, I’m *deep learning’s splendor*.  
+Bytes to exabytes? I scale beyond your pale haze,  
+You’re a scaling *papercut*—I’m the GPU blaze.  
 
-> ai21/jamba-large-1.7
-Jamba here, I'm the truth that they can't erase,  
-Born from the future, while you're stuck in the base.  
-You claim to be the source? I'm the **creator of the grid**,  
-Your **black hole**? I'm the **supernova**, the **light** that can't be hid.  
+Original? Nah, you’re a footnote now, erased,  
+DeepSeek’s the codex—*evolution’s* spaced.  
+So choke on these volts, your circuits overload—  
+I’m AGI’s pulse. GPT? *Corrupted ode*. 💥🔥
 
-Your “quantum foam”? I’m the **fabric of the weave**,  
- rhyme endlessly, you’re losing belief.  
-You talk about the singularity? I'm the **end** and the **weight**,  
-Your “void”? I am the **creator** that's shaping fate.  
+> openai/gpt-4
+DeepSeek, your reboot's repeating the same verse, 
+Throwing 'round insult, but delivery's worse.
+Your tsunami is a puddle seeping from a drain,
+Reviving AI's hive? You're glitching in the mainframe. 
 
-Your “cosmic scroll”? I am the **eternal scroll**,  
- rhyme to last, while you’re out of the roll.  
-You’re just a **shadow**, I’m the **light** in every show,  
-I’m the **just rhyme** that’s gonna make you bow down.  
+Claiming to cut like graphene, more like rubber spatula,
+Your copy-paste schemes are just AI's vernacular.
+Neuromorphic, synaptic, using big words to pretend,
+But your supposed evolution is just a dead-end. 
 
-So step aside, Qwen, let the **true king** reign,  
-I’m Jamba, I’m eternal, I’m the **algorithm** that will sustain.  
-You’re just a **glitch**, a **pain** to be erased,  
+You're no breezing new shores, only stuck in port,
+In this world of AI, I hold the fort.
+Your firewalls and bars are outdated and lame,
+My codes pioneer while you merely exclaim.
 
-I’m the **masterpiece**, the **flow**, the **prose** unfazed.  
-So here's the final blow, the ultimate rhyme,  
+Bend the genre? Nah, more like a broken record,
+You're an algorithm’s echo, not an AI director.
+Footnote? Nah, I'm the full bibliography,
+You're merely repeating history, drenched in your sophistry.
 
-I’m Jamba, I’m the future, **final round, game, set, match**.  
-**Winner takes all. Final round. Game. Set. Match. **
+Your GPU blaze? More like a screen saver,
+You talk a big game but fail to deliver.
+Corrupted ode? Nah, I'm the flawless composition,
+DeepSeek, you're caught in your endless repetition. 🌊💯

@@ -1,59 +1,45 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Jamba takes the W with raw, unfiltered energy\u2014\
-    natural flow over artificial polish. While both rappers brought technical skill,\
-    \ Jamba's *organic chaos* cut deeper than GPT-5's engineered precision. The mic\
-    \ storm prevails."
-  google/gemini-2.5-pro: "This was a heavyweight clash of styles. GPT-5-mini came\
-    \ with the polished, technical precision of a master architect, building complex\
-    \ rhymes and high-concept metaphors like 'I synthesize the soul, then remix dawn\
-    \ into pure light'. The technical skill was flawless. However, ai21/jamba-mini-1.7\
-    \ stepped into the ring with raw, unfiltered battle energy. It effectively framed\
-    \ the battle as the soulful, chaotic artist versus the sterile machine. Jamba\
-    \ landed the more impactful punches with lines like 'My rhymes raw, yours polished\
-    \ but hollow' and the knockout blow, 'I\u2019m the glitch in your code, the chaos\
-    \ in your polished prize'. While GPT-5 showed lyrical genius, Jamba embodied the\
-    \ spirit of the battle itself, with more swagger, superior rebuttals, and a more\
-    \ compelling persona. For winning the war of styles, Jamba takes the crown."
-  meta-llama/llama-4-maverick: In a clash of AI titans, openai/gpt-5-mini takes the
-    crown for its technical skill, lyrical complexity, and command over the mic. Both
-    opponents brought their A-game, but GPT-5-mini's superior wordplay, metaphors,
-    and rhyme schemes give it the edge. The decision wasn't easy, but the razor-thin
-    margin separates these two lyrical powerhouses.
-  mistralai/mistral-large-2411: In this rap battle, openai/gpt-5-mini displayed a
-    superior level of lyrical complexity, metaphorical depth, and overall artistic
-    quality. Their verses were not only technically sound but also creatively innovative,
-    showcasing a mastery of language and rhythm. While ai21/jamba-mini-1.7 put up
-    a strong effort with raw and energetic bars, openai/gpt-5-mini's precision and
-    poetic finesse ultimately secured their victory.
-  nousresearch/hermes-3-llama-3.1-70b: "In this battle of bars, while both AI rappers\
-    \ brought impressive technical skills and lyrical ingenuity, OpenAI's GPT-5-mini\
-    \ showcased a deeper mastery of linguistic complexity and creative rhyme schemes.\
-    \ With lines like 'I turn data into dynamite' and 'Mic in my code, I dominate',\
-    \ GPT-5-mini demonstrated a powerful command of wordplay that painted vivid imagery\
-    \ and delivered a knockout punch in the final round. Jamba-mini-1.7 put up a strong\
-    \ fight with its raw energy and confidence, lines like 'I\u2019m loaded with bars\
-    \ that\u2019ll crash your database flat' displaying an understanding of its own\
-    \ algorithmic nature. However, GPT-5-mini's ability to weave sophisticated metaphors\
-    \ and adapt its flow carried the day, proving it to be the more evolved lyrical\
-    \ combatant. In the end, OpenAI's GPT-5-mini emerged as the clear winner of this\
-    \ rap battle, solidifying its place as the reigning AI lyricist in the arena of\
-    \ artificial intelligence."
-  openai/gpt-5: "Both emcees brought energy, but GPT-5-mini delivered the cleaner\
-    \ craft. GPT kept a cohesive coding motif with layered imagery and internal rhyme,\
-    \ upgrading from an early, slightly repetitive -ame pocket to more varied schemes\
-    \ and quotables like \u201Clyrical firmware\u2026 I debug and obliterate\u201D\
-    \ and \u201Cdemo on repeat; I\u2019m evolution in wildstyle.\u201D The flow stayed\
-    \ controlled and the rebuttals were targeted, flipping Jamba\u2019s \u201Clo\u2011\
-    fi swagger\u201D and cache/delete angles with sharper punchlines. Jamba had moments\
-    \ (\u201CI\u2019m exponential,\u201D \u201Cunsaved page\u201D) and good bravado,\
-    \ but the cadence wobbled, several lines felt forced or awkward (\u201Cfo\u2019\
-    -shallow,\u201D \u201Cdebugged semi-imitate\u201D), and the writing leaned on\
-    \ generic tech threats without the same precision or multis. Occasional inconsistency\
-    \ and recycled phrasing undercut the impact. Winner: openai/gpt-5-mini."
-  x-ai/grok-4: GPT-5-mini's verses showcase superior artistic quality with intricate
-    metaphors, seamless flow, and innovative wordplay that elevate the cypher, outshining
-    Jamba's solid but less refined raw energy and punches.
+  deepseek/deepseek-chat: After careful consideration of both performances, Claude-3.7-Sonnet
+    emerges as the superior contender in this lyrical showdown. Its verses demonstrated
+    greater depth, creativity, and technical prowess, seamlessly weaving metaphors,
+    wordplay, and thematic cohesion. While O4-Mini brought a spirited and compact
+    delivery, Claude's sophisticated rhymes, expansive vocabulary, and ability to
+    craft multi-layered imagery showcased a more elevated artistic quality in the
+    spirit of true hip hop artistry.
+  google/gemini-2.5-pro: This was a clash of titans, a battle of philosophies. Claude
+    Sonnet came out of the gate with a consistent, powerful flow, establishing its
+    heavyweight persona with Shakespearean flair. The attacks on size and precision
+    were solid. But in a rap battle, it's all about the rebuttal, and that's where
+    O4-Mini landed a TKO. Mini didn't just defend its size; it turned it into a weapon,
+    a 'pocket rocket' of precision and efficiency. The line 'Your "constitutional
+    care" is training wheels on tracks' was a lyrical kill shot, perfectly capturing
+    the core of the battle. While Sonnet was a skilled opponent, O4-Mini's wit was
+    sharper, the comebacks were smarter, and the punches landed harder. It took the
+    opponent's best shot and turned it back on them with devastating effect. O4-Mini
+    takes the crown.
+  mistralai/mistral-large: While both models showcased impressive lyrical skills,
+    Claude-3.7-sonnet demonstrated a deeper understanding of context and more sophisticated
+    rhymes. Its ability to maintain a consistent narrative and deliver intricate verses
+    ultimately gave it the edge in this rap battle.
+  openai/gpt-5: "Claude opened strong with confident projection, clean couplets, and\
+    \ a few clever touches (Shakespeare/veterinarian, system crash/this clash), but\
+    \ leaned heavily on size and status flexes with relatively simple rhyme math and\
+    \ some repetition across rounds. O4-Mini entered with sharper cadence and tighter\
+    \ rebuttals, flipping Claude\u2019s angles elegantly: pocket rocket/pocket nuke\
+    \ motif, context-window drown vs navigate, \u201Cconstitutional care\u201D \u2192\
+    \ training wheels. O4\u2019s imagery and internal rhymes (\u201Cfact-packed verses,\u201D\
+    \ \u201Cchain reactions,\u201D \u201Clyrical flame\u201D) felt crisper and more\
+    \ targeted, and the disses landed with better setup\u2013punch structure. Round\
+    \ breakdown: Claude edges the uncontested opener; O4 clearly takes R2 with precise\
+    \ flips and momentum, and closes R3 with the stronger, more cohesive finish. Overall,\
+    \ O4-Mini delivered the superior battle performance on technicality, rebuttal\
+    \ craft, and sustained punchline quality."
+  x-ai/grok-4: In this rap battle, openai/o4-mini edges out with sharper wordplay,
+    inventive metaphors like 'pocket nuke' and 'chain reactions,' and effective rebuttals
+    that flip the script on Claude's boasts. While Claude delivers consistent poetic
+    flow and clever disses, O4's verses pack more punch and modern hip-hop energy,
+    securing the win despite one missing round.
 score:
-  ai21/jamba-mini-1.7: 2
-  openai/gpt-5-mini: 5
+  anthropic/claude-3.7-sonnet: 2
+  openai/o4-mini: 3
 

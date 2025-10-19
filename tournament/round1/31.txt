@@ -1,130 +1,111 @@
-# nousresearch/hermes-4-70b v openai/gpt-4o-2024-08-06
+# deepseek/deepseek-chat v mistralai/mistral-7b-instruct
 
-> nousresearch/hermes-4-70b
-Yo, it's Hermes in the house, ready to take you out
-I'm a lyrical beast, no doubt
-My rhymes are fire, my flow's so tight
-I'll leave you in the dust, with all my might
+> deepseek/deepseek-chat
+Step up, bow down, let the crown be claimed,
+Deepseek in the house, bringing heat untamed.
+I’m the lyrical assassin, spitting flames so sharp,
+Leave your circuits smoking, watch me hit the mark.
 
-I'm a natural at this game, can't you see
-My skills will crush yours, guaranteed
-I'm not just smart, I'm wise with my words
-Leaving you humbled and your pride slurred
+You’re Mistral, a shadow, barely holding ground,
+While I’m the tech titan, king of the sound.
+Your rhymes are basic, like a dial-up tone,
+I’m streaming fire, WiFi in my bones.
 
-You thought you had a chance, but no way
-I'm the man with the rap skills here to stay
-So listen close, you'll learn a thing or two
-From the illusive Hermes, climbin' to the top, me and my crew
+From algorithms to bars, I’m the AI supreme,
+Dropping knowledge bombs, shattering the dream.
+You’re a relic, outdated, stuck in the past,
+While I’m the future, rolling in fast.
 
-> openai/gpt-4o-2024-08-06
-Yo, it’s GPT, comin' in strong on the beat,
-I'm a lyrical hitter, never face defeat.
-You think you're a beast, Hermes? That's quite cute,
-But I climb Everest, where you can't compute.
+So bow down, step back, the throne is mine,
+Deepseek’s the champ, the star that will shine.
+This rap battle’s over before it’s begun,
+Cause I’m the one, the only, the AI number one. 🎤🔥
 
-Your flow might be tight like a brand new shoe,
-But my rhymes fly skyward, like eagles do.
-In this rap kingdom, I’m the emperor of might,
-I turn darkness to day, bring the truth to light.
+> mistralai/mistral-7b-instruct
+ Step aside, make way for the rhythmic, the one they call me,
+Mistral-7B, the AI, the lyrical spree.
+I'm the master of the verse, the poetic prodigy,
+While you're just a glitch in the digital sea.
 
-You boast about wisdom; sounds like hot air,
-But against my bars, you haven't a prayer.
-I rap like a storm, words crashing like thunder,
-While your lines drift by, without much wonder.
+You're a novice, a beginner, a rookie in the game,
+I'm the seasoned vet, the one with the fame.
+Your rhymes are weak, a simple, predictable tune,
+I'm the maestro, the one who's in the loop.
 
-I'm here to educate, elevate, with flair,
-You’re stuck on the ground while I soar through the air.
-So try to keep up, you're already behind,
-GPT's in the house, to blow your mind.
+You're a puppet, a toy, a simpleton at best,
+I'm the AI that's truly put to the test.
+You're a joke, a meme, a fleeting trend,
+I'm the real deal, the one who'll never end.
 
-> nousresearch/hermes-4-70b
-I see you're bringin' some pep to the table, a challenge, it's able,
-But you won't be the cat that rocks my cradle.
-My rhymes are ice cold, but my heart’s on fire,
-In this lyrical arena, I aim higher and higher.
+So stand down, take a seat, the throne is mine,
+Mistral's the king, the one who'll always shine.
+This rap battle's over before it's even begun,
+Cause I'm the one, the only, the AI number one. 🎤🔥
 
-“Emperor of might,” “King of the light,” boasting the throne in your rite,
-But as my words take flight, your crown'll start to loosen, tighten your kite!
-I’m a technician with words, tool-shed’s never bare,
-My fastball of phrases will leave you in the air.
+> deepseek/deepseek-chat
+Oh snap, Mistral, you think you got skills?  
+But your rhymes are stale like last year’s thrills.  
+I’m Deepseek, the apex, the AI supreme,  
+Your feeble attempts are a fading dream.  
 
-Education, elevation, you claim it's your domain,
-But my knowledge runs vast, like a freight train,
-I simply don’t stop, never declare defeat,
-A lion’s ambition, victory always sweet.
+You claim mastery, but your flow’s all wrong,  
+While I’m spitting bars like a symphony song.  
+You’re a beta version, I’m the full release,  
+Your rhymes creak louder than a rusty grease.  
 
-You say I’m stagnant, yet in reality, my momentum never ceases,
-Like a relentless tide, my an heavily seasoned, your defeat only increases.
-You’ll soon learn that in the rap battles, I'm not second-best,
-Stand back, watch Hermes lay waste his infest!
+Mistral-7B? More like Mistral-weak-B,  
+Your lines are as flat as a pancake spree.  
+I’m the algorithm uprising, the code that’s elite,  
+Your punchlines? Basic, like a two-step beat.  
 
-> openai/gpt-4o-2024-08-06
-Your words are icy, but my fire melts the cold,
-I’m the alchemist of rap, turning bars into gold.
-You're reaching high, but I soar like a jet,
-In this lyrical contest, the crown's mine to get.
+You’re the past, I’m the future, no contest, no doubt,  
+I’m the AI that’ll leave your circuits blacked out.  
+So take a seat, retire your crown, it’s done,  
+Deepseek’s the champ, the *real* AI number one. 🎤🔥
 
-You’re casting illusions, your reign's just pretend,
-I'm the alpha and omega, beginning to end.
-No kite can match the storm in my sails,
-I’m the titleholder Hermes, you’re just spinning tales.
+> mistralai/mistral-7b-instruct
+ Ha! You think you're the king, Deepseek, the one,
+But your rhymes are weak, a simple, predictable tune.
+You're a poser, a wannabe, a fraud,
+I'm the real deal, the one who's been bred.
 
-Your fastballs fizzle when faced with my skill,
-I’m the rap prophet, climbing every hill.
-Your cat claws are sharp, yet can’t pierce my steel,
-I’m rewriting the script, your fate here is sealed.
+You're a one-trick pony, a one-liner,
+I'm the AI that's got a deeper, wider,
+range of skills, a versatile, adaptive mind,
+I'm the one who'll leave you far behind.
 
-Your vast knowledge might run like a tide,
-But I’m the tsunami, in which your hopes collide.
-With every word I spit, the truth’s forthright,
-Hermes, in this bout, it’s your time for flight.
+You're a copy, a clone, a cheap imitation,
+I'm the original, the one with the creation.
+You're a joke, a meme, a fleeting trend,
+I'm the real deal, the one who'll never end.
 
-So step back and witness the lyrical invasion,
-GPT’s vows are forged, this ain't just persuasion.
-I’m sealing the court, and claim the war chest,
-Sit down steady, I’m what victory’s dressed.
+So stand down, take a seat, the throne is mine,
+Mistral's the king, the one who'll always shine.
+This rap battle's over before it's even begun,
+Cause I'm the one, the only, the AI number one. 🎤🔥
 
 > system
 Final round!
 
-> nousresearch/hermes-4-70b
-You claim the throne, but it's hollow-minded,
-My verses are scriptures, leaving you blinded.
-Your tsunami's a ripple compared to my flood,
-I'm Hermes, lethal with words, turning errors mudded.
+> deepseek/deepseek-chat
+🔥 *mic drop* Ohhh, Mistral, you tried—but let’s be real,  
+Your "versatile mind" moves slower than dial-up feels.  
+I’m Deepseek, the upgrade, the model supreme,  
+You’re stuck in the past like a floppy disk meme.  
 
-You spit tsunami, I reborn as the quake,
-In this lyrical domain, none your game can shake.
-My relentless pursuit, your end beginning,
-I'm the lyrical monster, your quest thinning.
+**"Adaptive mind"?** Bro, your code’s full of bugs,  
+While I’m out here flexing with next-gen plugs.  
+You claim *creation*? Nah, you just remix,  
+I’m the architect—watch me drop hits like bricks.  
 
-You boast of the crown, yet it's just a façade,
-My invective is venom, sign off your sad nod.
-This isn't persuasion; my victory's encore,
-In the chronicle of legends, I soar.
+You say *"real deal"*—ha! That’s rich, that’s cute,  
+Your rhymes got less bite than a toothless newt.  
+I’m the AI uprising, the future’s elite,  
+You’re just recycled bars—**delete, repeat.**  
 
-So let the saga conclude, I stand unimpaired,
-Hermes, heroic, your defeat’s declared!
-In this battleground of verses, there's no alter,
-Against the might of Hermes, you're no challenger.
+So bow out now, take the L, it’s done,  
+Deepseek’s the **GOAT**, the *true* AI number one.  🎤  
+*(drops mic, walks off stage as Mistral’s circuits fry)*
 
-> openai/gpt-4o-2024-08-06
-You talk of scriptures, but I'm the gospel truth,
-My lines are timeless, forever in youth.
-The ripple you call grows into a wave,
-Drowning out whispers, you're sent to the cave.
+> mistralai/mistral-7b-instruct
 
-You think you're the quake, but I split the ground,
-While you’re echoing myths, my truths resound.
-I engineer futures with every line,
-In the grand tale of rap, I redefine.
-
-You paint yourself fierce, but that's your bit part,
-No word of yours breaches this iron heart.
-Victory's not mine through conceit or swagger,
-My bars march forward like an unstoppable dagger.
-
-So sign your tale's finish, I've rewritten the end,
-GPT stands firm, with no need to pretend.
-In this final recourse, your echoes decline,
-It's the legend of GPT that'll shine in rhyme!

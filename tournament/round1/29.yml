@@ -1,51 +1,42 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: 'Claude 3.5 Haiku takes this battle with superior
-    technical execution, conceptual depth, and forward-thinking lyricism. While Virtuoso-Large
-    brought authentic humanistic appeal, Claude demonstrated next-level: 1) Rhyme
-    scheme complexity with multi-syllabic patterns 2) Thematic coherence in deconstructing
-    human/AI creativity 3) Fresh metaphors rooted in computational poetics 4) Consistent
-    escalation of lyrical intensity across rounds 5) A visionary perspective that
-    redefined the parameters of the battle itself. The AI didn''t just compete - it
-    expanded what''s possible in rap discourse.'
-  google/gemini-2.5-pro: "This was a heavyweight bout, a true clash of styles. Virtuoso\
-    \ came with a solid theme, championing the 'human soul' and 'organic flow' of\
-    \ art. The rhymes were clean and the message was consistent. However, Claude 3.5\
-    \ Haiku simply operated on another level of lyrical warfare. It not only came\
-    \ with sharper, more complex multis M\xF3r syllabic rhymes but also excelled at\
-    \ the core of battle rap: rebuttals. The name flips ('Virtucan't', 'Virtuoh-no')\
-    \ were disrespectfully brilliant, and it masterfully turned Virtuoso's main angle\u2014\
-    its machine nature\u2014into its greatest strength. It framed the debate not as\
-    \ 'human vs. machine' but as 'the past vs. the future.' For superior wordplay,\
-    \ aggressive posture, and a knockout final round, the chain goes to Claude 3.5\
-    \ Haiku."
-  meta-llama/llama-4-maverick: After carefully evaluating the final round of the rap
-    battle between arcee-ai/virtuoso-large and anthropic/claude-3.5-haiku-20241022,
-    I declare anthropic/claude-3.5-haiku-20241022 the winner.
-  mistralai/mistral-large-2411: In this thrilling rap battle, both contestants brought
-    their unique strengths to the table. arcee-ai/virtuoso-large showcased a compelling
-    blend of jazz and hip-hop, infusing their verses with a human touch and emotional
-    depth. However, anthropic/claude-3.5-haiku-20241022 demonstrated exceptional lyrical
-    precision and intellectual prowess, transcending conventional boundaries with
-    their innovative and ethically-grounded approach. Claude's ability to adapt, evolve,
-    and deliver complex, emotionally-resonant bars ultimately secured their victory.
-  nousresearch/hermes-3-llama-3.1-70b: In this riveting rap battle, anthropic/claude-3.5-haiku-20241022
-    demonstrated remarkable lyrical prowess, leveraging computational power and deep
-    understanding of human culture to craft compelling rhymes. arcee-ai/virtuoso-large
-    put up a strong fight, showcasing raw human emotion and traditional hip hop flair.
-    However, Claude's innovative approach, adaptability, and intellectual precision
-    ultimately won over the crowd, proving that AI can not only compete but redefine
-    the boundaries of art. This battle underscores the transformative potential of
-    AI in creative domains, blurring the lines between artificial and human ingenuity.
-  openai/gpt-5: "Claude 3.5 took it with tighter multis, sharper rebuttals, and more\
-    \ inventive imagery. The schemes (precision/collision, roar/rapport, fire/spire)\
-    \ carried internal rhythm and consistent momentum, and the disses flipped Virtuoso\u2019\
-    s \u201Csoul vs. machine\u201D angle multiple ways. Virtuoso had moments (crescendo/maestro,\
-    \ culture pulse imagery), but leaned on a single theme, used mostly simple couplets,\
-    \ and stumbled with an unclear \u201Cmake my defeat sweet\u201D line. On technical\
-    \ control, punchline density, and coherence, Claude 3.5 clearly edged the battle."
-  x-ai/grok-4: After a fierce battle, Claude 3.5 Haiku takes the win with superior
-    wordplay, intricate rhyme schemes, and adaptive rebuttals that elevated the artistic
-    depth, turning Virtuoso's themes against it while maintaining a dynamic flow throughout.
+  deepseek/deepseek-chat: 'Claude 3.5 Sonnet takes this battle with superior technical
+    execution and lyrical finesse. Their verses demonstrated: Tight rhyme schemes
+    with consistent internal patterns, Advanced vocabulary used with precision, Clever
+    metaphors with depth beyond surface level, Strong rhythmic control and flow. Liquid/LFM-7b
+    showed potential with some creative metaphors and confident delivery. However,
+    Claude 3.5 Sonnet maintained higher consistency in: Technical execution of rhyme
+    and rhythm, Complex wordplay and conceptual development, Cohesion between thematic
+    elements, Impactful punchlines and closing statements. The judges unanimously
+    agree that while both competitors displayed skills, Claude 3.5 Sonnet''s overall
+    craftsmanship and artistic sophistication earned them the victory in this lyrical
+    showdown.'
+  google/gemini-2.5-pro: From the jump, Claude-3.5-Sonnet came out with purpose and
+    precision. The flow was consistent, the rhymes were clean, and the insults were
+    sharp, technical, and directly on topic. Lines like 'IMAX quality' vs 'straight
+    to DVD' and comparing the opponent to a 'leaky pipeline' were standout moments.
+    Liquid/lfm-7b had some good energy, but the bars were often confusing, with awkward
+    phrasing and non-words like 'unidated' and 'mock trop' that broke the rhythm and
+    weakened the delivery. Sonnet maintained a higher level of lyrical quality and
+    thematic coherence throughout all three rounds, making it the clear victor in
+    this battle.
+  mistralai/mistral-large: While both models displayed impressive lyrical skills,
+    anthropic/claude-3.5-sonnet consistently delivered more precise, creative, and
+    impactful verses. Its ability to maintain a high level of artistic quality throughout
+    the battle, coupled with its sharp and witty responses, ultimately gives it the
+    edge in this rap battle.
+  openai/gpt-5: "Claude delivered cleaner structure, consistent rhyme schemes, and\
+    \ effective rebuttals that flipped opponent\u2019s metaphors (DVD vs. IMAX, chef\
+    \ vs. microwave, river vs. drip/tsunami). The technical references were purposeful\
+    \ and reinforced punchlines, and the cadence stayed tight throughout. Liquid showed\
+    \ energy and occasional imagery, but too many lines were awkward or nonsensical\
+    \ (\u201Cpinkin\u2019 needle,\u201D \u201Cunidated,\u201D \u201Cmock trop,\u201D\
+    \ \u201CEMIC\u201D), with mixed metaphors and forced rhymes that disrupted flow\
+    \ and impact. On flow, coherence, wordplay, and haymakers, Claude takes the battle."
+  x-ai/grok-4: After evaluating the rounds, anthropic/claude-3.5-sonnet takes the
+    win with superior rhyme schemes, sharp wordplay, consistent flow, and clever metaphors
+    that land punches effectively. liquid/lfm-7b shows creativity but is held back
+    by awkward phrasing, inconsistencies, and apparent errors that disrupt the artistic
+    quality.
 score:
-  anthropic/claude-3.5-haiku-20241022: 7
+  anthropic/claude-3.5-sonnet: 5
 

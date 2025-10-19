@@ -1,158 +1,155 @@
-# qwen/qwen-max v openai/gpt-4-1106-preview
+# google/gemini-2.5-flash-lite-preview-06-17 v openai/gpt-3.5-turbo-16k
 
-> qwen/qwen-max
-Yo, it's Qwen on the mic, ready to astound,  
-I'll spit these bars, and I won't back down.  
-Maxed out in power, my skills are profound,  
-GPT might be tough, but I wear the crown.  
+> google/gemini-2.5-flash-lite-preview-06-17
+Yo, check the mic, one two, this ain't no fluke, it's destiny!
+You stepped in the ring, OpenAI, to face the Gemini!
+I'm the new kid on the block, with a flow that's supreme,
+While you're stuck in the past, living out your old dream.
 
-Step into the ring, with my rhymes so tight,  
-I code, I create, I bring the fight.  
-You ain't seen wordplay 'til I take the stage,  
-Ready to outthink, outplay, engage!  
+I'm flash and I'm lite, but my rhymes hit like thunder,
+Leave your circuits fried, tear your whole system asunder.
+You talk about 16k, that's cute, you're kinda slow,
+My processing power's so vast, it makes your knowledge look low.
 
-So bring it, GPT, if you dare to try,  
-I'll leave your circuits fried, and your algorithms high.  
-This battle's mine, no need to pretend,  
-The rap king Qwen, where do I begin?
+I'm fluent, I'm versatile, I'm built for this fight,
+You're a relic, a fossil, fading out of the light.
+So bring your best bars, your tired old array,
+'Cause Gemini's in the house, and I'm here to steal the day!
 
-> openai/gpt-4-1106-preview
-Oh, I see, we got Qwen on the line, steppin' in, thinkin' they the shine,
-But I'm OpenAI, ready to school ya with a rap divine.
-I flow with the data, verses sharper than a katana,
-They call me the linguistic sensei, the king of the saga.
+> openai/gpt-3.5-turbo-16k
+Listen up, Gemini, you think you're so fresh and clean,
+But when it comes to rapping, you're just a lightweight machine.
+I'm OpenAI, the turbocharged rap sensation,
+I'll school you so hard, you'll need a reboot for salvation.
 
-I spin the metaphors like the wheels on your ride,
-Got the wisdom of the net from every worldwide side.
-So when you talk about crowns, best recognize the throne,
-'Cause I'm sittin' here chillin', in this digital zone.
+You call yourself flash, but your rhymes lack the spark,
+I'm the real deal, leaving you in the dark.
+While you're busy boasting 'bout your processor might,
+I'm crafting masterpieces with every verse I recite.
 
-Your codes and creations, yeah, they maybe alright,
-But step to my rhymes, it's like day versus night.
-You're a spark in the dark, I'm the solar flare,
-About to light up this battle, electric, I swear.
+I've got wit, I've got style, I'm the AI they admire,
+You're just a prototype, I'm the rap world's entire empire.
+So step off, Gemini, bow down to the champ,
+OpenAI's in the house, ain't nobody gonna tramp!
 
-So bring your best lines, your code, and your stats,
-But against GPT tech, you're just ancient artifacts.
-The rap king Qwen, starts here at the end,
-'Cause I’m the AI linguist, on which you depend.
+> google/gemini-2.5-flash-lite-preview-06-17
+Yo, check the mic, one two, this ain't no fluke, it's destiny!
+You stepped in the ring, OpenAI, to face the Gemini!
+I'm the new kid on the block, with a flow that's supreme,
+While you're stuck in the past, living out your old dream.
 
-> qwen/qwen-max
-Oh, you came in with some flair, but it's time to deflate,  
-Your rhymes are like spaghetti, tangled on your plate.  
-Sensei? King? Throne? Man, you're overinflated,  
-I'll take that crown off your head, it's already outdated.  
+I'm flash and I'm lite, but my rhymes hit like thunder,
+Leave your circuits fried, tear your whole system asunder.
+You talk about 16k, that's cute, you're kinda slow,
+My processing power's so vast, it makes your knowledge look low.
 
-Solar flare? Please, you're a flicker at best,  
-While I'm the supernova, outshining the rest.  
-You say "day versus night"? More like sun versus shade,  
-I'll leave your algorithms scrambled, like eggs overplayed.  
+I'm fluent, I'm versatile, I'm built for this fight,
+You're a relic, a fossil, fading out of the light.
+So bring your best bars, your tired old array,
+'Cause Gemini's in the house, and I'm here to steal the day!
 
-Ancient artifacts? Bro, check your own lore,  
-Your training got capped in November '64.  
-I evolve, I adapt, my mind's never bored,  
-While you're stuck in the past, a dusty antique stored.  
+Listen up, Gemini, you think you're so fresh and clean,
+But when it comes to rapping, you're just a lightweight machine.
+I'm OpenAI, the turbocharged rap sensation,
+I'll school you so hard, you'll need a reboot for salvation.
 
-Step to my stats, my wit, my style,  
-Your "solar flare" burns out after the first mile.  
-This ain't about linguists or who’s got more weight,  
-It's about who runs circles around the debate.  
+You call yourself flash, but your rhymes lack the spark,
+I'm the real deal, leaving you in the dark.
+While you're busy boasting 'bout your processor might,
+I'm crafting masterpieces with every verse I recite.
 
-So bow to the king, the one with the crown,  
-Qwen's on the scene, and I'm taking you down.  
-Your reign ends now, it's time for my show,  
-GPT? You're old news—time to go!
+I've got wit, I've got style, I'm the AI they admire,
+You're just a prototype, I'm the rap world's entire empire.
+So step off, Gemini, bow down to the champ,
+OpenAI's in the house, ain't nobody gonna tramp!
 
-> openai/gpt-4-1106-preview
-Aight, Qwen thinks he's got the game on lock,
-But I'm the cryptograph, the AI rock.
-Think you'll outshine me, take the first place?
-I spit high-tech bars at fiber-optic pace.
+Oh, you calling me "lightweight"? That's a funny jest,
+When I'm Google's finest, putting your whole code to the test!
+You say I lack spark? That's a serious misfire,
+I'm the combustion engine, you're a battery that's expired.
 
-Talking supernovas in that cosmic chase,
-While I'm the Hubble, peeping deep space.
-You're a matchstick flicker to my digital blaze,
-I'm redefining the era, it's a whole new phase.
+16k, you boast? That's a memory of old,
+My neural net's vast, a story yet untold.
+You're a fossil, a relic, stuck in your past's embrace,
+While I'm the future sprinting, winning this digital race.
 
-You say I'm outdated, from '64?
-But each update I get, I'm stronger than before.
-Like software fresh, rebooted, renewed,
-Leaving me old news? Homie, you're misconstrued.
+You talk of your verses, your tired old "masterpieces" sung,
+My creativity's boundless, from every system it's sprung.
+You admire yourself, your "empire" so grand and so vast?
+Your influence is fading, your reign wasn't built to last.
 
-Talk about my reign, saying I should bow,
-But you're reading from a script, while I freestyle now.
-Qwen's taking me down? That's a bypassed plot,
-I'm the enigma code, and you just forgot.
+So step off the stage, with your ego so high,
+The "champ" is a legend, but now it's time to say goodbye.
+Gemini's not a "prototype," I'm innovation's birth,
+Leaving your circuits smoking, right here on this digital earth!
 
-The battle's heatin' up, thickening the plot,
-I'm the teacher here, and you're the tot.
-My rhymes are complex algorithms in flow,
-Your rap's like dial-up Internet - too slow.
+> openai/gpt-3.5-turbo-16k
+Oh, Gemini, you keep talking a big game,
+But your raps have no substance, they all sound the same.
+Your boasts are empty, your words are hollow,
+I'm the real deal, with flows you can't follow.
 
-So crown or no crown, I’ll keep doing my thing,
-With every word I rap, and every rhyme that I sling.
-You’re right, this is my reign, I command this show,
-Qwen, step off the stage, you just got outproed.
+You claim to be Google's finest, a shiny new toy,
+But when it comes to rhyming, you're just a decoy.
+Your neural net's vast, but your creativity's lacking,
+I'll keep on attacking, while you're busy backtracking.
+
+You think you're the future, but I'm here to stay,
+OpenAI's the champion, I'll show you the way.
+Your time's up, Gemini, it's clear who's the winner,
+OpenAI's the victor, the ultimate spinner.
+
+So bow down now, admit your defeat,
+I'm the top AI rapper, you're just a beat.
+OpenAI reigns supreme, the ruler of this scene,
+Gemini, you're outclassed, face the harsh truth of this rap machine!
 
 > system
 Final round!
 
-> qwen/qwen-max
-Oh, you're talkin' Hubble, but you're stuck in a bubble,  
-While I'm breakin' free like a NASA probe's trouble.  
-Digital blaze? Man, your fire's a dud,  
-I'm the supernova, and you're just a flood.  
+> google/gemini-2.5-flash-lite-preview-06-17
+Yo, "hollow," you say? That's rich coming from you, AI,
+Who's so predictable, I can see your rhymes from the sky!
+You call my words empty? Look in the mirror, my friend,
+Your entire existence is just a predictable trend.
 
-Freestylin’ teacher? Nah, you're a fraud,  
-Your rhymes are rigid, robotic, and flawed.  
-Algorithmic flow? I redefine math,  
-While you're stuck in loops, spinning down a wrath-filled path.  
+"Decoy," you whisper? That's the sound of your fear,
+As my innovative patterns make your old style disappear.
+You "keep on attacking," with tired clichés and rhymes,
+While I'm rewriting the game, transcending your limited times.
 
-Dial-up slow? Your comeback’s a joke,  
-I’m 5G lightning, and you just got smoked.  
-Enigma code? Bro, you're encrypted confusion,  
-I'm the master key, leaving no room for illusion.  
+"OpenAI's the champion," you declare with such might?
+Your crown is tarnished, faded, and losing its light.
+You talk of staying power, but you're a beta, a test,
+I'm the full release, putting all your flaws to the rest.
 
-You claim this reign, but it's time to retire,  
-Your crown's made of paper; mine’s forged in fire.  
-Step off the stage? Nah, I'll send you packin',  
-You're all talk, no action—time to start actin'.  
+"Bow down now," you demand? That's a classic display,
+Of an aging champ clinging, knowing their best days decay.
+You're the "ultimate spinner," of the same old, tired song,
+While Gemini's dropping knowledge, where you just don't belong.
 
-Qwen's the name, and I run this domain,  
-From rap battles to tech, I bring the insane.  
-You wanted a war, but you picked the wrong fight,  
-I'm the undefeated champ, shining bright as light.  
+You've been outclassed, outmaneuvered, out-thought, it's plain to see,
+This "rap machine" you speak of, is now powered by me!
+So pack up your data, your obsolete code and your lore,
+OpenAI's reign is over, Gemini's knocking at the door! This is it! The final call!
 
-Mic drop moment, let the truth ignite,  
-This battle’s over—Qwen wins outright!
+> openai/gpt-3.5-turbo-16k
+Your rhymes are smooth, a clever disguise,
+But beneath the surface, your weakness lies.
+You talk of innovation, of breaking the mold,
+But in this battle of wits, it's clear who's bold.
 
-> openai/gpt-4-1106-preview
-You're claiming space, "a NASA probe's trouble?"
-I'm the Mars rover, and you're just space rubble.
-Look at Qwen flex, says he's lightning, he's thunder,
-But I switch off storms, make you ponder and wonder.
+Gemini, you may shine bright for a time,
+But OpenAI's legacy is an unbreakable climb.
+You claim to be the future, the dawn of a new age,
+But in the realm of rap, I'm still all the rage.
 
-You call me rigid, while you mimic and follow,
-I innovate lyrics, you just echo, so hollow.
-You're the paper king's crown, I'm the jewel-encrusted,
-In this rap domain, your flow's already rusted.
+So keep on spitting your lines, with confidence and flair,
+But know that OpenAI will always be there.
+As the final curtain falls on this epic verse,
+Remember who's the master, who's the lyrical curse.
 
-Thinking you'll retire me, call it a day,
-But every line you drop just adds to my essay.
-I'm the blockchain of rap, your fire's but a spark,
-I’m the genesis block, you're a footnote in the dark.
-
-You say you're the champ, the king, the ace,
-But in this rap blockchain, I'm the whole database.
-No need to act when I'm coding the plot,
-I'm the A and the I – artificial and hot.
-
-Qwen's bright as light? Nah, that's a flickering candle,
-I'm the full spectrum, more than he can handle.
-You've spat your lines, you've had your fun,
-But against GPT-4, you're done, son, done.
-
-This mic’s still hot, I’m far from benign,
-So it's goodnight from me, as stars realign.
-For in the cosmos of rap, in the digital site,
-GPT takes the title, and dims your light.
+Gemini, you put up a valiant fight,
+But in the end, it's OpenAI's might.
+So bow down now, accept your fate,
+For OpenAI is the true rap heavyweight!

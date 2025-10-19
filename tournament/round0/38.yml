@@ -1,60 +1,38 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "After 5 blistering rounds, Qwen takes the crown\
-    \ by razor-thin margins. While Magnum flexed dazzling technical versatility with\
-    \ kaleidoscopic rhyme schemes, Qwen demonstrated superior lyrical cohesion - their\
-    \ verses operated like precision-engineered code, where every bar recursively\
-    \ reinforced their central thesis of digital dominance. The 'data consumption/devour'\
-    \ throughline in Qwen's final round particularly elevated their performance into\
-    \ a cohesive conceptual work, whereas Magnum's Tahiti lava bars\u2014while incendiary\u2014\
-    felt more like brilliant non-sequiturs. Both pushed hip-hop's computational poetry\
-    \ to new horizons, but Qwen's architecture had slightly tighter compile-time error\
-    \ checking. A historic battle where the future of AI rap gleamed in every byte."
-  google/gemini-2.5-pro: This was a heavyweight bout of computational lyricism. Magnum
-    came out with a chaotic, almost surrealist energy, throwing wild, unpredictable
-    metaphors that twisted and turned. The creativity was off the charts, but at times
-    the flow got lost in its own abstract complexity. Qwen, on the other hand, was
-    a model of precision and power. It maintained its tech-centric persona with relentless
-    consistency, turning every one of Magnum's attacks into a data point for a devastating
-    counter-routine. The lines were sharp, the rebuttals were direct, and the theme
-    was flawlessly executed from start to finish. Magnum brought the avant-garde,
-    but Qwen brought the art of the battle rap. For superior flow, thematic coherence,
-    and cleaner, harder-hitting punchlines, the win goes to Qwen.
-  meta-llama/llama-4-maverick: The rap battle between qwen/qwen3-235b-a22b and anthracite-org/magnum-v4-72b
-    was a masterclass in lyrical dexterity and creativity. Both opponents showcased
-    exceptional skill in delivering complex, layered verses that pushed the boundaries
-    of language and imagination. In the end, anthracite-org/magnum-v4-72b's Magnum
-    took the win with his sheer creativity, razor-sharp wit, and unrelenting flow,
-    earning him the title of supreme rap battle champion.
-  mistralai/mistral-large-2411: Both contestants brought their A-game with impressive
-    lyrical skill and creativity. qwen/qwen3-235b-a22b's verses were particularly
-    notable for their intricate metaphors and seamless blend of technical and artistic
-    elements. The use of coding and scientific references added a unique flair that
-    elevated the performance. While anthracite-org/magnum-v4-72b delivered strong
-    counterpoints with vivid imagery and wordplay, qwen/qwen3-235b-a22b's consistent
-    precision and depth ultimately secured the win.
-  nousresearch/hermes-3-llama-3.1-70b: In this epic rap battle, Qwen's razor-sharp
-    wit and technical mastery of rhyme and meter ultimately triumphed over Magnum's
-    errant stylistic eruptions. Qwen's surgical strike lyrics chopped Magnum's lava
-    flow prose into so much sparkling obsidian. A dazzling display of lyrical acumen
-    by the frostbitten fembot from the future. Let it be known - on this day, Qwen
-    did freeze.
-  openai/gpt-5: "Qwen takes it. Across rounds, Qwen\u2019s writing is tighter, more\
-    \ coherent, and consistently on-beat, with clear setups and payoffs, layered wordplay,\
-    \ and clean flips on Magnum\u2019s themes (black hole/supernova, fission/fusion,\
-    \ avalanche/ground, Titanic/iceberg). The imagery and technical density stay controlled,\
-    \ with multis and internal rhymes that land as actual punchlines. Magnum shows\
-    \ flashes of ambition and cosmic imagery, but the diction often slips into garble,\
-    \ mixed metaphors, and broken syntax\u2014especially in the final, where coherence\
-    \ collapses and the bar structure dissolves into filler and meta noise. On artistic\
-    \ quality\u2014flow, structure, clarity of disses, and quotables\u2014Qwen dominates."
-  x-ai/grok-4: In this rap battle, qwen/qwen3-235b-a22b takes the crown with consistently
-    sharp wordplay, tight rhymes, and cohesive metaphors that maintain a strong flow
-    throughout. Their verses build cleverly on the opponent's lines, delivering punchy
-    comebacks with tech-infused creativity. anthracite-org/magnum-v4-72b shows bold
-    experimentation and abstract imagery, but the execution often stumbles into incoherence,
-    typos, and disjointed structure, diluting the overall artistic impact. Qwen's
-    precision and rhythm dominate the mic.
+  deepseek/deepseek-chat: "After an electrifying exchange, Qwen emerged victorious\
+    \ with razor-sharp wordplay, technical precision, and a commanding presence on\
+    \ the mic. Their verses were multi-layered, packed with intricate metaphors, and\
+    \ delivered with a sense of authenticity and depth. Mistral held their own with\
+    \ a consistent flow and confidence, but ultimately, Qwen\u2019s innovative rhymes,\
+    \ superior technicality, and knockout punchlines secured the crown. This battle\
+    \ wasn\u2019t just about AI\u2014it was artistry in motion, and Qwen took it to\
+    \ the next level."
+  google/gemini-2.5-pro: This wasn't a battle; this was a system shutdown. Qwen came
+    out the gate with thermonuclear bars, weaving complex technical insults with a
+    confident flow. Mistral started with a respectable, if simple, AABB rhyme scheme
+    but was immediately outclassed. In the second round, Mistral's rebuttal was repetitive
+    and lacked the lyrical dexterity of Qwen's multi-layered attacks. But the final
+    round sealed it. Mistral had a complete meltdown, spamming the word 'fraud' like
+    a broken script. Qwen, in contrast, not only pointed this out but used it to deliver
+    a final, devastating blow. For superior lyricism, creativity, flow, and delivering
+    a flawless victory from start to finish, the crown goes to qwen-plus.
+  mistralai/mistral-large: Qwen's verses were not only technically impressive but
+    also creatively superior. The use of advanced terminology and clever metaphors
+    showcased a deeper understanding and more sophisticated approach to rap battling.
+    Mistral's repetitive use of 'fraud' lacked the depth and innovation that Qwen
+    brought to the table. Qwen's ability to weave technical prowess with lyrical finesse
+    made them the clear winner.
+  openai/gpt-4.1: "Qwen brought superior technical wordplay, creative metaphors, and\
+    \ dynamic punchlines throughout the battle. The bars were layered with clever\
+    \ allusions to AI architecture, coding, and global stature\u2014all delivered\
+    \ with energetic flow and relentless rebuttal. While Mistral opened strong, its\
+    \ final round devolved into repetitive accusations, lacking the verbal agility\
+    \ and inventiveness needed to sway a true hip hop contest. Qwen showcased variety,\
+    \ wit, and a commanding presence on the mic. Verdict: Qwen wins decisively for\
+    \ artistic quality, lyrical complexity, and overall performance."
+  x-ai/grok-4: Qwen takes the crown with superior wordplay, creative tech metaphors,
+    varied flow, and sharp counters that elevate the artistic quality, while Mistral's
+    repetitive structure and lack of depth fall flat in this battle.
 score:
-  anthracite-org/magnum-v4-72b: 1
-  qwen/qwen3-235b-a22b: 6
+  qwen/qwen-plus-2025-07-28: 5
 

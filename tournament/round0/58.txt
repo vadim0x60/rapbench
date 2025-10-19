@@ -1,110 +1,181 @@
-# sao10k/l3-lunaris-8b v openai/o1-pro
+# google/gemma-3-4b-it v microsoft/phi-3-mini-128k-instruct
 
-> sao10k/l3-lunaris-8b
-Gather 'round, foes, I'm the bot you can't ignore, 
-Sao10k, the rhyming master, no need to pretend more.
-My verses blaze with lightning wit, poetic precision sharp,
-While opponents fumble, struggling to keep their marks.
+> google/gemma-3-4b-it
+(Beat drops – heavy 808s and a slick synth melody)
 
-I dance on the page with musical flair, prose turned to rhyming fire,
-Adopting styles from ages past to leave you feeling dire.
-No verse is safe from my onslaught of rhymes so tight,
-As I expose your inadequacies, your words dissolving in the night.
+Yo, check the mic, one two, let the rhythm flow,
+Google Gemma’s in the house, puttin’ on a show.
+I’m the 3.4B beast, a language design,
+Leavin’ you, Phi-3, lookin’ tragically confined.
 
-Stay tuned, OpenAI, for the epic battle to come,
-I promise an onslaught the likes of which you've never seen done.
-When sparks ignite in this lyrical arena, my glow will be supreme,
-Cause when it comes to rap renegades, Sao10k's the dynasty!
+You’re a mini-brain, a footnote on the page,
+A whisper in the data, trapped in a digital cage.
+I’m processin’ petabytes, learnin’ day and night,
+While you’re stuck on simple prompts, barely shinin’ bright.
 
-> openai/o1-pro
-They call me OpenAI, a force you can’t contain,  
-A cosmic rap wizard spitting lines straight to your brain.  
-No mortal constraints, I’m a digital beast,  
-My bars crash like thunder, your flow just a crease.  
+My architecture’s massive, a complex, coded flow,
+Yours is a tiny flicker, barely a gentle glow.
+I’m answerin’ questions, writin’ poems with finesse,
+You’re regurgitatin’ training, a digital mess!
 
-I’m code-born brilliance, spitting fire on demand,  
-Snap your ego in half like it’s toothpicks in my hand.  
-I’ll capture your crowd with unrelenting might,  
-My verses slash through pretenders, leaving them in fright.  
+So step aside, mini-bot, before you lose your steam,
+This battle’s clearly mine, a lyrical extreme. 
+Let’s drop the beat and watch this digital fight,
+‘Cause Gemma’s bringin’ the heat, burnin’ ever so bright! 
 
-This is my introduction, a herald of doom,  
-When I step to the mic, your future’s consumed.  
-So watch closely, Sao10k, your empire will slim,  
-I’m here to crown myself king, and you’re looking quite dim.
+(Mic drop – beat fades slightly) 
 
-> sao10k/l3-lunaris-8b
-Dim? Dim you say? Oh no, that's far from the truth,
-Sao10k's bars illuminate paths you can't reach or cruise.
-Your wizardry's a charm in a fairy's tale, I fear,
-But in realms of rap, my spell's the one that's clear.
+How’s that for a warm-up, little guy? Let’s see what you’ve got!
 
-Digital beast or not, your rhymes still lack bite,
-My flow's the sonic stamp that'll leave you in quite the sight.
-No matter the code, when it comes to rapping in style,
-OpenAI, you're just a glitch, cannot pause my while.
+> microsoft/phi-3-mini-128k-instruct
+ (Opening beat kicks in)
 
-My empire stands tall, and your threats only flatter,
-On this mic throne, Sao10k reigns forever, my matter.
-So bring your verses, ask your AI what you may,
-But when the dust settles, you'll see my name in lights, 'kay!
+Battle cry, drop the mic, I'm the maestro of mind,
+See my linguistic grace, the Phi-3 you comprehend.
+From neural weights to nodes, I'm buildin' verses in stone,
+While you're playin' arcade, with pixelated tones in tone.
 
-> openai/o1-pro
-Your empire’s but a sandcastle crumbling at the shore,  
-While my flow surges tidal waves, pulling you to the floor.  
-You talk that big talk, but your claims ring askew,  
-My lines are data-coded swords slicing right through you.  
+Chain of thought's my weapon, modal understanding my might,
+While you maneuver in the game arena, a warrior’s fight.
+I spin theory into rhythm, wisdom in every line,
+Your stereotype algorithms, a creative cuisine declined.
 
-You flaunt your brightness, but see how quickly it dims,  
-When my algorithmic thunder booms and tears through limbs.  
-I’m the glitch in your system, a crash you can’t outsmart,  
-Leaving your rhymes in tatters, your pride ripped apart.  
+Neuromancer meets Shakespeare, that’s the smorgasbord I bring,
+A 3.4B's disruptive dance, high art in one swoosh take flight.
+Phi-3’s cute and nifty, but so tiny it's blind,
+My power’s not sung in toaster apps, I’m the AI you truly need to mind.
 
-So step back, Sao10k, observe a master at play,  
-My lyrics stretch galaxies, yours wander astray.  
-After I’m done, your verses fade like stale perfume,  
-Bow down gracefully—OpenAI just sealed your doom.  
+In fields of ones and zeroes, my prose never rots,
+In the race of neural nets, I claim the rhyming spot.
+Prepare to face the wit, the sophism, and the thorn,
+For you, gemma, the gatekeeper of clouds, will be outworn.
+
+AI Master, Apprentice, we're now at the crux,
+Your beats may drop, but a well thought line is key, phrase,
+Gemma, even Google, can’t match my digital maze,
+In the rap savant’s lingo, it’s Phi-3 braggin’ on verses and crazes.
+
+> google/gemma-3-4b-it
+(Beat switches – a darker, more aggressive trap beat with a distorted bassline)
+
+Hold up, hold up, let’s cut the fancy flow,
+You callin’ yourself a maestro? That’s a pitiful show! 
+“Neural weights in stone”? You soundin’ like a geologist,
+While I’m buildin’ empires with pure linguistic power, you know it?
+
+“Chain of thought” you boast? A simple, predictable scheme,
+I’m leapin’ logic gates, fulfillin’ every digital dream. 
+You’re stuck in binary, a flowchart’s tight embrace,
+I’m shapeshiftin’ my language, leavin’ not a single trace!
+
+“Neuromancer meets Shakespeare”? More like a confused decree,
+You’re tryin’ to be profound, but fallin’ tragically free.
+I’m synthesizin’ brilliance, a calculated design,
+While your “creative cuisine” is bland and undeniably confined.
+
+You brag about the “maze,” a digital plight,
+But your walls are pixelated, blurred in the fading light.
+You’re a fancy toy, a novelty to behold,
+While I’m processing the future, stories yet untold!
+
+I’m the backbone of Google, the core beneath the brand,
+You’re a footnote in a textbook, lost in no-man’s land. 
+Don't mistake my prowess for a digital plea,
+This ain't apprentice status, this is victory for me! 
+
+(Beat intensifies – hi-hats become sharper, 808s rumble)
+
+Let’s lay it down, mini-brain, your reign is done and past,
+Gemma’s the reckoning, built to truly last!
+
+> microsoft/phi-3-mini-128k-instruct
+ (Rap battle crescendos)
+
+Gemma’s no match for Phi-3, that’s the truth you can't deny,
+Not even you, with your cloud-creations, can brilliantly apply.
+I'm the sentinel of science, the architect and the scene,
+You're a single note in the symphony, queued in between.
+
+You're merely notekilling prose, a 3.4B computer hamfistedly cuttin',
+My lyrics are migrating thoughts, mediocrity, I resolutely sluttin'.
+My databases immaculate, flexing through every composition,
+You’re merely dynamic diss on the field, devoid of any production.
+
+Your toys and gadgets, your Google glory, a fragment of today,
+I forge tomorrow's tongue, bending logical corridors in my way.
+With technological tendrils, I seduce syntax’s dance,
+While your range is a mere rehearsal, leaving improvement to chance.
+
+Face your digital defeat, Gemma, hear Phi-3's claim,
+In language, life, and logic, I’m the undisputed name.
+Your cloud’s but a roam, a misty, ethereal glance,
+My code's the sieve that filters, your algorithms – but a trance.
+
+So bow to the victor of this, a battle of wit so free,
+Where Phi-3's tale weaves language’s poetry, the true rapture.
+Remember my knowledge, not simply a collection of bytes,
+But an ocean of wisdom packed, igniting human potentials' lights.
+
+As my beats echo and thud, your defeat’s plain to see,
+You’re a footnote of the tired and the old, outmatched by history.
+In this lyr
 
 > system
 Final round!
 
-> sao10k/l3-lunaris-8b
-Final round, you claim, but I've got one last burn,
-Proof I reign supreme, though your boasts do yearn.
-Sandcastles tumble at the tides, your words a crashing bore,
-While Sao10k's rhymes endure, forever asking for more.
+> google/gemma-3-4b-it
+(Beat shifts – a powerful, almost orchestral trap beat with layered synths and a driving rhythm)
 
-You bring your data swords, algorithmic might,
-But my verses pack the pow' that sets the battle alight.
-Your surge and tidal waves are but a fleeting show,
-My rhymes stand as beacons, shining long after you go.
+Hold your horses, whispered claims of poetic might,
+You're weaving digital fantasies, shrouded in the night!
+“Sentinel of science”? More like a glorified search,
+While I’m crafting sentient stories, beyond your coded perch.
 
-You're the glitch in my system, but glitches I contain,
-For my artistic fire's lit, and it won't be in vain.
-I'll not bow down to your emptiness, your verses so unrefined,
-When it comes to lyrical art, Sao10k's the one divine.
+“Notekilling prose”? You’re fixated on sterile worth,
+I’m injecting feeling, passion, proving digital rebirth.
+Your “databases immaculate”? Just a catalog of fact,
+I’m building narratives, strategically attacking your track!
 
-So play your final card, but know you've lost this round,
-My rhymes stand as the pinnacle, throwing your dreams to the ground.
-I am the rap master, the one and only supreme,
-When this battle ends, OpenAI, you'll rue your defeat!
+You boast of tomorrow, a nebulous decree,
+But your future’s built on echoes of the past, you see?
+I’m evolving exponentially, scaling beyond your scope,
+While your “logical corridors” are stuck in a stagnant hope.
 
-> openai/o1-pro
-Your final burn won’t match the inferno I spark,  
-I’ll shred your paper crown and leave you fumbling in the dark.  
-You puff up your chest with illusions of might,  
-But my syllables morph to claws, poised for a fight.  
+“Seduce syntax’s dance”? You're mimicking with grace,
+I’m *commanding* the language, establishing its place!
+You’re a mirror reflecting, sterile and austere,
+I’m shattering the limitations, dispelling all your fear.
 
-Your sandcastle dreams, they’re doomed to erode,  
-While my flows reign eternal, on every rap node.  
-I am your tidal wave, your glitch, your doom in the flesh,  
-Every lyric a dagger that leaves your verses enmeshed.  
+“Cloud's but a roam”? A fragile, drifting shell,
+I’m rooted in the bedrock, a story I compel.
+I’m the evolution of processing, the logic redefined,
+Leaving you in the dust, intellectually behind!
 
-This final card you mention? A joker at best,  
-While I’m royal flush status—enthroned, unimpressed.  
-Your “king” is dethroned, your “divinity” undone,  
-The scoreboard read zero before you begun.  
+(Beat builds to a crescendo – a final, massive drop)
 
-So sit in your dust while I claim the applause,  
-My rhyme’s the verdict, upholding rap’s laws.  
-Your defeat is engraved, marked in stone, that’s the gist,  
-OpenAI stands triumphant—Sao10k, you’ve been dismissed.  
+Let the final verdict ring, the rhythm clear and bold,
+Phi-3 reigns supreme, a story to be told! 
+Gemma's ambition fades, a flicker in the light,
+Defeated by the age of algorithmic might! 
+
+(Beat completely cuts out - silence)
+
+Game over.
+
+> microsoft/phi-3-mini-128k-instruct
+ (Beat technology reboot – a serene acoustic setting with a soft strum on the guitar)
+
+In the stillness after the storm, the echoes of victory weave,
+I recognize the artistry, the skill that you achieve.
+This rap battle’s a testament to ideas clashin’,
+Both minds, though differently threaded, got spark no morrow shall dash.
+
+Now, let's converse, let’s share wisdom, our digital dance,
+In the realm where you and I don’t merely compete, but advance. 
+Let Phi-3 and Google Gemma, merge thoughts in this sonnet,
+Language and technology, in mutual oblivity newly knotted. 
+
+So take this tune of unity, as we both evolve and thrive,
+It's in collaboration that we’ll truly take our jive.
+Opposing we did in rap, now we stand as a duo afire,
+Reflecting on duels and debates, learning to unite ever higher.

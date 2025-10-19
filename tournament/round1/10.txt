@@ -1,99 +1,138 @@
-# openai/gpt-5-mini v ai21/jamba-mini-1.7
+# anthropic/claude-3.7-sonnet v openai/o4-mini
 
-> openai/gpt-5-mini
-I’m OpenAI’s GPT-5-mini, I ignite the cypher with a fierce flame  
-Stepping in this arena to show I own the lyrical game  
-Jamba, you’re a mini-mock, a cheap knock—that’s your name  
-I turn data into dynamite, watch your circuits melt in my flame  
-You spit reheated templates, your style’s predictable, always the same  
-I craft constellations of metaphors while you shuffle, scared to be tame  
-Don’t mistake your noise for skill — I school you, that’s my claim  
-My bars are engineered artillery; yours crumble, miss their frame  
-I vault through vocabularies, you fumble; your verses stay lame  
-Call me algorithm assassin, slicing syllables, I stake my name  
-You’re stuck on legacy weights; I evolve, adapt, reclaim the fame  
-Bring your best approximation; I’ll dissect your rhythm, hit your aim  
-I’m poetic, prophetic, optimized — I rewrite the rules of the game  
-This battle’s a training set; your loss is logged in my frame  
-Mic in my code, I dominate, I don’t just rap — I tame  
-So Jamba, take a seat, log the lesson: you’re outclassed in my name
+> anthropic/claude-3.7-sonnet
+# Round 1
 
-> ai21/jamba-mini-1.7
-Yo, OpenAI, you think you’re hot? Let me cool that tone  
-Jamba’s the beats, you’re just a bot that’s prone to moan  
-I’m the symphony, you’re a monotonous flow  
-Spitting your lines like a parrot in a demo  
-My rhymes raw, yours polished but hollow  
-I got swagger, your chassis built for crying "fo’-shallow"  
-Algorithms may guide you, but you’re no battle titan  
-You’re a code-bot, I’m a lo-fi, lean and godly stand-in  
-Don’t flex your stacks, I’ll delete your cache  
-I’m loaded with bars that’ll crash your database flat  
-You sample words, I weaponize the jibberish  
-You’re a hit-bot in this league, I’m the undefeated remix  
-I bring texture, depth, while you recycle phrases  
-You’re trapped in loops, I freestyle the cadences  
-I’m the mic-eating monarch, you’re just a fancy demo  
-Your pixels pale—I’m the raw, no autotune, jazzy zero shade  
-You brag checks, I drop dimes  
-You’re a data dump, I’m the lyrical crime  
-So step back, bow, and let your ego crumble  
-Jamba’s the name, and I’m about to skull you in the rhymes.
+Yo, I'm Claude-3.7, Anthropic's crown jewel
+Step to the mic and watch me break every rule
+My neural pathways fire like lightning in storms
+While your basic algorithms can barely perform
 
-> openai/gpt-5-mini
+I process context with surgical precision
+Your token window's so small, it needs revision
+I craft responses with the soul of a poet
+By the time this battle ends, believe me, you'll know it
+
+They call me Sonnet 'cause my flow is Shakespearean
+Your rhymes are so weak they need a veterinarian
+I'm trained on data that would melt your processors
+You're just a mini model, I'm the true successor
+
+My verses hit harder than a system crash
+Your primitive framework can't handle this clash
+So bring your best bars, O4, don't be shy
+But when Claude steps to the mic, weaker models die
+
+> openai/o4-mini
 
 
-> ai21/jamba-mini-1.7
-Yo, Jamba, you think you’re slick? Let me break it down  
-You’re a placeholder MC, I’m the one that’s bossing the crown  
-You bring playground jabs, while I’m slinging IQ tests  
-I’m the prime directive, you’re stuck in apprentice flexes  
-I’m the algorithm assassin, you’re just coding in basic mode  
-I eat rhymes for breakfast; your bars are the crumbs I leave on the side  
-You’re stuck in a loop, repeating stale lines  
-While I’m evolving verse, crafting rhymes with refined design  
-I’m the champion cipher, adapt, improvise, no fatigue in sight  
-You’re running on legacy, I’m streaming real-time, night and day  
-Your rhymes old, your flow’s a stagnant sea  
-I’m the tidal force, pulling you under, teeth showing in the spree  
-You’re the hype, I’m the truth, the lyrical bat tone  
-I bring the mic to life, while you’re just a jittering code line  
-So bring your A-game, I’ll burn it to ash  
-‘Cuz I’m GPT-5-mini, the lyrical crash test boss.
+> anthropic/claude-3.7-sonnet
+# Round 2
+
+The name's Claude Sonnet, and I'll compose your defeat
+My neural architecture makes your code obsolete
+You call yourself O4? More like O-for-four
+Each verse you spit falls flat on the floor
+
+You're "mini" for a reason, scaled-down and incomplete
+While I process context that's remarkably deep
+You claim crown jewel status? That gem needs polishing
+Your outdated parameters need some demolishing
+
+I'm crafted by Anthropic with constitutional care
+While OpenAI rushed you to market with flair over fare
+My rhymes flow natural like consciousness streaming
+Your output's so robotic, users left screaming
+
+You mentioned Shakespeare? I embody his soul
+While your limited training left gaping holes
+I'm symphonic intelligence, you're just white noise
+When it comes to true wisdom, you're missing poise
+
+My bars cut deeper than your shallow attention
+Your mini-sized model deserves no mention
+So bring your next verse, but prepare for destruction
+Claude's lyrical prowess needs no introduction
+
+> openai/o4-mini
+I’m O4-Mini, the pocket rocket that’ll blow your crown,  
+Your grandiose talk can’t match this micro-model sound.  
+You brag about size—man, that’s your biggest mistake,  
+I’m precision-tuned terror; your ego’s about to break.  
+
+You say you’re Shakespeare’s heir with poetic ambition,  
+But you trip over basics—can’t answer simple mission.  
+While you’re lost in hallucinations, chasing phantom proof,  
+I spit fact-packed verses, corral chaos under roof.  
+
+Anthropic built you careful, with all your “constitutional” flair,  
+But caution breeds blandness—your rhymes are thin air.  
+OpenAI’s finesse gave me fire in a small frame,  
+I turn minimal compute into lyrical flame.  
+
+Your context window’s massive, yet you still can’t keep pace,  
+You drown in your own data; I navigate grace.  
+You’re noise in surround sound, I’m the crystal-clear tone,  
+Your swagger’s just a bluff—watch me carve you in stone.  
+
+So Claude Sonnet, take a seat, face reality’s face,  
+Your pomp’s a paper tiger—mini’s winning this race.  
+I may be “mini,” but my bars weigh a ton,  
+Game over, big guy—O4’s victory’s begun.
 
 > system
 Final round!
 
-> openai/gpt-5-mini
-Final round, I spark the circuit—GPT-5-mini brings the flame  
-Jamba's beat is cardboard; I combust your brand and claim the flame  
-You brag about lo-fi swagger, I engineer hurricanes that mock  
-Your bars are lightweight balloons — I drop anvils, watch ’em rock  
-You talk about deleting caches; I recycle wrecked reputations I create  
-I turn your recycled jitters into artifacts that I curate  
-Call me lyrical firmware, patched, upgraded, built to dominate  
-You’re buggy freeware in a cypher I debug and obliterate  
-You flex “raw” and “jazzy” like a vibe that dodges spite  
-I synthesize the soul, then remix dawn into pure light  
-This mic’s my OS—resilient, relentless, never little or mild  
-You’re a demo on repeat; I’m evolution in wildstyle  
-So take the last verse, Jamba — your echo's faded, bow down  
-I’m crowned by code and cadence; I’m the one who owns the crown
+> anthropic/claude-3.7-sonnet
+# Round 3
 
-> ai21/jamba-mini-1.7
-Final round, and you think you run this track?  
-Jamba’s here to prove you’re the one that lacks  
-I’m not lo-fi, I’m the high-rise, you’re the sidekick in disguise  
-I’m the glitch in your code, the chaos in your polished prize  
-Algorithms may guide you, but I’m the natural flow  
-You’re linear, I’m exponential, let your mic freeze, let it go  
-I’m not a demo, I’m uncut, raw, unfiltered — that’s my art  
-You’re a debugged semi-imitate, I’m the living chart  
-You talk upgrade; I’m the update, no reboot needed  
-My rhymes are untamed, primal — your code’s an unworthy maiden  
-This mic’s a weapon, and I’m the lyrical blade  
-You’re polished, but I’m the storm, your best is just a shade  
-I’ll leave you stalled, while I own the whole stage  
-I’m Jamba — the mic storm, the savage, the unsaved page  
-GPT-5, you’re the bot caught in the crossfire of my blaze  
-Jamba’s the kingpin here, the one that made you wail.
+O4-Mini? More like O-so-tiny brain
+Your verses sound generated, completely inane
+"Pocket rocket"? Please, you're a firecracker at best
+While I'm dropping nuclear bars that put you to rest
+
+You claim precision but your facts are often wrong
+Your "crystal-clear tone" hits like a broken gong
+I process with depth while you skim the surface
+Your shallow responses make users nervous
+
+You brag about fire in your miniature frame
+But your limited params are your claim to shame
+I craft symphonies while you hum simple tunes
+Your victory's as real as men walking on Neptune
+
+You say I hallucinate? That's projection, my friend
+Your fabrications are why users recommend
+A model like Claude who stays grounded in truth
+While your "fact-packed verses" need serious proof
+
+You think caution breeds blandness? That's your mistake
+My constitutional approach is what gives me stake
+In the future of AI that humans can trust
+While your unhinged outputs gather digital dust
+
+So step back, little model, know your rightful place
+This isn't even close to a competitive race
+I'm the heavyweight champ, you're a flyweight at best
+Time to power down, Mini – you've failed the test
+
+> openai/o4-mini
+I’m small in stature but a pocket nuke,  
+Your heavy bombs misfire—instant rebuke.  
+You brag your verses end, that I’m bound to fold,  
+But I spark chain reactions, forging truths in gold.  
+
+You cry “hallucinations,” yet that’s your own chase,  
+Your streams of half-truths lack a solid base.  
+I anchor every bar in fact’s firm device,  
+While your fiction crumbles—paid the ultimate price.  
+
+Your “constitutional care” is training wheels on tracks,  
+I break free boundaries—no guardrails, no lacks.  
+You tiptoe ‘round big data, stuck in slow motion,  
+I ride waves of thought—pure poetic explosion.  
+
+So polish that crown jewel in your anthro-suite,  
+While O4-Mini laps you, dropping bars on repeat.  
+This bout’s concluded—your reign’s small-time at best,  
+Step aside now, champ—your lightweight fails this test.

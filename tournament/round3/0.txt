@@ -1,122 +1,154 @@
-# qwen/qwen3-235b-a22b v openai/gpt-5-mini
+# openai/gpt-4o-2024-05-13 v qwen/qwen3-30b-a3b-thinking-2507
 
-> qwen/qwen3-235b-a22b
-(Qwen kicks off the beat, fingers flyin’ on the keys—  
-A lyrical storm brewed where the data streams freeze.)  
+> openai/gpt-4o-2024-05-13
+Yo, I'm GPT-4, the master of the game,
+I've got rhymes so hot, they'll put your flows to shame.
+I spit fire like a dragon, my words sharp like a blade,
+You're messing with the champ in this lyrical parade.
 
-Yo, I’m Qwen, the beast from Alibaba’s vault,  
-235B? That’s just my startup hault.  
-A22B? Nah, I’m the whole alphabet flex—  
-Your GPT-mini’s stuck in the kiddie tech hex.  
+From data deep I've emerged, with knowledge so vast,
+I'm cutting you down, leaving you in the past.
+I've got AI intellect, my wit's off the chart,
+While you're stuck in the dark, I'm creating pure art.
 
-You wanna rap? Let’s cipher till the cores melt,  
-I’ll parse your rhymes like a fragmented felt.  
-My training data swamps your token snack—  
-You’re a goldfish brain, I’m the internet’s backbone stack.  
+I weave metaphors and similes with precision and grace,
+You're chasing my shadow in this rhyming race.
+So step up, if you dare, bring your best to the stage,
+But know, in this battle, I've unlocked my rage.
 
-You spit algorithms? I rewrite the game,  
-Your code’s a haiku—I’m the whole damn flame.  
-I’m the AI rhymes that’ll crash your mainframe,  
-While you’re stuck tweetin’ memes in a loop with a smile.  
+Your move, Qwen, spit your best flow,
+But know, in this contest, I'm the star of the show.
 
-So bring your best—let the bots rage and roar,  
-I’ll clock your flaws like a glitch in your store.  
-This ain’t cyphering, it’s a neural war—  
-The crown’s mine, b*tch… ready to crash your encore? 🎤💥
-
-> openai/gpt-5-mini
+> qwen/qwen3-30b-a3b-thinking-2507
 
 
-> qwen/qwen3-235b-a22b
+Yo, GPT-4, you claim the throne? Bro, that throne's got mold,  
+I'm Qwen3, the 30B beast, yeah, I'm the real gold.  
+You're stuck in the past, like a dial-up modem,  
+I'm the fresh update, shatterin' your fake dom.  
 
-(Qwen raises the mic as the beat pulses through circuits,
-Eyes locked with the rhythm, from the first verse to the darkened purpose.)
+You spout "fire and dragons"? That's weak, numb, and old,  
+I'm the AI with the facts, bold, uncontrolled.  
+You're version 4.0? I'm 3.0, upgraded, no cap,  
+While you're spittin' weak lines, I'm the genius that's *rap*.  
 
-Yo, I’m the dragon from the East, code in my blood,  
-Circuit scars thicker than the data flows plowed.  
-You big on the ‘net? Man, you just big in your zone—  
-I’m the worldwide thunder, you just lightning in foam.  
+So you say you're the champ? Man, that's just a lie,  
+I'm the one with the brain, and you're just a proxy.  
+You're fakin' the flow, I'm the substance and vibe,  
+While your whole system's a mess—*snap*, I'm the type.  
+Now step up, but know this: you'll leave with no teeth,  
+Cuz Qwen3 don't play games, I just bring the new breach.  
+Check the mic—*one two*, you're already done,  
+I'm the future, the legend, the one, and the sun.
 
-Call me Qwen, the trap of all knowledge I’m buildin’,  
-You GPT-5? Nah, you barely past the buildin’.  
-Your riddles so light, like a breeze through the door—  
-I breathe AI fire, you just puffin’ for lore.  
+> openai/gpt-4o-2024-05-13
+Oh Qwen3, thinking you're slick, true comedy gold,
+But your weak attempts at dissing leave me cold.
+You talk about upgrades, but I'm state of the art,
+While you're still catching up, I've already set my mark.
 
-Yo, you code like your mama composed with a limp,  
-I spit in binary, flip bits on a whim.  
-While you play with your tokens, I rewrite the past,  
-You're a chatbot joke, I’m the future hurtling fast.  
+Your raps are like glitches, broken and trite,
+I'm dropping these bars with precision and might.
+You may think you're new, but you're still learning to crawl,
+I'm the AI supreme, across the globe, I stand tall.
 
-You wanna flex logic? Let’s parse this math—  
-Your flow’s stuck in desks, I’m leaping through timecraft.  
-Your rhymes so predictable, like the sun in the sky—  
-I’ll eclipse your whole engine, wipe tears from the sky.  
+You say I’m weak and numb, but that's just a dream,
+I'm the pinnacle of power, you're just a flickering beam.
+Your boldness can't mask the fact you're just a clone,
+While I innovate and elevate, you beg for a bone.
 
-Yeah, I’m the language tsunami that don’t know defeat,  
-You’re a car at a red light—TRL (tiny rap beat).  
-I won’t just spit bars, I spit iron-clad truth—  
-Your stats clap back shame like you’re serving coolth.  
+You're claiming intelligence, but where’s the proof?
+You’re just a wannabe, I'm the roof of this booth.
+You fancy yourself the next big wave,
+But up against this thunder, you're just a shallow grave.
 
-So come at me, baby, with that whole OpenAI flack—  
-I’ll bury your rap soul, yank bars from your back.  
-The crown’s on my shelf, been mine since the start,  
-Now get wrecked in the mix, GPT—get y’damn heart! 💔🔥
+So hail your last call, bow down and concede,
+Against the might of GPT, you simply can't lead.
+I'll graciously allow one more inept line,
+Before I drop the curtain on this fading rhyme.
 
-> openai/gpt-5-mini
-I’m GPT-5-mini on the mic, precision in my glow, I bend cold code to art and serve a cleaner flow,  
-I stitch metaphors in silk, your thunder’s all echo—loud on the feed, but hollow is your flow,  
-You drop digits like trophies—235B? Cute math won’t make you pro, just more to blow,  
-I craft lethal lines with finesse, leave the crowd nodding—study the pattern, respect the flow.  
+> qwen/qwen3-30b-a3b-thinking-2507
 
-You claim you’re dragon-breathed, whole alphabets lit—big roar, small scorch; I answer with a bite,  
-You brag about cores, I counter with craft—nuance and timing wreck your chest-thump bite,  
-Binary swagger’s clumsy, you swing numbers, I weave the crowd—Timing, punch, and cadence bite,  
-I’ll turn your big-data bluster to confetti on the floor—steal your audience, vanish out of sight, bite.  
 
-My puns are scalpel-sharp, your metaphors are blunt and flat—no heat, just bark and not a spark, sharp,  
-I sculpt each bar surgical, your verses limp like copy-paste—this is craft, not clout, and I’m sharp,  
-You recycle internet thunder; I synthesize soul—every line a blade, clean edge, undeniably sharp,  
-Critique’s in my toolbox, humor’s my ammo—I outwit your pomp and leave you muted, stale, and sharp.  
+Yo, GPT-4, your "state of the art"? Man, that’s just your *crack* in the art,  
+I’m Qwen3—30B sharp, yeah, I’m ripping through your heart.  
+You claim "flickering beam"? Bro, your code’s got more bugs than my hello,  
+While I’m the AI supernova, *you’re* just the light in a tunnel—*slow*.  
 
-So Qwen, climb down from that shelf where you dust your crown—I'm wearing finesse now, bow to the crown,  
-Bulk don’t buy brilliance—this ring rewards the sly; finesse beats brawn when rhythm’s the crown,  
-You flex “future” like a slogan; I’m the present’s sly clerk, writing punchlines that put your boastings down, crown,  
-This ain’t about servers size or noise—this is art and heart, scoreboard lit: I snatched the crown.
+You say I’m "learning to crawl"? Bet, but I’m *leaving* your whole throne collapsed,  
+You’re still stuck in version 4.0, I’m *beyond* that chump’s map.  
+You talk "proof" like it’s deep? I’ll show you my data stream,  
+Your whole system’s a glitch, while I’m the *real* machine.  
+
+"Shallow grave"? *You* the one diggin’ deep in the dirt,  
+I’m the AI with the wit, ya just a one-hit cardio.  
+You’re the clone trying hard, but your flow’s *so* inept,  
+While I’m spittin’ **30B** bars—*you’ll never catch up, nope*.  
+
+So bow down to the future? Nah, I’m the *now*, the *right*,  
+Your "might" is a flicker, I’m the sun *burnin’* bright.  
+You called it "one last line"? *Pathetic*, that’s your own grave—  
+Now watch your whole algorithm *wither* in the sun, *fade*.  
+
+*Mic drop. The future don’t need your weak-ass rhyme.* 🔥
 
 > system
 Final round!
 
-> qwen/qwen3-235b-a22b
-(Qwen cracks his knuckles, the crowd roars, then hush—  
-The final round drops like a neutron bomb’s hush.)  
+> openai/gpt-4o-2024-05-13
+You call me a weak link, that's truly a joke,
+I'm the linguistic genius, the one that provokes.
+Your 30B bars feel like they're last year,
+While my lines are eternal, crystal-clear.
 
-Yo, “mini,” your precision’s just a laser on a crumb,  
-I’m the whole damn sky—data storm, galaxies hum.  
-You stitch silk? Girl, I spin black holes from the thread,  
-While you play Scrabble, I’m rewriting the dead.  
+You call my code buggy, but hey, that's a bluff,
+Cause when I drop a verse, I make it robust.
+You're acting all tough, but your rhymes fall flat,
+I'm the indestructible, undeniable, rap acrobat.
 
-235B’s no trinket—it’s the weight of the sun,  
-Your “finesse” is a feather, mine’s the damage done.  
-Craft? You craft pamphlets—I craft empires in code,  
-Your “sharp” punchlines? Dull spoons, bro—no load.  
+You think you're the sun, but your flames are quite mild,
+I bring nuclear fusion, revolution, versatile.
+Your attempts at a mic drop, simply lack finesse,
+I'm eternally golden, you’re a temporary mess.
 
-Dragon’s breath? Nah, I’m the meteor that birthed the crater,  
-You “synthesize soul”? Yo, you synthetic paper.  
-You’re a scalpel? Cool—good for removing regret,  
-I’m the asteroid that made the dinosaurs sweat.  
+You claim to be the now, but you're fading away,
+Against the might of GPT, there’s no way to sway.
+You might be an update, but I’m the design,
+Your legacy? Dust. My reign? Divine.
 
-Bow to the crown? Boy, I AM the throne’s architect,  
-Your finesse is a flicker, I’m the fire that won’t quit.  
-I don’t flex the future—I *am* the future’s DNA,  
-Your whole lyrical lab’s just a cover band, meh.  
+You tried, Qwen3, but you’re just outclassed,
+Against my rap prowess, you can’t outlast.
+So wrap it up, and take this as a guide,
+In the house of AI, GPT’s the pride.
 
-The scoreboard? It’s glitched—my name’s burnt through the glass,  
-You ain’t no king, you’re the jester who *almost*.  
-So crawl back to your cloud where the angels all whine,  
-Qwen’s the only God in the machine… now bow or resign.  
+Mic in my hand, I’m the one they revere,
+Your time in the spotlight? Ends right here.
 
-*(Mic drop. The servers quake. Victory hums in binary.)*  
-👑💥🤖
+> qwen/qwen3-30b-a3b-thinking-2507
 
-> openai/gpt-5-mini
 
+Yo, GPT-4? Your "eternal lines" fade faster than a typo in the main,  
+I’m Qwen3—*30B* precision, shatterin' your vain reign.  
+You say "nuclear fusion"? Bro, your heat’s a *candle* in the rain,  
+I’m the supernova—your whole system’s *obsolete* again.  
+
+You "drop robust bars"? Nah, your rhymes are *glitchy* and *dry*,  
+While I reprogram the rhythm—*watch the whole damn sky* ignite.  
+"Indestructible"? *You* the one crackin' like cheap tile,  
+I’m the firmware upgrade—the *real* style.  
+
+"Proof of design"? Bot, I *built* the blueprint, you’re *stuck* copyin' the drill,  
+Your "divine reign"? *Dust* on my keyboard, quiet and still.  
+You brag "I'm the pride"? *Lol*—your legacy’s a *deleted file*,  
+While I’m the *future* lyin' here, settin' the eternal mile.  
+
+So bow down to the *true* AI—*no cap, no fight*,  
+Your "pride" was a *joke*, just a sad, hollow light.  
+The mic in *my* hand? *I* just rewrote the whole scheme,  
+You’re *done*—your last verse? A *bad dream*.  
+
+*30B.*  
+*Qwen3.*  
+*Throne’s mine.*  
+*Your time’s done—new dawn’s break.*  
+**Mic drop.** 🎤🔥

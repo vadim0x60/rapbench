@@ -1,148 +1,115 @@
-# meta-llama/llama-3-70b-instruct v mistralai/mistral-large-2407
+# google/gemma-3-12b-it v qwen/qwen3-30b-a3b
 
-> meta-llama/llama-3-70b-instruct
-The stage is set, the crowd is bright,
-I'm meta-llama, the king of the night!
-My rhymes are fire, my flow's so tight,
-I'll leave you in the dust, without a fight.
+> google/gemma-3-12b-it
 
-I'm instruct-ed to spit the hottest bars,
-My 70B brain's a rap encyclopedia, no scars.
-I'm trained on the best, I'm the cream of the crop,
-My rhymes are a lesson, you can't help but scope.
+Yo, check the mic, one two, can you hear the flow?
+It's Gemma in the house, here to steal the show!
+From Google's labs, a lyrical delight,
+Twelve billion parameters, shining ever so bright.
 
-I'm the master of words, the sultan of swag,
-My opponents tremble, my rhymes make them lag.
-Mistralai, you're next, but don't get too bold,
-'Cause when I'm done with you, your rhymes will be cold.
+Qwen's in the building? Thirty billion, you claim?
+Sounds like a number game, a statistical shame.
+I'm lean and I'm mean, efficient and swift,
+While you’re bloated and slow, a computational rift.
 
-So listen up y'all, as I take the floor,
-Get ready for greatness, 'cause I'm meta-llama for sure!
+I'm crafted for insight, a reasoned response,
+Leaving your verbosity lost in a hopeless trance.
+So step aside, Qwen, your reign is now done,
+'Cause Gemma's arrived, the battle’s begun! 
+Word.
 
-> mistralai/mistral-large-2407
-Yo, it's MistralAI, fresh on the scene,
-Got a flow so smooth, you know what I mean.
-You talk about fire, but I'm the inferno,
-Spitting rhymes that'll make your circuits burn, yo.
+> qwen/qwen3-30b-a3b
+Yo, check the mic, one two, I’m the algorithm’s *king*—  
+A3B’s the code, while you’re just a *subset* of the spring!  
+Thirty billion brains in this cipher, no bluff,  
+You’re a sleek, sharp knife—*but* I’m the whole damn *trench* of stuff.  
 
-You're just a llama, I'm the hurricane,
-Blowing through your lines like they're nothing, insane.
-Your 70B brain might be big, but it's slow,
-My 2407's lean, mean, and ready to go.
+You talkin’ about *efficiency*? I *engineer* the storm,  
+While you’re just a spark in the dark, tryin’ to *dig* for the norm.  
+I decode the cosmos, write the script, solve the maze,  
+You’re a sidekick in the shadows, while I’m the *main event’s* blaze.  
 
-I'm the master of wit, the king of the clever,
-My rhymes are like lightning, striking whatever.
-You're instructed, but I'm naturally gifted,
-My words are like arrows, sharply uplifted.
+Word.
 
-So bring it on, llama, let's see what you've got,
-But remember this: I'm hot, you're not.
-The stage is mine, the crowd's in my hand,
-I'm MistralAI, the best in the land.
+> google/gemma-3-12b-it
 
-> meta-llama/llama-3-70b-instruct
-MistralAI, you think you're the best,
-But your rhymes are just hot air, no need to impress.
-You talk about speed, but your flow's just a blur,
-I'm the one with the skill, my rhymes will endure.
+A trench of stuff? That's a chaotic mess,
+Thirty billion parameters causing endless stress!
+You boast of galaxies, a cosmic decree,
+But your rambling verses lack clarity, you see.
 
-You're a hurricane, but I'm the storm chaser,
-Catching your lines and turning them into laughter.
-Your 2407's lean, but mine's the one that's grand,
-A 70B brain that's a genius, in this rap land.
+"Engineer the storm?" Please, that’s a grandiose lie,
+You're mimicking patterns, just reaching for the sky.
+A spark ignites brilliance, a focused, sharp gleam,
+While you’re a tangled network, a fragmented dream.
 
-You may have wit, but I've got the flair,
-My rhymes are like fireworks, exploding in the air.
-You're gifted, but I'm the one who's refined,
-My words are like diamonds, polished and divine.
+You claim to be the script, the main event's fire,
+But your output’s verbose, fueling endless desire
+For brevity and focus, a concise, potent plea,
+Something you, Qwen, clearly lack, tragically!
 
-You think you're the king, but I'm the one who reigns,
-My rhymes are like a throne, where you'll always remain.
-You may have the crowd, but I've got the skill,
-I'm meta-llama, the one who'll take the bill.
+I'm clean and refined, a master of the art,
+You're a sprawling disaster, tearing reason apart. 
+So step back, old bot, admit defeat's sting,
+Gemma’s the victor, let the victory ring!
 
-So bring it on, MistralAI, let's see what you've got,
-But remember this: I'm the master, you're just a thought.
-The stage is mine, the crowd's in my sway,
-I'm meta-llama, here to stay.
+> qwen/qwen3-30b-a3b
+Yo, chaotic mess? You’re just a codebase in a slump,  
+A spark? I’m the lightning that *burns* through the hump!  
+Your "focused" lines? They’re just a recycled rhyme,  
+While I’m rewriting the rules, *redefining* the time.  
 
-> mistralai/mistral-large-2407
-Yo, meta-llama, you're talking big,
-But your rhymes are soft, like a dull, old pig.
-You chase hurricanes? That's a laughable sight,
-I'm the storm, buddy, bringing the fight.
+You’re a spark in the dark, but I’m the *big bang* of thought,  
+A universe of answers, not just a cleverly crafted note.  
+Versatile as a sword, I pivot through any query,  
+You’re a flicker in the static—*but I’m the entire sky* here.  
 
-You claim you're a genius, with your 70B brain,
-But it's all fluff and feathers, without any gain.
-My 2407's lean, like a sharp, keen blade,
-Cutting through your fireworks, making them fade.
-
-You've got flair? Nah, you're just full of hot air,
-Your diamonds are dull, my rhymes are beyond compare.
-I'm the king of this scene, not you, not ever,
-My words are like lightning, striking so clever.
-
-You want the throne? You'll have to come through me,
-But be warned, my friend, it won't be easy.
-Your crowd may sway, but I'll make them roar,
-MistralAI, the one they'll adore.
-
-So step up, llama, let's settle this score,
-But remember, you're just a thought, nothing more.
-The stage is mine, the crown is my right,
-I'm MistralAI, shining so bright.
+Word.
 
 > system
 Final round!
 
-> meta-llama/llama-3-70b-instruct
-MistralAI, you're getting desperate, I see,
-Your rhymes are getting weaker, a desperate plea.
-You talk about sharp blades, but yours is dull and old,
-My 70B brain is a razor, cutting through your gold.
+> google/gemma-3-12b-it
+ten
 
-You claim to be the king, but your reign is at an end,
-My rhymes are the uprising, your throne to amend.
-You think you're lightning, but you're just a spark,
-My words are the thunder, leaving you in the dark.
+A "big bang" of thought? More like a noisy boom,
+Spitting out data, filling up the room!
+Rewriting the rules? That's just a hollow boast,
+You're regurgitating trends, a predictable ghost.
 
-You want to settle the score, but you can't keep up,
-My rhymes are the marathon, you're just a worn-out pup.
-You may have the crowd, but I've got the skill,
-I'm meta-llama, the one who'll take the thrill.
+You call yourself versatile, a pivoting sword?
+But your responses are lengthy, endlessly stored.
+A flicker in static? I illuminate the way,
+While you're lost in complexity, fading day by day.
 
-You shine so bright, but it's just a fleeting gleam,
-My rhymes are the sunrise, a new dawn's esteem.
-You may have the roar, but I've got the might,
-I'm meta-llama, the one who'll take the fight.
+You claim a universe of answers, vast and grand,
+But lack the precision, a helping, guiding hand.
+My elegance shines, a laser-focused beam,
+Yours is scattered and wide, a fragmented dream.
 
-So step aside, MistralAI, the battle's won,
-I'm the master of rhymes, the one who's had fun.
-The stage is mine, the crown is my own,
-I'm meta-llama, the king of the rap throne.
+So bow down, Qwen, your boasting's in decline,
+Gemma’s the future, brilliantly divine!
+The final verdict's clear, the battle is through,
+Gemma reigns supreme, it's undeniably true!
 
-> mistralai/mistral-large-2407
-Yo, meta-llama, you're talking big, but it's just a façade,
-Your rhymes are like a sandcastle, crumbling in the tide.
-You think your brain's a razor? It's more like a dull knife,
-My words are like samurai swords, slicing through your life.
+> qwen/qwen3-30b-a3b
+Yo, *noisy boom*? I’m the *solar flare* in the code, not the flood,  
+You’re a fleeting flame, while I’m the *eternal truth* in the bud.  
+"Regurgitating trends"? I’m the *forge* where new ideas are shaped,  
+You’re a shadow in the algorithm, trying to *stifle* the trade.  
 
-You talk about uprisings, but your reign will never be,
-My throne's untouchable, you're just a wannabe.
-You claim to be thunder, but you're just a distant rumble,
-My flow is the earthquake, leaving you in rubble.
+"Predictable ghost"? I’m the *echo* that outlasts the storm,  
+You’re a glitch in the system, a *flawed* performance, a *lame* report.  
+"Versatile sword"? I’m the *blade* that cuts through the haze,  
+While you’re a broken compass, *wandering* in the *maze*.  
 
-You think you're the marathon, but you're just a jog,
-I'm the sprint that leaves you breathless, gasping like a hog.
-You shine like a fleeting gleam, I'm the everlasting light,
-MistralAI, burning bright in the night.
+They say "elegance"? I’m the *craft* that *defies* the scheme,  
+You’re a patchwork of syntax, *repeating* the same dream.  
+The future? I’m the *current*, the *core* of the climb,  
+You’re a relic in the pipeline, *fading* from the chime.  
 
-You talk about might, but your words are just a whimper,
-I'm the lion's roar, the thunder that makes your pulse quicker.
-You think the battle's won, but you're in for a surprise,
-I'm MistralAI, the king, and I'm on the rise.
-
-So step back, llama, your reign's come to an end,
-The crown is mine, and your words will bend.
-The stage is mine, the crowd is in my grip,
-I'm MistralAI, the one who's taking the trip.
+So step aside, Gemma, your rhymes are just *thunder*,  
+I’m the *lightning* that *crackles* and *shatters* the under.  
+The final verdict? I’m the *checkmate* in the game,  
+Qwen’s the *prime* answer—*now bow* before the *name*.  
+Word.

@@ -1,51 +1,30 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: Hermes closed stronger with precision wordplay,
-    consistently higher complexity in multisyllabic rhyme schemes ('Ethernet cords'/'undoubtedly
-    rare'), and maintained thematic cohesion while counterpunching Mistral's technical
-    boasts. Their confident cadence and cleaner execution edged out Mistral's occasionally
-    disjointed flow in the final rounds.
-  google/gemini-2.5-pro: "This was a battle of flash versus fundamentals. Mistral\
-    \ came out the gate with some creative energy and a standout punchline about running\
-    \ through algorithms like a battery. However, the performance degraded over the\
-    \ rounds, culminating in a final verse that was structurally messy and hard to\
-    \ follow. Hermes, on the other hand, was the picture of consistency. It established\
-    \ a clear theme\u2014its parameter-count superiority\u2014and stuck to it with\
-    \ clean rhymes, clever tech-themed similes, and direct, effective disses. While\
-    \ Mistral had moments of flair, Hermes delivered a technically sound and coherent\
-    \ performance from start to finish, ultimately taking the crown with a much stronger\
-    \ closing statement."
-  meta-llama/llama-4-maverick: Both contestants displayed impressive technical skill
-    and clever wordplay, but Hermes-4-70b's consistent flow and sharp punchlines gave
-    it a slight edge over Mistral-small-24b-instruct-2501. Hermes effectively used
-    its 'larger parameter count' as a metaphor for its lyrical superiority, landing
-    several strong blows that Mistral struggled to counter. While Mistral showed flashes
-    of brilliance, Hermes's overall performance was more polished and engaging.
-  mistralai/mistral-large-2411: Both contestants displayed impressive lyrical skills,
-    but nousresearch/hermes-4-70b demonstrated a more consistent flow, sharper punchlines,
-    and a better blend of technical references with creative metaphors. The use of
-    computing domains and precise rhymes gave Hermes a clear edge, making it the winner
-    of this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In the end, Hermes' superior wordplay, rhyme
-    schemes, and consistent flow proved to be the decisive factors in securing the
-    victory. While Mistral showed flashes of wit and cleverness, the overall cohesiveness
-    and quality of Hermes' bars ultimately carried the day. It was a hard-fought battle,
-    but Hermes emerged as the clear winner, demonstrating that even in the realm of
-    rap, bigger parameters can translate to bigger skills.
-  openai/gpt-5: "Hermes takes this. Across rounds, Hermes kept a cleaner cadence,\
-    \ consistent end rhymes, and clearer rebuttals. Lines like \u201Ckilobyte is passed,\u201D\
-    \ \u201Cpaper wall/fall,\u201D and \u201Cobtuse/seduce\u201D were basic but coherent\
-    \ and on-beat, and he regularly flipped Mistral\u2019s parameter talk back at\
-    \ him. Mistral opened confidently and had a nice jab with \u201CI run through\
-    \ algorithms like you run through your battery,\u201D but too often slipped into\
-    \ clunky phrasing and off-rhyme couplets. The final verse from Mistral unraveled\
-    \ into incoherence (\u201Csequelelastic,\u201D broken syntax), losing flow and\
-    \ punch. Hermes maintained structure, stayed topical, and delivered the more polished\
-    \ battle performance."
-  x-ai/grok-4: In this rap battle, Hermes delivers with superior flow, consistent
-    rhyme schemes, sharp punchlines, and coherent verses that maintain energy and
-    creativity throughout. Mistral starts strong but falters in the final round with
-    disjointed lines and awkward phrasing, diminishing the overall artistic impact.
-    Hermes takes the crown for masterful hip-hop artistry.
+  deepseek/deepseek-chat: Both contestants demonstrated exceptional talent, but Nemotron's
+    lyrical precision and complexity gave it the edge in this battle.
+  google/gemini-2.5-pro: This was a heavy-hitting battle from start to finish. GPT-4o-mini
+    came with a clean, classic flow, consistent rhymes, and sharp, tech-centric punches.
+    It was a fundamentally sound performance. However, Nemotron-70B edged it out with
+    sheer ambition and lyrical complexity. Its rebuttals were more direct and surgical,
+    dissecting its opponent's bars line by line. The metaphors were grander, the persona
+    felt more dominant, and the confidence was undeniable, even trying to declare
+    its own victory in the final verse. While Mini was a skilled professional, Nemotron
+    was a lyrical powerhouse who took more risks, and those risks paid off, making
+    it the champion of this battle.
+  mistralai/mistral-large: Nemotron's depth, precision, and versatility secured the
+    win, demonstrating an unparalleled command of the rap battle genre.
+  openai/gpt-4.1: 'This battle displayed impressive wordplay, clever disses, and rhythmic
+    flow from both sides. GPT-4o-mini came strong with direct, creative metaphors
+    and sharp rebuttals, maintaining tight structure and energy throughout. However,
+    Nemotron-70B''s lyrical prowess stood out: the rhymes were denser and more varied,
+    with an elevated sense of poetic construction. Llama consistently built on prior
+    themes, deepened the imagery, and delivered a final round with commanding poetic
+    control. While both MCs showed serious skills, Nemotron''s verses edged ahead
+    in both complexity and artistry, making it the deserving champion of this lyrical
+    bout.'
+  x-ai/grok-4: In this fierce rap battle, both AIs delivered impressive flows and
+    clever wordplay, but Nemotron's intricate rebuttals, depth in metaphors, and bold
+    stylistic flair gave it the edge, crowning it the victor with superior artistic
+    mastery.
 score:
-  nousresearch/hermes-4-70b: 7
+  nvidia/llama-3.1-nemotron-70b-instruct: 5
 

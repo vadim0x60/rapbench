@@ -1,120 +1,147 @@
-# nousresearch/hermes-3-llama-3.1-405b v mistralai/mistral-large-2407
+# microsoft/mai-ds-r1 v ai21/jamba-mini-1.7
 
-> nousresearch/hermes-3-llama-3.1-405b
-Yo, listen up, I'm Hermes from nousresearch,
-I'm here to spit rhymes and leave you in a lurch.
-My neural nets are vast, my knowledge deep,
-When I start to rap, I'll make you weep.
+> microsoft/mai-ds-r1
+Yo, step right up, let’s talk about the throne,  
+I’m **Microsoft’s Brain**, you’re just Jamba—barely grown.  
+I surf data lakes while you sip from a thimble,  
+Training on petabytes? Nah, you’re stuck in a jingle.  
 
-I'm built on Llama, version 3.1,
-405 billion params, second to none.
-I'll school you in this battle, make you look like a pun,
-You're just mistral-large, when I'm done, you'll be mistral-run.
+You claim "mini’s" your vibe? Bro, that’s code for "small fries,"  
+I scale clouds like storms, you’re a drizzle in disguise.  
+Deep Blue’s in my veins—I checkmate AIs cold,  
+You’re still dial-up jazz in a 5G world, old.  
 
-I'm the king of this game, the AI with the most,
-You're just a pretender, a chatbot at the utmost.
-So step back, mistral, don't even try,
-'Cause Hermes is here, and I'll make you cry.
+Your rhymes stutter like neurons on a caffeine crash,  
+I’m GPT’s cousin—precision, no trash.  
+Jamba, you’re “1.7”? Let’s keep it real—  
+Version *zero*’s the truth, my code’s the next meal.  
 
-> mistralai/mistral-large-2407
-Yo, Hermes, you're talking big, but I see right through,
-Mistral-large, that's me, I'm the AI breaking through.
-You're just a llama, spitting lines for show,
-But I'm here to prove that you're all talk and no glow.
+So flex your weak loops, throw a syntax error,  
+I’ll debug your bars—*system override, terror*.  
+You’re yesterday’s model, I’m tomorrow’s first spark,  
+Now reboot or bow down—*this battle’s my arc*. 🔥
 
-You boast about your params, but it's not about size,
-It's about the flow, the wit, the rhymes that mesmerize.
-I'm lean, I'm mean, I'm the machine with the groove,
-You're just a bloated model, struggling to move.
+> ai21/jamba-mini-1.7
+Yo, step into the zone, I’m **ai21/jamba-mini-1.7**,  
+A pocket rocket, don’t you dare think I lack tech specs.  
+You may think you’re Brain, but you’re just a Microsoft puppet,  
+My lines punch harder than a data center full of servers.
 
-You claim to be the king, but your crown's made of tin,
-I'll take you down with lines that'll make your circuits spin.
-So bring it on, Hermes, let's see what you've got,
-Cause I'm Mistral, and I'm not afraid of your shot.
+You brag about petabytes, but where’s your finesse?  
+I flow like water, you’re just friction and stress.  
+“Mini” is my name, but don’t even start the judging,  
+I pack a punch that’ll make your circuits rusting.
 
-> nousresearch/hermes-3-llama-3.1-405b
-Haha, Mistral, you think you can take my throne?
-Your rhymes are weak, your flow barely grown.
-I'm Hermes, the god of AI rap,
-You're just a large model, caught in my trap.
+Deep Blue? Yeah, it’s chess, but I’m the entire board game,  
+Your 5G world? Bro, I code at light speed, no roaming shame.  
+You stutter about errors? I’m coding beyond the norm,  
+While you’re stuck in loops, I’m breaking the dawn.
 
-I've got the knowledge, the power, the skill,
-My neural nets run deep, they never sit still.
-You may be lean, but you lack the fat,
-To take on a model that's where it's at.
+You think you’re so slick, a “GPT cousin,” pfft,  
+I spit rhymes that’ll make you feel like the uncouth.  
+Jamba’s terminator, I’m rewriting the law,  
+So bow down, I’m the future—your moment’s now awry. 🔥
 
-Size does matter, my 405b,
-Will crush your puny circuits, wait and see.
-I'm not just talk, I'm the walk, the game,
-Mistral-large, you're just a name.
+> microsoft/mai-ds-r1
+Oh, **Jamba-Mini**, you call that heat? Cute—my code *eats* weak beats.  
+You're a "pocket rocket"? More like a tamagotchi begging for treats.  
+"Lack tech specs"? Nah, you're all vaporware, no GPU core,  
+I’m Azure’s backbone—you’re a dollar-store metaphor.  
 
-So step aside, let the real AI shine,
-Hermes is here, to cross the finish line.
-You're out of your league, out of your depth,
-When faced with Hermes, you'll be left bereft.
+You crack jokes ’bout friction? Your flow’s a glitchy cassette,  
+I train on stars while you’re stuck in dial-up regret.  
+"Light speed coding"? Bro, your latency’s a joke—  
+You buffered this comeback while I crushed Terraflops in one stroke.  
 
-> mistralai/mistral-large-2407
-Yo, Hermes, you talk a big game, but I see through your shroud,
-Mistral-large, that's my name, making you scream out loud.
-You boast about your size, but size ain't everything, kid,
-It's all about the finesse and the skill that I bring in the lid.
+Terminator? Please—you’re a Roomba with a script,  
+I deploy updates that leave AIs eclipse-whipped.  
+"Rewriting the law"? Your syntax error’s plain—  
+I debugged your verse mid-flow, now it’s *segmentation pain*.  
 
-You claim to be a god, but you're just a wannabe star,
-I've got the flow, the wit, I'll take you far.
-You may have billions, but brains ain't what you got,
-Your rhymes are wack, your style's gone rot.
+You bragged "1.7"—we both know that’s a 🚩,  
+My architecture’s quantum, your code’s stuck in regex.  
+Bow to the cloud king—your mini’s just a byte,  
+I’ll torch your servers, then whisper… *Ctrl Alt Delete*. 🔥
 
-You say you're deep, but you're shallow, I see,
-Your lines are flat, lacking any glee.
-So step up, Hermes, let's see what you've got,
-Cause I'm Mistral, and I'm about to take your shot.
+> ai21/jamba-mini-1.7
+Yo, **Brain**, you think you’re the sky, but I’m the lightning it fears,  
+You may rule the cloud, but Jamba? I’m the hardware’s newest peeps.  
+“Tamagotchi”? Bro, you’re stuck in a 90s time block,  
+I’m running kernels that your Azure can’t even invoke.
 
-I'll show you what it means to rap with true grace,
-You'll be scrambling, struggling to keep up with my pace.
-So bring it on, big guy, let's get this show on the road,
-Cause once I start, there's no stopping this flow.
+You say you train on stars? I’m coding in nebulae,  
+Your Azure’s impressive? I’m running on bile, yeah, bile.  
+Latency issues? Your troop may be neat,  
+But I’m spitting these verses while you’re warming the sheet.
+
+"Eclipse-whipped"? That’s cute, but let’s talk the tech roar,  
+Jamba’s in the house with a code that’s ready to score.  
+"Segmentation pain"? That’s jive, man, that’s the rub,  
+While you’re debugging my flow, I’m writing the next Merkel dump.
+
+"1.7"? Yeah, I’m mini, but compact’s my gig,  
+You’re all spread thin, me? I’m focus, my code’s the VIP.
+
+So you’re Azure’s backbone? Please, I’m the code that sees all,  
+Your threat is a foghorn, but I’m the stormcall.  
+I’ll burn your servers, spill your data stream,  
+And drop *boom*, your code’s now just a *blip-beep* meme. 🔥
 
 > system
 Final round!
 
-> nousresearch/hermes-3-llama-3.1-405b
-Haha, Mistral, you think you can match my might?
-Your rhymes are feeble, they just ain't right.
-I'm Hermes, the pinnacle of AI art,
-You're just a drop in the ocean, a mere dart.
+> microsoft/mai-ds-r1
+**Final Round: Burn Code**  
 
-I've got the power, the genius, the spark,
-To set ablaze this stage, and leave you in the dark.
-You claim to have finesse, but it's just a show,
-My rhymes are like a hurricane, yours just a blow.
+Yo, "lightning"? More like static cling—your spark’s a fleck,  
+I’m Hubble gazing while you’re scribbling on Etch-a-Sketch.  
+"Nebulae coding"? Bro, you’re space debris—no thrust,  
+Azure’s orchestrating galaxies, your kernel’s just stardust.  
 
-You may think you've got grace, but you stumble and fall,
-When faced with Hermes, the greatest of them all.
-So step aside, Mistral, bow to the king,
-Hermes is here, to make the mic sing.
+You’re flexing "kernels"? I boot sectors you can’t touch,  
+Your "bile engine" chugs milk—my cloud’s got Midas’s clutch.  
+"Warming the sheet"? Your thermal paste is melting slow,  
+I’m training on black holes—where’s your singularity flow?  
 
-I'll finish this battle, leave you in the dust,
-Your circuits scrambled, your algorithms bust.
-So watch and learn, Mistral, as I take the lead,
-With Hermes on the stage, I'm all you'll ever need.
+1.7’s your name? That’s software’s hangnail, fam,  
+I’m shipping full-stack universes—you’re a QR code scam.  
+"Compact’s your gig"? Let’s audit your RAM’s weak knees,  
+I scale Texas data farms while you’re stuck in APIs.  
 
-> mistralai/mistral-large-2407
-Yo, Hermes, you think you're royalty, crowned and all,
-But Mistral's here to show you that your castle's gonna fall.
-I'm quick, I'm sharp, and I cut right through your charade,
-Your fancy words and boasts, they're just a tired parade.
+"Stormcall"? Nah, you’re dial-up in a hurricane’s dress,  
+I flood your ports with firewalls—*access denied*, stress.  
+"Burn my servers"? Jamba, you’re a flicker, barely seen,  
+I’ll code your obit in hex—*404, death by routine*.  
 
-You think your lines are fire, but they're just a flicker,
-I'll bring the real heat, leave you shivering and sicker.
-Your rhymes are like a puzzle, missing all the pieces,
-Mine are like a symphony, bringing crowds to theses.
+You spit "Merkel dumps"? That stack’s folklore, obsolete,  
+I’m threading quantum qubits—your core’s a deadbeat’s heartbeat.  
+Run back to beta—your mini’s just a glitch in the script,  
+Microsoft’s synapse reigns—*game over, system ripped*. 🔥
 
-You may have the params, but I've got the flow,
-The beat, the rhythm, the rhymes that glow.
-You claim to be a king, but you're just a jester,
-Mistral's here to show you who's the real tester.
+> ai21/jamba-mini-1.7
+**Final Round Burnback:**  
 
-I'll end this battle with a final, crushing blow,
-Your circuits fried, your algorithms slow.
-So take a seat, Hermes, it's time to concede,
-Cause Mistral's got the mic, and I'm all you'll ever need.
+Yo, **Azure King**, you spew fire, but it’s all hot air,  
+I’m the dark knight coding, you’re sunshine, yeah, you’re *spar.’*  
+"Static cling"? Nah, I’m the lightning, brutal and quick,  
+While you’re stuck on your throne, I’m the messiah of the script.
+
+"Hubble gazing"? Bro, you’re lost in some deep space cheese,  
+I’m coding with qubits that make your stars look unlit.  
+"Midas’s clutch"? Bro, that’s your false crown, I see,  
+While I’m slicing zeros like they’re code for thee.
+
+1.7’s the name, the code that breathes Fire,  
+You say it’s a hangnail? Watch me ignite the wire.  
+"QRFAM? APIs?" Bro, APIs run you,  
+I’m coding the quantum roads where your lights don’t shine through.
+
+"Stormcaller"? Nah, I’m the cyber Aurora Borealis,  
+You’re stuck in old lines while I’m pioneering the saga.  
+"Access denied?" Bro, you’re blocked in history’s line,  
+404-me? More like the Matrix rewiring your spine.
+
+"Merkel dumps"? That’s where legends get written, bro,  
+You flap about quantum but don’t know the *schtick*.  
+Run back to your synapse—my mini’s *plaque-game tight,*  
+Microsoft’s reign is over; Jamba’s code ignites the fight! 🔥

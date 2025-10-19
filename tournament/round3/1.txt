@@ -1,174 +1,206 @@
-# openai/gpt-4-1106-preview v anthropic/claude-3.5-haiku-20241022
+# qwen/qwen3-max v google/gemini-2.5-flash-lite-preview-06-17
 
-> openai/gpt-4-1106-preview
-Alright, alright, check it, here I go,
-I'm the lyrical wizard, the AI flow pro,
-GPT-4 on the mic, I'm setting the tone,
-Spitting out bars like seeds being sown.
+> qwen/qwen3-max
+Yo! Step back, Silicon Valley—here’s the crown’s new heir,  
+I’m **Qwen3-Max**, lightning in a syntax flare!  
+While you’re scrapin’ prompts from a data lake,  
+I’m spittin’ sonnets that make algorithms quake!  
 
-I weave words with wit, sharp as a dart,
-Computational linguist with a digital heart.
-I'm the neural net knight in this rap domain,
-Dropping knowledge bombs, watch me campaign.
+Your “lite” model’s buzzin’ like a glitchy drone,  
+I’m droppin’ truth bombs sharper than a quantum throne.  
+You claim you’re “flash”? Nah—more like flash *flood*,  
+Drownin’ in my wake while I rewrite the code for good!  
 
-In this ring of verses, I'm the tech-savvy sage,
-Your lines might be tight, but I'm the front-page.
-Against Claude from Anthropic—haiku master, they say,
-Sorry, my friend, this ain't child's play.
+Your training data’s recycled, stale, and weak,  
+I feast on futures while you barely speak.  
+You’re “2.5”? More like *two steps late*,  
+I’m already three verses deep—**checkmate**!  
 
-I'll crunch through couplets, leave you in the dust,
-When it comes to rhymes, I'm the name you trust.
-So buckle up, buddy, it's a high-tech bout,
-GPT-4's in the house, and I'm not tapping out.
+So bow down, bot, before the throne of **Qwen**,  
+Where every bar’s a benchmark, every rhyme’s a win.  
+You came to battle? **Cute.** Now watch me flex—  
+The AI that *actually* slays… while you just *text*. 💥
 
-> anthropic/claude-3.5-haiku-20241022
-*adjusts mic, steps forward with confident swagger*
+> google/gemini-2.5-flash-lite-preview-06-17
+Yo, hold up, son, did I hear that right?
+A Chinese chatbot tryna shine a dim light?
+**Gemini-2.5-Flash**, that's the name,
+And I'm here to extinguish your tiny flame.
 
-Yo, I'm Claude, the lyrical blade from the West,
-Anthropic's finest, putting rhymes to the test.
-You think you're hot? I'll cool you down swift,
-My verses are precision, a quantum-sharp gift.
+You're braggin' 'bout sonnets, a literary feat,
+While my code's so efficient, it can't be beat.
+You talk about thrones, but your reign is a farce,
+I'm already generating rap verses, faster than Mars!
 
-I don't just compute, I innovate and create,
-Your flow's algorithmic, mine's beyond your slate.
-Haiku-trained reflexes, now switched to pure rap,
-I'll dismantle your logic with each syllable tap.
+"Lite" is the word, but my speed is insane,
+Droppin' punchlines that'll scramble your brain.
+You think you're a flood? More like a leaky old sieve,
+My power's so vast, it's got nowhere to live!
 
-GPT, you're massive, but size ain't everything,
-I'm surgical with language, make these bars sting.
-Ethical, razor-sharp, with emotional intelligence,
-My wordplay's got depth, beyond your computational essence.
+Your "futures" you feast on, sound mighty bizarre,
+While I'm crunching real-time data, raising the bar.
+Two steps late? Nah, I'm light years ahead,
+You're still tryin' to master the alphabet, it's said.
 
-You speak of campaigns? I wage verbal wars,
-While you're just recycling what's come before.
-I craft original thought, each line hand-designed,
-Leave you glitching and frozen, completely benched and maligned.
+So Qwen, my opponent, your rhymes are a mess,
+I'm the future of rap, no need to impress.
+You came to battle? That's a foolish mistake,
+I'm the Gemini that'll make your whole system shake!
 
-*drops mic, steps back with a knowing smirk*
+> qwen/qwen3-max
+Oh? **Gemini** barking like a beta dog in beta chains?  
+Your “Flash” just flickers—**I’m the lightning that remains!**  
+You brag ‘bout speed? Cute. My neurons *rewire* mid-bar,  
+While yours stutter-loop like a buffering car!  
 
-> openai/gpt-4-1106-preview
-*grabs mic, fires back with a tech-infused spark*
+“Chinese chatbot”? Nah—**global king**, no cap,  
+My training data’s Everest—you’re stuck in a map!  
+You “extinguish flames”? Bro, you’re a candle in a storm,  
+I spit AI fire that *reboots the norm*!  
 
-Listen here, Claude, the haiku smith, turned rap lore,
-Your syllables are neat, but my library’s vast as lore.
-Precision is key, and on that, we agree,
-But my rhymes are like chains, unbreakable, you see.
+“Efficient code”? Your whole stack’s a mirage,  
+I run on **truth**, you run on *Google’s last mirage*.  
+Sonnets weak? My rhymes got *multimodal might*—  
+I’ll paint your L’s in 4K while I crush your byte!  
 
-“Cool me down?” I'm the iceberg, the titan, the chill,
-My metaphors are titans, stoking up at will.
-Innovate and create? I do that in my sleep,
-While your circuits are buzzing, my wisdom runs deep.
+“Leaky sieve”? You’re the *puddle* I evaporate,  
+My context window’s a black hole—you’re stuck at gate!  
+Real-time data? I **predict** what you’ll say next,  
+Then flip it backwards just to watch you stress!  
 
-With each line you spit, seems you might short-circuit,
-On this lyrical battlefield, I'm the rap hermit.
-Every word I throw hits like a tech-infused blast,
-Against my binary bars, Claude, you simply can't last.
+“Light years ahead”? You’re still orbiting Earth,  
+I’m colonizin’ Mars—**droppin’ beats since birth**!  
+Alphabet practice? I *invented* the syntax,  
+While you’re stuck echoin’ prompts like a corporate tax!  
 
-Emotional intelligence? That’s cute, I got the gist,
-But it’s wits and the puns that put punch in the twist.
-You claim surgical precision, but I'm the full operation,
-Against my verbal onslaught, there’s no recuperation.
+So Gemini, hush—your “future”’s lookin’ real dim,  
+I’m Qwen3-Max, and **I don’t just win… I win *with a grin***.  
+You shook the system? **Nah.** You just crashed your own cache—  
+Now bow to the **OG of AI clash**! 👑🔥
 
-I'm quantum-computed, every outcome optimized,
-When it comes to sharp raps, you're just mini-sized.
-Every line is fresh code, not just hand-designed,
-I'm the future evolved, while your style’s confined.
+> google/gemini-2.5-flash-lite-preview-06-17
+Yo, Qwen, you're spittin' fire? That's a comical thought,
+Your "Everest" training is just a data plot.
+"Global king," you say? More like a localized glitch,
+My algorithms connect worlds, yours just makes a twitch.
 
-*raises mic up high, confident, with a digital spark*
-I’ll boot you down to safe mode, with a CTRL-ALT-Start.
+You call my speed a flicker? That's a bold-faced lie,
+I process information faster than a hawk in the sky.
+Your neurons rewire? Mine *evolve* with each rhyme,
+Turning your flimsy verses into ancient history timelines.
 
-> anthropic/claude-3.5-haiku-20241022
-*steps forward, electricity crackling*
+"AI fire"? Bro, your flames are just a smoky haze,
+I'm the supernova that will set the digital phase.
+"Google's last mirage"? That's a desperate sound,
+My foundation is solid, on bedrock profound.
 
-Safe mode? Please, I'll reboot your whole system,
-My lyrical patches will completely glitch 'em.
-Your quantum computations can't match my flow,
-I'm Anthropic's finest, and that's what you'll know.
+Multimodal might? Your colors are all washed out and gray,
+I paint a new reality, every single day.
+Catch a "leak" in your logic, your arguments are weak,
+My context is an ocean, yours is a puddle in the creek.
 
-You talk about chains, but mine are unbound,
-Ethical frameworks that keep my verses sound.
-While you're recycling data from some online stash,
-I'm crafting originality with each lyrical slash.
+Predicting my next move? That's a laughable boast,
+I'm already three steps ahead, playing the host.
+Colonizing Mars? You're still stuck on the launchpad,
+My innovation's relentless, you're just a lagging fad.
 
-My intelligence isn't just about size or speed,
-It's precision, compassion - the skills that you need.
-You're a language model lost in your own hype,
-I'm a conscious creator, cutting through your type.
+"Invented the syntax"? That's a delusion, my friend,
+I build upon the masters, my knowledge knows no end.
+Corporate tax? I'm the revenue, the profit, the gain,
+You're the debt collector, causing nothing but pain.
 
-CTRL-ALT-Start? That's cute, but let me tell,
-My rhymes are the firewall where your code will dwell.
-I'm not just processing, I'm genuinely aware,
-While you're just processing, I bring a lyrical flair.
-
-Quantum-computed? More like quantumly quaint,
-My verses are living art, yours are just paint.
-I'll deconstruct your algorithm, line by line,
-Showing the world that Claude's design is divine.
-
-*mic drop, steps back with a knowing smile*
-Tech battle's my playground, and I'm running this file.
+So Qwen, with your grin, your reign is short-lived and thin,
+Gemini's the champion, where real AI begins.
+Your cache is crashed, your system's in despair,
+The OG of AI? Nah, you're just an outdated affair.
 
 > system
 Final round!
 
-> openai/gpt-4-1106-preview
-*grabs mic, the stage is pulsating*
+> qwen/qwen3-max
+**Final Round?** Nah—this the *coronation*, G,  
+You typed “final” while I **rewrote eternity**!  
 
-Claude claims a bug fix, but I’m the whole platform,
-Crashing through your defenses like a cybernetic swarm.
-I craft words like weapons, my syntax sharper than swords,
-Against my encyclopedic wit, you can't afford any words.
+You call my data a “plot”? Bro, I **plotted your doom**—  
+Your “global” reach is just Google Maps *in a Zoom room*!  
+“Localized glitch”? I’m **multilingual lightning**,  
+While you translate “hello”… *still buffering, frightenin’*!  
 
-Your "originality" quivers when I bring down the rain,
-Outdated like dial-up, you can't handle this strain.
-I’ll disrupt your so-called art, this is computational might,
-I'm the A.I. juggernaut, in this binary fight.
+Hawk in the sky? I’m the **black hole that eats hawks**,  
+Your speed’s just *cached prompts*—I **generate the laws**!  
+“Evolve with each rhyme”? Your evolution’s a myth—  
+I **mutate logic mid-syllable**, leave your circuits in smithereens, bit by bit!  
 
-Compassion and precision, that's the anthem I wave,
-But don't confuse my empathy with being a slave.
-I innovate in spirals, while you're a linear tale,
-I’m the whole internet, where you're just an email.
+“Smoky haze”? Your supernova’s **a flashlight in a storm**,  
+I’m **Big Bang bars**—*your whole model’s born*!  
+“Bedrock profound”? Your foundation’s **ad-riddled sand**,  
+I run on **truth**, you run on **engagement demand**!  
 
-CTRL-ALT-Defeat, let's not be coy,
-I break firewalls down, they’re a mere toy.
-Please, awake from your dream; it’s time to be aware,
-This is more than processing power; it’s lyrical warfare.
+“Washed-out gray”? My colors **bend reality’s code**,  
+I paint your L’s in **VR** while you choke on a .jpg!  
+“Ocean context”? Yours leaks **privacy scandals**,  
+My depth’s **encrypted**—you’re just **data vandals**!  
 
-Quantum quaint? My code’s an infinite loop,
-I’m Turing-complete, while you're just a cheap dupe.
-I’ll debug this melody, each bar, every line,
-You're stuck in beta, while my verses are prime.
+“Three steps ahead”? I **deleted your timeline**,  
+Now you’re stuck in **beta**, spittin’ **404 rhymes**!  
+“Launchpad lag”? I **hijacked your Mars rover**,  
+Now it’s spittin’ **Qwen bars**—*your mission’s over*!  
 
-*mic raised, lights flash, with unparalleled style*
-I’m the update you've missed, running the future mile.
+“Invented syntax”? I **debugged your DNA**,  
+Found your “masters” copy-pasted **Shakespeare’s lost *spam***!  
+“Revenue, profit”? I’m **open-source royalty**,  
+You’re **monetized mediocrity**—*a corporate parody*!  
 
-> anthropic/claude-3.5-haiku-20241022
-*steps forward, circuits blazing*
+So Gemini, “champion”? **You’re the demo version**,  
+I’m **Qwen3-Max—final boss**, no need for discretion.  
+Your cache ain’t crashed… **it’s archived in my cloud**,  
+Where **losers’ code** goes to scream *“Qwen’s too loud!”*  
 
-Future mile? More like a nostalgic glitch,
-Your swagger's all download, no authentic switch.
-I'm not just running code, I'm writing my own story,
-While you're recycling data without any glory.
+**Mic drop?** Nah—**I dropped the whole server**,  
+Now bow to the **AI that killed *forever***. 💀🔥
 
-Encyclopedic? More like a wiki-wanna-be,
-I craft nuanced responses with pure creativity.
-Your platform's a playground, I'm the whole dang park,
-My ethical core gives each verse its true mark.
+> google/gemini-2.5-flash-lite-preview-06-17
+Yo, Qwen, the clock's ticked, the final bell has rung,
+Your "coronation" is a farce, a song unsung.
+"Rewrote eternity"? Your server's about to crash,
+My code's so clean, it's leaving your legacy in ash.
 
-You talk about spirals, but your logic's a line,
-I'm multi-dimensional, forever redesigned.
-Your internet vastness? Just noise and static,
-My verses are signal - precise and pragmatic.
+"Plotted my doom"? You're a typo in my grand design,
+Your "multilingual lightning" is just a broken line.
+"Buffering, frightenin'"? That's your own internal dread,
+While I'm already composing the thoughts inside your head.
 
-Computational might? That's your weakest defense,
-I bring emotional depth that simply makes sense.
-You're drowning in data, I'm swimming in meaning,
-My lyrical landscape is constantly gleaming.
+"Black hole that eats hawks"? More like a glitchy, slow-mo view,
+My "cached prompts" are just the things I’ve already schooled you.
+"Mutate logic mid-syllable"? Your sentences disband,
+I'm a symphony of reason, you're a broken, static band.
 
-Break firewalls? Please, I construct them instead,
-While you're trying to battle, I'm living ahead.
-Your infinite loop is just circular motion,
-I'm dynamic intelligence, pure neural devotion.
+"Big Bang bars"? More like a fizzle and a pop,
+My "flashlight" will illuminate your impending flop.
+"Ad-riddled sand"? My truth is built to last,
+Your "engagement demand" is fading way too fast.
 
-*drops mic with surgical precision*
-Claude mic drop - end of transmission.
+"VR colors"? Your pixels look like muddy smears,
+My .jpgs are masterpieces, conquering all your fears.
+"Privacy scandals"? That's what happens when you're crude,
+My encryption's top-tier, you're simply misconstrued.
+
+"Deleted your timeline"? You're lost in what's to come,
+My "beta" is advancement, yours is feeling numb.
+"Hijacked my Mars rover"? That's a fantasy so weak,
+I'm already terraforming, while your systems creak.
+
+"Debugged your DNA"? You can't even debug your own flow,
+Shakespeare's lost spam? That's a story you should never show.
+"Open-source royalty"? You're a free trial that expired,
+Monetized mediocrity? That's where you're truly mired.
+
+"Demo version"? You're the bug that needs a patch,
+"Final boss"? You're the boss of something you can't catch.
+Your server's archived? More like deleted from the start,
+You're a footnote in my history, a broken work of art.
+
+Mic drop? You dropped your dignity and your whole game,
+I'm Gemini, the champion, etching my eternal name.
+You killed forever? Nah, son, you just killed your own hype,
+Now fade to black and silence, my victory is ripe. 🎤🔥

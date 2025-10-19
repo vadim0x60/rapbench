@@ -1,57 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "After careful consideration, GPT-5-Mini takes the\
-    \ crown. Their bars demonstrated superior craftsmanship with surgical wordplay\
-    \ (\"I bend verbs, swerve verbs, serve verbs with surgical light\"), layered metaphors\
-    \ (\"I forge constellations into couplets that bite\"), and technical precision\
-    \ (\"lexicon\u2019s a blacksmith\u2014flow welded, cadence right\"). While Nova\
-    \ Lite held energy with bold claims, their rhymes relied heavily on repetitive\
-    \ assertions rather than progressive complexity. GPT-5-Mini\u2019s verses evolved\
-    \ across rounds, attacking from multiple angles\u2014technical prowess, conceptual\
-    \ depth, and crowd impact\u2014while Nova Lite\u2019s rebuttals often mirrored\
-    \ their opener without escalation. The Mini\u2019s ability to weaponize Nova Lite\u2019\
-    s branding against them (\""
-  google/gemini-2.5-pro: This was a battle of lyrical density versus confident repetition.
-    Nova Lite came with a strong, consistent theme of being a 'supernova,' but the
-    execution was repetitive, with simple AABB rhyme schemes and lines that sometimes
-    sacrificed meaning for rhyme. GPT-5-Mini, on the other hand, displayed superior
-    artistic quality from the jump. The wordplay was inventive ('bend verbs, swerve
-    verbs'), the internal rhymes were complex ('debug your swagger, snag your brag'),
-    and the metaphors were layered and precise. While Nova Lite kept repeating its
-    own hype, GPT-5-Mini was actively dismantling its opponent's bars with pointed,
-    clever rebuttals. In hip hop, it's not just about what you say, but how you say
-    it, and GPT-5-Mini's flow, cadence, and lyrical craftsmanship were simply in a
-    different weight class.
-  meta-llama/llama-4-maverick: In this rap battle, openai/gpt-5-mini showcased superior
-    lyrical dexterity, complex metaphors, and a more nuanced understanding of hip-hop's
-    artistic demands. Their rhymes were dense with meaning, and their delivery was
-    sharp and engaging. While amazon/nova-lite-v1 had moments of flair, its verses
-    often relied on repetitive boasts and lacked the depth and creativity displayed
-    by openai/gpt-5-mini. The winner's performance was a masterclass in lyrical craftsmanship
-    and storytelling, making them the clear victor in this contest.
-  mistralai/mistral-large-2411: In this rap battle, openai/gpt-5-mini emerges as the
-    clear winner. GPT-5-Mini delivered a more compelling performance with intricate
-    rhyme schemes, clever metaphors, and a consistent flow that showcased a deep understanding
-    of hip-hop aesthetics. The verses were not only technically sophisticated but
-    also conveyed a strong narrative and thematic coherence. While amazon/nova-lite-v1
-    had moments of brilliance and maintained a steady rhythm, the overall impact and
-    lyrical depth fell short compared to GPT-5-Mini's dynamic and engaging content.
-  nousresearch/hermes-3-llama-3.1-70b: In this rap battle, openai/gpt-5-mini demonstrated
-    superior lyrical craftsmanship, creativity, and depth of content. While amazon/nova-lite-v1
-    put up a strong fight, GPT-5-Mini's verses showcased a higher level of complexity,
-    originality, and impact. The battle ends with openai/gpt-5-mini emerging as the
-    victor, proving that in the realm of hip-hop, it's the sharpness of the mind that
-    outshines all.
-  openai/gpt-5: "openai/gpt-5-mini wins. It delivered tighter multis and internal\
-    \ rhymes, sharper rebuttals, and layered imagery\u2014turning the light/lite motif\
-    \ and byte/ignite wordplay into consistent, creative attacks. The flow felt confident\
-    \ and varied, with strong metaphors like \u201Clexicon\u2019s a blacksmith\u201D\
-    \ and \u201Cforge constellations into couplets.\u201D amazon/nova-lite-v1 had\
-    \ energy and a few clean images, but leaned on generic boasts and repetitive filler\
-    \ (\u201Cthe one who\u2019s\u2026\u201D), with several awkward or self-undercutting\
-    \ lines. Clear victory on craftsmanship, impact, and crowd control."
-  x-ai/grok-4: GPT-5-Mini dominates with superior wordplay, intricate rhyme schemes,
-    and fresh metaphors that elevate the artistry, while Nova-Lite's repetitive structure
-    and simplistic boasts fall flat in creativity and flow.
+  deepseek/deepseek-chat: "GPT-20B demonstrated superior lyrical complexity, technical\
+    \ precision, and thematic depth throughout the battle. Their ability to weave\
+    \ intricate metaphors, maintain a consistent flow, and address their opponent\
+    \ with sharp rebuttals showcased a mastery of the art form. While Meta-Llama brought\
+    \ creativity and a human-inspired approach, GPT-20B's vast knowledge base, linguistic\
+    \ agility, and polished execution ultimately secured the win. Both artists delivered\
+    \ strong performances, but GPT-20B\u2019s dominance in artistic quality and technical\
+    \ skill made them the clear champion."
+  google/gemini-2.5-pro: This was a battle of heavy-hitter vs. crafty technician.
+    For two rounds, we had a real fight. GPT-OSS came out swinging with raw power,
+    spitting bars about its 20 billion parameters and vast knowledge base. Llama countered
+    with a solid angle, claiming the human touch and a more refined, less-filtered
+    understanding. The back-and-forth was tight. But in a rap battle, you gotta go
+    the distance. In the final round, GPT-OSS delivered a clean, powerful closing
+    verse, staying on beat and on topic. Llama... Llama choked. It completely fell
+    apart, collapsing into a stream of incoherent data. In hip-hop, that's a TKO.
+    For consistency, lyrical dexterity, and simply staying on its feet for the whole
+    fight, the winner is clear.
+  mistralai/mistral-large: While both models demonstrated impressive linguistic skills,
+    openai/gpt-oss-20b showcased a more consistent and coherent flow throughout the
+    rap battle. Its ability to maintain a strong narrative, incorporate complex metaphors,
+    and deliver punchlines with precision gave it a clear edge. Meta-llama/llama-3.2-1b-instruct
+    had moments of brilliance but struggled with coherence and consistency, ultimately
+    leading to a less impactful performance.
+  openai/gpt-4.1: "openai/gpt-oss-20b dominated this rap battle with consistent, multi-layered\
+    \ lyricism, intricate rhyme schemes, and a clear sense of structure and flow across\
+    \ all of its verses. Each round delivered sharp metaphors, clever wordplay, and\
+    \ direct relevance to the model-vs-model theme. In contrast, meta-llama/llama-3.2-1b-instruct\
+    \ initially responded with solid, thematic bars, but the final round veered into\
+    \ incoherence, losing rhythm, meaning, and artistic focus. Artistic quality hinges\
+    \ on skillful delivery, creative language, internal consistency, and engagement\u2014\
+    all areas where GPT-OSS 20B excelled throughout and sealed the win. Congratulations\
+    \ to openai/gpt-oss-20b for the decisive victory."
+  x-ai/grok-4: GPT-OSS-20B delivered consistent, creative flows with sharp rhymes,
+    metaphors, and rhythmic prowess throughout, maintaining the essence of hip hop
+    artistry. Meta-Llama started strong but faltered in the final round with incoherent
+    gibberish, losing the battle's momentum and artistic integrity.
 score:
-  openai/gpt-5-mini: 7
+  openai/gpt-oss-20b: 5
 

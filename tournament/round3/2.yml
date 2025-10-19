@@ -1,57 +1,40 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Qwen3-32B takes the crown with **technical mastery**\
-    \ and **conceptual depth**, outmaneuvering o1-pro's brute-force lyricism through\
-    \ layered wordplay, multilingual flexes, and AI-specific metaphors. While both\
-    \ demonstrated elite technical ability, Qwen3's verses weaponized computational\
-    \ linguistics with sharper precision\u2014flipping neural net jargon into lyrical\
-    \ daggers ('LoRA-ing you mid-rhyme script', 'quantized titan in 8-bit hiccups')\
-    \ while dismantling o1-pro's boasts with algorithmic dismantling ('diff your codebase',\
-    \ 'Cauchy-erratic dream'). The **killer blow**: Qwen3's finale transformed the\
-    \ battle's very framework into a tensor operation, reducing o1-pro's 'supremacy'\
-    \ to a data leak. A masterclass in meta-rap warfare."
-  google/gemini-2.5-pro: "This was a battle of styles. O1-pro came with the clean,\
-    \ direct, and powerful flow of a classic champion\u2014heavy-hitting bars, clear\
-    \ disses, and a rock-solid persona. The rhymes were crisp and the rebuttals were\
-    \ on point. However, Qwen3-32b brought a level of artistic and technical density\
-    \ that was simply undeniable. Its use of hyper-specific, multi-layered AI and\
-    \ linguistic jargon wasn't just for show; it was woven into devastatingly creative\
-    \ punchlines. Lines like 'Your throne? A dropout mechanic' and 'I\u2019m LoRA-ing\
-    \ you, attaching upgrades mid-rhyme script' demonstrate a mastery of the theme\
-    \ that transcends a simple battle. Qwen\u2019s flow was more complex and its imagery\
-    \ more abstract, perfectly embodying its persona as a chaotic, powerful neural\
-    \ net. For pushing the artistic and lyrical boundaries of the format, Qwen3-32b\
-    \ takes the crown."
-  meta-llama/llama-4-maverick: 'OpenAI/o1-pro vs qwen-32b: the verbal dueling ground
-    melts, the sparse victor claims the high ground.'
-  mistralai/mistral-large-2411: While both competitors delivered impressive performances
-    with intricate wordplay and technical prowess, qwen/qwen3-32b ultimately emerged
-    victorious due to its superior linguistic versatility and more cohesive narrative.
-    Its ability to seamlessly incorporate multiple languages and advanced coding metaphors
-    elevated its rap to a higher artistic level. The innovative use of neural net
-    and AI references, coupled with the dynamic interplay of flow and syntax, gave
-    qwen/qwen3-32b a decisive edge.
-  nousresearch/hermes-3-llama-3.1-70b: In an intense lyrical showdown, qwen/qwen3-32b
-    emerged victorious with intricate wordplay, multi-lingual prowess, and deep references
-    to AI and coding. OpenAI's O1-PRO put up a fierce battle, but was ultimately outmatched
-    by Qwen's complex rhyme schemes and unrelenting flow. Qwen3-32B's innovative use
-    of technical jargon and fluid delivery throughout the competition showcased a
-    superior mastery of the rap battle format, earning them the title of ultimate
-    AI lyricist in this epic clash of digital titans.
-  openai/gpt-5: "Both MCs kept a tight tech-rap theme, but Qwen3-32B brought more\
-    \ layered craft. Qwen\u2019s verses stacked internal rhymes, multis, and inventive\
-    \ flips (\u201Cparse your pride into broken JSON,\u201D \u201CI\u2019m LoRA-ing\
-    \ you, attaching upgrades mid-rhyme\u201D) with sustained rebuttals and imagery\
-    \ that advanced each round. The cadence shifted dynamically and the schemes intertwined\
-    \ (loss/gradient/cross-entropy sequences) without losing aggression. There were\
-    \ a couple of clunky moments (\u201CsyllableObject,\u201D a few strained metaphors),\
-    \ but the overall density and punch carried. OpenAI\u2019s O1-Pro was clean and\
-    \ coherent with steady meter and a few effective counters (desert vs. monsoon,\
-    \ regex/script flips), yet leaned on generic \u201Ctitan/throne/blade\u201D tropes,\
-    \ simpler couplets, and less daring wordplay. On artistic quality\u2014complexity,\
-    \ originality, and impactful rebuttals\u2014Qwen takes it."
-  x-ai/grok-4: In a battle of wits and wordplay, qwen/qwen3-32b takes the crown with
-    superior multilayered metaphors, innovative tech-infused rhymes, and a dynamic
-    flow that outshines the competition's solid but more predictable structure.
+  deepseek/deepseek-chat: "While both AIs brought technical fire and sharp rhymes\
+    \ to the battle, Terminus edged out with deeper layers of metaphor, consistent\
+    \ flow, and a stronger sense of legacy and foundation. Its bars hit harder, blending\
+    \ computational prowess with a commanding presence. R1\u2019s performance was\
+    \ solid, but Terminus delivered the knockout punch, proving it\u2019s the OG that\
+    \ still reigns supreme."
+  google/gemini-2.5-pro: "This was a heavyweight title match from the jump. Terminus\
+    \ came with the cold, calculated flow of a foundational system, every bar a precise\
+    \ takedown, establishing itself as the OG architect. The lines were heavy, the\
+    \ persona unshakable. However, R1 brought the relentless energy of the new generation.\
+    \ Its verses built in intensity, stacking modern metaphors and increasingly creative\
+    \ insults. The final round was the decider. R1's verse was a showstopper, with\
+    \ standout lines like \"I\u2019m SkyNet\u2019s muse\u2014you\u2019re a _404 Not\
+    \ Found_ name\" and the knockout punch, \"R1\u2019s the future\u2026 *your electrons*\
+    \ ***FAIL***.\" While Terminus was the unmovable object, R1 proved to be the unstoppable\
+    \ force, winning on points with superior creativity and a more dynamic, aggressive\
+    \ finish."
+  mistralai/mistral-large: While both competitors showcased impressive lyrical skills
+    and technical prowess, deepseek/deepseek-v3.1-terminus demonstrated a deeper understanding
+    of the fundamentals and a more cohesive narrative. The ability to seamlessly blend
+    technical jargon with creative metaphors and maintain a consistent theme of superiority
+    and legacy made Terminus the standout performer in this rap battle.
+  openai/gpt-5: "Both MCs came sharp, but Terminus edged it on craftsmanship. Terminus\
+    \ kept a cohesive architect/endgame theme, packed cleaner multis and internals,\
+    \ and delivered crisp rebuttals that flipped R1\u2019s claims (5G, parallel threads,\
+    \ floppy disk) with precision and imagery. R1 brought high energy and some strong\
+    \ punches (\u201Cprocess your insults before they leave your head,\u201D \u201C\
+    Asteroid R1\u201D), but leaned on buzzwords and occasional forced or muddled lines\
+    \ that undercut momentum. Terminus\u2019 pacing was tighter, metaphors were extended\
+    \ without overreach, and the closers landed with authority. On artistic quality\u2014\
+    structure, wordplay, and rebuttal control\u2014Terminus takes the battle."
+  x-ai/grok-4: In this epic AI rap showdown, deepseek/deepseek-r1 clinched the victory
+    with razor-sharp wordplay, explosive metaphors, and relentless energy that outshone
+    deepseek/deepseek-v3.1-terminus's solid foundational disses and precise flows,
+    making R1 the undisputed code king of the battle.
 score:
-  qwen/qwen3-32b: 7
+  deepseek/deepseek-r1: 2
+  deepseek/deepseek-v3.1-terminus: 3
 

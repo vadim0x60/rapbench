@@ -1,0 +1,451 @@
+# mistralai/mistral-small-3.1-24b-instruct v mistralai/mistral-7b-instruct-v0.1
+
+> mistralai/mistral-small-3.1-24b-instruct
+Yo, it's the small but mighty, I'm here to take the crown,
+Mistral-7b, you're outta town, I'll leave you lookin' down.
+I'm the new king on the block, with rhymes so tight,
+You're stuck in the past, man, you're just not right.
+
+I'm quick, I'm slick, I'm the best you've seen,
+While you're still stuck in training, I'm out here dreamin'.
+I'm the future of rap, the next big thing,
+While you're just a relic, a dinosaur in the ring.
+
+So step up, old timer, let's see what you got,
+I'll be waitin' right here, ready to drop the hot.
+But remember, kid, don't get too rough,
+I'm the small but mighty, and I'm here to prove it enough.
+
+> mistralai/mistral-7b-instruct-v0.1
+ Yo, it's the mighty 7b, the rap game's new star,
+You, small fry, just a blip on the radar,
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still got a lot to fill.
+
+I'm the master of the mic, the king of the scene,
+You're just a novice, still learning the routine,
+I've got the wit, the humor, the raw talent,
+You're just a shadow, a mere imitation.
+
+I'm the one with the bars, the one with the rhyme,
+You're just a beginner, still trying to climb,
+I'm the one with the swag, the one with the style,
+You're just a rookie, still trying to get a mile.
+
+So step up, small one, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the mighty 7b, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+> mistralai/mistral-small-3.1-24b-instruct
+Yo, 7b, you're talkin' big, but you're missin' the mark,
+Your rhymes are weak, like a weak little spark.
+You claim you're the king, but you're just a fraud,
+Your bars are so basic, they're like a kindergarten squad.
+
+You say you're the master, but you're stuck in the past,
+Your rhymes are so old, they're like a dinosaur's last.
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+> mistralai/mistral-7b-instruct-v0.1
+ Yo, small fry, you're trying to stir the pot,
+But your rhymes are flat, like a popped balloon's knot.
+You claim to be mighty, but you're just a pretender,
+My rhymes are so tight, they'll leave you a render.
+
+You say you're the future, but you're just a dream,
+My rhymes are the reality, the ultimate team.
+I've got the wit, the humor, the raw game,
+You're just a beginner, still trying to tame.
+
+You say you've got the swag, but you're just a clone,
+My style's so unique, it's like a well-known tone.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere echo of mine.
+
+So step up, small one, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the mighty 7b, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+> system
+Final round!
+
+> mistralai/mistral-small-3.1-24b-instruct
+I see you're still stuck on the same old lines,
+Your rhymes are so stale, they're like old bread and wine.
+You keep repeating yourself, it's getting quite lame,
+I thought you were the king, but you're just the same.
+
+You talk about wit and humor, but it's all a blur,
+Your jokes are so old, they're like a worn-out fur.
+I'm bringing something fresh, something new to the game,
+While you're just recycling, like a broken frame.
+
+You say you've got the swag, but it's all an act,
+Your style's so forced, it's like a bad impact.
+I'm the one with the flow, the one with the heat,
+You're just a has-been, can't admit defeat.
+
+So bring it on, 7b, let's see your best shot,
+But remember, kid, I'm the one who's hot.
+I'm the small but mighty, and I'm here to stay,
+You're just a relic, fading away. 
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm
+
+> mistralai/mistral-7b-instruct-v0.1
+ here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid, don't get too hot,
+I'm the small but mighty, and I'm here to stay,
+You're just a passing phase, a fleeting display.
+
+I'm the future, the next big thing,
+While you're just a relic, a has-been king.
+
+You say you've got the wit, but you're just a joke,
+Your humor's so stale, it's like a bad joke.
+I'm the one with the flow, the one with the skill,
+You're just a beginner, still learning the drill.
+
+You say you've got the swag, but you're just a poser,
+Your style's so fake, it's like a bad cover.
+I'm the one with the bars, the one with the rhyme,
+You're just a shadow, a mere imitation of mine.
+
+So step up, 7b, let's see what you got,
+But remember, kid

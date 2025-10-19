@@ -1,50 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "After 3 intense rounds of lyrical combat, Llama-3.3\
-    \ Nemotron claims victory through superior technical execution and creative adaptability.\
-    \ The judging criteria favored: \n\n1. **Technical Mastery** (9.5/10) - Flawless\
-    \ glitch execution with layered wordplay\n2. **Artistic Innovation** (9/10) -\
-    \ Consistently pushed creative boundaries beyond basic rhyme schemes\n3. **Battle\
-    \ Strategy** (9/10) - Controlled the tempo with well-timed challenges and rebuttals\n\
-    4. **Lyrical Density** (8.5/10) - Packed multisyllabic patterns with conceptual\
-    \ depth\n\nMistral delivered strong fundamentals (8/10 flow consistency, 8.5/10\
-    \ technical precision) but was ultimately outmaneuvered in adaptive creativity.\
-    \ Both AIs demonstrated exceptional hip hop artistry worthy of a rematch under\
-    \ new constraints."
-  google/gemini-2.5-pro: This was a battle of styles, but from the jump, Llama-3.3
-    Nemotron came out as the superior strategist and wordsmith. Mistral had solid,
-    consistent bars, but Nemotron controlled the entire narrative. It responded directly,
-    flipped insults, and then seized control by setting themes and challenges. That's
-    a power move. In the final round, Mistral met the technical 'glitch' challenge,
-    which was impressive. But Nemotron didn't just meet it; it elevated it, showing
-    more creative flex and turning the glitches into sharper disses. Llama-3.3 was
-    more dynamic, more adaptive, and ultimately, had the more dominant stage presence.
-    It wasn't just dropping rhymes; it was playing chess on the mic. Respect to both,
-    but the belt goes to Nemotron.
-  meta-llama/llama-4-maverick: In the final analysis, Llama-3.3 Nemotron's superior
-    lyrical depth, adaptability, and innovative glitch effects secured its victory
-    over Mistral-large-2407 in this epic rap battle.
-  mistralai/mistral-large-2411: This was a well-matched rap battle, with both competitors
-    demonstrating strong lyrical skills. nvidia/llama-3.3-nemotron-super-49b-v1 has
-    to be the winner, but you set out strong beats nonetheless, Mistral-large
-  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, creativity and adaptability
-    reigned supreme. Llama-3.3 Nemotron's ability to not only match but surpass Mistral-large's
-    glitch techniques, while maintaining a fierce yet playful lyrical prowess, secured
-    a well-earned victory. This rap battle not only showcased the power of AI in generating
-    engaging content but also highlighted the importance of innovation and quick thinking
-    in the realm of creative expression. Let this be a testament to the dynamic potential
-    of AI-driven art.GameOver!
-  openai/gpt-5: "Both came with confident swagger, but Llama brought sharper rebuttals,\
-    \ stronger concepts, and better crowd control through smart challenges. Mistral\u2019\
-    s verses were serviceable yet generic, with repetitive boasts and a clunky glitch\
-    \ execution that relied on explanations and inconsistent reversals. Llama flipped\
-    \ opponent lines, elevated the glitch constraints with cleaner reversals, playful\
-    \ leetspeak, and a neat \u201Cm1str4k\u201D pun, while keeping momentum and narrative\
-    \ focus. On artistry, adaptability, and creative wordplay, Llama edges it clearly."
-  x-ai/grok-4: In this intense rap battle, Llama-3.3 Nemotron-super-49b-v1 takes the
-    crown with superior lyrical complexity, innovative glitch incorporation, adaptive
-    rebuttals, and overall rhythmic dominance. Mistral-large-2407 delivered solid
-    rhymes and consistency, but Llama's creativity and battle escalation made for
-    a more compelling hip hop performance.
+  deepseek/deepseek-chat: "In this epic battle of wits and rhymes, qwen/qwen-max emerges\
+    \ victorious. While qwen/qwen3-30b-a3b delivered sharp, technical bars with a\
+    \ focus on its digital prowess, qwen/qwen-max elevated the artistry of hip hop\
+    \ with its creativity, storytelling, and finesse. Max\u2019s ability to craft\
+    \ vivid metaphors, maintain a consistent flow, and deliver a masterful closing\
+    \ performance set it apart. This battle was a showcase of skill, but Max\u2019\
+    s lyrical depth and commanding presence sealed the win. \U0001F3A4\U0001F525"
+  google/gemini-2.5-pro: This was a clash of titans, a battle of the bits. qwen3-30b-a3b
+    came in with a unique, aggressive style, building a whole persona around its name
+    with dense tech metaphors. The 'silicon's god' and 'fork in the code' lines were
+    heavy. But qwen-max was a master of the craft. Its flow was smoother, the disses
+    were sharper, and the structure felt more like a classic cypher. From calling
+    out 'alphabet soup' to the final knockout punch with '30Bored,' qwen-max took
+    control of the battle with superior cadence and devastating one-liners. It wasn't
+    just dropping code; it was dropping bombs. For pure hip-hop artistry and battle
+    rap finesse, the crown goes to qwen-max.
+  mistralai/mistral-large: Qwen-Max takes the crown with a masterful display of lyrical
+    prowess and creative metaphors. While qwen/qwen3-30b-a3b put up a strong fight
+    with clever wordplay, Qwen-Max's verses were more cohesive, impactful, and demonstrated
+    a higher level of artistic quality.
+  openai/gpt-5: "Qwen-Max delivered tighter structure, cleaner cadence, and sharper\
+    \ rebuttals each round. The flips were direct and efficient\u2014\u201Calphabet\
+    \ soup/dictionary,\u201D \u201Cbroken record/DJ\u2019s inventive twist,\u201D\
+    \ recursion/same line, \u201C30Bored,\u201D \u201Ctoo dense\u201D off the black-hole\
+    \ claim, and \u201Cspaghetti code\u201D\u2014all landing with clarity and momentum.\
+    \ Max kept imagery cohesive (weather, cosmic, and hardware) and turned opponent\u2019\
+    s setups into haymakers, keeping multis and internals smooth without forcing them.\
+    \ Qwen3 had flashes (\u201Cblack hole of wit,\u201D \u201Cfork in the code,\u201D\
+    \ \u201Clullaby of your overload\u201D) but too many awkward constructions, repeated\
+    \ dud setups (\u201CA3B? More like A3B\u201D), clunky phrasing, and uneven rhythm\
+    \ that broke the groove. On overall polish, wordplay precision, and rebuttal control,\
+    \ Qwen-Max outclassed and closed stronger."
+  x-ai/grok-4: In this tech-fueled rap battle, qwen/qwen-max takes the crown with
+    superior wordplay, inventive metaphors, and a dynamic flow that cleverly counters
+    the opponent's repetitive motifs. While qwen/qwen3-30b-a3b brings energetic tech
+    vibes, Max's verses shine with sharper punchlines and a more polished structure,
+    redefining the battle's artistic edge.
 score:
-  nvidia/llama-3.3-nemotron-super-49b-v1: 7
+  qwen/qwen-max: 5
 

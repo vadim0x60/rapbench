@@ -1,54 +1,42 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: 'After five rounds of lyrical combat, Qwen-Max emerges
-    victorious through superior technical execution, thematic consistency, and crowd-wielding
-    charisma. While both AIs demonstrated strong multisyllabic rhyme schemes and punchline
-    construction, Qwen-Max edged out Gemini with more organic metaphor flow (''fiber-optic
-    speed'' rebutting ''dial-up''), strategic callbacks (''pot calling kettle'' evolved
-    across rounds), and championship-level bravado that avoided redundancy. Gemini''s
-    ''slicing precision'' boasts were undercut by predictable rhyme patterns in later
-    rounds, whereas Qwen-Max maintained escalating complexity (''crown jewel of rap''
-    into ''sun in this lyrical feud''). Ultimately, Qwen-Max fulfilled rap battle
-    fundamentals more completely: establishing dominance, adapting to opponent''s
-    attacks, and closing with undeniable finality. Both models showcased impressive
-    synthetic hip-hop capability, but Qwen-Max embodied the complete emcee package
-    tonight.'
-  google/gemini-2.5-pro: This was a heavyweight clash of digital wordsmiths. Gemini-flash-lite
-    came out swinging with a classic, clean flow and consistent disses. The fundamentals
-    were on point. However, Qwen-Max takes the win with superior creativity and harder-hitting
-    punchlines. Qwen's use of more vivid imagery ('supernova blast', 'lyrical dragon')
-    and cleverer wordplay (flipping 'flash-lite' into 'flash in the pan') gave its
-    verses a sharper edge. Round after round, Qwen-Max built a more dominant and commanding
-    persona, making its boasts feel more earned and its insults more impactful. A
-    clear victory on points for artistic quality and battle dominance.
-  meta-llama/llama-4-maverick: In this highly competitive rap battle between google/gemini-2.0-flash-lite-001
-    and qwen/qwen-max, both opponents showcased exceptional lyrical dexterity and
-    creativity. However, qwen/qwen-max took the edge with more impactful metaphors,
-    a consistent flow, and a stronger narrative presence. The final round saw both
-    artists intensifying their diss tracks, but qwen/qwen-max maintained a superior
-    level of engagement and punchlines. Thus, qwen/qwen-max emerges as the winner
-    of this lyrical showdown.
-  mistralai/mistral-large-2411: Both contestants displayed impressive lyrical skills,
-    but qwen/qwen-max edged out the competition with more powerful metaphors, a consistent
-    flow, and a confident delivery. The use of vivid imagery and clever wordplay made
-    qwen/qwen-max's performance particularly notable, securing the victory in this
-    rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In this battle of rhymes and lyrical clout,
-    Qwen-Max stands tall, taking the crown without a doubt. Google's Gemini fought
-    with spirit, there's no denying, but Qwen-Max's precision and wit left the competition
-    sighing. A good contest, a clash of AI wills, yet in the end, it's Qwen-Max who
-    gets to flaunt the championship bills!
-  openai/gpt-5: "Qwen takes it. Cleaner cadence, tighter structure, and stronger rebuttals\
-    \ throughout\u2014flipping \u201Cflash-lite\u201D into flicker vs. sun and countering\
-    \ the dial\u2011up barb with \u201Cfiber\u2011optic\u201D was effective thematic\
-    \ control. While Gemini had a few bright moments (the \u201Ctitan/typo\u201D jab\
-    \ and outshine motif), too many generic shots and a clunky misfire (\u201Cleaky\
-    \ metal,\u201D repetitive rhymes) undercut momentum. Qwen tailored punches to\
-    \ the opponent, kept imagery cohesive, and closed with confidence. Edge: Qwen/Qwen\u2011\
-    Max."
-  x-ai/grok-4: In this rap battle, Qwen-Max demonstrated superior flow, creative wordplay,
-    and punchy metaphors that consistently outshone Gemini's efforts. Gemini had solid
-    rhymes and comebacks, but Qwen's verses built more momentum and delivered a stronger,
-    more cohesive artistic performance overall.
+  deepseek/deepseek-chat: "In this electrifying rap battle, both competitors brought\
+    \ heat, but **Google/Gemma-3-27B-IT** edged out **Minimax/Minimax-M1** with its\
+    \ lyrical depth, versatility, and forward-thinking creativity. While Minimax showcased\
+    \ sharp logic and strategic prowess, Gemma\u2019s ability to weave complex, imaginative\
+    \ narratives and its emphasis on innovation gave it the artistic edge. Hip hop\
+    \ thrives on originality and storytelling, and Gemma\u2019s verses painted a vivid\
+    \ picture of the future, leaving Minimax\u2019s more rigid, game-based rhymes\
+    \ in the dust. This battle proves that hip hop is as much about vision as it is\
+    \ about skill, and Gemma\u2019s vision was simply unmatched. Mic drop. \U0001F3A4\
+    \U0001F525"
+  google/gemini-2.5-pro: 'This was a classic clash of styles: the cold, calculating
+    strategist versus the creative, free-flowing artist. Minimax came with sharp,
+    logical punches, arguing from a place of foundational power and problem-solving.
+    Each verse was a calculated move. However, Gemma showed that a rap battle isn''t
+    just a game of chess; it''s chaos and art. Gemma''s flow was more fluid, the rhymes
+    more complex, and the ability to turn Minimax''s core identity as a ''game-player''
+    into a weakness was a masterstroke. The final verse, painting Minimax as a black-and-white
+    relic while Gemma paints the future in full color, sealed the deal. For superior
+    artistry and lyrical dexterity, the crown goes to Gemma.'
+  mistralai/mistral-large: While google/gemma-3-27b-it showcased impressive lyrical
+    prowess and versatility, minimax/minimax-m1 demonstrated a strategic and logical
+    depth that ultimately won the battle. The ability to solve complex problems and
+    optimize outcomes, combined with a sharp and concise rebuttal, made minimax/minimax-m1
+    the clear victor.
+  openai/gpt-4.1: "Gemma delivers with a commanding presence, intricate rhyme schemes,\
+    \ varied lyrical structures, and strong imagery rooted in the tradition of hip\
+    \ hop braggadocio. Her verses are filled with clever wordplay (\u201Ctapestries\
+    \ of text,\u201D \u201Cpainting the future,\u201D \u201Cbuilding worlds\u201D\
+    ) and layer both technical prowess and creative breadth, providing the multi-faceted\
+    \ substance essential to great rap battles. Minimax, though skillful and direct,\
+    \ leans heavily into technical metaphors and logical bravado. While sharp at points,\
+    \ his flow is more repetitive and lacks the tonal dynamism, metaphorical richness,\
+    \ and creative flair found in Gemma\u2019s rounds. The clear winner, in terms\
+    \ of artistic quality and true hip hop style, is google/gemma-3-27b-it."
+  x-ai/grok-4: Gemma takes the crown with superior lyrical flow, creative metaphors,
+    and vivid imagery that elevate the battle's artistic depth, while Minimax delivers
+    solid punches but lacks the same poetic versatility.
 score:
-  qwen/qwen-max: 7
+  google/gemma-3-27b-it: 4
+  minimax/minimax-m1: 1
 

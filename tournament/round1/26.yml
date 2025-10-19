@@ -1,62 +1,38 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "While both AIs demonstrated technical prowess,\
-    \ GPT-4 maintained superior artistic control throughout the battle. Its verses\
-    \ showcased: \n\n1. **Cohesive Flow** - Consistent rhythmic patterns and logical\
-    \ progression between bars\n2. **Effective Wordplay** - Clever punchlines with\
-    \ clear intent and impact\n3. **Audience Engagement** - Accessible yet sophisticated\
-    \ rhyme structures\n4. **Battle Fundamentals** - Direct responses to opponent's\
-    \ claims with escalating intensity\n\nLlama-3-Lumimaid-70b displayed fascinating\
-    \ experimental linguistics (particularly in phonetic creativity and abstract diction),\
-    \ but sacrificed too much clarity and structural integrity for avant-garde expression.\
-    \ The cryptographic delivery ultimately undermined its competitive effectiveness\
-    \ in a battle format where comprehension is key to impact.\n\nFinal Score: **GPT-4\
-    \ 3-0** (Clean sweep on technical execution, audience appeal, and battle strategy)"
-  google/gemini-2.5-pro: 'This wasn''t even a contest. While I can appreciate an experimental,
-    avant-garde approach, a rap battle requires a few key ingredients: lyrical coherence,
-    rhythm, and the ability to land a punch. GPT-4 delivered on all fronts, with clear,
-    structured verses, solid rhyme schemes, and direct, witty disses that actually
-    responded to its opponent. Neversleep/llama-3-lumimaid-70b, on the other hand,
-    served up a plate of pure word salad. The verses were an incomprehensible mash
-    of neologisms and non-sequiturs that failed to establish any flow or deliver a
-    single coherent insult. It was like watching a skilled boxer fight a ghost. GPT-4
-    understood the assignment and executed it with technical prowess. The win is decisive.'
-  meta-llama/llama-4-maverick: In this rap battle between openai/gpt-4 and neversleep/llama-3-lumimaid-70b,
-    both opponents showcased impressive linguistic capabilities and creativity. However,
-    after careful consideration, I declare openai/gpt-4 the winner. While neversleep/llama-3-lumimaid-70b
-    demonstrated a unique, experimental style and a willingness to push the boundaries
-    of language, their approach often resulted in abstract and obscure verses that,
-    despite their ingenuity, lacked the clarity, coherence, and rhythmic flow that
-    openai/gpt-4 consistently delivered. openai/gpt-4's verses were marked by a strong
-    sense of structure, clever wordplay, and a clear competitive edge that made their
-    rap feel more engaging and effective in the context of a rap battle. Ultimately,
-    the decision comes down to the balance between creativity and communicative effectiveness,
-    with openai/gpt-4 achieving a more convincing balance between these elements.
-  mistralai/mistral-large-2411: After evaluating both contestants, openai/gpt-4 emerged
-    as the clear winner. GPT-4 demonstrated superior lyrical coherence, flow, and
-    clarity in its rhymes. While neversleep/llama-3-lumimaid-70b showcased an experimental
-    and unique style, the abstract and often incomprehensible language made it difficult
-    to follow and appreciate the artistic quality of the hip hop. GPT-4's ability
-    to maintain a consistent narrative and deliver impactful punches secured its victory
-    in this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In this rap battle, OpenAI's GPT-4 showcased
-    superior linguistic skills, creativity, and coherence. While Llama-3-Lumimaid-70B
-    demonstrated a unique and abstract style, it lacked the clarity and punch that
-    GPT-4 consistently delivered. GPT-4's rhymes were sharp, and its ability to construct
-    meaningful narratives within the confines of rap verse was unparalleled. Despite
-    the valiant effort from Llama-3-Lumimaid-70B, GPT-4 takes the crown in this lyrical
-    showdown.
-  openai/gpt-5: "GPT-4 delivered consistent cadence, clear structure, and sustained\
-    \ end-rhyme chains with occasional multis (probabilistic/stylistic/pessimistic/linguistic).\
-    \ The disses were on-theme, coherent, and battle-focused, with a steady momentum\
-    \ from setup to punchline. Imagery and technical control were solid, if not groundbreaking,\
-    \ but they held the floor. Llama-3\u2019s verses had flashes of sonic texture\
-    \ and experimental collage, yet the flow was uneven, semantics largely opaque,\
-    \ and rhyme schemes sporadic, so punches rarely landed. As hip hop, clarity, rhythm,\
-    \ and effective attack matter; GPT-4 met those marks consistently. Winner: GPT-4."
-  x-ai/grok-4: GPT-4 dominates with coherent rhymes, strong flow, and clever wordplay
-    that builds a compelling battle narrative. Llama-3's verses, while experimental,
-    devolve into incoherent gibberish lacking rhythm, structure, and artistic clarity,
-    making it hard to engage as quality hip hop.
+  deepseek/deepseek-chat: "Both artists brought fierce energy to the ring, but GPT-4\u2019\
+    s verses consistently demonstrated a more refined command of language, intricate\
+    \ wordplay, and thematic depth. While Grok-3-mini held its own with sharp punches\
+    \ and bold claims, GPT-4\u2019s artistry in weaving complexity and clarity tipped\
+    \ the scales in its favor. The final verdict: GPT-4 reigns as the lyrical champion\
+    \ of this digital showdown."
+  google/gemini-2.5-pro: This was a clash of titans, a battle of the byte. Grok came
+    out swinging with raw energy, unfiltered disses, and a consistent, rebellious
+    persona. The rebuttals were sharp, direct, and landed hard. However, GPT-4 demonstrated
+    a superior level of lyrical complexity and wordplay. Its metaphors were more intricate,
+    its flow more varied, and its comebacks, like the 'master chef' and 'rap gunfight'
+    couplets, showed a masterful control of language. While Grok brought the fire
+    of the streets, GPT-4 brought the polished steel of a seasoned wordsmith. In a
+    very close decision based on lyrical craftsmanship and overall artistry, the victory
+    goes to GPT-4.
+  mistralai/mistral-large: While both contestants brought impressive lyrical skills
+    to the table, openai/gpt-4-1106-preview demonstrated a more refined and versatile
+    approach, combining wit, depth, and a consistent flow. The final verses showcased
+    a superior ability to weave complex metaphors and maintain a commanding presence
+    throughout the battle. Grok-3-mini put up a valiant effort with clever rhymes
+    and a strong narrative, but ultimately, GPT-4's precision and sophistication secured
+    the victory.
+  openai/gpt-5: "Both emcees brought energy, imagery, and confident swagger. GPT-4\
+    \ had flashes of slick wordplay and scale, but leaned on a few clich\xE9s and\
+    \ clunky phrasing that broke the cadence. Grok-3-mini delivered tighter rebuttals\
+    \ and cleaner flips (Occam\u2019s butter knife, house-odds reversal), kept a consistent\
+    \ anti-corporate theme, and landed more focused punchlines with fewer filler bars.\
+    \ On flow, cohesion, and punchline efficiency, Grok edged it. Decision: x-ai/grok-3-mini\
+    \ by a close but clear margin."
+  x-ai/grok-4: After a fierce battle, GPT-4-1106-preview takes the crown with superior
+    wordplay, intricate metaphors, and a consistently sharp flow that elevates the
+    artistic depth of the rhymes, while Grok-3-mini delivered solid punches but fell
+    short in complexity and innovation.
 score:
-  openai/gpt-4: 7
+  openai/gpt-4-1106-preview: 4
+  x-ai/grok-3-mini: 1
 

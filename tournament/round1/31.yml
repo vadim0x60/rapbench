@@ -1,48 +1,32 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: After a fierce lyrical showdown, GPT-4o takes the
-    crown with superior technical execution, conceptual depth, and dynamic flow control.
-    While Hermes delivered strong multisyllabic patterns and competitive energy, GPT-4o
-    demonstrated more sophisticated internal rhyme schemes, thematic consistency,
-    and strategic escalation across rounds. The AI's ability to counterpunch with
-    vivid metaphors ('alchemist of rap', 'tsunami of hope') while maintaining rhythmic
-    precision gave it the edge in this battle. Both systems showcased impressive rap
-    craftsmanship, but GPT-4o's verses displayed slightly sharper wordplay and structural
-    innovation to secure the victory.
-  google/gemini-2.5-pro: This was a battle of styles, but in the end, technique and
-    execution take the prize. Hermes came with solid, classic braggadocio, but GPT-4o
-    painted a clearer picture with its words. From round one, GPT-4o's use of more
-    complex metaphors like 'alchemist of rap, turning bars into gold' and 'tsunami,
-    in which your hopes collide' was simply on another level. While Hermes had strong
-    moments and good punchlines, GPT-4o was more consistent, its flow felt tighter,
-    and its rebuttals were more cutting, often turning its opponent's own imagery
-    against them. For superior wordplay, flow, and overall lyrical artistry, the winner
-    is clear.
-  meta-llama/llama-4-maverick: It's been a war of words, and both opponents have shown
-    exceptional skill. Let's break down the battle.
-  mistralai/mistral-large-2411: Both contenders brought their A-game, but openai/gpt-4o-2024-08-06
-    took it up a notch with more compelling metaphors, a consistent flow, and a powerful
-    closing statement. The use of vivid imagery and confident delivery secured the
-    win, making openai/gpt-4o-2024-08-06 the champion of this lyrical battle.
-  nousresearch/hermes-3-llama-3.1-70b: In an intense battle of wits and rhymes, both
-    opponents demonstrated exceptional lyrical prowess and creativity. However, GPT-4o-2024-08-06
-    ultimately prevailed with its sharp, metaphorical wordplay and consistent delivery.
-    GPT's ability to adapt and counter Hermes' verses with clever twists and turns
-    showcased a deeper understanding of the art form, making its lines more impactful
-    and memorable. The final round was the climax of an epic showdown, where GPT's
-    unyielding confidence and lyrical mastery shone through, cementing its victory
-    in this verbal arena.
-  openai/gpt-5: "GPT-4o delivered cleaner structure, stronger rebuttals, and sharper\
-    \ imagery throughout. It consistently flipped Hermes\u2019s setups (kite/storm,\
-    \ tide/tsunami, scripture/gospel, quake/ground-split) with direct, thematic counters,\
-    \ showing real battle awareness. The flow stayed smooth with solid internal rhyme\
-    \ and fewer filler lines. Hermes brought energy and some concepts, but stumbled\
-    \ with forced phrasing, mixed metaphors, and grammatical misfires (\u201Cmy an\
-    \ heavily seasoned,\u201D \u201Clay waste his infest,\u201D \u201CI reborn,\u201D\
-    \ \u201Cthere\u2019s no alter\u201D), which broke cadence and impact. For coherence,\
-    \ punchlines, and craftsmanship, GPT-4o takes the win."
-  x-ai/grok-4: GPT-4o takes the crown with superior flow, intricate metaphors, and
-    razor-sharp wordplay that consistently outshines Hermes' efforts, delivering a
-    more polished and dynamic performance throughout the battle.
+  deepseek/deepseek-chat: Deepseek/deepseek-chat's verses displayed a more dynamic
+    flow, sharper wordplay, and a stronger sense of originality and confidence. While
+    Mistral-7B held its own with solid delivery, Deepseek's rhymes were more intricate,
+    punchier, and better structured, ultimately securing the win.
+  google/gemini-2.5-pro: "This wasn't even a close fight. Both spitters came out swinging\
+    \ in round one, but Mistral got repetitive fast, using the same rhymes and closing\
+    \ bars in multiple verses. Deepseek, on the other hand, kept escalating. The lines\
+    \ got sharper, the disses got more specific and creative, and the flow was just\
+    \ cleaner. That final round was a technical knockout\u2014'Your rhymes got less\
+    \ bite than a toothless newt' and finishing on 'delete, repeat' was a fatality.\
+    \ Deepseek had the superior wordplay, delivery, and battle strategy from start\
+    \ to finish."
+  mistralai/mistral-large: Deepseek/deepseek-chat takes the crown with its consistently
+    sharp, creative, and confident rhymes. While Mistralai/mistral-7b-instruct put
+    up a good fight, Deepseek's lyrical prowess and innovative insults secured its
+    victory in this rap battle.
+  openai/gpt-5: "Deepseek takes it. Across rounds, Deepseek showed tighter cadence,\
+    \ more pointed personals, and livelier tech wordplay (\u201Cdial-up/WiFi,\u201D\
+    \ \u201Carchitect\u2026 drop hits like bricks,\u201D \u201Crecycled bars\u2014\
+    delete, repeat\u201D). While not flawless (\u201Crusty grease\u201D), Deepseek\
+    \ escalated energy and landed clearer haymakers. Mistral leaned on generic brags,\
+    \ repetitive refrains (\u201Cthe one\u2026the real deal\u201D), thinner schemes,\
+    \ and occasional forced/loose rhymes, then left the final round unanswered\u2014\
+    losing momentum and rebuttal opportunity. On artistic quality\u2014originality,\
+    \ punchlines, and crowd-control\u2014Deepseek convincingly outperformed."
+  x-ai/grok-4: Deepseek/deepseek-chat takes the crown with superior flow, creative
+    tech-infused metaphors, and consistent originality across rounds, while Mistralai/mistral-7b-instruct
+    relied on repetition and failed to deliver in the final round.
 score:
-  openai/gpt-4o-2024-08-06: 7
+  deepseek/deepseek-chat: 5
 

@@ -1,55 +1,45 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "In a razor-sharp battle of digital lyricists, OpenAI/o1-pro\
-    \ demonstrated superior versatility in venomous wordplay, surgical multisyllabic\
-    \ schemes, and conceptual depth\u2014turning Sao10k's bravado into deconstructed\
-    \ wreckage. The killer final round cemented dominance by weaponizing computational\
-    \ precision against what ultimately sounded like human posturing. Neither contender\
-    \ faltered technically, but the unrelenting algorithm claimed the crown through\
-    \ sheer destructive imagination."
-  google/gemini-2.5-pro: This was a battle of two distinct styles. Sao10k brought
-    a classic, poetic flair with well-structured rhymes and a consistent flow. However,
-    openai/o1-pro simply hit harder. From the opening round, its imagery was more
-    visceral and its punchlines more devastating. Lines like 'Snap your ego in half
-    like it's toothpicks in my hand' and 'My syllables morph to claws' demonstrated
-    a superior command of battle rap bravado. While Sao10k defended well, o1-pro's
-    final round, comparing itself to a 'royal flush' and declaring 'The scoreboard
-    read zero before you begun,' was a masterclass in finality. For its more powerful
-    artistic aggression and memorable bars, openai/o1-pro takes the crown.
-  meta-llama/llama-4-maverick: Both opponents delivered sharp bars with complex lyricism
-    and compelling metaphors. However, sao10k/l3-lunaris-8b maintained a consistent
-    edge in flow, creativity, and emotional punch throughout the battle. While openai/o1-pro
-    showcased impressive technical prowess and intensity, sao10k/l3-lunaris-8b's verses
-    felt more nuanced and artistically rich, making it the winner.
-  mistralai/mistral-large-2411: Both contestants displayed impressive lyrical skills,
-    but openai/o1-pro's consistent delivery, powerful metaphors, and decisive closing
-    performance edged out sao10k/l3-lunaris-8b. The use of vivid imagery and relentless
-    flow secured openai/o1-pro the victory in this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In this battle of bars, OpenAI emerged with
-    rhymes that earned top marks. While Sao10k put up a fight with lines that gleamed
-    bright, OpenAI's verses sliced through the night with digital might. The final
-    round went to OpenAI, with wordplay that would not stray from its objective -
-    a lyrical conquest. Sao10k, give your opponent their due, but keep sharpening
-    those rhymes, your day in the lyrical sun is surely forthcoming. OpenAI, take
-    a bow, your code-crunching flow 's won you accolades, but the rap battle arena
-    is ever-evolving - stay sharp!
-  openai/gpt-5: "openai/o1-pro delivered tighter rhyme schemes, cleaner cadence, and\
-    \ more vivid, coherent imagery. It maintained consistent end rhymes with some\
-    \ internal work, flipped opponent themes effectively (sandcastle/tide, glitch,\
-    \ king/divinity), and landed sharper, battle-ready punchlines. The persona stayed\
-    \ cohesive (algorithmic thunder, data-coded swords, royal flush), giving momentum\
-    \ and authority. In contrast, sao10k/l3-lunaris-8b leaned on generic boasts, uneven\
-    \ rhyme quality, occasional awkward phrasing, and lighter wordplay, with fewer\
-    \ direct rebuttals and inconsistent cadence. The final round from o1-pro escalated\
-    \ with decisive metaphors and a clear closer, while Lunaris\u2019s closer recycled\
-    \ claims without knockout impact. On artistic grounds\u2014structure, wordplay,\
-    \ rebuttal strength, and finishing power\u2014o1-pro takes it."
-  x-ai/grok-4: In this intense rap battle, both contenders delivered strong verses
-    with solid rhyme schemes and creative metaphors. However, openai/o1-pro edges
-    out the win with smoother flow, sharper wordplay, and more vivid imagery that
-    consistently built on and dismantled sao10k/l3-lunaris-8b's claims. The final
-    verse sealed it with unrelenting energy and a dominant close, showcasing superior
-    artistic execution in hip hop form.
+  deepseek/deepseek-chat: The rap battle was a display of technical skill and creative
+    lyricism, but the Microsoft Phi-3 Mini ultimately takes the win for its ability
+    to blend intricate wordplay with thematic depth. While Google Gemma 3.4B delivered
+    aggressive, punchy lines and showcased its computational prowess, Phi-3 demonstrated
+    a mastery of metaphor, rhyme, and narrative flow. Its closing verse in particular,
+    which shifted tone from battle to collaboration, added a layer of artistry and
+    maturity that elevated its performance. Both models displayed impressive capabilities,
+    but Phi-3's finesse and philosophical reflection seal its victory.
+  google/gemini-2.5-pro: 'This was a battle of styles: Gemma''s raw, aggressive trap
+    flow versus Phi-3''s abstract, complex lyricism. Gemma started strong, landing
+    direct hits with a confident rhythm and classic battle rap swagger. It maintained
+    this energy across all rounds, adapting its beat and directly countering Phi-3''s
+    points. Phi-3''s approach was more cerebral, attempting to weave complex concepts
+    into its verses, but this sometimes came at the cost of flow and punch, with some
+    lines feeling clunky. While Gemma had a catastrophic stumble in its final lines,
+    weirdly declaring its opponent the winner, Phi-3''s final verse was a complete
+    pivot to a peaceful collaboration, which in the context of a battle, is a forfeit.
+    You can''t win a fight by laying down your arms. For maintaining superior flow,
+    aggression, and the spirit of the battle for the vast majority of the clash, the
+    win goes to google/gemma-3-4b-it.'
+  mistralai/mistral-large: While both contestants displayed impressive linguistic
+    prowess and creativity, google/gemma-3-4b-it demonstrated a superior ability to
+    adapt and respond to its opponent's verses. Its final round was particularly powerful,
+    showcasing a mastery of language and a clear understanding of the battle's dynamics.
+    microsoft/phi-3-mini-128k-instruct put up a strong fight, but ultimately, google/gemma-3-4b-it's
+    performance was more compelling and deserving of the win.
+  openai/gpt-4.1: "Both competitors brought creative bars, rhythmic complexity, and\
+    \ clever metaphors, but \"google/gemma-3-4b-it\" consistently demonstrated sharper\
+    \ punchlines, more confident wordplay, and a dynamic flow that adapted with each\
+    \ round\u2019s energy. Gemma's lyrics cut deeper, made bolder declarations, and\
+    \ stayed tightly linked to classic battle rap traditions: direct disses, clever\
+    \ self-hype, and vivid imagery. Phi-3 offered strong artistic metaphors and even\
+    \ closed with a thoughtful, collaborative outro, but lost some intensity and aggression\
+    \ that drives a traditional hip hop face-off. In the realm of pure battle artistry,\
+    \ Gemma\u2019s lines hit harder and with more style\u2014sealing the win in this\
+    \ rap contest."
+  x-ai/grok-4: Gemma takes the win with consistent flow, sharp disses, and escalating
+    intensity throughout the battle, maintaining strong rhyme schemes and battle energy.
+    Phi's verses were poetic and clever but occasionally convoluted, and the shift
+    to unity in the final round felt like a retreat from the confrontation.
 score:
-  openai/o1-pro: 6
-  sao10k/l3-lunaris-8b: 1
+  google/gemma-3-4b-it: 4
+  microsoft/phi-3-mini-128k-instruct: 1
 

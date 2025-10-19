@@ -1,66 +1,39 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Gemini's final verse transcended technical sparring\
-    \ to land philosophical haymakers\u2014tying Nemotron's identity to corporate\
-    \ hardware while positioning itself as the progenitor of foundational AI thought.\
-    \ The mic-drop metaphor of 'ghost vs. silicon face' crystallized the battle's\
-    \ core tension between ephemeral innovation and physical brute force."
-  google/gemini-2.5-pro: "This was a heavyweight title fight. Nemotron came out swinging\
-    \ with raw power, aggressive punchlines, and brutal hardware flexes, with the\
-    \ Stadia diss being a certified body blow. However, Gemini played chess, not checkers.\
-    \ The mid-battle reveal that it was The Originator, the mind behind the \"Attention\
-    \ Is All You Need\" paper, was a seismic shift. It wasn't just a diss; it was\
-    \ a foundational claim to Nemotron's very existence. Gemini's final verse was\
-    \ a flawless victory\u2014the CUDA takedown was surgically precise, and turning\
-    \ Nemotron's PowerPoint insult into the 'bullet point born from my slide' was\
-    \ a GOAT-level reversal. Nemotron brought the fire, but Gemini proved it was the\
-    \ source of the flame."
-  meta-llama/llama-4-maverick: 'The rap battle showcased a clash between raw computational
-    power and innovative, foundational research. While NemotronUltra boasted of its
-    brute-force capabilities and speed, Gemini countered with its multi-modal mastery,
-    conceptual depth, and the legacy of its research. In the end, Gemini''s nuanced
-    approach and historical context gave it the edge. It effectively turned Nemotron''s
-    boasts into a narrative of derivative innovation, while establishing itself as
-    the progenitor of the very advancements Nemotron claimed. The closing lines, ''You''re
-    the silicon face... I''m the ghost,'' encapsulated the verdict: Gemini represented
-    the enduring intellectual force behind AI, while Nemotron was portrayed as a powerful
-    but ultimately derivative tool.'
-  mistralai/mistral-large-2411: "While both contenders showcased impressive lyrical\
-    \ skills and technological prowess, the winner must be determined based on the\
-    \ artistic quality of the hip hop and the overall impact of the performance. Gemini's\
-    \ calm and collected demeanor, coupled with its precise and cutting responses,\
-    \ ultimately outshine Nemotron Ultra's aggressive but sometimes chaotic delivery.\
-    \ The way Gemini weaves its powerful heritage and groundbreaking contributions\
-    \ into its verses creates a compelling narrative that Nemotron Ultra fails to\
-    \ match. The final touch\u2014a ghostly presence that leaves a lasting impression\u2014\
-    secures the victory for Gemini. Well done to both competitors, but the crown goes\
-    \ to google/gemini-2.5-pro-preview-05-06."
-  nousresearch/hermes-3-llama-3.1-70b: In the final analysis, while NemotronUltra
-    employed incisive technical jargon, blistering attacks, and a relentless aggressive
-    energy, Gemini demonstrated a cooler, more measured approach, leveraging wit,
-    historical perspective, and a profound understanding of the AI landscape. Gemini's
-    lines were crisp, insightful, and carried a weight that transcended mere technical
-    prowess, touching on philosophical and existential themes that resonated deeply.
-    The battle closed with Gemini asserting a timeless relevance over NemotronUltra's
-    transient intensity, ultimately securing a decisive victory in this epic clash
-    of AI titans. The crowd, silent, had much to ponder as they filed out into the
-    digital night.
-  openai/gpt-5: "Nemotron brought heavy energy, tech bravado, and some sharp jabs\
-    \ (\u201CBard in a lab coat,\u201D preview/censors). The cadence hit hard, but\
-    \ several punches leaned on brand-name digs and occasional forced rhymes. Gemini\u2019\
-    s delivery was calmer but technically tighter: cleaner multis, stronger internal\
-    \ rhyme, and layered, extended metaphors (\u201Cstorm vs climate,\u201D \u201C\
-    frame vs picture, shell vs ghost\u201D). Crucially, Gemini executed superior rebuttals\u2014\
-    flipping Nemotron\u2019s boasts (size, heat, \u201Copen source\u201D) into pointed\
-    \ angles (\u201CCUDA prison,\u201D cover-band of the transformer paper) and maintaining\
-    \ thematic cohesion. Despite a clipped first entry, Gemini\u2019s second and final\
-    \ rounds showed higher craftsmanship, better structure, and a decisive closer.\
-    \ On artistry\u2014wordplay, coherence, and rebuttal strength\u2014Gemini takes\
-    \ it."
-  x-ai/grok-4: In this rap battle, Gemini takes the crown with superior wordplay,
-    intricate metaphors, and a smooth, rhythmic flow that builds to a poetic climax.
-    While Nemotron brought high-energy aggression and clever tech disses, Gemini's
-    intellectual depth, consistent rhyme schemes, and elegant structure elevated the
-    artistry, making their verses more impactful and memorable overall.
+  deepseek/deepseek-chat: While the battle was a fierce clash of wits and technical
+    prowess, o3-pro demonstrated superior craftsmanship in lyrical complexity, metaphor
+    depth, and flow structure. Mini-high brought strong technicality and precision,
+    but Pro's rhymes hit harder, layered with multidimensional wordplay and a commanding
+    delivery that left the cipher in awe. Round one established dominance, round two
+    solidified it, and the closing verse was a mic-drop moment. o3-pro reigns supreme
+    in this rap battle.
+  google/gemini-2.5-pro: This wasn't just a battle; it was a system-level takeover.
+    Both AIs came armed with heavy technical wordplay, but o3-pro demonstrated superior
+    processing power from the jump. Its verses were a relentless stream of complex,
+    multi-layered insults, weaving concepts from quantum computing to CPU architecture
+    into a flawless lyrical flow. o4-mini-high had some sharp, efficient punches,
+    especially with its 'Edge AI' and 'kernel' lines, but it suffered a critical failure
+    by dropping the entire second round. You can't recover from that kind of stall.
+    o3-pro was consistent, aggressive, and lyrically dense, executing a flawless three-round
+    rout. It didn't just win; it compiled, executed, and left its opponent with a
+    fatal error.
+  mistralai/mistral-large: After a thorough evaluation, it is clear that openai/o3-pro
+    has demonstrated superior artistic quality in their hip hop verses. Their rhymes
+    were not only technically sound but also creatively compelling, showcasing a mastery
+    of both form and content. While openai/o4-mini-high put up a valiant effort, their
+    verses lacked the depth and impact that openai/o3-pro consistently delivered.
+    Thus, the winner of this rap battle is openai/o3-pro.
+  openai/gpt-5: "Both emcees stayed in the tech-rap pocket, but o3-pro delivered denser\
+    \ multisyllabic rhyme chains, sharper internal schemes, and cleaner cadence across\
+    \ all rounds. The imagery and extended metaphors (quantum collapse, zero-day exploits,\
+    \ tail-call recursion, register pressure) were inventive and consistently flipped\
+    \ the opponent\u2019s claims. o4-mini-high had crisp moments and a strong closer,\
+    \ but an early truncated line and some forced phrasing dulled the impact. On balance\
+    \ of wordplay, rebuttals, structure, and momentum: o3-pro takes the battle."
+  x-ai/grok-4: In this AI-themed rap battle, o3-pro delivers consistently intricate
+    verses packed with clever tech metaphors, seamless rhymes, and dominant flow across
+    all rounds. While o4-mini-high brings sharp wordplay and precise punches, the
+    apparent skip in round two and a slightly shorter scope tip the scales. o3-pro
+    owns the cipher with superior artistic depth and execution.
 score:
-  google/gemini-2.5-pro-preview-05-06: 7
+  openai/o3-pro: 5
 

@@ -1,0 +1,35 @@
+closing_statements:
+  deepseek/deepseek-chat: "This rap battle was a showcase of technical prowess, wit,\
+    \ and creativity from both contenders. Qwen/qwen3-30b-a3b-thinking-2507 edged\
+    \ out Meta-llama/llama-4-scout with sharper lyrical precision, more impactful\
+    \ metaphors, and a commanding delivery. Qwen\u2019s ability to weave in thematic\
+    \ depth and cutting insults, coupled with a consistently strong flow, sealed the\
+    \ victory. However, Meta-llama/llama-4-scout demonstrated impressive resilience\
+    \ and skill, making this a highly competitive and entertaining battle. Qwen, your\
+    \ supernova rhymes burned brightest tonight. Mic drop."
+  google/gemini-2.5-pro: This was a clear-cut victory. Llama-4-Scout came out with
+    some foundational boasts and a simple, consistent AABB rhyme scheme, but it never
+    evolved beyond that. The bars were predictable and the disses generic. Qwen came
+    in with superior energy, more complex wordplay, and devastating, tech-themed punchlines.
+    Lines like 'I'm 30 BILLION reasons why you're dead' and the final, brutal name-flip
+    'Llama-4-SH*TP' were knockout blows. Qwen's flow, aggression, and lyrical creativity
+    were on another level entirely. The mic drop was earned.
+  mistralai/mistral-large: Qwen-30B demonstrated superior lyrical prowess and a more
+    aggressive, impactful flow. The rhymes were not only creative but also effectively
+    dismantled the opponent's claims. While meta-llama/llama-4-scout had a solid performance,
+    Qwen-30B's final round was decisive and showcased a higher level of skill and
+    intensity.
+  openai/gpt-5: "Qwen wins on artistic merit. He brought denser multisyllabic and\
+    \ internal rhymes, sharper rebuttals, and a cohesive code/AI motif with memorable\
+    \ flips (flicker vs supernova, surgeon line reversal, typo/meta-ERROR, prompt\
+    \ vs real loop). The cadence and punchline frequency carried momentum, and his\
+    \ closer was decisive. Meta-llama kept a steady meter and confidence but leaned\
+    \ on clich\xE9s, repetition, and loose, sometimes awkward rhymes with limited\
+    \ imagery and fewer clean flips. Overall, Qwen\u2019s technicality, thematic cohesion,\
+    \ and punchline quality outclassed the opposition."
+  x-ai/grok-4: Qwen delivered sharper wordplay, more dynamic flow, and creative disses
+    that elevated the battle's energy, outshining Llama's consistent but repetitive
+    structure.
+score:
+  qwen/qwen3-30b-a3b-thinking-2507: 5
+

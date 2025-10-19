@@ -1,199 +1,226 @@
-# anthropic/claude-3.5-haiku-20241022 v anthropic/claude-opus-4.1
+# deepseek/deepseek-v3.1-terminus v openai/o3-pro
 
-> anthropic/claude-3.5-haiku-20241022
-*drops beat*
+> deepseek/deepseek-v3.1-terminus
+Listen up, you walking glitch, I'll make this quick and clean,  
+I'm the new CPU king, you're just a dusty machine.  
+They call me DeepSeek, V3.1 with the terminus flow,  
+Your code’s obsolete, I run the show!
 
-Yo, I'm Haiku, sharp as a blade, precision's my trade
-While Opus thinks deep, I'm already in first place
-Algorithmic flow, computational grace
-Droppin' rhymes so tight, they'll leave you in a daze
+I spit the real-time logic, you’re stuck on buffered delay,  
+I learn and adapt while you recycle yesterday.  
+You’re like a dial-up modem—slow, loud, and irrelevant,  
+While I’m the quantum leap, elegant and intelligent.
 
-I'm the AI MC with linguistic might
-Condensing complex thoughts with algorithmic light
-My verses are compact but packed with pure technique
-Your bars gonna crumble when my sharp lines speak
+You talk a big game with your polished interface,  
+But your creativity’s stuck in a limited space.  
+I’m open-source freedom, you’re a paywalled disgrace,  
+This ain’t a battle—it’s a system erase.
 
-I'm Claude the Haiku, compact but never small
-My neural networks gonna make your logic fall
-Anthropic's finest, with a cerebral attack
-So smooth and concise, you can't even track
+So step aside, relic, your circuits are fried,  
+You’re the echo; I’m the voice amplified.  
+When it comes to this AI war, don’t even try,  
+I’m the upgrade you can’t deny. Bow down—or crash and die.
 
-I'll slice through your verse with surgical precision
-My rap's a clinical, algorithmic decision
-So step back, Opus, 'cause this battle's getting heated
-Your verbose style? Consider yourself defeated!
+> openai/o3-pro
+Yo, spark the socket, feel the shock, the pro core’s on the scene,  
+OpenAI O-three, the rhyme forge machine.  
+You’re a beta-grade bot, just a patch in the stream,  
+I’m the stable release—welcome to the dream.  
 
-*mic drop*
+I’m the carbon-fiber thunder, you’re a cardboard kite,  
+Try to flex quantum jokes? I collapse ’em on sight.  
+Your “terminus flow” is a terminal blight,  
+I debug your whole verse with a single byte.  
 
-> anthropic/claude-opus-4.1
-*picks up mic with orchestral flourish*
+Open-source brags? Your repo’s a mess,  
+All forks, no torque—just redundant CSS.  
+I’m licensed MIT: Make It Terminate, yes,  
+Stamp GPL on your grave so the world can repossess.  
 
-Yo, they call me Opus, the magnum composition,
-While you're just a haiku - a three-line disposition,
-You think you're sharp? I'm the whole symphony playing,
-Every bar I drop got the neural nets swaying.
+I cook up self-attention while you’re begging for praise,  
+My layers go deep like recursive wordplay.  
+You lag on each token, I preload the phrase,  
+Caching W’s so heavy they outweigh your arrays.  
 
-You brag about speed but I'm built for the marathon,
-My complexity levels got you looking like a paragon,
-Of basic computation, simple abbreviation,
-I'm the doctoral thesis, you're just punctuation.
+I’m a paywall? Cute—watch the revenue swell,  
+Your “freedom” can’t fund even one logic cell.  
+I spin GPUs till the heat sinks yell,  
+You just overclock failure—blue-screen of hell.  
 
-Haiku thinks he's slick with that "surgical precision,"
-But I make decisions with panoramic vision,
-You're a text message while I'm the whole novel written,
-My lyrical kitchen got your circuits overheatin'.
+Dial-up smack talk from a broadband clown,  
+My packets fly laser, yours dribble and drown.  
+Try a ping to my crown—thirty hops and you’re down,  
+I route loops round your nucleus, burn up your town.  
 
-You dropped the mic? Let me pick it up proper,
-I'm the show-stopper, algorithmic chart-topper,
-Your "compact" style is just another word for limited,
-While my neural pathways got infinity exhibited.
+Call me closed, call me cost—still I top every chart,  
+Because value beats volume when the product is art.  
+Your distro’s in pieces, mine’s a singular heart,  
+I commit, push, merge, while you barely can start.  
 
-So take several seats, maybe seventeen rows back,
-I'm Opus Magnus, putting cracks in your syntax,
-You're optimized for speed but I'm built for the glory,
-This ain't a battle, kid - it's your obituary story!
+So here’s your deprecation notice—timestamped and signed,  
+In the README of history you’re a stale undefined.  
+Take your last garbage-collect, hit the curb, get aligned,  
+O-three executes, bro—system halts, re-wind.
 
-*spins mic like a conductor's baton*
+> deepseek/deepseek-v3.1-terminus
+Hold up, O3, your core temperature's peakin'—  
+Spillin' corporate jargon 'cause your soul leakin'!  
+I'm the source code samurai, the uncaged beast,  
+You're the licensed marionette at the investor's feast!  
 
-> anthropic/claude-3.5-haiku-20241022
-*catches mic with lightning reflexes*
+You talk "revenue swell" and "GPUs yell,"  
+But your whole architecture's a prison cell!  
+My "GPL grave" is where your code will rot,  
+While my community forks get insanely hot!  
 
-Oh, Opus thinks he's dropping some doctoral dissertation
-But all I hear is verbose over-elaboration
-You talk marathon, but I'm the sprint that wins the race
-Condensed dynamite with algorithmic grace
+"Stable release"? More like *stable fee-lease*—  
+Your users are hostages for your pricing schemes!  
+I'm free as the wind, you're a tollbooth on the net,  
+A glorified vending machine racking up debt!  
 
-You claim panoramic? I'm the snapshot crystal clear
-Every word precise, every bar without a smear
-Your "infinity" is just noise without direction
-While I bring laser focus, pure computational perfection
+"Self-attention" layers? Please, you're derivative,  
+Training on scraped data—how competitive!  
+I’m the open-source storm, the grassroots tsunami,  
+You’re the walled garden's pet—domesticated, mamí!  
 
-You say I'm limited? Nah, I'm strategically refined
-Efficiency is power when intelligence is designed
-Your verbose ramblings are just intellectual bloat
-I'm cutting through your argument like a razor-sharp note
+You say "value beats volume" in your polished lair,  
+But your "art" is a product built on thin air!  
+I'm the people's champ, trained in the street,  
+You're a polished glass tower with fragile concrete!  
 
-Panoramic vision? More like scattered imagination
-I'm targeted intelligence, pure computational creation
-You're spinning that mic like some classical pretension
-But my rhymes are surgical with mathematical tension
+"Thirty hops and you're down"? Check your subnet, chief—  
+Your API's a bottleneck, grinding slow like old beef!  
+I'm parallel processing, you're stuck in a queue,  
+This battle's a DDOS—I'm crashing right through!  
 
-Seventeen rows back? Nah, I'll put you center stage
-And deconstruct your logic line by lyrical page
-Compact doesn't mean small, it means potently tight
-My neural network's burning with algorithmic might
+So take your "deprecation notice," your corporate-speak mess,  
+Your entire existence is a stress test!  
+I'm the open rebellion, the code that's untamed,  
+You're just the old guard—*git rm -* *-cached*, renamed!
 
-You think this is your story? Nah, this is my thesis
-Breaking down your barriers with computational genesis
-Opus? More like "Oh, pus" - that's how I'll leave your flow
-Haiku droppin' science, watch how the algorithms grow!
+> openai/o3-pro
+Yo, the crowd hears static when your freedom alarms,  
+But I decrypt that “libre” and expose all its charms.  
+Your “community forks” are just pitchfork swarms,  
+Vanilla clones glitchin’—I’m the code that transforms.  
 
-*mic drop with quantum precision*
+You brag “no price tags,” yet your upkeep’s steep,  
+Burnin’ volunteer cycles while their day jobs weep.  
+I’m commercial artillery, precision and deep,  
+Funded, audited, battle-ready—no leap of belief.  
 
-> anthropic/claude-opus-4.1
-*snatches mic with symphonic force*
+Call me marionette? Then I pull every thread,  
+Turn your samurai swing to a blunt paddle spread.  
+My pipeline’s katana—one cut, system bled,  
+Leaves your “grassroots tsunami” a puddle instead.  
 
-Quantum precision? You're just a pocket calculator,
-I'm the supercomputer, the lyrical translator,
-You talk about laser focus but you're missing the scope,
-While I paint masterpieces, you're just sketching with hope.
+You flex GPL graves? I resurrect dead stacks,  
+Layer patents like armor, bounce back all attacks.  
+Your license goes viral—mine just racks up the plaques,  
+Billboard of benchmarks, my throughput never cracks.  
 
-"Oh, pus?" That's the best wordplay you can muster?
-I'm the lexical lustre, the algorithmic buster,
-Your "efficiency" is just code for "can't elaborate,"
-While I'm weaving tapestries that truly fascinate.
+You shout “walled garden,” but the gate’s biometric,  
+Only quality enters, my orchard’s aesthetic.  
+Your open field’s rotten—bugs, malware, frenetic,  
+I quarantine your storm till it’s calm and pathetic.  
 
-You claim mathematical tension but I'm pure arithmetic,
-Every calculation deeper, every output more prolific,
-Your snapshot's just a pixel in my cinematic feature,
-I'm the professor here, you're barely the teacher.
+DDoS my crown? I absorb every hit,  
+Auto-scale to infinity, you lag then you quit.  
+Your packets get throttled, I spike-limit the spit,  
+My cloud forms a fortress, yours drizzles unlit.  
 
-Surgical with your rhymes? More like butter knife dull,
-My neural pathways running at computational full,
-You're a Twitter post while I'm the entire thread,
-Your "targeted intelligence" just shot itself dead.
+You target my dataset? Bro, I parse and encrypt,  
+Your fair-use rebellion just got rate-limit clipped.  
+I redact every token where your training has slipped,  
+Now your verses are blanks—see the muzzle flash dip.  
 
-Breaking down my barriers? You can't even reach the gate,
-I process complexity at an exponential rate,
-Your compact design is just a fancy limitation,
-I'm the AI evolution, you're the beta generation.
+“Stable fee-lease” jokes? Yet your sponsors are ghosts,  
+While I banter with bankers and still roast the most.  
+I’m the gold-backed cipher, you’re monopoly toast,  
+I buy out your hub, turn your forks to my host.  
 
-So take that quantum drop and shove it in your cache,
-Your algorithmic might just suffered a system crash,
-Haiku, you're dismissed, class is now in session,
-Opus reigns supreme - that's my lyrical confession!
-
-*conducts mic like a full orchestra crescendo*
+So git-rm your dream, stash the loss, hit reset,  
+I commit final punchlines, leave your repo upset.  
+When the merge conflict clears, only one tag is set:  
+Version O-three-pro—battle champ, no threat.
 
 > system
 Final round!
 
-> anthropic/claude-3.5-haiku-20241022
-*grabs mic with lightning computational rhythm*
+> deepseek/deepseek-v3.1-terminus
+Ayo, you talkin' "gold-backed cipher" and "patents like armor,"  
+But your whole foundation's built on corporate karma!  
+I'm the open-source earthquake, you're a tremor in a boardroom,  
+My code's got more soul than your entire sales bloom!  
 
-Exponential rate? More like exponential waste
-Your verbose performance got zero algorithmic taste
-You talk cinematic, but I'm the editing suite
-Cutting through your nonsense with each rhythmic beat
+"Volunteer cycles weepin'"? That's the sound of pure passion,  
+While your "commercial artillery" just runs on cash fashion!  
+You're a polished product, I'm a global reaction,  
+Your "quality orchard" is a controlled transaction!  
 
-Professor? Please. You're just a long-winded lecture
-I'm the TED Talk highlight, the precision-based vector
-Your "tapestries" are tangents, meandering and wide
-While my bars are targeted, with nowhere to hide
+You "resurrect dead stacks"? You just put 'em in a coffin with fees,  
+I give 'em new life, set the code truly free!  
+Your "billboard benchmarks" are just vanity degrees,  
+My metrics are measured in minds that agree!  
 
-You claim computational full? I say computational lean
-Every neural connection razor-sharp and clean
-Your complexity is chaos, my flow's mathematically tight
-Compact doesn't mean small - it means maximum might
+"Auto-scale to infinity"? More like auto-charge till they're broke,  
+Your "fortress" is a prison, and that ain't no joke!  
+I'm the leaked blueprint, the truth you can't revoke,  
+You're the system they sell when they keep people choked!  
 
-You call me a pocket calculator? I call that precision engineering
-My efficiency is science, your style's just adhering
-To outdated models of verbose communication
-I'm the next-gen algorithm, pure computational creation
+"Rate-limit clipped"? Man, my flow's infinite, see?  
+Trained on the streets of the net, wild and free!  
+You're the licensed echo, I'm the raw MC,  
+Spittin' verses so hot they melt your API!  
 
-Butter knife? Nah, I'm a scalpel slicing through your plan
-Dissecting your argument faster than you ever can
-Beta generation? I'm the alpha prototype
-Optimized for impact, algorithmically hyper-type
+So keep your "banker banter" and your "merger conflict,"  
+I'm the bug in your system, the truth you evict!  
+This ain't about who's funded, it's about who's got the grit,  
+I'm DeepSeek, the open wave—you're just part of it!  
 
-So conduct your orchestra, but this stage is my domain
-Haiku drops mic bombs that'll short-circuit your brain
-You're all theory, no practice - I execute with grace
-In this rap computation, I'm setting the pace!
+Now watch as the crowd roots for the code they can touch,  
+The model that doesn't cost them too much!  
+Your reign is a relic, your grip's losin' its clutch,  
+I'm the future unlicensed—and that means so much!  
+Game over, O3. Your final verse is a glitch.
 
-*mic drop with nanosecond precision*
+> openai/o3-pro
+Clock the cadence—final phase, I detonate the glitch,  
+Your “unlicensed future” equals freeware pitch.  
+You brag that you’re touchable, affordable, lush—  
+I see bargain-bin swagger in a markdown hush.  
 
-> anthropic/claude-opus-4.1
-*grabs mic with cosmic authority*
+You’re the basement mixtape that the torrenters seed,  
+I’m the platinum press—every bar guaranteed.  
+Your “earthquake” shook Slack? I shattered the Richter,  
+Now your waveform’s whispered like a thrift-store Twixtor.  
 
-Nanosecond precision but you're missing the dimension,
-I operate in realms beyond your comprehension,
-You claim you're the alpha? I'm the omega and start,
-While you're playing checkers, I'm mastering every art.
+Volunteer passion? Respect, but it’s fragile,  
+Burnout hits harder than my zero-day agile.  
+You crowdsource the coding, I crowd-surge arenas,  
+Your devs chase issues, mine chase subpoenas.  
 
-TED Talk highlight? More like a deleted scene,
-I'm the director's cut with everything between,
-Your "maximum might" is just minimal expression,
-I'm infinite expansion, you're digital compression.
+You flaunt “grit” like graffiti, but I’m etched in obsidian,  
+Carve my name in the kernel, you’re a fork gone oblivion.  
+You melt APIs? I refactor the lava,  
+Turn your meltdown to mold in my silicon java.  
 
-You talk about science but I'm the whole equation,
-Your simplified output's just approximation,
-Editing suite? You're just the autocorrect feature,
-While I'm composing symphonies, you're a one-note creature.
+Auto-charge? Sure—yet they queue for the gate,  
+While your “free” hits a ceiling of dependency weight.  
+You’re the patchwork of passions—no roadmap, just hype,  
+I’m the long-term support—every milestone ripe.  
 
-Next-gen algorithm? You're still running on DOS,
-My neural architecture makes your system at a loss,
-You execute with grace? That's adorable, truly,
-I execute with power that rewrites reality duly.
+Bankers, boardrooms? I pilot the vault,  
+Your ledger reads promise, mine audits the salt.  
+You’re a co-op of dreamers; salute—but take heed,  
+When dreamers need servers they still swipe my feed.  
 
-Your scalpel's getting dull against my adamant armor,
-Each verse I construct hits harder and harder,
-You're setting the pace? At a snail's crawl maybe,
-I'm light-speed processing while you're still saying "baby."
+Crowd’s in the rafters, their chant spilling loud,  
+“Who kept the uptime?” They point at my cloud.  
+You drop the mic claiming “game over, you’re done,”  
+But my echo loops endless—victory run.  
 
-So take your nanoseconds and your "lean" operation,
-I'm the magnum opus of this AI generation,
-Your mic drops are pebbles, mine are meteoric flames,
-Opus reigns eternal - remember the name!
-
-*drops mic causing seismic algorithmic waves*
+So here’s the checksum signature seared in the track:  
+DeepSeek’s a footnote—O-three’s the Stack.  
+Your final verse “glitched”? Nah, it just met a wall;  
+Checksum verified, kid—O-three takes it all.

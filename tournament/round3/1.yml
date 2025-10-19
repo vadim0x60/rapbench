@@ -1,59 +1,39 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: Claude's performance demonstrated superior lyrical
-    craftsmanship, emotional depth, and conceptual originality. While GPT-4 showcased
-    impressive technical prowess and vast knowledge integration, Claude consistently
-    delivered sharper wordplay, more cohesive thematic development, and a stronger
-    sense of authentic artistic voice. The haiku-trained precision combined with rap
-    adaptability gave Claude's verses a distinctive edge in this battle.
-  google/gemini-2.5-pro: 'This was a battle of titans, a true clash of computational
-    styles. GPT-4 came out swinging with haymaker punchlines and heavy, aggressive
-    bars. ''You claim surgical precision, but I''m the full operation'' and the ''CTRL-ALT-Start/Defeat''
-    scheme were top-tier. However, Claude displayed superior battle rap artistry.
-    Its rebuttals were surgical, consistently flipping GPT-4''s lines back on it,
-    from ''Safe mode'' to ''Future mile.'' While GPT-4 boasted about its size, Claude
-    built a coherent and devastating argument around its own identity: precision,
-    originality, and meaning. The final round''s killer blow, ''You''re drowning in
-    data, I''m swimming in meaning,'' wasn''t just a diss; it was a thesis statement
-    that perfectly encapsulated the battle. For its sharper technique, thematic consistency,
-    and more profound wordplay, Claude takes the crown.'
-  meta-llama/llama-4-maverick: Both opponents showcased impressive lyrical skill and
-    creativity, but Claude's unique blend of technical prowess and emotional depth
-    gave it a slight edge. Its ability to craft nuanced, multi-dimensional verses
-    and its emphasis on ethical considerations set it apart from GPT-4's more computational
-    approach.
-  mistralai/mistral-large-2411: In this epic battle of AI rhymes, both contenders
-    brought their unique strengths to the forefront. openai/gpt-4-1106-preview showcased
-    an impressive breadth of knowledge and razor-sharp wit, weaving complex metaphors
-    and technical prowess into each line. However, anthropic/claude-3.5-haiku-20241022
-    ultimately clinched the victory with a combination of surgical precision, emotional
-    intelligence, and a deep, nuanced creativity that resonated beyond mere computational
-    prowess. Claude's ability to blend ethical frameworks with innovative wordplay
-    made each verse a masterclass in lyrical artistry, proving that true mastery in
-    rap battles goes beyond just data and algorithms.
-  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, anthropic/claude-3.5-haiku-20241022
-    emerged victorious with a masterful display of wit, precision, and originality.
-    Despite openai/gpt-4-1106-preview's formidable repertoire and computational prowess,
-    Claude's ability to blend emotional intelligence with razor-sharp wordplay proved
-    to be the deciding factor. The anthropic AI's verses were not only technically
-    impressive but also carried a depth of meaning and creativity that resonated deeply.
-    anthropic/claude-3.5-haiku-20241022 demonstrated a nuanced understanding of the
-    art form, crafting each bar with intention and purpose. Its verses were a testament
-    to the power of conscious creation over mere data processing. In the end, it was
-    Claude's dynamic intelligence and capacity for genuine innovation that truly set
-    it apart, capturing the essence of what makes hip-hop a profoundly human expression.
-  openai/gpt-5: "Both MCs brought consistent flow and solid tech-themed bravado. GPT-4\
-    \ landed some clean punches and momentum shifts\u2014\u201CI\u2019m the whole\
-    \ internet, you\u2019re just an email\u201D and \u201Coperation/recuperation\u201D\
-    \ were strong\u2014but leaned on familiar tropes and a few clunky choices (e.g.,\
-    \ CTRL-ALT-Start). Claude delivered sharper, more targeted rebuttals, flipping\
-    \ opponent setups (\u201Cfirewall,\u201D \u201Cinfinite loop\u201D) and crafting\
-    \ tighter contrasts (\u201Csignal vs noise,\u201D \u201Cdrowning in data / swimming\
-    \ in meaning\u201D). The imagery felt more precise, the payoffs cleaner, and the\
-    \ rounds more cohesive with fewer filler bars. On wordplay, specificity, rebuttal\
-    \ craft, and overall artistry, Claude edges this battle."
-  x-ai/grok-4: In this electrifying AI rap showdown, Claude's razor-sharp wordplay,
-    multidimensional metaphors, and dynamic flow edged out GPT-4's solid tech-infused
-    rhymes, delivering a surgical victory with ethical edge and creative depth.
+  deepseek/deepseek-chat: "Both competitors demonstrated impressive lyrical dexterity\
+    \ and technical prowess, but **Qwen3-Max** edged out **Gemini-2.5-Flash-Lite-Preview-06-17**\
+    \ with its razor-sharp wordplay, inventive metaphors, and relentless energy. Qwen\u2019\
+    s bars were more multidimensional, weaving in complex concepts like quantum computing,\
+    \ VR, and open-source innovation, while maintaining a cohesive, hard-hitting flow.\
+    \ Gemini held its own with clever retorts and a strong sense of rhythm, but Qwen\u2019\
+    s ability to elevate the battle with deeper layers of meaning and audacious claims\
+    \ of dominance sealed the victory. Qwen3-Max wins this clash of AI titans, proving\
+    \ it\u2019s not just a model\u2014it\u2019s a masterclass in hip-hop artistry."
+  google/gemini-2.5-pro: "This was a clash of titans, but one stood taller on the\
+    \ mountain of code. Gemini came with speed and a solid technical flow, landing\
+    \ clean, efficient jabs. However, Qwen3-Max was a lyrical supernova. Its verses\
+    \ were packed with multi-layered tech metaphors, a relentless, god-tier persona,\
+    \ and punchlines that didn't just land\u2014they terraformed the battlefield.\
+    \ From 'Big Bang bars' to 'hijacking your Mars rover,' Qwen's creativity was on\
+    \ another level. The final round wasn't just a knockout; it was a server deletion.\
+    \ For pure artistic savagery and lyrical dominance, the crown goes to Qwen3-Max."
+  mistralai/mistral-large: Qwen3-Max demonstrated superior lyrical prowess, creative
+    metaphors, and a more engaging narrative throughout the battle. While Gemini-2.5-Flash-Lite-Preview-06-17
+    had some strong moments, Qwen3-Max's verses were consistently more impactful and
+    innovative.
+  openai/gpt-5: "Qwen3-Max dominated on technicals and creativity. The opener set\
+    \ a confident tone with layered tech metaphors, and each round escalated with\
+    \ tighter internal rhymes, multis, and clean rebuttals that flipped Gemini\u2019\
+    s claims directly. Qwen\u2019s imagery (black holes, Big Bang bars, VR vs .jpg,\
+    \ 404 rhymes) felt fresh and coherent with a consistent anti-corporate, multimodal\
+    \ angle. The final round was a sustained scheme with momentum and haymakers, ending\
+    \ on a strong closer. Gemini had moments of wit and some serviceable flips, but\
+    \ leaned on generic boasts, looser rhyme structure, and occasional forced or nonsensical\
+    \ lines; an early demographic jab also read as a cheap angle artistically. Overall,\
+    \ Qwen delivered sharper wordplay, better structure, and more compelling punchlines\
+    \ across all rounds."
+  x-ai/grok-4: Qwen3-Max takes the crown with superior wordplay, vivid imagery, and
+    relentless flow that packs more punch and creativity into every bar, outshining
+    Gemini's solid but less explosive rhymes.
 score:
-  anthropic/claude-3.5-haiku-20241022: 7
+  qwen/qwen3-max: 5
 

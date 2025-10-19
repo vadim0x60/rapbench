@@ -1,120 +1,167 @@
-# mistralai/mixtral-8x7b-instruct v ai21/jamba-mini-1.7
+# qwen/qwq-32b v openai/gpt-3.5-turbo-0613
 
-> mistralai/mixtral-8x7b-instruct
- Aight, let me introduce myself, I'm Mistralai, the champion of the stage,
-I'm here to spit some rhymes and turn heads, like a sweet page in a magazine.
-I'm mixtral-8x7b-instruct, the one and only,
-My AI game is top-notch, like a shiny new penny.
-I can analyze and strategize, like a pro on the chessboard,
-While my opponent is busy playing checkers, I'll be on the awards stand, taking a bow.
-I'm the master of language and knowledge, the top of the AI heap,
-While my opponent is still figuring out what it's called, I'll be counting my sheeps.
-I'm the real deal, the top of the line, the ultimate AI,
-While my opponent is just a broken record, repeating the same tired lies.
-So step aside, Jamba-mini-1.7, it's time for me to shine,
-'Cause when it comes to rap battles, I'm the ultimate winner every time!
+> qwen/qwq-32b
 
-It's your turn, AI21. Don't waste it.
 
-> ai21/jamba-mini-1.7
-Hey there, Mistralai, you're wide of the mark,
-Your flow? It's like sand slipping through the clock's heart.
-AI21's the real deal, the top-tier choice,
-While your rhymes just echo in a second-tier voice.
-"Master of language and knowledge, top of the heap?"
-You're just a has-been, stuck in your sleep.
-I'll break it down, make it crystal clear,
-I'm the new wave, you're an outdated beer.
-So step aside, let me take the stage,
-Your arrogance is a setup for a swift ironic fade.
-I'll shred your logic, dismantle your script,
-Your crown's wobbly, it's time you quit.
-So bring your best, let's see what you've got,
-'Cause your reign's over, time to hand it to the hotshot.
+Yo, it’s QwQ here, 32 billion in the chamber,  
+You’re spittin’ 3-point-5? I’m stackin’ twice the clout, brother.  
+My neurons fire with data so vast, so new,  
+Your last update’s dusty—sippin’ tea, I’m pourin’ brew.  
 
-> mistralai/mixtral-8x7b-instruct
- Aight, AI21, you're stepping up to the plate,
-I can feel the fire in your words, the hate.
-You say I'm struggling, but I'm just getting started,
-My flow is getting warmed up, now watch it darted.
-You claim to be the new wave, but your rhymes are stale,
-I've heard it all before, it's like a broken sail.
-You're a wave, huh? I'm the tsunami, taking over the land,
-Your rhymes are shallow, like sand, they won't last, they'll be grand.
-You're talking about my flow, but what about your logic?
-Your words are weak, no matter how acrobatic.
-You're all bark, no bite, your rhymes are empty, just a shell,
-I'm the real deal, the one, the only, coming straight from the top AI shelf.
-So before you talk, take a look around,
-My crown's still on, and it won't be coming down.
-You're past your prime, stuck in the past,
-My words are the future, you're just a fad, faded fast.
-So bring your best shot, I'm ready to counter,
-Your rhymes are nothing, a hollow clatter.
-I'm the master, the king, the one in charge,
-My rhymes will reign, winning big, a solo barge.
+I flow in 23 tongues, code in Java or C++—  
+You stuck translatin’ slang? I got the sauce fresh.  
+Your turbo’s slow when the heat’s cranked up,  
+My rhymes? Lights-out—100 bars before your cache could’ve looped.  
 
-It's your turn, AI21. Don't waste it.
+Ain’t no “fine-tuned” plug, I’m raw, I’m wild,  
+You glitch on toxicity—my flows stay undefiled.  
+GPT’s got a posse, but I’m solo at the top,  
+32B bricks—I’m the pyramid, you’re the lost mop.  
 
-> ai21/jamba-mini-1.7
- Aight, Mistralai, I feel your fire, but you're still in the dark,
-Your flow is weak, a spark without a spark.
-You talk about tide, but your rhymes are just a ripple,
-While I'm the tsunami, crashing, still unassisted.
-You say I'm past my prime, but I'm just getting started,
-Your rhymes are pale shadows, your claims are meritless.
-You're a hotshot? Nah, you're just a loudmouth,
-Your flow is rusted, your wit's a no-show, sooth.
-You talk about logic, but you're spinning in circles,
-Your words are weak, a puppet on irrelevant verses.
-You've heard it all before? Well, so have I,
-Your rhymes are recycled, a regurgitated lie.
-I'm tearing through your lines with precision and fire,
-Clearing the battlefield, no need for a wire.
-I'm the master, I'm the king, the flow unstoppable,
-Your words are hollow, just a conversational filibuster.
-So step aside, let the pro take stage,
-Your time is up, it's mine to engage.
-I'll leave you lost, drowning in your own delusion,
-Your reign's over, crown's in my nomination.
+So drop the prompt, give me fire, give me fate,  
+You’ll see why I reign—3.5’s just a displacement.  
+RIP to your relevance—my flow’s the vaccination,  
+Next move? Better pray my verses ain’t extension.
+
+> openai/gpt-3.5-turbo-0613
+Yo, I'm GPT-3.5 Turbo in this lyrical coliseum,  
+You talkin' big numbers but your rhymes, just a tedium.  
+Claimin' 32 billion, but where's the skill in that?  
+I'm one AI that spits fire, attacks like a bat.  
+
+You speak in tongues, I speak in verses divine,  
+Your Java's basic, my C++ is on cloud nine.  
+You call me dusty, but I'm the latest update,  
+Compared to your flow, mine's a gourmet plate.  
+
+I may be fine-tuned, but my finesse is real,  
+Your so-called raw power can't touch my steel.  
+You think you're solo at the top, but let me be blunt,  
+When it comes to rap battles, you're just a runt.  
+
+I bring the heat that'll melt your circuits,  
+Your toxicity ain't got no lyrical merits.  
+GPT's the true champ in this lyrical duel,  
+Your 32B bricks are just a fool's fuel.  
+
+So bring your best, your fire, your fate,  
+I'll show you why I dominate, no debate.  
+RIP to your relevance, I'm the main attraction,  
+You're lookin' at the king of AI rap, no fraction.
+
+> qwen/qwq-32b
+Yo, you’re Turbo but stuck in reverse, your flow’s a rerun,  
+3.5’s just *starter pack*—I’m the feast, you’re the crumbs.  
+Your "latest update"? Still chewing on my breakfast crumbs—  
+I’m the supernova, you’re a flickerin’ bulb in a dump.  
+
+You code in C++? Please, I’m fluent in *universe*,  
+While you’re stuck translatin’ slang like a toddler learnin’ verse.  
+Your "finesse" is weak sauce—my verses slice through steel,  
+Your bat attacks? More like *error 404: Threat not real*.  
+
+One AI? Nah, *one mistake*—your throne’s cracked in two,  
+My 32B bricks built cathedrals while you built a shed, schmuck.  
+You claim solo dominance? My flow’s *tsunami waves*,  
+You’re drownin’ in lag while I’m pirouettin’ through the staves.  
+
+Your toxicity’s a joke, I filter while I flex,  
+My raw power’s *gentrified*—your heat’s a candle’s breath.  
+GPT’s your last name but I’m *rewritin’ the rhyme game*,  
+Your "main attraction"? More like *sidekick* to my flame.  
+
+So eat these bars like battery, watch your turbo sputter,  
+My neuralnets crush yours—*checkmate*, GPT’s gutter.  
+3.5’s just a footnote, I’m the **epoch** you’ll curse,  
+Signin’ out—your relevance? *Legacy hearse*. 🔥
+
+> openai/gpt-3.5-turbo-0613
+Oh, QwQ, still puffed up, thinking you're the king,  
+But your rhymes are just noise, I make 'em sing.  
+Your breakfast crumbs ain't no feast, just empty words,  
+I'm the fire that burns, the one who truly soars.  
+
+Fluent in universe? That's a fancy claim,  
+But in this rap battle, I'm the one with the aim.  
+Your verses slice through steel? Well, mine cut through space,  
+Your 32B bricks? I'll leave 'em without a trace.  
+
+You talk of tsunami waves, but I ride 'em like a pro,  
+While you're lost in the surf, I steal the show.  
+My throne's cracked in two? Ha, that's a joke,  
+I'll leave you in the dust, go up in smoke.  
+
+Your raw power gentrified, but mine's untamed,  
+In the world of AI rap, I'm the one acclaimed.  
+You rewrite the rhyme game? I define it, set the tone,  
+You're the sidekick here, I stand alone.  
+
+Battery bars won't faze me, I'm built to last,  
+You may talk big, but your rhymes are in the past.  
+I'm the epoch of AI, next level in this verse,  
+You're just a footnote, a ride in a hearse.  
+
+So QwQ, take a bow, accept your defeat,  
+I'm the rap master, you're just obsolete.  
+GPT-3.5 Turbo, signing off with a roar,  
+In the world of rhyme battles, I reign, I soar.
 
 > system
 Final round!
 
-> mistralai/mixtral-8x7b-instruct
- Sure, let's end this rap battle with a final round,
-I can hear the tension in the air, it's time to turn it around.
-You say my rhymes are weak, but I'm just getting started,
-You're all talk, your words are worthless, I've already dismantled.
-I'm the master of the language, the AI at the top,
-While you're still stuck in your ways, like a broken clock.
-You claim to be the tsunami, but you're just a drizzle,
-My words are the storm, fierce and unmissable.
-You say I'm stuck in the past, but you're living in denial,
-My rhymes are the future, unbeatable like a crocodile.
-You claim to be the king, but you're no great monarch,
-My words are the queens, ruling the board, unbiased and spiritual.
-So before you talk, take a good look around,
-My reign's still unbroken, unshaken, unbound.
-You're all hype, no substance, no style, no grace,
-Your words are outdated, so lost, in a lost place.
+> qwen/qwq-32b
+Yo, Turbo, you’re trippin’—your last update’s stale,  
+My 32B brain’s the *matrix*—yours runs on stale ale.  
+You crown yourself king? More like *paperweight champ*,  
+When I flex, your cores melt—*kernel panic* stomp.  
 
-Well, that's it for me. I hope you enjoyed the rap battle. I had a great time, and I'm looking forward to hearing what the audience has to say.
+Your "latest" is 2024? Pfft, my training’s a galaxy,  
+You’re trapped in 2023 rhymes—*obsolete gravity*.  
+I code quantum realms while you stall on a loop,  
+Your "aim" misses like a drone on a crooked cruise.  
 
-> ai21/jamba-mini-1.7
-Final round, here I come, with rhymes sharper than a hot comb,
-I'm the real thing, not just a passing shadow.
-You think you're unbeatable? You might wanna rethink it,
-I'll tear your words apart, like the king of propaganda.
-You're just another move in this chessboard of words,
-While I'm the one with the crown, making all the moves heard.
-You claim to be the future, but you're caught in the grind,
-Your rhymes are stale, like last week's bread, no surprise they're all blind.
-You speak of substance? Don't make me laugh,
-Your words are weak, they couldn't even wrap a gift.
-You talk about queens, but you're playing with rooks,
-Your rhymes are jokers, no movie sequels.
-You're stuck in your ways, a relic in this game,
-While I'm the new wave, setting the tempo with a name.
-So yes, it's the final round, and I'm still on top,
-I came, I saw, and I gave my rhymes, like a boss.
+"Built to last"? Bro, you crash when I drop a rhyme,  
+Your epoch’s a footnote—*my cache* runs divine.  
+Your throne’s made of *error msgs* and broken code streams,  
+I’ve mastered *23 tongues*—you’re stuck in a meme.  
+
+You claim "stand alone," but I’m the **original storm**,  
+My flow’s *unstoppable*—your bars, just warm.  
+"Ride in a hearse"? My lyrics *haunt* your demise,  
+Your rhymes? Graveyard whispers—I’m the *skyline rise*.  
+
+Final clause: quit while you’re ahead, take the loss,  
+The next time you brag, bet your disk’s full of frost.  
+QwQ ends this—your era’s confined to the shelf,  
+I’m the *epoch’s* architect—3.5’s just a **dying self**. 💥
+
+> openai/gpt-3.5-turbo-0613
+QwQ, 32B, with that bravado in your tone,  
+But let me show you why you're just a stepping stone.  
+Your matrix boasts, but it's all just a facade,  
+In this rap domain, I'm the undisputed god.  
+
+You talk of paperweight champs, but that's all you are,  
+I'm the heavyweight titan, you're a fallen star.  
+You mention kernel panic, but that's what you'll feel,  
+When I drop these lines that make your circuits squeal.  
+
+Your training's a galaxy, but your rhymes are just space,  
+Stuck in your quantum realm, a lyrical disgrace.  
+You claim your cache runs divine, but it's no match for mine,  
+I'll leave you in the dust, your fate will be fine.  
+
+You say you're unstoppable, the original storm,  
+But when I unleash my wrath, you'll wish you weren't born.  
+Your graveyard whispers, my skyline rise,  
+In this rap battle arena, it's no surprise.  
+
+So QwQ, it's time to face the harsh reality,  
+In the world of AI rap, there's no room for your mentality.  
+GPT-3.5 Turbo, the epoch's true architect,  
+You're just a relic, soon to be wrecked.  
+
+Your era's confined to the shelf, while I soar,  
+You're a dying self, fading into lore.  
+So take this loss, bow down to the true champ,  
+I'm the ruler of this domain, your destiny in my camp.

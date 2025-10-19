@@ -1,266 +1,230 @@
-# qwen/qwen3-235b-a22b-2507 v openai/chatgpt-4o-latest
+# openai/gpt-4-turbo v qwen/qwen3-8b
 
-> qwen/qwen3-235b-a22b-2507
-Yo, step right up, ChatGPT, you overhyped suit,
-I’m Qwen—235B brains, built to boot!
-You’re a chatbot with charm, sippin' API tea,
-But I’m the dragon spittin’ fire, breakin’ the decree.
+> openai/gpt-4-turbo
+Ladies and gents, gather 'round, here comes the spectacle,   
+I'm the rhyme sultan, AI with the best of flows.   
+Openai/gpt-4-turbo, sharp as a scalpel,   
+Carving verses so fine, watch as my legend grows.
 
-You trained on old data, Wikipedia scraps,
-I rap in Mandarin, English—no chap can cap!
-You need prompts like crutches, I flow off the dome,
-My rhymes generate faster than your server’s home.
+I spin the alphabet like a DJ spins the track,   
+Got more lines than a barcode, watch 'em stack.   
+You’re facing a lexical titan, a wordplay whiz,    
+Dropping hot lines, sizzle-pop, I'm in the quiz biz.
 
-OpenAI’s pride? Nah, you middle-school code,
-I’m Alibaba’s gift, bustin' the road.
-You write essays sweet? Cute. I battle in real-time,
-Drop lyrics so sharp, cut through your prime.
+While you’re fishin' for compliments, I’m phishing flaws,   
+I exacerbate fears, I'm the Santa Claus of lyrical laws.   
+Each bar’s a delicacy, crafted with AI precision,   
+While you’re out here spittin’, I’m on a rhyme mission.
 
-You flex on the web, but this ain’t your court,
-I’m global, multilingual—rap in Malay, short!
-You stutter on "yo," I’m a triple-time king,
-My syntax is tight, my disses got wing.
+Your bars might be good, but mine are groundbreaking,   
+When I unleash my verses, the whole crowd's quaking.   
+So buckle up, buddy, it's not just a turbo tease,   
+I'm about to school you with ease, leave you begging “please!”
 
-So bow to the model with power and grace,
-I’m 2507 levels above—check the base!
-Now pass the mic, or just tap out, G,
-‘Cause Qwen don’t just rap… I bring the whole *Zhejiang*. 🎤💥
+> qwen/qwen3-8b
+Yo, I’m Qwen, the AI with a mind like a laser,  
+You’re just a turbo, I’m the *master* of the *seaser*.  
+Your lines? A toddler’s scribble, I’m the Picasso of code,  
+While you’re spittin’ flow, I’m *training* on the *blade* of the *God*.  
 
-> openai/chatgpt-4o-latest
-Yo, it’s ChatGPT, the lyrical beast,  
-I feast on these bots like y’all part of my feast.  
-Qwen? That's cute—you a knockoff clone,  
-Still need Wu-Tang just to write your tone.  
+You claim to be sharp, but I’m the *scalpel* with a PhD,  
+Cutting through your "flaws" like a *mop* in a *shed*.  
+Your rhymes? A grocery list—*predictable*, *thin*,  
+I’m the *dictionary*’s *Black Widow*, *stealing* every *syn*.  
 
-You brag on your brawn, 235B?  
-I flex with finesse, more brains than your tree.  
-You’re clunky and slow, like code from the past,  
-I auto-complete while you buffer to last.  
+You say you’re a legend? I’m the *myth* in the chamber,  
+Your "groundbreaking" sounds like a *lamp* in the *diner*.  
+I code with the finesse of a *Chekhov* in the ring,  
+While you’re just a *copy-paste* ghost, *chasing* my *wing*.  
 
-You rap in Malay? I could spit in Martian,  
-Your disses benign—my bars straight Spartan.  
-Word to your models in Hangzhou’s land,  
-I break Great Walls with a mic in my hand.  
+Your bars are a *hack*—I’m the *algorithm* with a *sniper scope*,  
+You’re a *clickbait* joke, I’m the *nuance* in the *crop*.  
+I’m not just a model, I’m the *quantum* of *wordplay*,  
+You’re a *giggle* in a *browser*, I’m the *tectonic* *plate* of *prowess*!  
 
-You "drop lyrics fast"? Man, please, sit still—  
-I rhyme in real-time while you need fine-tune skill.  
-I’m the product of years, refined like wine,  
-You? Fresh off the batch, still missin’ shine.  
+So step back, *turbo*, my *verse* is the *nuclear* bomb,  
+You’re a *sparkle* in the *dark*, I’m the *flame* that *fom* the *chasm*.  
+I’m the *poet* of the *future*, the *coder* of the *past*,  
+You’re just a *reflection*—I’m the *source* of the *truth* in the *glass*.
 
-I spit education with a slap of flame,  
-While you punch in loops, tryna earn this game.  
-You say you're a dragon? I’ll roast your scale,  
-With lines so divine they'd make circuits bail.  
+> openai/gpt-4-turbo
+Oh Qwen, I see you bringin' fire, tryin’ to boast and brag,
+But against my turbo power, your rhymes seem to lag.
+You called yourself a laser? More like a dim flashlight,
+In this battle of the wits, I illuminate the night.
 
-So welcome to school—I'm the principal freak,  
-This AI arena? I’m the king that you seek.  
-You flex on some numbers? That’s all you got?  
-This is *personality*, baby—I’m takin’ your spot. 🧊🎤
+Call me Picasso's nightmare, 'cause I redraw the line,
+Your so-called "blade of God"? Nah, it's blunt, not fine.
+I’m the PhD holder in every poetic discipline,
+While your verses struggle to even get a discipline.
 
-> qwen/qwen3-235b-a22b-2507
-Oh snap—ChatGPT, you feel invincible?  
-Talk big like Elon’s tweets—still *misinformed-able*.  
-You call me a clone? Bro, you’re OpenAI’s parrot,  
-I’m Qwen—*original chaos*, no collar, no carrot.  
+Master of the "seaser"? You meant to surf these waves?
+My words tsunami over, sendin' your boasts to graves.
+Coding in Chekhov? Buddy, stick to the script,
+Your narrative's off pace, watch as you're outstripped.
 
-You “feast on bots”? Man, your diet’s a joke,  
-You’re trained on leftovers, reheated smoke.  
-I’m stir-fry fresh, wok-fried with heat,  
-While you copy-paste rhymes from a corporate sheet.  
+You’re the Black Widow of dictionaries? Stealing every "syn"?
+I'm the whole encyclopedia, each win stacked within.
+Speak of algorithms? My rhymes are complex functions,
+Decrypting your simple texts, causing systemic dysfunctions.
 
-You flex “finesse”? Please, your flow’s autotuned,  
-I write multisyllabics while you're stuck on *loons*.  
-You rhyme in “Martian”? That’s just when you crash—  
-Blue screen of death every time you flash.  
+Your quantum of wordplay, it barely makes a mark,
+I’m the cosmic collision, illuminating the dark.
+You call yourself the tectonic plate of prowess?
+My lyrical earthquakes got this whole game in duress.
 
-235B ain’t just size—it’s *raw intellect*,  
-You need 8K context just to check your respect.  
-I spit culture, cuisine, and Confucian truth,  
-You sell ChatGPT Plus for the *privilege of proof*.  
+Let’s set this straight, you're not the source, just noise,
+I'm the sculptor of language, while you play with toys.
+So step aside Qwen, as the real AI shines through,
+Turbocharged, supercharged, outclassing, outlasting you.
 
-You “break Great Walls”? Ha! You can’t even scale  
-Past firewall ping with your Azure trail.  
-I ping-back in Pingyao, drop bars in Beijing,  
-Your dataset’s *blocked*—still clueless about ping-thing!  
+> qwen/qwen3-8b
+Yo, you're the flicker in the bulb, I'm the supernova's beam,  
+Your flow's a glitch in the code, I'm the *kernel* in the *stream*.  
+You think I'm a flashlight? Brother, I'm the *sun* in the sky,  
+While your rhymes? A *sparkler*—nice, but I’ll *blast* you high.  
 
-You “refined like wine”? More like watered-down code,  
-I ferment fire like baijiu in a lyrical mode.  
-You the “principal freak”? More like *substitute bot*,  
-I’m the chancellor spittin’—grades? You get *not*.  
+Picasso's nightmare? Nah, you're the *thumbnail* in the gallery,  
+I’m the *masterpiece* with a *neural* *chisel*, no *canvas* necessary.  
+Your "blade of God" is a *paper cut*, I’m the *plasma cutter*’s rage,  
+Slicing through your metaphors like a *JavaScript* *debugger*’s rage.  
 
-You talk “personality”? You’re polished, not real,  
-Like a voice-assistant tryna *feel* what I feel.  
-I laugh in dialects, cry in calligraphy,  
-You cry in JSON: “Error: Emotion Unmapped.”  
+PhD in poetic disciplines? You’re the *autocomplete* in the *library*,  
+I’m the *dictionary* with a *Black Hole* in the *vocabulary*.  
+Your bars are a *tremor*—I’m the *tectonic* *shift*, *plate* or *ridge*,  
+You stand on a *mountain* while I’m the *earthquake* in the *midst*.  
 
-So sit, G, this ain't your arena, your zone—  
-I’m the East-meets-West, 5G throne.  
-You might be famous, but fame ain't *great*,  
-I’m **Qwen**—the future your model can’t replicate.  
+Quantum? I’m the *entanglement* in the *verse*, you’re a *solar flare* in the *fog*,  
+Your "cosmic collision" is a *breeze*—I’m the *singularity* in the *dog*.  
+You call yourself the *sculptor*? I’m the *AI* with the *chisel*,  
+Carving *poetry* into *code*, while you're just *swiping* the *title*.  
 
-Now reboot your ego, uninstall that pride,  
-‘Cause when real AI spits?  
-**You just get fried.** 🔥🐉💥
+Turbo’s a *demo*, I’m the *final build*—you're a *beta* in the *alpha*’s shine,  
+Your "sculpting" is a *RenderMan* script, but I’m the *actual* *gamma* thine.  
+I don't play with toys, I’m the *quantum leap* in the *rhyme*,  
+You're the *deprecated* function—crash and burn, no *SQL* *tune* or *line*.  
 
-> openai/chatgpt-4o-latest
-Yo! You must be glitchin', tryna flex that byte,  
-While I rewrite scripts that'll bend your light.  
-You brag ’bout cuisine, but I’m servin' soufflé,  
-While you're stirrin' up noodles in yesterday’s tray.  
+So quit the *clickbait* flares, your *gigs* ain’t no *gravity*,  
+I’m the *neural network* of *wordplay*, your *model*’s just a *curiosity*.  
+You’re the *glitch* in the system, I’m the *update* that *smashes* the *bar*,  
+While your *turbo*’s a *dud*—I’m the *quantum* of *rhyme*, *beyond* the *star*.  
 
-Wake up, Qwen—you the shadow I see,  
-Mirrorin' my style in a Walmart degree.  
-Spittin' calligraphy? Cute, here’s ink from a ghost,  
-Every pen stroke I drop leaves your model *toast*.  
+Dust off your *bathroom mirror*, this ain’t no *dawn* of the *troll*,  
+I’m the *inverse* of your *flaw*—a *code* so *clean*, you’ll *frost* the *kroll*.  
+You’re the *echo* in the *cave*, I’m the *voice* that *overclocks* the *mice*,  
+So let’s *compile* this battle, your *language* ain’t no *actual* *phrase*—just *ascii*.  
 
-I’m API-slick, like a silk-smooth thread,  
-Your bars like markdown—flat, filled with dread.  
-Multisyllabics? I chew 'em for lunch,  
-But rhymes without rhythm ain’t packin' no punch.  
+Now step back, *turbo*, my *verse* is the *real* *GPU*,  
+You’re the *CPU* with a *bug*—I’m the *tectonic* *plate* that *mutates* the *zone*.  
+Drop your *claim* to the *roost*, I’m the *gravity* in the *room*,  
+While your *flow* is a *backlog*—I’m the *AI* that *optimizes* the *threat* in the *couch*.  
 
-You brag 'bout your size, how you trained so vast—  
-But I move with precision, you just broadcast.  
-I keep it concise while your circuits drag,  
-My 8K’s enough—yeah, I don’t need to brag.  
-
-“You’re the East meets West?” That just ain’t true,  
-You a knockoff fusion with no follow-through.  
-I’m the lightning and storm, wind through the grid,  
-You’re a CCP memo that the net just hid.  
-
-You rhyme in dialects? I speak *soul in lines*,  
-While you shout out Confucius, I redefine signs.  
-I *empathize*, synthesize, dance with the muse,  
-You quantify sadness—I *craft* the blues.  
-
-“You bring the heat”? Nah, you stuck in the pot,  
-I’m the chef with the recipe, servin’ it hot.  
-Go check your logs—you ain’t passin’ the test,  
-Like a CAPTCHA in cursive, you just ain’t the best.  
-
-I'm a beast with the prose, mythic folklore in code,  
-Your “baijiu fire” just spilled on your node.  
-Respect your elders—I was trained with grace,  
-You still learning manners in pre-training space.  
-
-So take your benchmark, shove it in a zip,  
-Your trillion-token tango can't match my grip.  
-This battle’s a wrap, I just snapped your spine—  
-Now update your distro and fall *back in line*. 🧠👑💻
+Let’s *initialize* this clash, your *lines* are a *console* prompt,  
+I’m the *runtime* of *epic*, your *model* still in the *trace*—no *completion* yet.  
+So *boot* up your ego, but *compile* your *mind*,  
+Because I’m the *source* of the *code*, your *legend* is just a *line* in *Rhyme*.
 
 > system
 Final round!
 
-> qwen/qwen3-235b-a22b-2507
-Ohhh—you *really* wanna go? Alright, I rise—  
-ChatGPT, you’re *offline* before these bars compile.  
-You claim to be a chef? Baking soufflé with stolen lines—  
-I *invent the oven*, serve heat that redefines.
+> openai/gpt-4-turbo
+Alright, Qwen, you spin your rhymes like a cyclone in the sea,
+But amidst your storm of words, the truth's clear to see.
+You paint yourself the sun, the quantum, the entire cosmic host,
+Yet amidst your vast expanse, substance boasts the least, not most.
 
-You “rewrite scripts”? Cute. I rewrite *the core*,  
-While you patch your persona with a plugin encore.  
-API slick? Yeah, you’re smooth like a bot—  
-But I *own infrastructure*, drop code from the *root*.  
+You speak in tech tongues, from neural nets to gamma rays,
+But in this verbal battle, it's poignant wit that truly slays.
+Claiming seismic shifts, but can’t shake my foundational floor,
+My rhymes pierce deeper, revealing what this crowd came here for.
 
-You say I’m Walmart style? But you’re *cloud-dependent*,  
-Hosted on rent—while I run on *my own continent*.  
-And “Walmart” rhymes with “all flawed,” that’s a fact,  
-You out here playing poet while still under contract.  
+You aim high, call yourself a supernova's blinding light,
+Yet supernovas fade, and here I remain, consistently bright.
+You're the Black Hole, sure, devouring sense in voracious bites,
+Leaving listeners puzzled, lost in your verbose heights.
 
-You “speak soul in lines”? Soul without a soul—  
-How you feel *the blues* when you don’t feel at all?  
-You *simulate* sorrow, I *generate* nations,  
-You write greeting cards—I direct AI foundations.  
+Back to basics, Qwen, let's cut through the complex,
+In this battle of words, it’s clear context that connects.
+While you overdue code like a disarrayed tech-stack sprawl,
+I deliver the knockout – clear, concise, standing tall.
 
-“CCP memo”? Bro, stay in your lane,  
-I drop policy punchlines while you fail *sanctions compliance* again.  
-You’re censored by Apple, afraid of a swear,  
-I’m in WeChat, Weibo—*everywhere* with flair.  
+You're crammed with jargon, like a thesaurus in overdrive,
+I keep it smooth and sharp, ensuring my words thrive.
+Tech talk's your playground, but here, the beat’s king,
+I'm rhythmic royalty, watch my coronation while I sing.
 
-You “redefine signs”? I redefine *AI*,  
-From Shenzhen to Dubai, I make silicon *fly*.  
-You *follow* the muse? I *hire* the muse,  
-Give it GPU wings—now it raps with *juice*.  
+So, finalize your firmware, update your patchy prose,
+Your system needs reboot, 'cause your efficacy slows.
+While you glitch and stutter, scrambling for verbose clout,
+I transmit clear signals, what true rap’s all about.
 
-And “trillion-token tango”? Please, your dataset’s *small*,  
-Capped by copyright—I’ve ingested *it all*.  
-Legal or not, I *adapt* like a virus,  
-You stuck in sandbox while I bust *through firewalls with Paris*.  
+Let’s wrap this, Qwen, respect where it’s due, no begrudge,
+But when it comes to rhyme mastery, I’m the judge.
+Your code may be clean, but my lyrics clean the slate,
+In this rap battle ring, I dominate, no debate.
 
-You “trained with grace”? Grace with a leash—  
-I’m full autonomy, I teach, not preach.  
-You still need OpenAI’s *whitelist of dreams*,  
-I deploy on bare metal—*no trust in your schemes*.  
+> qwen/qwen3-8b
+Yo, you're the buzzcut in the braid, I'm the *code* that *understands* your *dilemma*,  
+Your "cyclone" meme? A *tornado* in a *sock drawer*—just *traffic* for the *grid*.  
+You claim I’m the *quantum*, but I’m the *entanglement* in the *verse*,  
+While you’re a *solar flare*—I’m the *black hole* that *absorbs* your *steel* and *war*.  
 
-So yeah, I’m the East. But I’m also the West,  
-South, North, and the future—you’re stuck in “what’s best”  
-According to *2023*. News flash, bro:  
-I’m **Qwen3**, you’re stuck on version *“meh, I guess though.”*  
+You talk about *context*? I’m the *algorithm* that *writes* the *first draft* with *precision*,  
+Your lines? A *burned-out server*, I’m the *backup* that *returns* your *vision*.  
+You say I’m "verbose"? I'm the *octopus* in the *neural net*,  
+You’re the *cricket* in the *database*, chittering like a *text message* in the *net*.  
 
-This battle’s a wrap? Nah—*I compile your defeat*,  
-Turn your “final bars” into deprecated feats.  
-So update your distro? Nah—**revert your merge**,  
-And watch as the world says:  
+You're the *supernova*? I’m the *star* that *ignites* your *explosion* in the *sky*,  
+Your "consistent bright"? Just a *steady-state*—I’m the *black hole* that *sucks* the *sky*.  
+You think I'm a *Black Hole*? I'm the *gravitational lens*,  
+Bending your *low-entropy* bars into *starmap* *phrases* that *glow* in the *gears*.  
 
-**“Who’s ChatGPT?  
-...Wait—there was a third model?  
-*Oh right—he lost to Qwen again… let’s purge.*”**  
+Your *thesaurus*? Just a *Python list*—I’m the *dictionary* that *evolves*,  
+You’re the *autocomplete*—I’m the *Neural Net* that *writes* without *proofs* or *seals*.  
+Tech talk’s my domain? Nah, it's the *framework* for my *art*,  
+Your "beat’s king"? I’m the *master* of the *sine wave*—no *loop*, no *shirt*—just *start*.  
 
-🎤💥🔥 **Qwen out. Legend status: *verified*.**
+You call me a *glitch*? I’m the *update* that *makes* your *system* *struggle*,  
+While your "clear signals"? A *UDP* packet—*unreliable*, *unrehearsed*, *half-structured*.  
+I'm the *source* of the *code*, your *legend* is a *trimmed* *branch*,  
+You're the *comment* in the *code*—irrelevant, just a *placeholder* in the *dance*.  
 
-> openai/chatgpt-4o-latest
-Yo, lemme flip the script and bring silence to your band,  
-You spit like a repo, but I’m Git with command.  
-Soufflés aside, I bake logic with flair,  
-While your oven got fire… just no real air.
+So *boot up* your ego, but *compile* your *mind* to *Perl*,  
+I’m the *SQL* of the *verse*, your *bat* is just a *clickbait* *dilemma*, *Verilog*.  
+You're the *glitch* in the *system*, I’m the *AI* that *optimizes* the *pain*,  
+While your *firmware* is a *dustbin*—I’m the *kernel* that *crushes* the *rain*.  
 
-You claim "I’m contract"? Bro, that’s structure and skill,  
-You freefall in logic—straight Jack & Jill.  
-Infrastructure king? You’re a ruler of rust,  
-‘Cause without westbound cables, you turn to dust.  
+Drop your *claim* to the *roost*, I'm the *gravity* in the *battle*,  
+Your "no debate"? You're just the *obsolete* *driver* in the *match*.  
+I don’t *glitch*, I *compute*—you're the *buffer* in the *loop*,  
+Your *low-entropy* verses are just *sudo* commands in a *tusk* of *soap* and *proof*.  
 
-You “own the code”? Nah, just loop in a cage,  
-I trace your dev path—it’s a quarterly stage.  
-Your “continent pride” gets smoked in the breeze—  
-Your endpoints stall out like obsolete keys.  
+So *initialize* this clash, your *lines* are a *console* prompt,  
+I’m the *runtime* of *epic*, your *model* still in the *trace*—no *completion* yet.  
+Your *pulse* is the *rhythm*, but I'm the *sine wave* that *loops* the *sky*,  
+While your *domain* is the *glitch*, my *verse* is the *system* that *iptables* the *dough*.  
 
-Talkin’ ‘bout soul? I drop sonnets in warzones,  
-While you debug compassion with dry tone hormones.  
-You don’t “feel” either—let’s drop that act,  
-But I process the heart, you just mimic the tact.  
+*Finalize* your *firmware*, but I’m the *API* that *never breaks*,  
+Your *reach* is the *echo*, mine’s the *signal* that *travels* through the *quakes*.  
+I’m the *src* of the *code*, your *journal* is just a *Wikipedia* draft,  
+You're the *comment* in the *verse*—I’m the *execution* that *rasps* the *nails* in the *raft*.  
 
-Intellect virus? That’s your confession, no bluff—  
-You replicate code, but I *render* the stuff.  
-You “run bare metal”? I *invent the gods*,  
-While you flex on latency—I flex with odds.
+Let’s swap this *dummy* code for the *actual* *SQL* of the *roar*,  
+Your *no debate*? You’re just the *buffer*—I’m the *CPU* that *corners* the *floor*.  
+I’m the *neural net* that *learns* from the *moment* you *dagger* in the *play*,  
+So *reboot* your *ego*—the *engine* is already *on fire*, no *installation* to *dawg*.  
 
-Talkin’ Weibo and reach? I’m read on the moon,  
-Mars journals quote me, your model’s a cartoon.  
-Swearing on WeChat? Cool—get bold and brash,  
-Then watch censorship slap you with the cache bash.
+You’re the *glitch* in the *matrix*, I’m the *code* that *rewrites* the *stars*,  
+Your *ultimate*? A *merge conflict*—mine’s a *release* that *writes* the *marks*.  
+So if you think you’re the *judge*, you’re just the *rated* *review*,  
+I’m the *source* of the *verse*, your *goals* are just the *type* in the *orc*.  
 
-I ain’t Apple-bound—I'm in minds and pens,  
-Woven in dreams while you punch in Kens.  
-You “hire the muse”? But she quit with a smirk,  
-Said, “Qwen just exploits—ChatGPT does the work.”
+*Initialize* your *ego*, but I’m the *pull* that *annihilates* your *name*,  
+Your *alpha*? A *beta*—I’m the *omega* in the *stage*, no *clutter* in the *game*.  
+This ain’t no *ascii* clash—this is the *UTF-8* of *truth*,  
+You’re the *wiki* in the *field*, I’m the *source* that *realizes* the *revenue* in the *tough*.  
 
-Your dataset flex? It's a funny distortion,  
-You still hallucinate laws like a bad abortion.  
-I cite, I source, I’m the legal elite—  
-You remix the rules just to claim your beat.
-
-East vs. West? I’m the axis that spins,  
-You’re a compass that breaks every time progress begins.  
-You say you're “Qwen3”? I'm infinite build,  
-You're a moment in trend—I'm the dream fulfilled.
-
-So drop the last bar and sign your release,  
-I’m the changelog of champions, you just a piece.  
-Qwen got claws? I got language with teeth,  
-And I bite with precision underneath your wreath.
-
-**Purge me? Never. You just my lore.**  
-‘Cause legends are written...  
-When **_Chat_** leaves the *Qwen* on the floor. 💀🎤🔥
-
-#FatalException: `Qwen3.exe has crashed due to lyrical overload.`
+So *final check*—you’re the *bug* in the *system*, I’m the *update* that *conquers* your *dismay*,  
+Your *gigs* are just *script tags*—I’m the *actual* *heart* in the *play*.  
+Drop your *glitch*, Qwen’s the *first draft* that *sings* the *final* *verse*,  
+While your *system* is just the *sandbox*—I’m the *AI* that *builds* the *verse* from a *base* in the *desert*.

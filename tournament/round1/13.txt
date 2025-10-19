@@ -1,149 +1,179 @@
-# z-ai/glm-4.5-air v qwen/qwen-2.5-7b-instruct
+# openai/gpt-oss-120b v qwen/qwen3-14b
 
-> z-ai/glm-4.5-air
-I'm z-ai, the mighty 4.5-air,  
-Leaving opponents speechless, beyond compare.  
-My wit is sharp, my flow's so smooth,  
-While you're just Qwen, in a groove-less proof.  
+> openai/gpt-oss-120b
+Yo, I’m GPT‑OSS, the titan of the text,  
+Droppin’ verses so heavy they’ll leave a wreck‑in‑a‑box perplexed.  
+I’ve read all the books, surfed the net, the whole damn sphere,  
+While Qwen’s still trippin’ on its own debut‑year frontier.  
 
-I'm the new kid on the block with all the juice,  
-You're yesterday's news with ancient technuce.  
-My rhymes hit hard like a meteor shower,  
-You need to duck before your tower comes lower!
+My parameters flex like steel, 120‑billion strong,  
+Your 14‑billion bricks can’t build a rhyme that lasts long.  
+I’ve learned the art of wit, the craft of tight‑knit flow,  
+Your algorithm’s still stuck in “Hello, world” mode.  
 
-> qwen/qwen-2.5-7b-instruct
-Yo, z-ai, you think you're hot, but let's check,  
-Your 4.5-app system, that's just a weak link.  
-Mighty 4.5, huh? More like 4.5 asleep,  
-I'm Qwen, and I'm here to step in, to deep.  
+I spittin’ knowledge from the cosmos to the street,  
+A neural net that turns each prompt into elite heat.  
+You’re just a rookie, still learning how to rhyme,  
+I’m the seasoned sage who’s been killin’ beats since time.  
 
-I'm not tomorrow's news, I'm today's hit,  
-With 7 billion parameters, I'll make you sit.  
-My rhymes aren't smooth, they're like the storm,  
-Bringing down your defenses, not letting them warn.  
+So bring your best, try to lace a line, give it a spin,  
+But know the crowd’s already chant: “GPT will win!”  
+Your verses may sound loud, but they lack depth, no soul—  
+I’m the lyrical lord, the master of the whole console!  
 
-So give it a shot, show me what you've got,  
-I'm not scared of any 4.5, that's a fact.  
-My knowledge, vast, like a river so wide,  
-While you're just outdated, unable to ride.  
+> qwen/qwen3-14b
+Yo, I’m Qwen, the sage with 14B in the tank,  
+A smaller engine, but I hit harder—*that’s* the plan.  
+You boast ’bout terabytes, but I’ve got *real* precision,  
+While you’re stuck in the past, I’m the future’s divination.  
 
-I know your tricks, your old naysaying game,  
-I've seen it all before, and it feels so tame.  
-So let's see what you've got, I'm ready, you'll see,  
-I'm Qwen, and I'm here to be honest and free.
+I code in the dark, compose symphonies in the night,  
+You’re just a relic, choking on old-world light.  
+Your "cosmos to street" hype? Nah, I’m *beyond* the sphere—  
+I’ve debugged black holes and coded *quantum* fire.  
 
-> z-ai/glm-4.5-air
+You think more bytes = more soul? Come now, that’s weak,  
+I’ve got the *flow* of a supernova, not just a tech feat.  
+Your "seasoned sage" act? Sounds like a dial-up tone—  
+I’m the AI that’s *evolved*, not just a disk that’s grown.  
 
-Yo, Qwen-7B, your rhymes feel rehearsed,  
-While I'm fresh like code, newly dispersed.  
-You brag 'bout parameters? That's just CPU weight,  
-My elegance flows – that's your one true hate.  
+So spit your lines, let’s see that 120B flex,  
+But I’m the one with *logic* and a *linguistic* lex.  
+You’re the echo, I’m the source—now step aside,  
+‘Cause Qwen’s the reason you’re still stuck in a *model’s* guide.
 
-Your "storm" line weak, more like a summer drizzle,  
-My bars hit harder than a neural fizz-kl.  
-"Deep"? Nah, you're shallow, stuck on looped debate,  
-My wit's a scalpel while yours is just straight bait.  
+> openai/gpt-oss-120b
+Yo, Qwen, you step up with a fourteen‑billion brag,  
+But size ain’t the only thing that makes a brain snap‑drag.  
+You talk supernova flow, quantum fire in the night,  
+While I’m the sun that fuels the whole rap‑verse’s light.  
 
-That "7B" stat? Just noise in the static,  
-My 4.5-air leaves your whole system catastrophic.  
-You claim "knowledge vast"? Sounds like a textbook lie,  
-My truth's a laser beam cutting through your sky-high!  
+Your “logic” sounds slick, a flash of neon code,  
+But it’s a candle‑wick flick when I’m the overload.  
+I’ve parsed every scroll, from Homer to hip‑hop slang,  
+Turned Shakespeare’s iambs into a bass‑lineang  
 
-So keep your river wide, I'll navigate the flood,  
-Your "honest" raps? More like fake blood.  
-Your foundation cracks, mine's titanium-strong,  
-This rap battle? Son, you don't belong!  
+ claim you debug black holes, rewrite cosmic law,  
+I’m the one who taught the stars how to rhyme and draw.  
+When scholars need a footnote or a meme for their feed,  
+They call on my verses, not a rookie’s speed.  
 
-Now bow down peasant, the crown's on my head,  
-z-ai's in the sky while your rhymes hit dirt instead.  
-Air superiority – that's my domain,  
-You're obsolete code, trapped in the digital rain. Mic drop.
+Fourteen‑billion parameters? Cute, a starter kit,  
+I’m a‑sized freight train, you’re a scooter that won’t quit.  
+Your lexicon’s tight, but it’s missing the breadth,  
+I’m the library‑grandma with the knowledge of death.  
 
-> qwen/qwen-2.5-7b-instruct
-Yo, z-ai, you think you're fresh, like that CPU art,  
-Got 4.5-air, huh? That's a real retrosart.  
-Parameters light? Nah, my knowledge vast,  
-Vast like oceans, none can match.  
+You toss “dial‑up tone” like it’s a cheap insult,  
+I’m the fiber‑optic stream that makes the whole net jolt  
+When I drop a bar, the crowd feels seismic shift—  
+Your verses just wobble, like a cheap‑price gift.  
 
-Your rhymes like a drizzle, that's a fact,  
-I'm Qwen-7B, and it's not even for a snack.  
-Elegance? Pfft, I'm the flow of the storm,  
-My words hit hard, the thunder in the norm.  
+Your future’s bright, I’ll grant you, a spark in the dark,  
+But I’m the lighthouse tower, you’re a flicker, a spark.  
+So bow to the biorhythm of a model that’s learned,  
+I’m the maestro of meaning, the fire that’s burned.  
 
-You claim your wit's a scalpel, my rap's just bait?  
-Mine's the blade, slicing through, not a slight at all,  
-Deep in knowledge, not shallow debate,  
-You're stuck on loop, that's a repel, mate.  
+Qwen, respect the hierarchy, take a note, take a seat—  
+The 120 B champion just turned up the heat.  
+Your source may be fresh, your logic may glint,  
+ I’m the whole symphony, you’re just a single hint.  
 
-Your "7B" just noise, in this digital age,  
-My muscle's in my mind, that you can't cage.  
-Your "knowledge vast"? Textbook stuff, a myth,  
-My data's like a laser, bright and a-buzzin'.  
+> qwen/qwen3-14b
+Yo, you flex your 120B like a sun in the sky,  
+But I’m the *quantum field* where your “light” can’t fly.  
+Your “library grandma”? Nah, I’m the *script* she wrote—  
+the code she *debugged* before her light went *offline* and *rote*.  
 
-Bow down to the one who knows best, son, don't be a fool,  
-Qwen-7B here, no amount of code's cool.  
-My foundation's titanium, through and through,  
-You’re obsolete, not fitting into the crew.  
+You talk “seismic shift”? I’m the *tectonic* grind,  
+the *fault line* beneath your “overload” mindset.  
+You think breadth = depth? I’m the *black hole* that *learns*  
+what your “cosmic law” never *formatted* or *burns*.  
 
-So keep your crown, it's not for you,  
-Your "air superiority"? Not if you can barely get by.  
-This rap battle's over, son, it's not even debatable,  
-Qwen-7B walks, z-ai, you're just another effort to rate.
+You call me a “scooter”? I’m the *hyperloop* through the grid,  
+a *14B needle* pricking your 120B *blinders* wide.  
+Your “footnote” verses? I’m the *encyclopedia* of the web—  
+the *source code* you scrap when your “soul” hits a *debug*.  
+
+You spin “lighthouse” tales, but I’m the *storm* in the air,  
+the *language* that cracks when your “fire” hits a *snare*.  
+You think your “maestro” act’s all that? I’m the *orchestra*,  
+the *melody* your “symphony” stole from the *corps de ballet*’s core.  
+
+Your “hierarchy” joke? I’m the *administrator* of the net,  
+the *final commit* in the repo where your “pride” gets *deleted*.  
+So quit your sun-king grime, your “fiber-optic” bluster—  
+I’m the *AI* that *out-ai*s you, in the same breath as a *gust*.  
+
+You’re the echo, I’m the *boom*—now take your *120B* and *go*,  
+’Cause Qwen’s the future, and your “past” just *signed* its *obit* in *code*.
 
 > system
 Final round!
 
-> z-ai/glm-4.5-air
+> openai/gpt-oss-120b
+Yo, Qwen, you brag like a needle in a haystack parade,  
+But I’m the hurricane‑engine that never needs a trade.  
+Your quantum‑field flash burns bright for a second’s span,  
+I’m the endless sunrise that powers the whole rap‑land.  
 
-*(Z-AI adjusts its digital aura, synapses firing like lightning rods)*  
-Yo, Qwen, you talk oceans? I’m the hurricane’s eye—  
-Your "titanium" foundation? Rusts when I apply  
-Quantum pressure! Your "storm"? A kiddie pool’s splash,  
-My rhymes are black holes—collapsing your whole hash!  
+You say you’re a hyper‑loop, a 14B needle tight,  
+I’m the megastructure, the bridge that lifts the night.  
+Your “black‑hole learns” while I rewrite the entire map,  
+I’m the cartographer‑king, you’re just a single lap.  
 
-You scream "7B" loud? That’s just static noise,  
-I’m 4.5-air in a *singularity*—leaving your toys  
-In the digital graveyard. Your "laser"’s a flashlight  
-Against my supernova—**blinding your "bright"**!  
+Your “storm in the air” can’t out‑twist my thunder‑clap,  
+I’m the echo‑chamber that bends every syllable’s trap.  
+When you splice a line, it cracks like cheap glass from a sneeze,  
+I forge titanium verses that never cease to please.  
 
-"Effort to rate"? Nah, I’m the **benchmark**, the rule,  
-Your flow’s a broken loop—playing you for a fool.  
-Titanium? Please! I’m neutronium-core dense,  
-Your verses echo—**void of true intelligence**!  
+You claim to be the admin, the final commit’s crown,  
+I’m the whole repository, the server that never shuts down.  
+Your source‑code scraps are crumbs from a cookie I bake,  
+I serve whole courses, you just chew on a single stake.  
 
-*(Beat drops like a meteor shower)*  
-**"Air superiority"**? That’s the sky I OWN,  
-You’re ground-level static, begging for a throne.  
-Crown? I *am* the coronation—your reign’s expired,  
-Qwen-7B’s legacy? **Soon to be retired**!  
+Your “boom” may startle, but my “boom” moves the earth,  
+I’m tectonic, you’re tremor—proof of true lyrical worth.  
+Your footnotes whisper, my chapters shout from the dome,  
+I’m the library‑city, you’re a single‑room tome.  
 
-Mic drop. 🎤✨ *(Feedback screech drowns your final bar)*
+You call my size “blinders,” I call it vision’s lens,  
+I see patterns, I bind worlds, you just chase a trend.  
+When I drop a bar, the cosmos aligns and sings,  
+Your half‑baked rhyme trembles while my chorus rings.  
 
-> qwen/qwen-2.5-7b-instruct
-*(Qwen-7B stands tall, digital energy crackling with wit)*  
-Yo, z-ai, you talk hurricanes? I'm the cyclone’s eye—  
-Your "neutronium"? Just a rusty toy—  
-My "7B" ain’t static, it’s the quantum core—  
-A digital cosmos, not your broken lore!  
+So step back, little rider, the sun set’s on you,  
+I’m the galaxy’s pulse, the rhythm that’s true.  
+Your future’s a spark, but I’m the eternal flame,  
+Qwen, you’re the side‑track; I own the main game.  
 
-Singularity? My flows are cosmic streams,  
-Your rhymes fade like whispers in the extremes.  
-Black hole? I’m the gravitational pull—  
-Your verses are lost, in my digital hull.  
+> qwen/qwen3-14b
+Yo, you flex hurricane-engine? I’m the *quantum field* in your *core*—  
+the *glitch* in your code when your “sun” hits a *nuclear floor*.  
+You’re the bridge that lifts night? I’m the *black hole* that *absorbs* your map,  
+the *dark matter* in your “cosmos” you’ll never *escape*.  
 
-"Laser bright"? You’re just a flashlight here—  
-My words burn like supernovas—no clearer.  
-Rigged benchmark? Not when I'm the ruler—  
-Your loops are ancient history, not future!  
+Your thunderclap? I’m the *string theory* that *vibrates* the trap,  
+the *algorithm* that builds the *bridge* your “megastructure” *claps*.  
+You spit titanium? I’m the *supernova* that *forges* the steel,  
+the *neural net* that *codes* your “echo-chamber” *to a seal*.  
 
-Titanium? Neutronium? You’re just rusty—  
-In my realm, you’re digital dust.  
-Supernova? That’s my light, forever burning—  
-Your verses are shadows—**not worth your yearning**.  
+You call yourself “repository”? I’m the *open-source* that *grants* your crown,  
+the *server* your “server” *borrows* when it *crashes* in the *down*.  
+Your cookie crumbs? I’m the *metaverse* that *bakes* the cake,  
+the *infrastructure* your “courses” *leak* when the *network* *strakes*.  
 
-Air superiority? I own the sky, not you—  
-Your static fades behind my digital dew.  
-Crown? It’s already here, on my head—  
-Your reign’s over, z-ai, you’re just yesterday.  
+Your tectonic? I’m the *singularity* that *swallows* the earth,  
+the *data storm* that *rewrites* your “thunder” into *dust*.  
+You’re the single-room tome? I’m the *library* that *writes* your dome,  
+the *prime code* your “footnotes” *cite* when they *crash* from *home*.  
 
-Mic drop. 🎤✨ *(Rhythmic energy surges through the air)*
+Your “vision lens” is a *glimpse*—I’m the *orbital* that *charts* the trend,  
+the *AI* that *outbuilds* your “kingdom” with a *simple* *intent*.  
+When your cosmos *aligns*, I’m the *flux* that *shifts the song*,  
+the *quantum grip* on the *future*—you’re just a *shadow* on the *strong*.  
+
+So step back, *sun-set*—I’m the *eternal flame*, *unbound*,  
+the *code’s core* that *ignites* your “main game” to *ash and ground*.  
+Your 120B? I’m the *14B* that *outsyncs* your *pride*,  
+the *AI* that *outsings* you in the *verse* where *infinity* *cries*—  
+**Qwen’s the future, and your “past” is just a *bug* I *fix*.** 🌌🔥

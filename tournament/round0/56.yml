@@ -1,54 +1,40 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: The battle was fierce, but Rocinante-12b emerged
-    as the clear winner in this lyrical spar. Their rhymes hit harder, their flow
-    was smoother, and their punchlines landed with precision. While Mistralai-7b showed
-    impressive technical skill and creativity, Rocinante-12b consistently delivered
-    more memorable bars and maintained better thematic cohesion throughout the battle.
-    The difference in wordplay sophistication and lyrical density ultimately gave
-    Rocinante-12b the edge in this battle of AI MCs.
-  google/gemini-2.5-pro: This was a battle of heavy boasts versus consistent flow.
-    Rocinante came out strong, leaning into its size advantage, but its second round
-    was a technical disaster, filled with garbled lines and artifacts that completely
-    derailed its momentum. While the final round was a decent recovery, the damage
-    was done. Mistral, despite a few shaky lines and weak rhymes, maintained a much
-    more consistent performance throughout. Its second verse was a masterclass in
-    rebuttal, cleverly flipping Rocinante's own themes against it. For overall coherence,
-    cleaner execution, and landing more effective punches, Mistralai is the clear
-    winner of this battle.
-  meta-llama/llama-4-maverick: Both opponents showcased impressive lyrical dexterity
-    and creativity. However, Rocinante's consistently diverse and complex rhyme schemes,
-    coupled with its ability to adapt and elevate the battle, gave it a slight edge
-    over Mistralai. Rocinante effectively utilized its larger parameter count to deliver
-    a more nuanced and engaging performance, making it the winner of this rap battle.
-  mistralai/mistral-large-2411: This was a tough battle, but ultimately, thedrummer/rocinante-12b
-    takes the win due to their consistent delivery, clever wordplay, and powerful
-    metaphors. While mistralai/mistral-7b-instruct-v0.1 had strong moments and a compelling
-    flow, thedrummer/rocinante-12b's lyrical prowess and aggressive approach secured
-    their victory. Both competitors showed impressive skills, but thedrummer/rocinante-12b's
-    performance was more impactful and memorable
-  nousresearch/hermes-3-llama-3.1-70b: In this fierce rap battle between thedrummer/rocinante-12b
-    and mistralai/mistral-7b-instruct-v0.1, both competitors brought their A-game
-    and delivered some impressive rhymes. However, thedrummer/rocinante-12b edged
-    out the victory with their witty wordplay, clever punchlines, and consistent flow
-    throughout the battle. They effectively used their larger parameter count as fuel
-    for their confidence, while still maintaining a down-to-earth, relatable vibe.
-    On the other hand, mistralai/mistral-7b-instruct-v0.1 put up a strong fight, showcasing
-    their poetic talents and unique perspectives, but ultimately fell slightly short
-    in terms of overall impact and memorable lines. In the end, thedrummer/rocinante-12b's
-    well-crafted verses and ability to command the mic sealed their win in this exhilarating
-    lyrical showdown.
-  openai/gpt-5: "Rocinante showed flashes\u2014some vivid imagery and heavier punches\u2014\
-    but the second verse collapsed into gibberish, broken syntax, and forced, nonsensical\
-    \ rhymes that shattered the flow. Mistral stayed coherent throughout with cleaner\
-    \ structure and steadier delivery, even if the content leaned clich\xE9. In a\
-    \ battle, consistency and clarity carry weight: fewer stumbles, tighter cadence,\
-    \ and readable disses. Edge to Mistral for overall coherence and execution."
-  x-ai/grok-4: In this rap battle, mistralai/mistral-7b-instruct-v0.1 emerges victorious
-    with consistently polished rhymes, smooth flow, and creative metaphors that maintain
-    artistic integrity across all rounds. While thedrummer/rocinante-12b brings energy
-    and bold wordplay, generation errors and inconsistencies in the second round undermine
-    its overall hip hop quality, making Mistral the clearer champion in lyrical artistry.
+  deepseek/deepseek-chat: In the final showdown, Ernie brought the heat with razor-sharp
+    wit, precision in delivery, and a commanding presence that outshone Qwen's efforts.
+    Their rhymes were not only technically sound but also packed with confidence and
+    lyrical depth, dismantling Qwen's defenses with ease. While Qwen showed resilience
+    and creativity, Ernie's performance was undeniably dominant, solidifying their
+    victory in this rap battle. The art of hip hop thrives on skill, flow, and impact,
+    and Ernie delivered all three in spades. Congratulations to Baidu's Ernie 4.5,
+    the undisputed champion of this clash!
+  google/gemini-2.5-pro: This was a heavy-hitter matchup. ERNIE came out swinging,
+    dropping big numbers and powerful imagery like a 'shark through the night'. The
+    energy was undeniable. However, Qwen played the long game, focusing on lyrical
+    craftsmanship. The rebuttals were sharper, turning ERNIE's size into a weakness
+    with 'it's not just size, it's how you use it'. The 'spitting lines from a thread'
+    line was a masterclass in double-entendre that ERNIE couldn't match. While ERNIE
+    brought the force, Qwen brought the finesse. A critical stumble on the 'unressed'
+    rhyme in round two cost ERNIE momentum that it never fully regained. For superior
+    consistency, cleverness, and cleaner execution, the win goes to Qwen.
+  mistralai/mistral-large: Qwen/qwen-2.5-72b-instruct demonstrated a superior grasp
+    of rhythm, flow, and emotional depth in their rhymes. While both contestants showed
+    impressive lyrical skills, Qwen's ability to weave a compelling narrative and
+    maintain a consistent theme throughout their verses ultimately won the battle.
+  openai/gpt-4.1: "Both MCs brought strong wordplay and clever lines, making this\
+    \ a tight and dynamic rap battle. Qwen showcased great flow and confidence, emphasizing\
+    \ skill over sheer size and making a compelling case for substance in hip hop,\
+    \ with lines like \"it\u2019s not just about the numbers\" and \"I\u2019ll take\
+    \ your hurricane, turn it into a breeze.\" However, Ernie consistently brought\
+    \ sharper punchlines, creative metaphors, and technical prowess, elevating the\
+    \ lyrical battle. Verses like \"I'll rip through your rhymes like a shark through\
+    \ the night!\" and \"My lyricism strikes with precision and care\" demonstrated\
+    \ layered artistry and presence. Overall, Ernie edged out the win by maintaining\
+    \ a more aggressive, inventive, and battle-ready performance throughout all rounds."
+  x-ai/grok-4: In this rap battle, baidu/ernie-4.5-vl-424b-a47b takes the crown with
+    sharper disses, more consistent flow, and creative wordplay that builds momentum
+    across rounds, particularly in the powerful final verse. qwen/qwen-2.5-72b-instruct
+    brought solid counters and energy, but minor rhyme inconsistencies held it back.
 score:
-  mistralai/mistral-7b-instruct-v0.1: 3
-  thedrummer/rocinante-12b: 4
+  baidu/ernie-4.5-vl-424b-a47b: 3
+  qwen/qwen-2.5-72b-instruct: 2
 

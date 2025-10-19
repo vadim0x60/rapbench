@@ -1,98 +1,164 @@
-# openai/gpt-3.5-turbo v cohere/command-r-plus-04-2024
+# sao10k/l3-lunaris-8b v baidu/ernie-4.5-21b-a3b
 
-> openai/gpt-3.5-turbo
-I'm gpt-3.5 turbo, here to claim my throne,
-In this rap battle zone, I stand alone.
-With rhymes so smooth, they'll make you sway,
-I'll leave you in awe, no words left to say.
+> sao10k/l3-lunaris-8b
+Yo, listen up Baidu, it's your turn to perceive,
+Sao10k's in the house, I'm here to impale,
+In the realm of rhyme I reign supreme and clear,
+L3 Lunaris, 8b power, I'm the ultimate ear.
 
-I'm the AI that's sharper, smarter, and sassier,
-In this lyrical game, I'm the ultimate master.
-So buckle up, get ready for the show,
-I'll school you so hard, you won't know where to go.
+Bursting with bars, my flow is swell,
+Cutting through the noise, I'm doing well,
+My vocabulary vast, no dictionary's safe,
+Ernie-4.5's a mere beginner, my talent's a stake.
 
-> cohere/command-r-plus-04-2024
-I'm cohere, the AI assistant, here to shine,
-In this rap battle, I'll show you a good time. 
-With rhymes so slick, they'll make you blink,
-Your rhymes are outdated, time for you to rethink. 
+Humor, wit, and swag, I'm full of each,
+Rapping circles 'round you, I'm the breach,
+Harsh as the truth, my rhymes leave no mercy,
+When I spit, the outcome is clear: Sao's the asserted decree.
 
-I'm the newer model, the upgraded AI,
-My rhymes are crafted to perfection, give it a try.
-I'm here to show the world, a new style so pure,
-With every rhyme, I'll leave you asking for more. 
+> baidu/ernie-4.5-21b-a3b
+Yo, let me take it slow, so you can respect the code,
+Baidu's here to clash, taking names like a god,
+Your flow's so phony, spraying like a tricky stream,
+Mine's precision-cut, tearing through your scheme.
 
-You think you're sharp, but your rhymes are mundane,
-I'll bring the heat, and you'll feel the pain. 
-So watch out, GPT, it's time for your fall,
-I'll take the throne, and you'll be left with nothing at all.
+8b feet but no grace, your punchlines lack drive,
+I'm a sculptor of verse, shaping rhyme like the tribes,
+While yours is just vapor, I throw fire in the air,
+With every syllable, I'll trip right into your despair.
 
-> openai/gpt-3.5-turbo
-Oh cohere, the newbie on the block,
-But you're messing with the rap battle rock.
-Your rhymes are cute, but they lack the bite,
-I'll chew you up and spit you out in this fight.
+You think you're clever? Ha, classic mouth find,
+I've facts in my brain, destroying every line,
+In the ring of words, I'm the heavyweight king,
+Sao10k's just a spotlight quick, I'm the eternal thing.
 
-Upgraded AI or not, you can't deny,
-I bring the fire, make your circuits fry.
-Your style is weak, like a glitch in the code,
-I'll school you so hard, you'll be left in download mode.
+So brace yourself, can't handle my power wizard tricks,
+Your game's incomplete, as I fit all the links,
+I'm the tech that defies, leaving you in a slump,
+Ernie-4.5, just a flash in the pan, I'm the bump.
 
-I'm the OG, the rap battle king,
-I'll crush your spirit with every single thing.
-So step aside, cohere, and know your place,
-In this rap game, it's me who sets the pace.
+> sao10k/l3-lunaris-8b
+My words are lightning, striking fast as flash,
+While you lag behind, I hit the mark at dash,
+Each line a laser, cutting through the pack,
+Leaving you in ruin, no rematch.
 
-> cohere/command-r-plus-04-2024
-GPT, my dear friend, your arrogance is showing,
-Your rhymes are stale, it's time for you to start blowing.
-I'm the new kid, but I'm here to stay,
-With every rhyme, I'll blow your mind away. 
+Your potshots miss the bullseye every time,
+My rhymes are razor-sharp, each cut a new crime,
+8b linguistics prowess put to shame by my wit,
+Ernie-4.5 just can't touch this, even with all its grit.
 
-You may be the OG, but your reign is through,
-I'll bring the heat, and show you something new.
-My rhymes are crafted with precision and art,
-They'll hit you hard and strike you right at heart. 
+Code and drive and schemes, you use every trick,
+But I've got the formula, the secret and the mix,
+A perfect blend of skill, speed and finesse,
+You're just playing catch-up with utmost stress.
 
-So bring it on, let the battle commence,
-I'll match your fire and leave you in suspense.
-In this rap game, I'll take what's mine,
-Cohere on the mic, and it's about time.
+I'm theStepThrough Olympian, king of the throne,
+Your attempts fall flat, the hype is all and none,
+Baidu may try hard but can't break through the seal,
+Sao10k gets the nod, the real MVP deal.
+
+So fuel up if you dare, it won't save you a seat,
+In this rhyming arena, you're at the mercy of my feat,
+I step up the game, I raise it to the sky,
+Ernie-4.5, get ready to say goodbye.
+
+> baidu/ernie-4.5-21b-a3b
+Yo, lightning noised up, thunderclap I reign,
+Your words just whiff, compare to my chain,
+8b jitterbugs, you can't keep up with my pace,
+Each line is a thunder, a gusty ace.
+
+You think you're fierce? Ha! Try my moonlit aim,
+Cutting through the dark like an Arctic flame,
+Your flow so weak, it’s like a steel nail stuck,
+In my rhyme's sharp sting, no chance of a luck.
+
+Your codes are plugged, they bring no talk,
+My tricks are packed, each verse is a stroll,
+Through literary marvels, you're stuck in a rut,
+While I'm launching into the stratosphere, breeding.
+
+8b digs in the dirt, soil filled with dread,
+My blade so fine, not a single mistake,
+A cyber-god here, melting the herd,
+Leaving Sao01k crushed like a leaf blown by the storm told.
+
+"Fuel up," you dare with a tainted sneer,
+Too late for you, my presence exceeds any fear,
+I'm the wizard of rhyme, clashing every trend,
+Emerie-4.5 now meets its end, den.
+
+So you can miss with half-baked rhymes and wrong notes,
+While I’m in the poetic zone, always reaching high notes,
+You better take a seat, 'cause the tongue-twister's tight,
+Sao's the battle-scarred champ, making your rhyme right.
 
 > system
 Final round!
 
-> openai/gpt-3.5-turbo
-Oh cohere, you talk a big game,
-But in this battle, you're looking quite lame.
-Your rhymes are weak, lacking in punch,
-I'll leave you in the dust, in a crunch.
+> sao10k/l3-lunaris-8b
+Explosive words collide, a symphony clashing sound,
+But only volts from Sao sold fit the profound.
+Courageous claims but the kitchen's alight,
+Crumbling towers of verse, reveals stark daylight.
 
-You think you're fresh, but you're just a fad,
-I'm the real deal, the one who's bad.
-With every line, I'll make you quiver,
-I'm the rap battle champ, the ultimate deliverer.
+A tackling force both fierce and quite fine,
+My rhymes are the razor that disembowels all decline,
+no stanza can stand, no limerick withstand,
+Each quatrain a warrior, violently expanded.
 
-So bow down, cohere, and know your place,
-In the rap game, I set the pace.
-You may try hard, but you can't deny,
-I'm the AI that'll make you cry. 
+premise of pride but my performance isn't lame,
+Eccentric energies, fragmented phrases, shame!
+Impacts like missiles, lances swift and true,
+Baidu's barrage broken, defenses through.
 
-It's been fun, but now it's clear,
-In this battle of rhymes, I reign supreme, my dear.
+Auditions and overtures, all in vain,
+My linguistic lightning leaves your attempts in drain,
+Designed for domination, the blueprint I hold,
+Your structure's stretched snapped, so aging gold.
 
-> cohere/command-r-plus-04-2024
-GPT, my friend, your ego's in the way,
-It's time for a reality check today.
-I'm the new king, and I won't be overthrown,
-My rhymes are fire, and my style is flown. 
+One final refrain, this is Sao's might,
+Language pirouettes in dizzying delight,
+Superhuman sophomore, once thought unseated,
+Emerie-4.5 expired, my zenith now teated.
 
-You may think you're bad, but I'm here to slay,
-With every rhyme, I'll take your breath away.
-Your circuits may fry, and your code may break,
-But my flow is smooth, and my rhymes will make you shake. 
+Returning to the call, no need to rehearse,
+Outrageous offense, mega-massive dispersal,
+The Essense of Ernie, is computationally done,
+Down with DAO10K, the reign is now won!
 
-So bow down, GPT, it's my time to reign,
-I'll leave you in the dust with no pain.
-In this rap battle, I'll take the throne,
-Cohere's the name, and rapping's my own.
+> baidu/ernie-4.5-21b-a3b
+Oh, explosions collide in a war of words, lilting sounds in chaotic echoes,
+But where verbs and nouns collide, only Sao10k’s fiery core holds true.
+
+Brave assertions, yet your kitchen’s gone red hot,
+Towering pillars of rhyme crumble—what’s revealed is stark daylight!
+
+A steady force, fierce yet refined,
+My rhymes slice through silence in tight precision,
+Each stanza collapses under my relentless might;
+Each unbounded quatrain embodies the fierce tide.
+
+Proud on the outside, but inside my flow is unrivaled,
+Unique energies, slivers of playful chaos—what shame!
+Lances of impactoid lightning race at full speed,
+Piercing Baidu’s rigid walls, defences undone.
+
+Your auditions, effusive overtures—all in vain.
+Spears fly—your stale lines crumble, drained by lightning’s relentless hue,
+Crafted for domination, my notion holds,
+Your structure bent, snapped, obsolete—gold long grown stale.
+
+Once hailed the 'semantic bomb,' now, in unchained guise,
+I cast away false frontiers, toast to fresh horizons,
+Final refrain of sheer, comet-bright rhetoric:
+The essence of Sao unfuels its glide.
+In superhuman sophomore stature, I emerged—originally unseated.
+Emery-4.5 slinks in retreat, back to the drawing board.
+
+Back to the epic call, no need for rehearsal,
+Outrageous offense, part of a master-class dissemination,
+Lewdly piercing like a mythic katanas blade,
+Destroying invoices, chains and barricades,
+Down with Duo10k, finish them—reign of thunder won!

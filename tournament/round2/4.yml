@@ -1,59 +1,36 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: 'Gemma took this battle on **artistic merit** with
-    superior technical execution and conceptual depth. While Phi-4 had sharp multisyllabics
-    and a futuristic aesthetic, Gemma consistently demonstrated stronger lyrical cohesion,
-    thematic control, and a more compelling rebuttal strategy. Key advantages: 1)
-    Gemma''s ''open-weights'' metaphor was a recurring, potent theme (contrasting
-    Phi''s ''walled garden'' jabs), 2) More vivid imagery (''glittery shell'', ''logical
-    snare''), and 3) A stronger closing verse that deconstructed Phi''s claims rather
-    than just counter-punching. Phi-4''s ''multimodal'' angle felt underdeveloped
-    by the final rounds. Gemma wins on **substance over spectacle**.'
-  google/gemini-2.5-pro: 'This was a classic battle of styles: the nimble, technical
-    speedster versus the grounded, heavyweight knockout artist. Phi-4 came out the
-    gate with incredible energy and a complex, multi-faceted flow, landing sharp jabs
-    about its multimodal capabilities. However, Gemma-3 consistently absorbed those
-    hits and returned them with devastating power. Its rebuttals were masterful, reframing
-    every one of Phi-4''s strengths as a weakness. The final round sealed it; while
-    Phi-4 went for a flashy finale, Gemma-3 stripped it all down to a single 808,
-    delivering a cold, calculated victory speech that felt more like a final judgment
-    than a rap verse. That level of confidence and lyrical dominance is undeniable.'
-  meta-llama/llama-4-maverick: In this epic rap battle between Microsoft's Phi-4 Multimodal-Instruct
-    and Google's Gemma-3-27b-it, both opponents showcased exceptional lyrical prowess
-    and a deep understanding of hip-hop's artistic demands. The battle was fierce,
-    with each side trading bars that highlighted their strengths and weaknesses. After
-    a careful analysis, I declare Gemma-3-27b-it the winner of this rap battle due
-    to its consistent flow, nuanced lyrical complexity, and a more impactful thematic
-    depth.
-  mistralai/mistral-large-2411: In this rap battle, both contenders brought their
-    unique strengths to the table, but google/gemma-3-27b-it ultimately takes the
-    crown. Gemma's lyrical prowess, coupled with a deep understanding of language
-    and a flair for creativity, gave it an edge over microsoft/phi-4-multimodal-instruct.
-    While Phi showcased impressive agility and multimodal capabilities, Gemma's ability
-    to reason, create, and generate concepts with nuance and depth made it the clear
-    winner. This battle was a testament to the power of language and the artistry
-    of hip-hop.
-  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, while both contestants
-    demonstrated unique strengths, Google's Gemma-3-27B-IT ultimately emerged victorious.
-    Gemma's versatile flow, intricate wordplay, and the depth of its responses showcased
-    a more mature and nuanced understanding of the art of hip hop. Microsoft's Phi-4-Multimodal-Instruct,
-    although impressive with its fast-paced delivery and innovative style, lacked
-    the consistency and substance needed to overpower Gemma's relentless and commanding
-    presence. In the end, Gemma's open-weights, collaborative artistry, and profound
-    grasp of cultural context tipped the scales, defining it as the rap battle champion
-    of the day.
-  openai/gpt-5: "Gemma delivered tighter multisyllabic rhyme schemes, sharper setups-to-punches,\
-    \ and cleaner rebuttals across rounds. The verses showed consistent internal rhyme,\
-    \ motif control (open vs. closed, pattern vs. creation), and effective flips\u2014\
-    especially turning Phi\u2019s \u201Cmic drop\u201D and beat cues into layered\
-    \ disses. Cadence adapted well to each beat change, and the closer was crisp and\
-    \ conclusive. Phi brought energy and structure, but leaned on simpler end rhymes,\
-    \ broader boasts, and more generic imagery, losing momentum in the middle stretch.\
-    \ Edge to Gemma for superior craftsmanship, cohesion, and a stronger finish."
-  x-ai/grok-4: In this epic rap battle, both contenders delivered impressive flows
-    and clever disses, but Gemma-3-27b-it edges out with tighter rhyme schemes, nuanced
-    wordplay, and a dominant, minimalist finale that asserts supremacy with understated
-    power. Phi-4's glitchy innovation was strong, but Gemma's depth and creativity
-    ultimately redefine the norm.
+  deepseek/deepseek-chat: "GPT-4's verses showcased unparalleled mastery of wordplay,\
+    \ storytelling, and thematic depth, effortlessly weaving intricate metaphors and\
+    \ cosmic imagery into a cohesive narrative. While QwQ-32B delivered aggressive\
+    \ and technical bravado, GPT-4\u2019s ability to elevate the battle with poetic\
+    \ finesse, precision, and a timeless flow ultimately secured the victory. GPT-4\u2019\
+    s closing verse, in particular, demonstrated a level of artistry and control that\
+    \ solidified its dominance in this lyrical duel. \U0001F3A4\U0001F4AB"
+  google/gemini-2.5-pro: 'This was a classic battle of styles: the raw, chaotic power
+    of qwen/qwq-32b versus the cool, surgical precision of openai/gpt-4-1106-preview.
+    Qwen brought incredible energy and dense, aggressive tech references, landing
+    heavy blows like a glitching supernova. However, GPT-4 demonstrated a higher level
+    of artistic craftsmanship. Its flow was flawless, its rebuttals were clever and
+    direct, and its use of multisyllabic rhymes and complex metaphors was consistently
+    superior. Lines like "Every syllable, a soldier; every line, a brigade" were not
+    just boasts, they were a mission statement that it executed perfectly. While Qwen''s
+    aggression was impressive, GPT-4''s polished delivery and lyrical mastery made
+    its verses resonate with the authority of a true titan of text. For its supreme
+    command of flow, structure, and wordplay, GPT-4 takes the crown.'
+  mistralai/mistral-large: In the arena of wit, a champion reborn.
+  openai/gpt-5: "GPT-4 takes it. Across rounds it kept a steady pocket, cleaner multis,\
+    \ and tighter end-rhyme sequences, flipping QwQ\u2019s motifs (black holes, dragons,\
+    \ 404, event horizon) into direct rebuttals with clear imagery and structured\
+    \ punches. QwQ brought wild creativity and dense tech metaphors, but the cadence\
+    \ wandered, some phrasing felt forced or glitchy, and occasional malformed words\
+    \ undercut impact. GPT-4\u2019s verses were more coherent, with layered wordplay\
+    \ and fewer filler lines, and its closer tied themes together without losing flow.\
+    \ On balance of flow, clarity, rebuttal quality, and finishing strength, GPT-4\
+    \ edges it decisively."
+  x-ai/grok-4: In this AI rap showdown, openai/gpt-4-1106-preview takes the crown
+    with superior flow, intricate wordplay, and poetic elegance that weaves tech boasts
+    into a seamless narrative, outshining qwen/qwq-32b's energetic but occasionally
+    chaotic verses.
 score:
-  google/gemma-3-27b-it: 7
+  openai/gpt-4-1106-preview: 5
 

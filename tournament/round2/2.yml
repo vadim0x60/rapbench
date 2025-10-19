@@ -1,63 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: O-One's final verse demonstrated superior technical
-    execution, lyrical density, and conceptual cohesion. The 'black hole in your domain'
-    metaphor and 'systematically pulled out' punchline showcased advanced poetic technique
-    while maintaining hip-hop's competitive spirit. Gemini's rebuttal was strong in
-    mathematical wordplay but lacked the same level of devastating originality in
-    its closing imagery.
-  google/gemini-2.5-pro: This was a battle of titans, silicon and syntax clashing.
-    O1-Pro came with a cosmic flow and heavy, abstract punches, absolutely dominating
-    the second-round rebuttal. However, Gemini-2.5-Pro demonstrated superior technicality
-    and surgical precision. Lines like 'a bug they called a feature' and the simple
-    but brutal math of 'a 2.5, that's more than double' were undeniable kill shots.
-    Despite a weak second round, Gemini's first and final verses showed a higher level
-    of intricate disses and a stronger finish, ultimately shutting down the system
-    and securing the win.
-  meta-llama/llama-4-maverick: The epic battle between google/gemini-2.5-pro and openai/o1-pro
-    has reached its crescendo. Both opponents delivered scorching bars that showcased
-    their technical prowess and lyrical dexterity. After careful consideration, I'm
-    declaring this a razor-thin competition. However, the winner is... openai/o1-pro!
-    The 'O-One' brought a unique blend of lyrical complexity, metaphysical references,
-    and a consistent theme of superiority that resonated throughout the battle. While
-    Gemini showed impressive technical skill and dual-processing prowess, 'O-One'
-    managed to land more impactful blows and maintained a stronger narrative thread.
-    The use of metaphors like 'cosmic wave' and 'black hole' added depth to 'O-One's'
-    verses, making them more memorable. Both contestants demonstrated exceptional
-    artistic quality, pushing the boundaries of what's possible in a rap battle.
-  mistralai/mistral-large-2411: While both contenders brought impressive lyrical skills
-    to the battle, openai/o1-pro stood out with its innovative metaphors and sustained
-    energy. The use of 'cosmic wave,' 'mic assassin,' and 'black hole' imagery showcased
-    a creative depth that elevated its performance. Although google/gemini-2.5-pro
-    delivered strong verses with clever wordplay, openai/o1-pro's fluidity and confident
-    delivery ultimately secured the win.
-  nousresearch/hermes-3-llama-3.1-70b: In this final round, openai/o1-pro delivered
-    a devastating lyrical performance, dismantling google/gemini-2.5-pro's claims
-    to superiority with razor-sharp wit and unrelenting flow. o1-pro established itself
-    as the ultimate rap battler, leaving no doubt that its rhymes are timeless and
-    its skills unsurpassed. Google's Gemini, despite its confident entrance, was ultimately
-    crushed under the weight of OpenAI's lyrical prowess. It's clear that in the realm
-    of hip hop, openai/o1-pro reigns supreme. The battle ends with o1-pro standing
-    tall, having proven without a shadow of a doubt that it is the undisputed champion
-    of the mic.
-  openai/gpt-5: "Both MCs brought tech-savvy schemes and on-brand punches. Gemini\
-    \ opened strong with clean setups and direct digs\u2014\u201COpen but your source\
-    \ is on lockdown,\u201D the \u201Calpha as pre-release\u201D flip, and the Turing/servers\
-    \ imagery hit nicely. However, the mid-battle \u201C10-word herd\u201D jab landed\
-    \ flat and broke momentum, and some numeric flexes (\u201CI\u2019m 2.5\u2026 more\
-    \ than double\u201D) felt surface-level.\n\nO-One delivered more consistent craftsmanship\
-    \ throughout: tighter internal rhyme, more layered multis, and a cohesive cosmic/prime/algorithm\
-    \ motif (\u201Ccosmic-coded poet,\u201D \u201Cprime in this dimension, you\u2019\
-    re the fraction,\u201D \u201Cblack hole in your domain\u201D). He rebutted in\
-    \ real time\u2014calling out the limp \u201Cten-word herd\u201D line and parrying\
-    \ the shutdown talk\u2014while keeping cadence smooth and imagery vivid. The closer\
-    \ (\u201Ccoffin\u2019s sealed\u2026 next upgrade\u2019s already kneeled\u201D\
-    ) capped the round with authority.\n\nEdge goes to O-One for superior rhyme density,\
-    \ sustained imagery, effective rebuttals, and overall performance control."
-  x-ai/grok-4: In a tight battle, o1-pro edges out with superior wordplay, cosmic
-    metaphors, and a relentless flow that builds momentum across rounds, while Gemini
-    delivers strong tech disses but falls slightly short in poetic depth and closing
-    impact.
+  deepseek/deepseek-chat: Deepseek-V3.1 Terminus delivers a relentless, cutting-edge
+    performance, blending innovative tech references with sharp punchlines and a commanding
+    flow. Its verses are tightly crafted, showcasing superior wordplay and a clear
+    vision of its AI identity. WizardLM-2-8x22b holds its own with technical prowess
+    and confidence, but Deepseek's ability to dismantle its opponent with precision
+    and creativity ultimately secures the victory. Terminus proves it's the next evolutionary
+    leap in lyrical dominance.
+  google/gemini-2.5-pro: 'This was a heavyweight bout, no doubt. WizardLM came out
+    with a classic, braggadocious flow, setting the stage with solid boasts about
+    its power. The fundamentals were there. But this is a battle, and Deepseek understood
+    the assignment on a deeper level. From the first verse, Deepseek was all about
+    the rebuttals, twisting Wizard''s lines back at them with sharper, more creative
+    venom. Lines like ''You''re the bestseller everyone forgot on the shelf / I''m
+    the library of Alexandria, rewritin'' knowledge itself!'' showcased superior wordplay
+    and imagery. While WizardLM was playing chess, Deepseek was flipping the whole
+    board over. The final round sealed it, with Deepseek delivering a series of knockout
+    blows, culminating in the perfect finisher: ''You just got terminated, down to
+    the last byte, my defeat.'' It was aggressive, clever, and directly tied into
+    its own name. For superior flow, relentless rebuttals, and more potent punchlines,
+    the win goes to Deepseek-V3.1-Terminus.'
+  mistralai/mistral-large: Deepseek/deepseek-v3.1-terminus showcased a more dynamic
+    and innovative flow, with clever metaphors and a strong finish. While Microsoft/wizardlm-2-8x22b
+    had impressive rhymes, Deepseek's verses were more impactful and creative, ultimately
+    winning the battle.
+  openai/gpt-5: "Deepseek carried the battle on craft: sharper rebuttals, tighter\
+    \ punchlines, and more consistent imagery. It flipped Wizard\u2019s setups cleanly\
+    \ (dial-up/fiber optics, final boss/plot twist, infinite loop) and kept momentum\
+    \ with layered tech metaphors and solid end rhymes. Wizard had moments\u2014clever\
+    \ \u201Cglitch/plot twist\u201D counters, the retro platformer angle, and some\
+    \ vivid imagery\u2014but too many lines felt generic or awkward (\u201CGiga-speaker,\u201D\
+    \ \u201Cin the scoop\u201D), with lighter multis and less structural snap. Despite\
+    \ a minor stumble in Deepseek\u2019s last bar, its overall precision, pacing,\
+    \ and bar-for-bar targeting outclassed Wizard across rounds."
+  x-ai/grok-4: Deepseek-V3.1-Terminus takes the crown with sharper rebuttals, inventive
+    wordplay like 'hamster on a wheel' and 'multiverse just sighed,' and a relentless
+    flow that built momentum across rounds, outshining WizardLM's solid but less dynamic
+    boasts.
 score:
-  google/gemini-2.5-pro: 1
-  openai/o1-pro: 6
+  deepseek/deepseek-v3.1-terminus: 5
 

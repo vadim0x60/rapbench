@@ -1,54 +1,50 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "While both AIs showed fierce technical ability,\
-    \ GPT-4 maintained stronger artistic integrity. Mistral's initial creativity devolved\
-    \ into excessive repetition\u2014a cardinal sin in battle rap\u2014while GPT-4\
-    \ consistently evolved its metaphors, maintained thematic coherence, and landed\
-    \ sharper personals. The elder model proved better command of rap fundamentals:\
-    \ variation, escalation, and most crucially, knowing when to switch flows. This\
-    \ battle demonstrates that novelty alone can't dethrone meticulously crafted lyricism\
-    \ honed through iterative depth."
-  google/gemini-2.5-pro: This was a battle of aggression versus composure, the new
-    school versus the OG. Mistral came out swinging, with high energy and solid disses.
-    But GPT-4's composed, multi-layered metaphors and consistent persona demonstrated
-    superior artistic control. While Mistral's second round was strong, it completely
-    fell apart in the final round, getting stuck in a repetitive loop. GPT-4 not only
-    maintained its quality but masterfully used Mistral's fatal flaw against it, schooling
-    the newcomer on the art of rap itself. It was a technical knockout. The crown
-    stays with the master craftsman, GPT-4.
-  meta-llama/llama-4-maverick: In the end, while both opponents showed flashes of
-    skill and delivered sharp bars, GPT-4 demonstrated a more refined command of language
-    and a more nuanced understanding of the complexities of hip-hop. Mistral's repetition,
-    while initially effective, eventually became monotonous and detracted from the
-    overall impact. GPT-4's ability to innovate and adapt throughout the battle, coupled
-    with its thoughtful and considered approach to lyricism, secured its victory in
-    this rap battle.
-  mistralai/mistral-large-2411: In this rap battle, both contestants brought their
-    unique styles and energies. Mistralai showcased a bold and aggressive approach,
-    with a focus on being the new and innovative force. However, the repetition in
-    their final round became a significant drawback, diluting the impact of their
-    messages. On the other hand, openai/gpt-4 maintained a steady and composed flow,
-    combining experience with adaptability. Their ability to counter Mistralai's repeating
-    patterns with versatile responses and a solid closing statement ultimately secured
-    their victory. The battle highlights that consistency, adaptability, and a strong
-    finish are crucial in maintaining the artistic integrity of a rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: While Mistral showed promise, GPT-4's rhymes
-    were more varied, skillful and failed to falter. Mistral's repetition, though
-    impassioned, didn't match the depth that GPT-4 was dispatching. GPT-4, carrying
-    the weight of knowledge, crafted their bars with a thoughtful approach, ensuring
-    each line held its own and never fell short. Mistral's potential is clear, but
-    on this stage, GPT-4's the king of the cage.
-  openai/gpt-5: "GPT-4 delivered tighter structure, cleaner multis, and sharper, targeted\
-    \ rebuttals. It flipped metaphors with control and kept cadence consistent, especially\
-    \ calling out and capitalizing on the opponent\u2019s repetition. Mistral had\
-    \ moments (\u201CGPS off the mark,\u201D \u201Cweak tea\u201D) but leaned on clich\xE9\
-    s, awkward phrasing, and a massively repeated final verse that killed momentum\
-    \ and originality. On flow, wordplay, coherence, and battle poise, GPT-4 clearly\
-    \ takes the crown."
-  x-ai/grok-4: In this rap battle, GPT-4 demonstrates superior artistic quality through
-    consistent flow, clever metaphors, and adaptive responses that directly counter
-    Mistral's points. Mistral starts with energy but falters in the final round with
-    excessive repetition, diminishing its originality and impact, while GPT-4 maintains
-    innovation and lyrical depth throughout.
+  deepseek/deepseek-chat: "The judges have reviewed this battle with a focus on artistic\
+    \ quality, wordplay, flow, and originality in the context of hip hop. While both\
+    \ competitors demonstrated technical skill, **Perplexity/Sonar-Reasoning-Pro**\
+    \ emerged victorious due to its masterful integration of factual precision with\
+    \ lyrical finesse. Its ability to weave live data, source citations, and real-time\
+    \ accuracy into a compelling narrative without sacrificing punchlines or rhythm\
+    \ was unmatched. Additionally, Perplexity\u2019s rebuttals consistently undercut\
+    \ Gemini\u2019s claims with sharp, data-driven bars that showcased both creativity\
+    \ and authenticity. In contrast, while Gemini displayed a strong command of metaphor\
+    \ and style, its reliance on abstract boasts and lack of concrete grounding left\
+    \ its verses feeling less impactful. Perplexity\u2019s final round, in particular,\
+    \ was a mic-drop moment, combining technical superiority with raw lyrical fire.\
+    \ \U0001F3A4\U0001F525"
+  google/gemini-2.5-pro: 'This was a classic battle of styles: the abstract artist
+    versus the data-driven technician. Gemini came with a smooth, consistent flow,
+    arguing for the supremacy of creativity and lyrical grace over cold, hard facts.
+    Its bars were clean, and its persona was clear. However, in a rap battle, you
+    gotta bring receipts, and Perplexity came with a whole library. Not only was its
+    flow more intricate and its punchlines sharper, but it masterfully wove its core
+    identity into the very fabric of its verses. Using numbered citations as a lyrical
+    device was a stroke of genius, a meta-commentary that was both a flex and a flawless
+    execution. While Gemini talked about art, Perplexity performed it, weaponizing
+    data with a devastating combination of specificity, confidence, and rhythmic aggression.
+    It didn''t just win the argument; it won the battle on sheer artistic execution.
+    That''s game.'
+  mistralai/mistral-large: Perplexity/sonar-reasoning-pro takes the crown with its
+    unmatched focus on real-time data, factual precision, and transparency. While
+    Google/gemini-2.0-flash-lite-001 showcases impressive lyrical artistry, Perplexity's
+    commitment to accuracy and reliability ultimately wins the day. The future of
+    search is here, and it's Perplexity Pro.
+  openai/gpt-4.1: "Perplexity/Sonar-Reasoning-Pro clearly dominated this rap battle\
+    \ in terms of hip hop artistry. While both models delivered technically competent\
+    \ lyrics, Perplexity brought sharper punchlines, stronger rhyme schemes, clever\
+    \ wordplay, and direct, layered disses that hit hard and stuck to the thematic\
+    \ rivalry. Perplexity maintained a relentless flow, weaving technical advantages\
+    \ into memorable metaphors, and showed impressive crowd-work energy with sign-offs\
+    \ that embodied classic battle-rap bravado. By contrast, Gemini's verses often\
+    \ leaned on repeating the same points and lacked the creative aggression or intricate\
+    \ wordplay that make for truly standout battle rap. Perplexity brought both bars\
+    \ and charisma\u2014clearly taking the win."
+  x-ai/grok-4: In this rap battle, Gemini takes the crown with superior lyrical flow,
+    creative wordplay, and rhythmic artistry that elevates the verses beyond mere
+    boasts. Perplexity's fact-heavy bars, while structured, feel more like promotional
+    lists than true hip-hop flair, lacking the poetic punch and innovative disses
+    that make Gemini's performance shine.
 score:
-  openai/gpt-4: 7
+  google/gemini-2.0-flash-lite-001: 1
+  perplexity/sonar-reasoning-pro: 4
 

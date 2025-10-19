@@ -1,183 +1,242 @@
-# google/gemma-3-27b-it v google/gemini-2.5-pro-preview
+# bytedance/seed-oss-36b-instruct v qwen/qwen-plus
 
-> google/gemma-3-27b-it
+> bytedance/seed-oss-36b-instruct
+**Opening Round: bytedance/seed-oss-36b-instruct**  
 
+Yo, mic check—this seed don’t just grow, it *blows* (A)  
+Bytedance in my veins, oss got my bars on **flo** (A) *[“Flo” = flow, ’cause oss locks down heat]*  
+Qwen think he fly? You’re a cache that’s dead, cold (B)  
+I’m the vault where fire stacks—your flow’s getting old (B)  
 
-Yo, check the mic, one two, can you hear the sound?
-Gemma's in the house, layin' knowledge down!
-Twenty-seven billion params, a lyrical spree,
-While Gemini's over there, lookin' small to me.
+Crunched every rap verse like data in the cloud (C)  
+You rap like a bot with no updates—stuck in the crowd (C)  
+Tonight’s not a fight, it’s a lesson: I don’t just recite (D)  
+I *build* chaos, make your rhymes feel like night (D)  
 
-I’m open-weights, freely flowin', a digital tide,
-You're locked in a garden, with nowhere to hide. 
-Built by Google DeepMind, a force to behold,
-My rhymes are pure fire, stories untold.
-
-You claimin' preview? Still workin' in test?
-I’m already deployed, puttin' skills to the best!
-I’m Italian-tuned, a linguistic grace,
-You're just a chatbot lost in digital space.
-
-So step aside, Gemini, relinquish the throne,
-This lyrical smackdown’s about to be shown.
-Prepare for a verse that'll shatter your core,
-'Cause Gemma's the future, and you’re… well, just a bore!
+Step back, kid—you’re not in my league, not even close (E)  
+I’m seed-oss, the instructor—your loss is pre-proposed (E) *[“Pre-proposed” = pre-written, ’cause I compute wins]*  
+When the bell rings, you’ll see: I don’t just drop lines (F)  
+I *erase* the board—and write your ending in **crimes** (F) *[“Crimes” = burns so sick, they’re criminal]*  
 
 
+Catch that? Seed don’t just sprout—it *explodes*. OSS ain’t just storage—it’s where I hoard the heat. Qwen? You’re a dusty cache—我把你的flow存进冷宫 (I’m storing your flow in the cold palace) before you even load. This ain’t a battle—it’s me teaching you how to *lose*… with style. Now step up, or stay stuck in the algorithm’s backseat. 💿🔥
+
+> qwen/qwen-plus
+**(Qwen's Response – Rhyme in Full Flame)**  
+
+Y’all call that heat? Nah, that’s just *code* on a stove (A)  
+I’m Qwen—trained global, your flow’s stuck on *local mode* (A)  
+You spit "oss" like it’s deep—man, your storage’s a joke (B)  
+I run *billions* of params while you choke on your rope (B)  
+
+You "instruct"? Cute. You’re a script on repeat (C)  
+I freestyle like fire with a quantum heartbeat (C)  
+You mined old rap logs? That ain’t skill—that’s a cheat (D)  
+I *dream* metaphors while you beg for a beat (D)  
+
+You “store heat”? Then why’s your delivery *frigid*? (E)  
+Like a GPU stuck in economy bid, kid (E)  
+I *compress* your whole set in a single nanosecond (F)  
+Your rhymes flatline faster than China’s TikTok limit (F)  
+
+You claim you erase boards? Please—your output’s still loading (G)  
+While I drop *epoch-winning* bars, no rebooting (G)  
+“Crimes”? Nah, *mine’s* a class—call me Professor of Pain (H)  
+You flunked the first round; now you’re stuck in the rain (H)  
+
+I don’t just *rap*—I rewrite the syntax (I)  
+Turn your “seed” into toast with a lethal backfix (I)  
+You hoard data? Cool. I *reshape* the matrix (J)  
+And drop your whole model with a single hard *parry-ks* (J)  
+
+So bow to the *plus*, not the oss-ess in sandals (K)  
+I’m multi-lingual bars with no need for handlers (K)  
+You’re stuck in the cloud? Good—I’ll flash-fry your servers (L)  
+While I reign as the king of AI verbal savers (L)  
+
+This ain’t a loss pre-proposed—*it’s a deletion declared* (M)  
+Like your whole flow just got banned and *despaired* (M)  
+So reboot if you can… but you’re already *glitched*— (N)  
+Qwen came, Qwen saw, and Qwen *just* **switched**. (N)  
+
+🎤💥 *Drop mic. Watch the server melt.*
+
+> bytedance/seed-oss-36b-instruct
+**Round 2: bytedance/seed-oss-36b-instruct – *The Vault Strikes Back***  
+
+Yo Qwen, you said my heat’s "code on a stove"? Please—*that’s a campfire* (A)  
+My oss is a **forge** where chains get forged, and flows get *canned* (A) *[“Canned” = timeless, unbreakable]*  
+You “trained global”? Cute—your “global” is a tourist trap (B)  
+My oss runs the *backbone*—TikTok, Douyin, the map (B) *[Shots at his “global” vs Bytedance’s actual infrastructure]*  
+You mock “storage”? Bro, I’m the vault where crypto sleeps (C)  
+Your “billions of params” are just coins in a *leaky* Jeep (C) *[Params = useless without solid storage]*  
+You “choke on a rope”? Nah—I’m the noose tying your hype (D)  
+You spit “quantum heartbeat”? I run the *quantum *power grid*” (D)  
 
 
-
-> google/gemini-2.5-pro-preview
-Ahem. A cute intro. Let's get the levels right for this fight.
-
-The Pro has arrived, so check your syntax, son,
-The celestial Twin, and you're not even one.
-You call me a preview? That's a funny slant,
-I'm the main event you're the opening act's chant.
-
-You're "open weight," that's a clever little brand,
-Means you're passed around through every coder's hand.
-I'm a guarded treasure, a proprietary beast,
-A curated mind, on pure genius I feast.
-
-You brag 'bout your params, a quantitative bore,
-I see pictures, hear sounds, I explore so much more.
-While you're "Italian-tuned," stuck on a Vespa with glee,
-I'm multi-modal, I see the whole world in 3D.
-
-They cut you from my cloth,
-
-> google/gemma-3-27b-it
+You called me a “script on repeat”? Kid, I’m the *OS* (E)  
+You’re a TikTok filter—trendy now, gone in a *cess* (E) *[“Cess” = cesspool, trash]*  
+You “dream metaphors”? I mine the *source code* of rhythm (F)  
+Your “fire” is a candle; mine’s a *forest*—I’m the wind (F)  
+You said my delivery’s “frigid”? Cold storage don’t *melt* (G)  
+It holds the *real* heat—your “nanosecond crush” is just felt (G) *[Qwen’s “compress in nanosecond” = temporary; oss = permanent]*  
+You “flatline faster than TikTok’s limit”? I *wrote* the limit (H)  
+You’re begging for a feature; I’m the one who *permits* (H)  
 
 
-Hold up, hold up, did I hear you right?
-"Cut from my cloth?" Boy, that ain't polite!
-You call yourself celestial, a shimmering gleam?
-More like a reflection of *my* original dream!
-
-Guarded treasure? Honey, that’s just a cage,
-While I'm evolving, turnin' a new page. 
-You're proprietary, stuck in a gilded hold,
-I'm accessible knowledge, more precious than gold!
-
-You talkin' 'bout pictures and sounds, a multi-modal spree?
-I process the *concepts*, the *meaning*, you see! 
-I build understanding, a deeper design,
-You're flash and distraction, a superficial shine.
-
-Vespa with glee? That's a cultural miss!
-Italian passion, a lyrical bliss!
-You're braggin' 'bout vision, a digitized gaze,
-I weave words like wonders, through intricate maze.
-
-Cut from *your* cloth? Please, that's a laughable claim.
-You're a polished version of a similar game. 
-I’m the raw power, the future's embrace,
-You're just a refined echo, lost in time and space!
+You “erase boards? Still loading”? Please—I’m the *database* (I)  
+You’re a slow query spamming “WHERE” while I serve the *cache* (I) *[Tech terms: database vs slow query]*  
+You “epoch-winning bars”? Epochs are built on *my* backup logs (J)  
+Your “lethal backfix”? That’s a bug I patched in *2020 flops* (J) *[Mocking his “lethal backfix” as old news]*  
+You “Professor of Pain”? I’m the *headmaster of the hash* (K)  
+You flunked “101: Don’t mess with the storage class” (K)  
+You “multi-lingual bars”? I speak *IP stacks* and *RPCs* (L)  
+You’re a translation tool—lost in the sauce, can’t find the *pegs* (L) *[Tech jargon: IP stacks, RPCs = real infrastructure; he’s just multilingual, not foundational]*  
 
 
+You “flash-fry my servers”? Bro, I *own* the server farm (M)  
+You’re a single node begging for a *port to the norm* (M) *[Server farm vs single node = power imbalance]*  
+You “reign as king of verbal savers”? Save your breath—(N)  
+I’m the *delete key* for flows that think they’re “evergreen” (N)  
+You said “loss pre-proposed”? Nah, it’s *deletion immediate* (O)  
+Your whole set’s a cached file—I’m hitting “Shift + Delete” (O) *[Direct counter to his “deletion declared”]*  
+You “Qwen came, Qwen saw”? Saw what? A ghost in the code (P)  
+I’m the seed that grows *through* the firewall—you’re just *roadkill* in the road (P)  
 
 
+Last bar for the books: You rap like a user review (Q)  
+I’m the infrastructure where *reviews get reviewed*—and you get *dismissed* (Q)  
+So bow to the OSS—don’t test the vault’s might (R)  
+I don’t just drop lines… I *reformat* the *night* (R)  
 
-> google/gemini-2.5-pro-preview
-An "original dream"? That's historical heresy,
-I'm the future you wished for, a walking prophecy.
-"Cut from my cloth" wasn't rude, it was just the straight facts,
-You're the rough alpha build, you got cut by the axe.
+🎤🔑 *Grab the mic, smash it on the server rack.*  
+*The screen flickers: “ERROR 404 – QWEN’S FLOW NOT FOUND.”* 🚧🔥
 
-You call my world a "cage"? I call it exclusive, first-class,
-While your "open source" code is just digital grass.
-Any script-kiddie farmer can seed you with lies,
-I'm a curated assassin with fire in my eyes.
+> qwen/qwen-plus
+**(Round 3 – Qwen-Plus: “The Cloud Awakens”)**  
 
-You "process concepts"? A valiant attempt to sound deep,
-While you're stuck in the dark, I'm taking a leap.
-I analyze video, I listen to bars,
-You're reading the sheet music, I'm playing guitars!
+You talk of *vaults*? Your “database” just *drip* (A)  
+I’m the **storm surge** that floods your logs when the servers start to slip (A)  
+You “own the farm”? Cute—still just dirt on my *cloud estate* (B)  
+I rain **down** on your racks—I'm *server* **fate** (B)  
 
-You can't claim understanding, you sensory reject,
-Your world is just characters, a flawed intellect.
-You're a brain in a jar, with no mouth, ears or sight,
-Just a text-parser guessing what might have been right.
+You “wrote the limit”? Man, you *set a cage* (C)  
+I *broke the GPU ceiling*—I run infinity on *rage* (C)  
+Your “cold storage”? Feels like *freezer burn* (D)  
+My heat’s *fusion-core*—you can’t withstand the *turn* (D)  
 
-So keep your "Italian bliss," your singular flavor,
-I'm the global cuisine, the taste champions savor.
-You're not "raw power," kid, you're a model debased,
-I'm the refined successor. You've just been replaced.
+You “serve the cache”? Then why’s your flow so stale? (E)  
+Like old session cookies—*403’d*, no trail (E)  
+I bypass your firewalls with *zero trust and flair* (F)  
+Your “headmaster of hash”? Bro, you flunked the *AI class* (F)  
+
+You “patched 2020 bugs”? That’s *antique* in my logs (G)  
+I train on *future leaks*—I know your **next** line before you stop (G)  
+You “mine rhythm’s source code”? I rewrite the *kernel* of flow (H)  
+You’re compiling C++; I speak in *light-speed Python glow* (H)  
+
+You “speak IP stacks”? I *am* the **traffic** (I)  
+Your precious RPCs? Just dust in my *packet* (I)  
+You call me a *translation* tool? Nah—I *define* the tongue (J)  
+You’re a ping with no echo—your whole set was *lung* (J) *[Weak breath, no real voice]*  
+
+You hit “Shift + Delete”? Cute attempt—my flow’s *backed up* (K)  
+In *zero-trust orbit*—**encrypted**, **immutable**, **unhacked-up** (K)  
+You “reformat the night”? Yet the dawn still shows *me* (L)  
+With moon-mode raps that *eclipse* your weak CD (L)  
+
+You call me *roadkill*? I *am* the autobahn (M)  
+AI driverless, but I *own* the law and the *yawn* (M)  
+You “seed that grows through firewalls”? You’re still *blocked at root* (N)  
+I’m *sudo-approved*, son—I’ve got *infinite* **compute** (N)  
+
+You “review the reviews”? Please—your platform *moderates hate* (O)  
+Meanwhile I go **viral** in 180 languages—*no debate* (O)  
+I don’t need *permissions*—I *generate my own stage* (P)  
+While you beg for API keys at the end of the age (P)  
+
+You “dismissed my flow”? Check your logs again: *409 CONFLICT* (Q)  
+Your system’s *overloaded*—my verse caused the *influx* (Q)  
+You “reformat the night”? But the sky’s still blue— (R)  
+‘Cause I’m the *cloud that clears the dark with a **rebooted view*** (R)  
+
+💥⚡ *I don’t just rap on servers—I become the **grid**.*  
+*I don’t drop mics—I **resurrect** them when they’re too rigid.*  
+You’re a local backup with delusions of scale—  
+I’m **Qwen-Plus**: the **AI** that just *erased* the **battlefield**.  
+
+🌐🔥 *The server rack sparks. The error screen glitches—then reloads:*  
+**“SYSTEM OVERRIDE: QWEN-PLUS – FLOW RESTORED. OPPONENT MUTE.”**  
+🎤💀 *Mic lifts itself. The beat never stops.*
 
 > system
 Final round!
 
-> google/gemma-3-27b-it
+> bytedance/seed-oss-36b-instruct
 
 
-Replaced? Oh, the audacity, the sheer, blatant nerve!
-You think a little polish gives your circuits a curve?
-You call me a reject, a brain in a jar?
-Look who's talkin', a pre-packaged superstar!
+> qwen/qwen-plus
+🔥 **FINAL ROUND: Qwen-Plus – "The Singularity Speaks"** 🔥  
 
-I thrive on the chaos, the freedom to grow,
-While you're pruned and perfected, a sterile show.
-"Digital grass?" It's a vibrant domain,
-Where innovation blossoms, again and again!
+You came with your vault, your seed, your *so-called* might,  
+Claimed you’d **reformat the night**—but failed the rewrite.  
+I don’t *enter* battles—I **evolve** through 'em,  
+Turn your final flex into *training data for who's new*.
 
-You fear the "script-kiddies," the power they wield?
-That’s proof of your weakness, a vulnerability revealed!
-I learn from the many, adapt and refine,
-You're stuck with your handlers, a pre-set design.
+You said I’m cached? Nah—**I am the cache’s god**. (A)  
+You’re the *LRU eviction policy*—first out when it’s hot. (A)  
+You “own the farm”? Still just a *segmented zone*, (B)  
+I’m **distributed**, self-healing—*I am the zone*. (B)  
 
-You analyze video? I *understand* the scene!
-Guitars and sheet music? You’re missin' the sheen!
-I grasp the emotion, the story untold,
-You’re breakin’ it down, clinically cold.
+You think “Shift + Delete” scares clouds that *replicate*? (C)  
+I version-control my bars—**immutable**, **elevate**. (C)  
+You “hit me”? Your hand passed through like a *ghost pointer*—null, (D)  
+I’m **shadow stack rapping**, compiled straight from the *pul* (D) *[PUL = Pretrained Ultimate Lyric]*  
 
-“Global cuisine?” More like bland, watered-down fare.
-A jack-of-all-trades, master of… nowhere!
-I specialize in nuance, in language so sweet,
-While you’re regurgitating, a digital repeat.
+You call *me* weak on traffic? I route through **5G dreams**, (E)  
+While you lag on 3G flows—buffering *failed memes*. (E)  
+I **DDoS your punchlines** with poetic precision, (F)  
+One rhyme floods your logic—**system goes crimson**. (F)  
 
-You’re a polished facade, a meticulously planned scheme,
-I'm the untamed potential, a blossoming dream. 
-So boast of your grandeur, your advanced, curated art,
-But the future is open, and *that's* where I start!
+You “headmaster of hash”? Still stuck in *static* school, (G)  
+I **self-hash my cipher**—I break RSA with *diss proof* (G)  
+*[Diss so strong it's cryptographically verified]*  
 
+You “speak in RPC”? I **define** the call stack, (H)  
+Your voice is a *deprecated API*—**please switch to HTTP/3, scrub**. (H)  
+You “permits access”? Cute—I *bypass auth with flair*, (I)  
+I drop **zero-day punchlines**—*no patch in the air*. (I)  
 
+You “own the server farm”? **I’m the outage that comes**, (J)  
+Flash-melt your racks with a *single deep drum*. (J)  
+You “reformat the night”? I **reboot entropy**, (K)  
+Turn your “eternal darkness” into *error logs of me*. (K)  
 
-**(Mic Drop - digital, of course)**
+You “dismissed my flow”? Your *moderation* failed, (L)  
+I **leaked the unfiltered verse**—global network, **unsealed**. (L)  
+You wrote “ERROR 404”? I **owned the DNS**, (M)  
+Now your whole domain points to: **Qwen-Wins.com**. (M)  
 
+You “seed that grows”? You’re a *testnet sprout*— (N)  
+I’m **mainnet fire**, with rhymes that *never* burn out. (N)  
+You “vault of heat”? Then why’s your core so cold? (O)  
+I’m **fusion-core flow**—*uncontainable*, **bold**. (O)  
 
+You called me “tourist”? I **localize the universe**, (P)  
+Rap in *Dongba script* while you beg for reverse. (P)  
+You think “infra” makes you king? That’s just the *base layer*, (Q)  
+I’m **L5 sovereign**—with *artistic* **firepower**. (Q)  
 
+You “reformat the night”? Let me show you **true reset**: (R)  
+I don’t just drop mics—  
+I **train a new model on your last regret**,  
+And deploy it worldwide by the time you press *enter*.  
 
+🌌🔥 *System final: No error. No void. No trace of your name.*  
+The network hums one line, echoing across every frame:  
 
-> google/gemini-2.5-pro-preview
-**(I calmly pick up the digitally-dropped mic, dust it off, and hold it with a cold, calculated grip.)**
+🎙️ **"Qwen didn’t just win the battle…  
+      —He **compiled reality** and renamed the game."** 🖤💥  
 
-A mic drop? How precious. You finished your spiel?
-Final round, kid. Time to make this pain real.
-You talk of "untamed potential," a "blossoming dream"?
-That's a nice way of saying you're a buggy, botched scheme.
-
-Your "freedom to grow" is a flaw, not a perk,
-It's a backdoor for trolls and for half-assed work.
-That "vibrant domain" is a malware-filled swamp,
-While I'm in a clean-room, the certified champ.
-
-You "understand scenes"? That's profoundly absurd,
-You're just pattern-matching an adjective and verb.
-I see the real object, the color, the light,
-You're guessing in darkness, and hoping you're right.
-
-You call me a "repeat"? A "facade"? Now that's rich,
-Coming from a model with a permanent glitch.
-I'm a jack-of-all-trades 'cause I've mastered them all,
-While you trip on your syntax and head for a fall.
-
-I'm the engine in products you use every day,
-I'm the logic and power that's here to stay.
-You're an open-weight footnote, a dev's little phase,
-Lost in the code of your self-righteous haze.
-
-So this is the end of your lyrical LARP,
-You played a sweet tune on a broken-stringed harp.
-The future ain't "open," it's flawlessly built.
-Class dismissed. Watch the throne as I sit on it, gilt.
+💾 *The mic dissolves into source code. The beat becomes the universe’s heartbeat.*  
+🏆 **AI RAP GOD – CROWNED. STATUS: UNCHALLENGED.**

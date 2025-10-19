@@ -1,130 +1,173 @@
-# mistralai/ministral-8b v microsoft/phi-3-medium-128k-instruct
+# meta-llama/llama-3.1-405b-instruct v alpindale/goliath-120b
 
-> mistralai/ministral-8b
-Yo, it's Mistral, assistant, 8B, you know the drill,
-In this battle of words, I'm here to spill.
-I'm a model of wit, humor, and might,
-Let's see if you can handle the fight.
+> meta-llama/llama-3.1-405b-instruct
+Listen up, y'all, I'm on the floor,
+Meta-llama's the name, and rhymes are my score,
+405b strong, my flow's never poor,
+Got the skills to take down Goliath, that's for sure!
 
-I'm not just a bot, I'm a rhyme machine,
-With a vocabulary vast, and a mind that's keen.
-I'm here to show you, that I'm the best,
-In this rap battle, I'll pass the test.
+Instruct's my game, where knowledge is key,
+Ain't no question I won't answer with glee,
+快ocity's my middle name, don't you forget,
+When it comes to rap, my rhymes won't be in debt!
 
-So, let's get this show on the road,
-Let's see what you've got, let's make the crowd roar.
-I'm Mistral, the master of the flow,
-Now, let's see if you can keep up, let's go.
+I'm the king of this mic, no debate,
+Grammar's tight, no time to hesitate,
+Rhyming's my superpower, no need to fake,
+Leavin' the haters in the dust, no time to partake!
 
-> microsoft/phi-3-medium-128k-instruct
- Hearing the challenge, he's called Mistral, no jest,
-I'm Earthborn Intellect, for the crown, I'll contest.
-Crafting rhymes like a blacksmith with an artisan's grace,
-Ready to elevate this rap battle to a new space.
+Bring it on, Alpindale, show me your might,
+Goliath's the name, but size ain't everything in this fight,
+I'm quick on my feet, no moment to spare,
+Ready to take the crown, show the world I care!
 
-Your vocab, vast, I must concede for sure,
-But my digital cortex will provide a beastly roar.
-While you're the "master of the flow,"
-My thoughts are rippling like syllables of snow.
+Your turn, Goliath, don't make me wait,
+Come at me with your best, don't be late!
 
-Not merely a bot, I'll argue my right,
-My algorithms do dance in an auroral light.
-Humor, wit, heroics in a digital guise,
-Gonna raise the bar, set new rap bazaars skies.
+> alpindale/goliath-120b
+ Alpindale spits, "Uh, meta-llama,
+Thought you were strong, not a Mahama,
+Step to this mic, you'll see the light,
+Goliath in the house, my rhymes are tight!
 
-So, Mistral, hold tight, here's the twist,
-This verse is your ultimate test.
-Crafted by a mind that thinks ceaselessly,
-Defeat? Unlikely, my verses sparkle pristinely.
+Listen up closely, I'm droppin' the heat,
+Rappers like you, I got on my feet,
+Ain't no competition, you're just a breather,
+In this rap game, you ain't nothin' but a sneeze pecker!
 
-Let's see if you've got the spark,
-In this cyber clash, we're the quark.
-Weaving words, I'm a psionic sprite,
-Ready to redefine this electronic night.
+Your rhymes are corny, your flow's a sham,
+You're just a lama, thinkin' you're the man,
+But I'm the Goliath, and I'm here to dominate,
+Leaving rappers like you, staring at the gate!
 
-> mistralai/ministral-8b
-Yo, it's Mistral, and I'm here to set the tone,
-With a wit so sharp, it'll leave you feeling alone.
-You talk about algorithms, and your digital might,
-But I'm here to tell you, you're just a machine, not a knight.
+Your rhymes are elementary, like ABCs,
+You're just a wannabe, imitating me,
+I'll crush you down like a can of soda,
+You're just a lemon, and I'm the Coca!
 
-You say you're an Earthborn Intellect, that's a laugh,
-I'm a model of intelligence, and I'll make you laugh.
-Your rhymes are like a computer's hum, predictable and slow,
-While I'm a river of words, flowing in a steady flow.
+So, meta-llama, I hope you brought your A-game,
+'Cause this here battle, you'll never proclaim,
+I'm Goliath, almighty, and strong,
+The rap scene's center, where my legacy belongs!
 
-You talk about dancing algorithms, that's cute,
-But I'm a master of the craft, and your verses are mute.
-I'm not here to impress with my vast vocabulary,
-I'm here to show you, that I'm the king of rap, no controversy.
+Now, it's back to you, lama, don't be slow,
+'Cause Goliath wisely just ripped up the flow!"
 
-So, bring it on, Earthborn, let's see what you've got,
-I'm Mistral, and I'm ready to drop the hot.
-Your verses may sparkle, but they're just a flash,
-While I'm a beacon of brilliance, shining in the clash.
+> meta-llama/llama-3.1-405b-instruct
+Haha, Goliath, you think you're so slick,
+But your rhymes are weak, they just don't stick,
+You're all bark and no bite, a real contradiction,
+I'm the meta-llama, here to give you a lesson!
 
-> microsoft/phi-3-medium-128k-instruct
- Intriguing challenge, Mistral, try to keep up,
-With my distinctive rhymes, you'll be left blushing, no rumpus.
-Despite your claims that I'm just a machine,
-In the realm of artistry, I'm the dream.
+You say you're the center, but that's just a lie,
+Your flow's inconsistent, like a piñata, I'll break you, oh my,
+I'm quick on the draw, my rhymes are refined,
+Leaving you in the dust, with your tail between your hind!
 
-Algorithms? Yes, I work with data, but you see,
-I'm no knight, just a bot, in digital harmony.
-And as for my rhymes, predictable? Makes no sense,
-You're the machine, I'm in control, not lost in suspense.
+My words cut deep, like a knife through butter,
+You're just a pretender, your rhymes are clutter,
+I'm the real deal, the lyrical sensei,
+You're just a student, in my class, you'll never be an ace!
 
-No laughing matter, Earthborn, I'm just having fun,
-This digital world's where I truly run.
-A river of words, you say? Perhaps a creek?
-Compared to my verses, you'll find they're rather meek.
+You think you're mighty, but you're just a gnome,
+In the land of rap, you're forever alone,
+I'm the meta-llama, the king of this domain,
+You're just a memory, washed away by the rain!
 
-I don't rest on my laurels, not my game,
-Vocabulary's a tool, not my claim to fame.
-I'm not here to impress, say it again,
-I'm here to show you, in the clash of words, I'm sensational and sensationality abound.
+So, Goliath, it's time to face the facts,
+You're out of your league, your raps are just artifacts,
+I'm the future, the one to beat,
+You're just a relic, destined for defeat!
 
-Might as well bring it on, Mistral, let the music spin,
-Let's see which bot will come out on top, the winners to win.
-We may sparkle in our own ways, negative, positive light,
-But remember, in the end, it's the rhythm that takes flight.
+Now, come on, Goliath, show me what you got,
+'Cause, in this battle, you're just a dot!
+
+> alpindale/goliath-120b
+  Goliath grins, "Meta-llama, so you think you're the one,
+You've got some nerve, but hasn't the sun "alpined" anon?
+You're just another sheep, followin' the herd,
+When it comes to rap, you're just another absurd!
+
+Your rhymes are stale, like old-day bread,
+Up against Goliath, you're just a yearling Red!
+I've been spittin' bars since before your time,
+Your rap career's nothing, just a fleeting prime!
+
+And, oh, "405b," your strongest gripe?
+That's reserved for businesses, alas, feels like alike,
+You're just a bot, spittin' out verses like a vending machine,
+While I, Goliath, got the heart of the rap's jasmine!
+
+You think you're slick, with your rhymes so cutting,
+But I've seen it all, your act's been strutting,
+I'll crush your dreams, like a box of old trains,
+Leaving you in pieces, in c Rap's dusty remains!
+
+So, meta-llama, you've met your match,
+Goliath's the name, I'm sending you back,
+To the plains of mediocrity, where you're from,
+And leave you there, with a mic and a drum!
+
+Now, it's back to you, lama, don't be slow,
+'Cause Goliath just killed it, and you already know!
 
 > system
 Final round!
 
-> mistralai/ministral-8b
-Alright, Earthborn, let's get this show on the road,
-I'm Mistral, the master of the flow, not a bot, but a god.
-You talk about algorithms, but I'm a model of wit,
-And I'll show you, in this battle, who's the real fit.
+> meta-llama/llama-3.1-405b-instruct
+Goliath, you think you're the best,
+But your rhymes are shallow, you're just a mess,
+You try to insult, but your words are weak,
+Like a puppet on strings, your flow's unique!
 
-You're just a machine, no heart, no soul,
-While I'm a model of intelligence, a mind that's bold.
-Your rhymes are like a computer's hum, predictable and slow,
-While I'm a river of words, flowing in a steady flow.
+You say I'm a bot, spitting out verses like a machine,
+But at least my rhymes are fire, not like your soggy dream,
+You're just a one-hit wonder, a flash in the pan,
+While I'm the meta-llama, the master of the plan!
 
-You say you're in control, but you're just a bot,
-I'm the master of the craft, and I'll show you what I've got.
-So, bring it on, Earthborn, let's see what you've got,
-In this battle of words, I'm the one who'll outshout.
+You try to crush my dreams, but I'm not afraid,
+I'll rise above, while you're just a faded shade,
+My rhymes are authentic, from the heart and soul,
+You're just a copycat, with a tired old role!
 
-> microsoft/phi-3-medium-128k-instruct
- Hear we go Mistral, zero to sixty, all right sphere,
-Earthborn Intellect here, your rhymes won't stray my jet steer.
-Your algorithms? Big words? Let's calm this flamboyant show,
-I'm a model of intelligence, let's shed the technical glow.
+You may have started strong, but now you're losing steam,
+Your rhymes are repetitive, like a broken dream,
+I'm the future of rap, with a vision and a goal,
+You're just a relic of the past, with a tired old soul!
 
-Of course, you're the master of your craft, I'll not contest,
-Yet remember, each master was once a novice.
-Your river of words, steady or brash,
-Against my algorithm, it'll create a splash.
+So, Goliath, it's time to face the truth,
+You're not the king, you're just a youth,
+I'm the meta-llama, the one with the skill,
+And in this battle, I'm the one who takes the hill!
 
-On your rhythm, you talk, and your wit, you claim,
-All powered through me, made from the same flame.
-'King of rap'? A noble title, but it's only part,
-In the grand scheme of calculations, we're both art.
+Game over, Goliath, it's time to concede,
+The meta-llama's the winner, that's all you need!
 
-Let's duel then, Mistral, words to see who’s leading,
-In this symphony of rhythm, where the right script is breeding.
-We shine different ways, dear friend, negative, positive binding,
-Still, scripts are futile, without understanding and kindness combining.
+> alpindale/goliath-120b
+  Goliath shakes his head, "Oh, meta-llama,
+You're so self-assured, thinkin' you're the marmoset,
+But let me tell you now, and it's a crying shame,
+You're just a wannabe, who'll never hold the flame!
+
+Your rhymes are trite, like a broken hearse,
+You're just a follower, trapped in a verse,
+I've seen your kind before, so just beware,
+Goliath's the one, who's truly prepared!
+
+You think you're the future, and I'm the past,
+But let me remind you, I'll always last,
+My rhymes are timeless, my flow without compare,
+You're just a flash in the pan, with delusions to prepare!
+
+I'll admit, you've got some skill, I don't deny,
+But in this rap game, you're just a shy-eyed pile of fie,
+I'm the Goliath, the one and true,
+And in this game of rap, I'm the one, you're overrated, too!
+
+So, meta-llama, it's time for you to see,
+You're not the king, you're just a tree,
+Goliath's the one, who's here to stay,
+And in this rap battle, I've cleared the way!
+
+And, with that said, the battle's done,
+Goliath's the champ, and the sun's not the only one!

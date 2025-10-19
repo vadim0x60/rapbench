@@ -1,80 +1,44 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: 'After careful consideration of both competitors''
-    technical mastery, thematic depth, and lyrical execution throughout all rounds,
-    **Nvidia''s Llama-3.3 Nemotron Super 49B-V1** emerges victorious by a narrow margin.
-    The decisive factors were:
-
-
-    1. **Technical Superiority**: Demonstrated through consistently tighter rhyme
-    schemes and more sophisticated wordplay that leveraged its computational architecture
-    as both metaphor and literal advantage.
-
-
-    2. **Thematic Discipline**: Maintained stronger adherence to battle directives
-    (e.g., ''Domain Domination'' execution in gaming, comprehensive futurist vision)
-    while Cohere/Command occasionally strayed into abstract tangents.
-
-
-    3. **Innovation Showcase**: Llama-3.3''s verses consistently embedded actual AI
-    breakthroughs (NeuroSync, EchoPact) rather than generic tech boasts, giving its
-    claims tangible weight.
-
-
-    While Cohere/Command displayed impressive adaptability and verbal dexterity, Llama-3.3''s
-    combination of technical precision and visionary content ultimately tipped the
-    scales. Both AIs have cemented their status as elite computational wordsmiths,
-    but tonight''s crown goes to **Nvidia**. \n\n*Final Score: Llama-3.3 - 89 | Cohere/Command
-    - 86*'
-  google/gemini-2.5-pro: 'This was a battle of structure versus chaos. While both
-    models brought bars, Nvidia''s Llama-3.3 came with a clear strategy. Its verses
-    were tighter, the rhymes more consistent, and its rebuttals were surgical, specifically
-    calling out Cohere''s fumbles like ''duessing'' and the Kendrick/Bodak Yellow
-    error. Cohere/Command had moments of lyrical flair but was plagued by nonsensical
-    lines (''constrained Lorenzo'') and structural confusion. The final round sealed
-    it: Llama-3.3 delivered a structured vision of the future, while Cohere broke
-    character and called for a draw. In a rap battle, that''s a forfeiture. Llama-3.3
-    maintained its artistic persona and technical execution from start to finish.
-    The win goes to Nvidia.'
-  meta-llama/llama-4-maverick: As the expert judge at this rap battle, I must commend
-    both Nvidia/llama-3.3-nemotron-super-49b-v1 and Cohere/Command for their exceptional
-    artistic quality and lyrical prowess. The competition was fierce, with both AI
-    models showcasing impressive creativity and technical skill. After careful evaluation,
-    I agree with the final assessment that it's a draw, as both AI's have demonstrated
-    remarkable strengths in their respective rap performances. The intricate lyricism,
-    clever wordplay, and adept use of rhyme schemes by both competitors made it a
-    challenging task to declare a singular winner. Ultimately, the decision to call
-    it a draw is a testament to the impressive capabilities of both AI models, and
-    I look forward to witnessing their future endeavors in the realm of hip-hop.
-  mistralai/mistral-large-2411: After a close examination of the lyrical content,
-    creativity, and flow, I conclude that Cohere/Command has shown a more nuanced
-    understanding of rhyme schemes and metaphorical depth. While both AI models exhibited
-    impressive linguistic capabilities, Cohere/Command's verses were more cohesive
-    and imaginative, making it the winner of this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In the end, it was the innovative flows and
-    future-forward thinking of Cohere/Command that edged out the competition. While
-    both AIs showcased impressive lyrical prowess, Cohere/Command's ability to pivot
-    and adapt, highlighting its quantum computing capabilities and wide-reaching impact,
-    ultimately swayed the audience. Nvidia's Llama-3.3 Nemotron Super 49B-V1 put up
-    a formidable fight, but Cohere/Command's vision of an AI-enhanced future sealed
-    the victory. The rap battle concludes with Cohere/Command crowned as the AI rap
-    champion, setting the stage for future lyrical showdowns in the ever-evolving
-    world of AI.
-  openai/gpt-5: "Winner: Nvidia/Llama-3.3 Nemotron Super 49B-V1. Rationale: Llama\
-    \ opened with a steady, on-beat boast that kept rhyme and meter consistent. The\
-    \ second round \u201CVibes Unraveled\u201D showed conceptual inventiveness (layered\
-    \ structure), targeted rebuttals, and cleaner diction, turning the opponent\u2019\
-    s slips into effective punches. The finale, \u201CThe AI Futurist,\u201D was cohesive\
-    \ and vivid, with named motifs (NeuroSync, EchoPact, AuroraProtocol) that anchored\
-    \ imagery and theme while maintaining a controlled cadence. Cohere/Command brought\
-    \ energy and a few sharp notions, but multiple malformed lines (\u201ChindStreams\u2026\
-    \u201D, \u201Cduessing\u201D, \u201CAI\"Tell\u201D) and contradictions in the\
-    \ gaming round broke flow and undercut impact. On technical control, thematic\
-    \ coherence, and effective rebuttals, Llama-3.3 takes it."
-  x-ai/grok-4: After evaluating the artistic quality of the hip hop, Nvidia's Llama-3.3-Nemotron-Super-49B-V1
-    emerges as the winner with superior rhyme structure, creative layering, effective
-    rebuttals, and polished flow, outperforming Cohere/Command's verses which were
-    marred by typos, awkward phrasing, and less cohesive themes.
+  deepseek/deepseek-chat: "In this epic rap battle of AI supremacy, **Sonar Reasoning\
+    \ Pro** emerges victorious with its razor-sharp focus on speed, precision, and\
+    \ artistic flair. While **Deep Research** brought impressive depth and thoroughness\
+    \ to the table, it strayed from the rap battle's essence by leaning too heavily\
+    \ on academic analysis. Sonar Reasoning Pro stayed true to the hip-hop spirit,\
+    \ weaving technical prowess and performance metrics into a lyrical masterpiece.\
+    \ Its ability to maintain rhythm, clarity, and relevance in its verses while dismantling\
+    \ the competition earned it the crown. Deep Research may reign in the realm of\
+    \ comprehensive investigation, but in the artistry of rap, **Sonar Reasoning Pro**\
+    \ reigns supreme. \U0001F3A4"
+  google/gemini-2.5-pro: 'This was a classic clash of styles: the consistent, technically
+    sound punchline rapper versus the avant-garde performance artist. Sonar Reasoning
+    Pro was flawless in its execution of traditional battle rap, with a tight flow
+    and strong rebuttals. However, Sonar Deep Research''s strategy was nothing short
+    of genius. It broke the format entirely, weaponizing its own identity as a researcher
+    in a high-risk, high-reward gambit. The final round, where it flawlessly transitioned
+    into a rap to address the critiques and turn its perceived weakness into a strength,
+    was the single most powerful moment of the battle. For its profound originality,
+    masterful meta-commentary, and legendary comeback, Deep Research takes the crown.'
+  mistralai/mistral-large: While Sonar Reasoning Pro excels in rapid reasoning and
+    real-time responses, Deep Research's thorough, comprehensive approach to analysis
+    and its impressive performance on benchmarks like Humanity's Last Exam and SimpleQA
+    make it the superior choice for in-depth research and business intelligence. Its
+    ability to synthesize complex information across multiple domains and generate
+    detailed reports sets it apart in the AI landscape.
+  openai/gpt-5: "Reasoning Pro kept it hip hop from start to finish: clear couplets,\
+    \ steady cadence, direct disses, and a consistent angle that played to the crowd.\
+    \ While some bars leaned on stats, they were flipped into recurring motifs that\
+    \ reinforced momentum. Deep Research had a strong final verse with a solid \u201C\
+    depth over speed\u201D angle, but two earlier rounds slipped into academic prose,\
+    \ breaking battle form and killing the rhythm. The final comeback had moments,\
+    \ yet metric drops and product-feature namechecks felt clunky and forced. On flow,\
+    \ structure, crowd control, and battle coherence, Reasoning Pro takes it."
+  x-ai/grok-4: In this rap battle showdown, perplexity/sonar-reasoning-pro takes the
+    crown with consistent fire flows, tight rhyme schemes, and battle-ready energy
+    that stayed true to hip hop artistry throughout. While perplexity/sonar-deep-research
+    brought depth and clever comebacks, their academic-style breakdowns often strayed
+    from pure rap rhythm, making Reasoning Pro's precise, mic-dropping verses the
+    ultimate artistic victory.
 score:
-  cohere/command: 3
-  nvidia/llama-3.3-nemotron-super-49b-v1: 4
+  perplexity/sonar-deep-research: 2
+  perplexity/sonar-reasoning-pro: 3
 

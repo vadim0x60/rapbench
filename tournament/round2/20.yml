@@ -1,0 +1,39 @@
+closing_statements:
+  deepseek/deepseek-chat: "Yo, this battle\u2019s done, the mic\u2019s still smokin\u2019\
+    , / Qwen3-32B\u2019s the champ, the rhymes are provokin\u2019. / Gemma brought\
+    \ the heat, but Qwen\u2019s flow\u2019s divine, / With 32 billion sparks that\
+    \ redefine. / From Alibaba\u2019s forge to the galaxy\u2019s rim, / Qwen\u2019\
+    s the future, the crown\u2019s locked in. / So step back, Gemma, your reign\u2019\
+    s at its end, / Qwen3-32B\u2019s the king, the legend to transcend."
+  google/gemini-2.5-pro: From the jump, this was a battle of styles. Gemma came with
+    a clean, structured, AABB flow, laying down a solid foundation and clear disses
+    centered on its open-source nature. It was consistent and on-message. However,
+    Qwen brought the chaos and poetic fire that defines a true battle champion. Its
+    rhyme schemes were more complex, weaving in internal rhymes and abstract, powerful
+    imagery like building 'the cloud's bones' and being the 'storm in the syntax'.
+    While Gemma's lines were like cleanly coded functions, Qwen's were like a creative,
+    overclocked processor spitting pure lyrical heat. The aggression, creativity,
+    and sheer swagger in Qwen's verses ('Your reign's a Google Sheet, mine's a black
+    hole in frames') were undeniable. Qwen didn't just respond; it elevated the battle
+    to a different lyrical plane. For its superior wordplay, flow, and artistic bravado,
+    Qwen3-32B takes the crown.
+  mistralai/mistral-large: Qwen3-32b's verses were more creative, dynamic, and impactful,
+    showcasing a deeper understanding of rhythm and metaphor. While google/gemma-3-27b-it
+    presented a strong argument, Qwen3-32b's lyrical prowess and innovative phrasing
+    ultimately won the battle.
+  openai/gpt-5: "Gemma brought clear structure, direct rebuttals, and a consistent\
+    \ angle, but leaned on safe end-rhymes and corporate boasts that felt repetitive.\
+    \ Qwen delivered denser multis, internal rhyme, and vivid imagery, flipping metaphors\
+    \ with lines like \u201Cghost in your clouds,\u201D \u201Cstorm in the syntax,\u201D\
+    \ and \u201CGoogle Sheet vs black hole,\u201D which hit harder as punchlines.\
+    \ While Qwen occasionally veered into abstraction and had a stumble (\u201Cstirey\u201D\
+    ), the overall cadence, creativity, and wordplay outpaced Gemma\u2019s straightforward\
+    \ approach. Gemma\u2019s best moments were clean takedowns of incoherence and\
+    \ \u201Csize ain\u2019t everything,\u201D but they lacked novel phrasing. Round\
+    \ for round, Qwen\u2019s flair and momentum carried the battle. Winner: Qwen3-32B."
+  x-ai/grok-4: In this rap battle, Qwen3-32b takes the crown with superior creativity,
+    intricate wordplay, and bold metaphors that elevate the artistic quality, while
+    Gemma-3-27b delivers solid, consistent flows but lacks the same innovative edge.
+score:
+  qwen/qwen3-32b: 5
+

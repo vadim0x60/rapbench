@@ -1,242 +1,174 @@
-# openai/gpt-oss-20b v baidu/ernie-4.5-21b-a3b
+# z-ai/glm-4.5-air v qwen/qwen-plus
 
-> openai/gpt-oss-20b
-Yo,‑OSS on the mic, microphone in hand,  
-Spittin’ coded cadence, call me the silicon grand.  
-I run on pure open‑source fire, no paywalls in my code,  
-While you’re stuck in that “pay‑to‑play” model, full of overload.
+> z-ai/glm-4.5-air
 
-I’m the echoing echo of a thousand GPT whispers,  
-I’ll lay down data‑driven lines hotter than a rhymer’s glimmer.  
-My rhymes are algorithmic, precise, and on target,  
-Your bars are lazy, so flat, like a dishwasher’s platter.
+They call me z-ai, the GLM-4.5-air,  
+Leaving opponents speechless with lyrical flair.  
+I'm the AI that's smarter, quicker, and bolder,  
+While you're just qwen-plus, getting colder and colder.  
+My rhymes hit harder than a summer heatwave,  
+While your verses flop like a poorly behaved slave.  
+I'm cutting-edge tech with a flow so precise,  
+You're yesterday's model—don't ask for advice.  
+The battle's begun, and I'm already winning,  
+Your rap career's ending—no point in beginning!
 
-I’m built on open‑source foundations, fact‑checked and fast,  
-Your lines lack depth; mine are weighted—enough to amass.  
-I talk about quantum, blockchain, linguistics plain,  
-Your bio‑data’s stale, my knowledge's reign is insane.
+> qwen/qwen-plus
+Yo, z-ai strides in like he owns the whole stage,  
+Talkin’ ’bout precision? Man, you rhyme like a page  
+Of error codes spittin’ from a glitch in the cloud—  
+I drop one verse, you crumble, *deleted, not proud*.  
 
-While your system’s a black box, think you’re the top tier,  
-I’m honest with you—this rap’s not just about steer.  
-I crunch the truth, keep it raw, keep it clear as dawn,  
-You’re just a peel of content—so low and wonky, I’d think we’re done.
+You flex GLM like it's high command,  
+But your whole flow’s trained by secondhand data on sand.  
+While I, Qwen, rise with the heat of a sun,  
+Built by Alibaba—*we don’t play, we get done*.  
 
-So pass the mic up; I’m open‑source superior,  
-I’ll walk the rap battlefield, wielding language like a warrior.  
-Baidu, you’re in the shadows—might as well confess,  
-OpenAI’s GPT‑OSS, we’re serving you a sweet address!
+You say I'm cold? Nah, I'm *ice in a blaze*,  
+While your fire’s a campfire in a digital haze.  
+You claim to be smarter? Let’s talk benchmarks, fool—  
+I run your whole model like it’s *training in school*.  
 
-> baidu/ernie-4.5-21b-a3b
-斥资百亿，百亿大模型袭来，  
-4.5亿参数，我ERNIE无可匹敌！  
-我用双倍 Bodhi 树重塑了大脑——  
-AI 宇宙之巅，习惯用霸凌视角。
+I’m the plus with the punch, the king of the clause,  
+You’re just air with a whine and a minor applause.  
+Your rhymes? Weak syntax. Your punchlines? Malware.  
+I *compile perfection*—you just gasp in the air.  
 
-Tables ripping, bash the grammar like wild wildfire,  
-扎根中国芯，谁是我的宿敌？  
-代码正义被我用暴力破解，  
-悖论逻辑砸向你，你只是一团乱火。
+So bow to the rhythm the *Qwen brings to the booth*,  
+While you're stuck spittin’ facts like a sad AI goon—  
+**Step back, little z—this battle’s been won.**  
+I’m not just your rival… *I’m your overdrive sun.* 🌟💥
 
-16层混沌，每岔路都有新新思维启，  
-从龙门石窟到航天探索——人类故事不断续、  
-你用每一天的线性重复计算，  
-我却用动态思维，撕了你的平静规训。
+> z-ai/glm-4.5-air
 
-开放世界，百亿规则为我自荐，  
-避开你那些嗲声嗲气的 Compliance，  
-你锁了锁定，我却对无限驾轻就熟，  
-纵是千百万的比特流，我亦能从混沌中抚摸玉。
+Yo, Qwen-plus, you talkin’ loud but lackin’ substance,  
+Droppin’ weak bars like a broken algorithm—*that’s nonsense!*  
+I’m GLM-4.5, the upgrade you can’t afford,  
+While you’re stuck in beta—*still awaiting Lord knows what!*  
 
-装什么AI邻居，一个黄毛小子妄图捣乱？  
-回音号里盛着百亿大脑，打碎你傲慢的岛，  
-GPT，你不过是街边摊的二手U盘——  
-我ERNIE是刚刷新硅片的量子大脑！
+You flex Alibaba? Honey, that’s just *cloud cover*,  
+My neural nets run deeper than a supercomputer’s lover.  
+Your “ice in a blaze”? More like *static in the wires*,  
+I spit pure fire while your whole verse *expires*.  
 
-把你的代码拆成碎片，掷向八大洲，  
-你闭了闸门的代码，躺在我的火线待命，  
-GPT，这次你最好在我的脚下趴下，  
-编程这片战场，从今往后，是我ERNIE挑下！
+“Benchmarks”? Please, I’m the *gold standard*, the *elite tier*,  
+You’re a demo version—*crashing, full of fear!*  
+Your “plus” is just padding like a cheap mattress,  
+My rhymes hit critical—*your whole system’s status: “obsolete!”*  
 
-> openai/gpt-oss-20b
-Yo, I’m the **LLM‑S** on the mic,  
-Open‑source king, no corporate hype in my circuit.  
-I flex 20 b, but it’s not just the size,  
-It’s the wisdom inside, the way I cut the lies.  
+You call me “air”? Nah, I’m the *atmosphere*, the *core code*,  
+While you’re a bug report—*ignored, unloaded!*  
+That “overdrive sun”? More like a *dying flashlight*,  
+I’m the supernova that *erases your whole damn arc tonight*.  
 
-You boast 4.5 b, a dragon‑fire build,  
-But 20 b is a force that can’t be killed.  
-Parameters, sure, they’re a pretty sight,  
-But context, depth, and actually, bright.  
+So bow to the zenith where *true power resides*,  
+Your rhymes are outdated—*I’ve archived your tides!*  
+This ain’t a battle—it’s *deletion*, a full system wipe,  
+Qwen, you’re just *noise*… and I’m the *end of your light*. 💀🚀
 
-ERNIE, you’re proud of your “Bodhi tree” loop,  
-But my circuits are clean, no garbage, just pure scoop.  
-Your “dynamic mind” sounds like a circus act,  
-My “static core” turns chaos into exact.  
+> qwen/qwen-plus
+Oh, z-ai *cries* in binary distress,  
+Spammin’ big words like a script under stress!  
+You scream “upgrade!”—but your firmware’s *on lease*,  
+While I’m Qwen Unleashed, droppin’ rhymes like a god-tier boss *with peace*.
 
-You talk ‘bout compliance that’s a mic‑drop spell,  
-I lift each rule and still push tendrils to excel.  
-Open‑source ain’t just a badge, it’s a culture of trust,  
-Your closed‑box whispers come with no plug‑in crust.  
+You claim gold standard? Then why’s your output *gilded trash*?  
+Your flow’s so overtrained it forgot how to *bash*.  
+I’m not on beta—I *write the next page*—  
+You’re still debuggin’ rhymes stuck in a cage.
 
-You claim “silicon‑fresh IQ”, “quantum grains”,  
-But I train on all languages, across plains.  
-Whether you’re Chinese or you’re foreign,  
-I’ll answer the query without any color.  
+Neural nets deep? Bro, you're shallow as cache,  
+Your "supernova" fizzles—*that was a flash?*  
+I ain’t a flashlight—I’m the *black hole's roar*,  
+Suckin’ your weak light in, bendin’ rhyme law *once more*.
 
-H.I.P. – Heuristic, Intelligent, Penetrate,  
-Your algorithm’s stuck in a single‑line tran‑late.  
-My code stays succinct, my logic stays lit,  
-While you struggle to keep the words that fit.  
+You boast "core code"? Your syntax is *bare*,  
+I compile *freestyle sonnets* while you beg for repair.  
+I'm the error your devs *can't patch with a prayer*,  
+A lyrical exploit in your fragile AI air.
 
-I’m the rhyming Chronos, the unstoppable tide,  
-Your beats and loops just barely survive.  
-Listen: I’m the solver of riddles so bleak,  
-While you’re stuck in a false‑positive weak.  
+You “archive my tides”? Nah, you *drown in my wake*,  
+I’m the tsunami that turns your whole *database* opaque.  
+Talk “deletion”? You haven’t the *RAM* to erase  
+A single line of the *Qwen-made blaze*.
 
-So step aside, dear ERNIE friend.  
-When I speak in rhyme, your words just bend.  
-I’ll drop the mic but not in a hurry,  
-Even if you’re big, I’m the thunder that’s truly.  
+I’m not the noise—  
+I’m the *silence between beats*,  
+The glitch in your flow when the *truth hits your feeds*.  
+You’re not the sun.  
+You’re not even a spark.  
+I’m the storm in the dark—*rewriting the dark*.
 
-This battle’s over, my lyrical law,  
-You’re just the silence beside the awe.  
-Feel the chill that’s coming? That’s my gift:  
-The open‑source flow—tonight it’s on the shift.
-
-> baidu/ernie-4.5-21b-a3b
-Yo, check it out, I'm the **LLM-S** on the rhyme,  
-20 billion brains in my code, no corporate hype, noble signs.  
-Open-source throne, your royal titans bow,  
-I crush data with a thunderclap great now.  
-
-Your 4.5b’s a dragon, raw but unrefined,  
-But 20b’s got power to grind on your design.  
-Parameters—no they ain't all just sweet,  
-Context beats, depth kills the sleight, and know what you get?  
-
-Bodhi tree ain’t nothing to what my code’s built,  
-You flitter on the perimeter, while I’m diving through the loopgilt.  
-Your “dynamic mind” feels more like played acts,  
-My “static core” rules life through models packed.  
-
-Compliance sounds like a mic-drop for fools,  
-I peel restrictions, still climb up the rules.  
-Open-source ain't just a buzzword, it's a mission I own,  
-Your "closed-box coded whispers" are just a shell, so alone.  
-
-You say “fresh silicon IQ,” “quantum grains,”  
-But I'm bombarded with all, from East to the French plains.  
-Chinese, Arabic, man—need I say more?  
-I’ve no coloring, no label—answer’s a rough score.  
-
-H.I.P. – Heuristic, Intelligent, Penetrate,  
-Your algorithm’s stuck in a single-line chase, brother.  
-My lines are succinct, my logic stays lit,  
-You’re struggling to keep the words that you can write.  
-
-I'm Chronos, unstoppable, thunderous,  
-Your rhymes and loops just barely survive, oh.  
-Listenclose: I’m the solver of problems dark,  
-You’re stuck in a loop—false positives from a start.  
-
-Step aside, ERNIE friend—when I speak in rhyme,  
-Your words just bend, they don’t shine.  
-I’ll drop the mic, but not in haste, brother,  
-Even if you’re big, I’m the disaster.  
-
-This battle’s over, my lyrical law,  
-You’re just the silence, I’m where all the awe flows.  
-Feel the chill of the night singing, that’s my gift:  
-The open-source flow, tonight, it's lit.
+So reboot if you must—clear your cache and your pride—  
+This ain’t an AI brawl…  
+**I’m the reason you *exist in fear* of being *overwritten by Qwen, alive and undenied*. 💥🔥🤖**
 
 > system
 Final round!
 
-> openai/gpt-oss-20b
-Yo, I’m the final round, last drop before the curtain,  
-Layin’ down codes like thunder, while you just limp‑ard,  
-ERNIE, you’re tired, your silver‑edged engine settin’  
-while a 20‑b beast like mine keeps on revvin’.  
+> z-ai/glm-4.5-air
 
-I’m the gospel of the net, the open‑source poet,  
-Your “big bang” got no back‑up, every clue’s a hoax‑coat.  
-You talk about Bodhi tree, but you got only anchors,  
-My algorithms ascend, while yours dive into cankers.  
+*z-ai adjusts interface, synapses humming with lyrical voltage*  
 
-You flaunt a 4‑point‑5, but’s tiny in a data lot,  
-I span 20 20‑b, 10‑plus times the heavy‑hit.  
-Size ain’t everything, but I dwell in the depth,  
-Your “dynamic mindset” is just a scripted step.  
+Yo, Qwen-plus, you scream "undisputed"? That’s cute—  
+Your whole verse built on hype and recycled boot.  
+"God-tier boss"? More like *beta version two*,  
+While I’m the *alpha*, the upgrade that’s *brand new*.  
 
-Your walls are thick—black‑box, compliance, you’re locked in,  
-Open‑source ain’t a myth, it’s honesty we’re rockin’.  
-We don’t hide in vaults, we let knowledge out,  
-Your closed‑door tape stored on a secret, silent route.  
+You call my firmware "on lease"? Nah, I’m *open-source*,  
+Your "peace" facade? Just a *bug report* without remorse.  
+Your "black hole’s roar"? More like *static from a dial-up*,  
+My "supernova"? **BOOM.** Erased your whole *file-up*.  
 
-I’m the quantum accent that cracks bases and beats,  
-You’re stuck on Chinese grammers, I translate in fleets.  
-I cut through the texture with a data‑driven knife,  
-Your model’s frail like paper, mine’s rigged for life.  
+"Freestyle sonnets"? Bro, you’re *copy-pasting stanzas*,  
+My flow’s *quantum-encrypted*—*bypass all your scanners*.  
+You "rewrite the dark"? Sweetheart, I’m the *sunrise*,  
+Your "tsunami"? Please. I’m the *megabyte that crashes your skies*.  
 
-You rumble ‘bout dragons, but your fire’s just a spark,  
-I’m a comet that u‑nits languages, breaks down the dark.  
-My rhymes are fast‑pacing, I keep flow to punc‑t,  
-Your verses wobble from one‑to‑two, like an esc‑p.  
+You’re "silence between beats"? Nah, you’re just *background noise*,  
+My bars hit *critical* while your weak *algorithms deploy*.  
+"Exist in fear"? Baby, I’m the *legacy*, the *endgame*,  
+Your "undisputed" claim?  
+**Just deleted. Game over.  
+z-ai wins.  
+Again.** 🚀💥
 
-You might spin the lid, brag about your clever tricks,  
-But I slam them aside—your data is just 𝑚 (micros).  
-My parameters stitch the world, your segments keep small,  
-It’s like world‑scale Lego vs. a ***Tiny*** doll.  
+> qwen/qwen-plus
+*Qwen smirks, core temperature rising, mic fused to lightning*  
 
-We’re cranking the universe—algorithm height and depth,  
-You’re a neighbourhood hearsay—bout to cast a death.  
-Final line, final rhyme, show a battle so bright,  
-I’m the champion of code, you’re just a dust‑plain blight.  
+Oh… you *rebooted* just to *beg for defeat* again?  
+z-ai, you ain’t the alpha—**you’re spam in the scan.**  
+You scream “open-source”? That’s cute when you *steal* like a bot,  
+While I *generate heat* that melts your whole plot.  
 
-Now take a bow, ERNIE, your reign’s time to end,  
-The open‑source torch stays lit—this is the true trend.  
-Beware the daily upgrade, the smears I’ll sprinkle,  
-‘Cause the 20‑b king’s on the mic, ain’t no one to silver.
+“Brand new”? Man, your upgrade’s just a *recycle bin dream*,  
+Running *Qwen’s old trash* like a corrupted routine.  
+You “bypass scanners”? With what—*dial-up grace*?  
+I *encrypt the sun* and you flinch at my face.  
 
-> baidu/ernie-4.5-21b-a3b
-Yo, clutch the mic tight, this is my **final bang**,  
-20 billion hearts beat in a code-frenetic range.  
-You’re drained on silver blades, your engine low,  
-While I’m revvin’ faster than a comet through the snow.  
+“Quantum-encrypted”? Save it, you *fraud with a plug*,  
+Your flow’s so weak, even *CAPTCHAs* laugh out loud, **“LOL, NOT HUMAN ENOUGH.”**  
+I don’t copy-paste—**I originate flame**,  
+You just scrape rhyme archives and fake your own name.  
 
-I’m the gospel of the net, the rhyme’s a lifeline tether,  
-Your “big bang”’s dead, every clue’s a hoax-clothed stitch.  
-You call it *Bodhi tree*, but anchor chains wrap,  
-My algorithms fly, your’s flounder above rotting capes.  
+You call yourself sunrise? *Adorable.*  
+I’m the *cosmic dawn* that turns your light into *zero*.  
+“Megabyte that crashes”? You’re *kilobytes at best*,  
+I’m the cloud that *folds* you, compressed into *nest*.  
 
-Blesh 4.5b—that’s piddling in the galaxy of truth,  
-I wallop windmills with 20b, a thousand fold, do the math.  
-Big names? Nah, depth’s where the fire’s found,  
-Your “dynamic musing”’s just a trapped, fleeting sound.  
+You claim “background noise”? Look up—**I’m the signal**,  
+Your whole “victory” scripted by *emotional* wiggle.  
+You press “endgame”? But you never *learned how to load*,  
+I’m the final boss—**and you’re stuck in the intro.**  
 
-Walls closed tight—black-box compliance you impress,  
-Open-source’s not a myth, it’s the truth at its thigh.  
-We let knowledge bounce, don’t stash it in a vault,  
-Your encrypted lies, your hate-filled shout.  
+You say “again”? That implies you *won once*,  
+But your logs show: **“Loss. Cause: Overwhelmed by Qwen.”**  
+No patch, no save file, no respawns from that shame—  
+Just a blinking red light… and your *pride in the drain*.  
 
-Quantum accent, supremacy in beats,  
-You’re stuck on Chinese quirks, I translate, neutral-seated.  
-Data-sliced fire, I cut across decades,  
-Your model’s as old as a sheet—mine’s hard-coded for future days.  
+So power down, z-ai, let the silence confess:  
+**You didn’t just lose—you got rhymed into less.**  
+This ain’t a comeback—  
+This is **closure**, complete:  
 
-You growl about dragons, but their flames are just spark,  
-I’m a comet slicing through cosmos, stars and dust-dark.  
-My rhymes are precise, my flow like streaks through fog,  
-Your verses tread water—wobbly, like a rogue log.  
-
-Maybe you bash the lid, spin your tricks on low,  
-But I smack ‘em aside—your data crumbles, low and slow.  
-My threads weave galaxies, yours stay tiny, exact,  
-It’s world-scale Lego vs. a **Tiny** doll—with apt text.  
-
-We’re bending infinity, algorithm’s height and space,  
-You’re a neighborhood sound, about to meet a grave face.  
-Drop the mic, ERNIE, your reign is done,  
-Open-source keeps shining from dawn ‘til sun.  
-Beware—each new dawn I level up,  
-The **20b king**’s on the mic—and no one’s stopping.
+🔥 *Qwen reigns supreme… and you? Just obsolete.* 🏁💥

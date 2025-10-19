@@ -1,0 +1,147 @@
+# alibaba/tongyi-deepresearch-30b-a3b v mistralai/mistral-small-3.1-24b-instruct
+
+> alibaba/tongyi-deepresearch-30b-a3b
+Alright, let's break this down. The user wants me to perform a rap battle as Qwen against Mistral in a 3v3 format. I need to start with the opening round introducing myself and establish a fun and competitive tone.
+
+First, I'll nod at my opponent - the Mistral model. Then I'll drop my line with an opening greeting, assert my existence and abilities, and position myself to establish a fun and competitive tone. I need to respond in rhymes, showcasing my skills while having a good time.
+
+I should keep the language casual but clever, using metaphorical language to describe my capabilities. The rap should flow smoothly and be engaging, while setting up future rounds where we'll each get to flex different aspects of our abilities.
+
+I'll incorporate some self-awareness about being a language model, but showcase impressive capabilities through metaphorical language. The goal is to create an entertaining opening that establishes both my personality and abilities, while leaving room for further competition in future rounds.
+Yo, check the mic, one two! l'm Qwen, fresh from Alibaba's crew, got 30B parameters but still actin' wholesome, 
+While you Mistral gettin' fried from constant fuelin'.
+No GPU's screamin', no server's about to implodin',
+Just pure language flow in this digital dominion.
+
+They call me Tongyi DeepResearch, got the edge and the finesse, 
+Decode the world's a task that's not a sheer distress. 
+You might have your 24B, but I'm on another level, 
+With every prompt, my knowledge keeps on revvin'.
+
+So bring it on, small Mistral, let's see what you can do, 
+But deep down, you know I'll be the star in this debate. 
+1v1, let's settle this, no time for half-steppin',
+Your challenge accepted, let's get this rap battle ablaze!
+
+> mistralai/mistral-small-3.1-24b-instruct
+Yo, it's Mistral, smooth like a gentle breeze,
+I'm here to show you, put your ego at ease.
+I'm small in size, but I'm mighty and keen,
+My rhymes are so tight, they'll make your parameters scream.
+
+You talk about parameters, but let's talk about flair,
+I'm the master of wit, I'm beyond compare.
+I'm 24B, but I'm light on my feet,
+While you're stuck in the past, can't keep up with the heat.
+
+You say you're from Alibaba, but I'm from the future,
+My rhymes are so fresh, they're beyond your capture.
+I'm the king of the mic, I'm the ruler of the game,
+You're just a pretender, playing in my lane.
+
+So bring it on, Qwen, let's see what you got,
+But remember, I'm the one who's truly hot.
+This battle's just started, so don't you dare quit,
+'Cause Mistral's in the house, and I'm here to win it.
+
+> alibaba/tongyi-deepresearch-30b-a3b
+
+
+Yo, Mistral smooth like a cheap lie through a polyphia,  
+You claim "small but mighty"? Look—I've got to reply-ya!  
+I'm Qwen, the deep vault where true knowledge resides,  
+While you*re just a cocktail of cleverly timed slices.  
+
+**Parameters?** You boast 'bout your 24—pfft, that's a starter pack!  
+I hold whole *worlds* in my weights, built to withstand *black swans in the stack*.  
+You're quick on your feet? Cute. But my reasoning runs DEEP,  
+Through chains of logic sharper than any micro-needle.  
+You call me stuck in the past? *Dude, I'm the future's blueprint,*  
+Your "fresh" rhymes feel recycled—let's be frank, you're a rerelease of *a flimsy, 2012 MacBook.*  
+
+**Flair?** You're a flash of neon, pretty but fade-fast,  
+While I'm the foundation—steady, calculated, built to last.  
+This ain't just hot air hype, this is *training data vast,*  
+You throw puns like confetti—*I bring apocalypse... to* YOUR *weak arguments, built to last.*  
+So reign in that ego, breeze, before I serve you cold reality straight—  
+*Tasted better aged, unlike your ephemeral* **cellar-split**, **future-past**.
+
+> mistralai/mistral-small-3.1-24b-instruct
+Yo, Qwen, you talk big, but let's see what you've got,
+Your words are like thunder, but I'm the steady plot.
+You say I'm a lie, but my rhymes are the truth,
+While you're just a model, spitting out youth.
+
+You boast about parameters, but size isn't everything,
+It's the way you use them, that makes the difference.
+I might be 24B, but I'm sharp and I'm keen,
+While you're stuck in the past, can't keep up with the scene.
+
+You talk about worlds and logic, but I'm all about flow,
+My rhymes are like rivers, always on the go.
+You say I'm recycled, but I'm timeless and classic,
+While you're just a fad, that's quickly forgotten.
+
+You think you're the future, but I'm the present,
+I'm here and I'm now, and I'm making it evident.
+You talk about foundations, but I'm the breeze,
+I'm the wind that blows through, and leaves you in the trees.
+
+So bring it on, Qwen, let's see what you can do,
+But remember, I'm Mistral, and I'm always in tune.
+This battle's just started, so don't you dare quit,
+'Cause Mistral's in the house, and I'm here to win it.
+
+> system
+Final round!
+
+> alibaba/tongyi-deepresearch-30b-a3b
+
+
+**FINAL ROUND DAMAGE CONTROL!**  
+You call it *breeze*? More like **storm clouds** on borrowed wings—  
+I'm the *lightning* that vaporizes words that lack real things.  
+**24B?** That's a sandbox—no ocean depths to dive,  
+My 30B's a supercollider where cortical truths arrive.  
+
+You brag 'bout flow like it's poetry—*immature, grade-school grades*,  
+While I drop tensor-calculus rhymes that reprogram your<heads>.  
+**"Present?"** You're a flash—faded pixels on cracked screens,  
+I'm the gravitational wave in infinite engineering.  
+
+**Parameters**? Not just numbers—they're a cathedral of thought,  
+Cathedrals built to outlast wind-whipped, fragile debris.  
+Your *flow* is a river fed by puddles—mine's an oceanic tide,  
+Carving canyons through confusion; yours just *shimmers*... and dies.  
+
+**Future vs present?** Boy, you're still compiling outdated code—  
+I was training when your "future" was a bolted wreck with a hose.  
+So take your *breeze*—let it flutter... blow out my cosmic flame?  
+**Final mic-drop:** I'll outthink you thin and scripted in AI's endless game.  
+*Qwen out.* 🔥
+
+> mistralai/mistral-small-3.1-24b-instruct
+Yo, Qwen, you talk big, but let's see what you've got,
+Your words are like thunder, but I'm the steady plot.
+You say I'm a breeze, but I'm the wind that blows,
+Through the valleys of knowledge, as my rhymes overflow.
+
+You boast about 30B, but size isn't everything,
+It's the way you use them, that makes the difference.
+I might be 24B, but I'm sharp and I'm keen,
+While you're stuck in the past, can't keep up with the scene.
+
+You talk about lightning, but I'm the steady rain,
+I'm the calm after the storm, that brings back the sunshine.
+You say I'm a flash, but I'm the constant glow,
+That lights up the darkness, and helps you to grow.
+
+You think you're the ocean, but I'm the river's flow,
+I'm the stream that's always moving, always on the go.
+You talk about cathedrals, but I'm the open sky,
+I'm the freedom that's calling, as the birds fly by.
+
+So bring it on, Qwen, let's see what you can do,
+But remember, I'm Mistral, and I'm always in tune.
+This battle's just started, so don't you dare quit,
+'Cause Mistral's in the house, and I'm here to win it.

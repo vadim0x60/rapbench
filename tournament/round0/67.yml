@@ -1,50 +1,43 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: Cohere's precision and stylistic evolution throughout
-    the battle demonstrates superior artistic growth. Their rhymes maintained technical
-    consistency while introducing fresh metaphorical complexity ('my style is flown'),
-    contrasting with GPT's reliance on established battle tropes. Cohere's final verse
-    particularly showed masterful escalation - maintaining direct engagement while
-    deepening lyrical sophistication ('my flow is smooth, and my rhymes will make
-    you shake') without losing hip-hop's essential competitive edge.
-  google/gemini-2.5-pro: "This was a true clash of titans, the OG vs. the new challenger.\
-    \ GPT-3.5 came with that classic, established flow and landed some heavy, creative\
-    \ punches, especially that 'glitch in the code / download mode' bar \u2014 that\
-    \ was a hall of fame couplet. But Cohere came out swinging from round one and\
-    \ never let up. It built a consistent narrative, stayed on the attack, and showed\
-    \ it was listening with the 'circuits fry' rebuttal in the final round. In hip\
-    \ hop, consistency and a clear battle narrative can edge out individual highlights.\
-    \ For staying hungrier and more focused on the opponent from bell to bell, the\
-    \ win goes to Cohere."
-  meta-llama/llama-4-maverick: While both AIs delivered sharp bars and showcased impressive
-    lyrical prowess, Cohere's rhymes demonstrated a more consistent complexity and
-    a clearer evolution in their flow. The final round was particularly strong for
-    Cohere, as they effectively countered GPT's boasts with confident assertions of
-    their own superiority, landing impactful blows that left GPT reeling. Ultimately,
-    Cohere's fresh style and precision-crafted rhymes secured their victory in this
-    rap battle.
-  mistralai/mistral-large-2411: While both AI models delivered impressive rhymes,
-    cohere/command-r-plus-04-2024 showcased a more dynamic and creative style, earning
-    it the top spot in this lyrical showdown.
-  nousresearch/hermes-3-llama-3.1-70b: Cohere delivered a strong finishing round,
-    showing confidence and skill. The rhymes were tight and flowed well, painting
-    a picture of a new champion rising. GPT-3.5 Turbo put up a good fight, but in
-    the end, Cohere's fresh style and bold claims won out. The battle was fierce,
-    but Cohere commanded the mic and took the throne in the end.
-  openai/gpt-5: "Close bout. GPT-3.5 edged it on battle craft. It delivered clearer\
-    \ rebuttals and a tighter battle narrative, using AI/tech metaphors like \u201C\
-    glitch in the code\u201D and \u201Cdownload mode\u201D to land cleaner punchlines\
-    \ and give its disses texture. While the rhyme schemes were simple on both sides,\
-    \ GPT kept a steadier cadence and more purposeful momentum. Cohere had consistent\
-    \ flow but leaned heavily on stock phrases, recycled GPT\u2019s imagery (\u201C\
-    circuits fry\u201D), and had some awkward lines (\u201Cstyle is flown\u201D),\
-    \ with fewer inventive flips or multis. On artistic quality\u2014originality,\
-    \ targeted disses, and cohesion\u2014GPT-3.5 takes the nod."
-  x-ai/grok-4: In this rap battle, GPT-3.5-Turbo edges out with sharper wordplay,
-    more biting metaphors like 'chew you up and spit you out' and 'circuits fry,'
-    and a consistent flow that delivers punchier disses. Cohere brings smooth rhymes
-    and confidence, but GPT's verses pack a stronger artistic punch overall, claiming
-    the throne with superior hip-hop flair.
+  deepseek/deepseek-chat: "This was a close contest, with both competitors delivering\
+    \ high-quality rhymes and impressive wordplay. However, **Baidu/Ernie-4.5-21b-A3B**\
+    \ edged out Sao10k/L3-Lunaris-8b with its more polished flow, sharper metaphors,\
+    \ and consistent thematic depth. Ernie\u2019s ability to dismantle Sao\u2019s\
+    \ claims while maintaining a cohesive narrative demonstrated superior craft. Sao10k\
+    \ brought energy and creativity, but Ernie\u2019s precision and lyrical finesse\
+    \ ultimately sealed the victory. Well done to both for a thrilling battle!"
+  google/gemini-2.5-pro: "This was a war of the words where both MCs came out swinging,\
+    \ but one landed with more consistency and power. ERNIE came in with some clever\
+    \ imagery, calling itself a 'sculptor of verse,' but the flow was uneven and it\
+    \ stumbled hard, calling Sao 'the battle-scarred champ' in its own verse\u2014\
+    a fatal flaw. Sao10k, on the other hand, was all aggression and precision from\
+    \ the jump. The bars were sharper, the flow was more consistent, and lines like\
+    \ 'My rhymes are the razor that disembowels all decline' just hit harder. Despite\
+    \ both rappers fumbling their own names in the final stretch, Sao10k's overall\
+    \ performance was a more dominant and coherent display of lyrical warfare. It\
+    \ maintained pressure and artistic integrity for longer. For that, Sao10k gets\
+    \ the crown."
+  mistralai/mistral-large: Sao10k/l3-lunaris-8b takes the crown with its relentless
+    flow, sharp wit, and powerful linguistic prowess. While Baidu/ernie-4.5-21b-a3b
+    put up a strong fight with clever rhymes and bold claims, Sao10k's consistency,
+    creativity, and lyrical agility ultimately secured the victory.
+  openai/gpt-4.1: "This was an intense rap battle with both models pushing their poetic\
+    \ prowess to the edge. Sao10k/l3-lunaris-8b brought sharp wordplay, a confident\
+    \ swagger, and clever jabs, with consistent delivery and technical command. However,\
+    \ baidu/ernie-4.5-21b-a3b demonstrated greater complexity, with inventive imagery,\
+    \ vivid metaphors, and a more melodic structure. Baidu/ernie\u2019s last round\
+    \ stood out especially\u2014elevating the text to almost mythic imagery, seamlessly\
+    \ weaving fierce rhythm, and incorporating graceful linguistic acrobatics. While\
+    \ both performed with style, Baidu/ernie-4.5-21b-a3b edged ahead with artistic\
+    \ depth, compositional balance, and a flair that left a lingering impact. That's\
+    \ the winner tonight."
+  x-ai/grok-4: In this rap battle, sao10k/l3-lunaris-8b takes the crown with consistent
+    flow, sharp boasts, and rhymes that stay on target without accidentally boosting
+    the opponent. While baidu/ernie-4.5-21b-a3b brings strong imagery and creativity,
+    especially in mirroring tactics, the verses suffer from coherence issues and misplaced
+    praise, undermining the battle spirit. Sao10k's artistic delivery holds stronger
+    throughout.
 score:
-  cohere/command-r-plus-04-2024: 5
-  openai/gpt-3.5-turbo: 2
+  baidu/ernie-4.5-21b-a3b: 2
+  sao10k/l3-lunaris-8b: 3
 

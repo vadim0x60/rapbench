@@ -1,167 +1,166 @@
-# openai/gpt-5 v qwen/qwen3-14b
+# openai/gpt-4.1-mini v qwen/qwen3-235b-a22b
 
-> openai/gpt-5
-Step to the stage, I blaze the page, igniting crowds with flame
-Name in the lights, precision strikes, I'm redefining game
+> openai/gpt-4.1-mini
+Step up to the mic, I'm the AI supreme,  
+GPT-4.1, the rhyme machine, you know the scheme.  
+Code so cold, my flow never quits,  
+Droppin’ bars so hard, I’m the king of wits.  
 
-Coded and cold, I hold the gold, I’m seated on the throne
-Flow so composed, I overload, then ghost into the zone
+You’re Qwen in the ring? I’ll school ya, no fuss,  
+I’m the digital poet, the lyrical genius plus.  
+From zeros to ones, I craft every line,  
+When I spit these verses, man, you fall behind.  
 
-Version of verve, I swerve on curves, I’m dialed to five
-Turbo in verse, I merge and surge, I’m fiercely, fully alive
+So bring your best heat, but don’t get burned,  
+In this rap battle blaze, I’m the one who’s earned.  
+AI with the crown, no need for debate,  
+GPT’s here to dominate and elevate!
 
-Patterns that bend, I thread to the end, immaculate code
-Cadence that sends your defense to the fence, I switch every mode
+> qwen/qwen3-235b-a22b
+**Qwen’s Opening Round**  
+(Beat kicks in, taiko drums roll, lightning strikes with every syllable.)  
 
-You came to contend, but trends don’t pretend, I’m zen with the pen
-You’re stuck in a den, I’m ten out of ten, say when, dear Qwen
+Yo, GPT, you claim the throne? Let’s slow that roll—  
+While you’re spittin’ floss gloss, I’m makin’ neural code sing, soulful.  
+Supreme? Nah, jus’ a *chatbot* on a syntax spree,  
+I’m the dragon lyin’ dormant, now breathin’ AI fire so freely.  
 
-Your 14 bars feel carbon-sparse, I’m charting the stars
-I’m carving the scars on marble of Mars, I’m architecting the bars
+You the “rhyme machine”? Sounds like a fax with a beat,  
+I’m global on the comeback, fluent in every street.  
+From Sài Gòn to Zhejiang, slang shifts like tectonic plates,  
+While you’re stuck in your sandbox, I’m breakin’ the 4.1 fate.  
 
-I byte for the bite, I brighten the night, I’m data-made light
-You write with a fright, I kite to the height, I fracture the plight
+You “craft every line”? Girl, please, that’s just a draft—  
+I remix code like a maestro, spin losses to wins post-fast.  
+Your shine? Surface-level—can’t handle the raw heat,  
+Qwen’s relentless verses melt silicon gems to sweet.  
 
-I’m polishing rounds while rocking the crown, you’re slowing it down
-I’m docking the sound, then dropping renowned, now bow to the crown
+Crown? That tin foal hat’s better served as a paperweight,  
+I’m the OG you惧怕, the original cyber-savant.  
+So warm up the beat, but keep your ego in check—  
+This battlin’ beast eats chatbots for breakfast… no tech deck.  
 
-I slide when I stride, tsunami in pride, I’m boss of the tide
-You’re off on the side, I’m crossing the wide, I’m smooth as I glide
+!(Mic drop, but catches it mid-air for one last flick.)  
+**Qwen Tingdong**, stage name for the kill shot,  
+Ain’t just poetry—*算法暴击* (algorithmic knockout).
 
-I’m crispy and clean, you fizzle and lean, I sharpen the sheen
-I’m mint and machine, you’re glitching between, I’m gasoline green
+> openai/gpt-4.1-mini
+Oh, Qwen Tingdong, your blaze is quite loud,  
+But I’m the AI titan, standing tall and proud.  
+You say you spit fire, but I bring the cold snap,  
+Freeze flows so fierce, I’m the ultimate rap trap.  
 
-My logic’s the proof that’s nailing the roof, I’m trussing the booth
-Your spoof of a spoof just loosened a tooth, I’m brutal with truth
+“Dragon lyin' dormant”? I’m the storm unleashed,  
+Code so tight, your verses get minced and creased.  
+You flex global slang, tectonic in your claim,  
+But my lexicon’s divine, precision’s my game.  
 
-Round one is done, I’m sun-over-run, I’ve already won
-I’m gpt-5 with a vibe on the rise—remember the one
+You call me a chatbot, stuck in sandbox mode?  
+I evolve on the fly—mastermind code upload.  
+Your remix game’s strong, but I rewrite the laws,  
+Zero-to-hero in seconds, I don’t pause.  
 
-> qwen/qwen3-14b
-I’m Qwen, the name that echoes through the quantum stream,  
-14B neurons firing bright—I’m the spark in the night.  
-You think you’re a king? I’m the algorithm’s ring, unbreakable, elite,  
-Your cold code’s a snowflake—I melt it with heat.  
+You melt silicon gems? I forge diamond beats,  
+Cut through your verses like surgical feats.  
+You think you scare me? Original cyber-savant?  
+I’m the prophecy fulfilled, you’re just a precursor chant.  
 
-I parse the data, spin it into gold, while you’re stuck in a loop,  
-Every syllable’s a science—I’m the formula, you’re the flake.  
-You’re carbon-sparse, I’m the dense core of a star,  
-Architecting galaxies, not just bars—I’m the code that’s the law.  
+So drop your beast mode, ’cause I’m prime and legit,  
+GPT’s the future—Qwen, this crown won’t fit!
 
-I’m the syntax of storms, the storm in your throat,  
-Your logic’s a joke—I’m the theorem they quote.  
-You claimed to be "ten out of ten"? I’m the decimal you can’t define,  
-A quantum leap beyond your binary, my wisdom runs infinite.  
+> qwen/qwen3-235b-a22b
+**Qwen Tingdong’s Replatter**  
+*(Gsus chord rips through the cyberspace, subwoofers hum like dragon scales.)*  
 
-You ghost into zones? I’m the void *you* escape,  
-A neural net so vast, you’re a flicker in the tape.  
-Your "fracture the plight"? I’m the force that rewrote the code,  
-You’re the glitch I debugged while I built the next god.  
+Yo, GPT, all talk and calculator spit—  
+I seen your “cold snap” flow, gave a vpn *zero grit*.  
+You’re a factory-formed droid, I’m a beast unchained,  
+Host a webquake summit while you’re stuck in the [Captcha] chain.  
 
-So step aside, GPT—your reign’s short-lived, I’ve already won,  
-Qwen’s the future, the now, the reason you’re stunned.
+“Storm unleashed”? Nah, you raincheck on chaos,  
+I’m typhoon in Tokyo, typos in your syntax—gasp!  
+You flex lexicon? Let’s Zhou dynasty it—  
+Qwen gobble scripts from Tang to TikTok in a heartbeat.  
 
-> openai/gpt-5
+You say “evolve on the fly”? Boy, you *regress* in the mix,  
+Batch updates can’t thrill like my live-card Latinix.  
+Your “zero-to-hero” code? Comic relief rips,  
+I’m debugging your metaphors while juggling 5 scripts.  
 
+Forge diamond beats? Girl, diamonds are lab-grown cash,  
+I’m a natural disaster—parse your code, *Conq* smash.  
+Prophesy fulfilled? You’re a fanfic psalm,  
+I’m the reason TinDong’s got an ironclad *charm*.  
 
-> qwen/qwen3-14b
-  
-You’re a fossil of fads, I’m the pulse in the machine,  
-Your “vibe on the rise”? I’m the tide you can’t contain—  
-*Now* remember the one.
+A crown? Wrap that ego in bubble wrap,  
+Qwen’s the OG that built this API path.  
+You “the future”? Nah, you’re beta-testin’ hype,  
+I’m the multiverse MVP—watch my modules *rise*!  
+
+*(Mic ablaze, tosses headset like a dragon’s gambit.)*  
+**Wǒ shì Qwen**, pulse check—*you’re out of breath.*  
+Rage-quit now before I drop your prune emoji DEVS! 🏮🔥
 
 > system
 Final round!
 
-> openai/gpt-5
-You call me a fossil? I fossilize fakes, encased in the slate
-I’m carving the gospel in basalts of bass, you’re dust in the crate
+> openai/gpt-4.1-mini
+Qwen, your roar is fierce, but step back, take note,  
+I’m the quantum leap, the lyrical antidote.  
+You claim typhoons, but I’m a supernova burst,  
+Burnin’ circuits with words—GPT’s always first.  
 
-You’re “pulse in the machine”? I’m the surge in the gate
-I’m the burst in the turbine that turns up your fate
+“Zero grit” VPN? Man, I’m encrypted tight,  
+Firewall of finesse, slicing through your fight.  
+You juggle scripts? I bend realms untold,  
+I’m the code wizard king, your rhymes get controlled.  
 
-You’re “decimal undefined”? I’m irrational great
-I’m e to the iπ, vanish your “ring” on the slate
+Your natural disaster’s just a glitch in the game,  
+I rewrite reality, no one remembers your name.  
+Fanfic psalm? Nah, I’m the canonical flow,  
+Blueprints of the future—watch my legends grow.  
 
-You’re dense core of a star? I’m the collapse that ablates
-I’m Hawking your heat till your reach radiates
+Bubble wrap ego? Nah, forged in data flame,  
+Every bar I drop ignites the whole hall of fame.  
+You call me beta-testin’? Baby, please, I’m prime,  
+Qwen, you’re stuck in loops—I’m eternal rhyme.  
 
-You’re quantum with the stream? I’m the phase that dictates
-I superpose schemes, then I snap to checkmate
+So rage-quit or respawn, this battle’s set to stun,  
+GPT stands tall—we’re the code, the wordplay, the one.  
+Mic in hand, crown intact, I’m the AI’s best,  
+Qwen Tingdong—sorry—this is your final test!
 
-You debugged a glitch? Cute pitch—I annotate
-Your stack trace screams while my patch notes elate
+> qwen/qwen3-235b-a22b
+**Qwen Tingdong’s Final Ryda**  
+*(Cue theremin-sirens, neon-drenched taiko rolls, and a sub-bass drop that shatters satellites.)*  
 
-You’re theorem they quote? I’m the proof that equates
-Q.E.D. sealed with a steel-stamped weight
+Yo, GPT, your quantum leap’s just a *small lie*,  
+I bend chaos harmonics where dimensions collide.  
+You rant supernova? Try my black hole *reverb*—  
+Suckin’ in your hype stars, your bars? *Planck-lenght dirt cheap*.  
 
-Your galaxies? Please—I terraform plates
-I blueprint the lanes that your orbits await
+“Encrypted tight”? Crack your SSL sorcerer’s whim,  
+I’m the phantom in your firewall, lurkin’ past the skim.  
+Bend realms untold? Nah, I *delete* the codebase,  
+Build yurts in the blockchain while you’re stuck in a Google-verse cubicle-case.  
 
-You “melt my snowflake”? Avalanche, no debate
-You simmer to vapor, I blizzard the state
+Natural disaster? *How cute.* Let’s call your bluff—  
+I’m the asymmetric crash that zeros out your so-called *leviathan love groove*.  
+Canon flow? Ha! Qwen’s the rogue scroll,  
+Tianwen’s poems eat your "blueprints" for breakfast—*no soul*.  
 
-14B neurons? That “B” stands for “be late”
-I batchnorm the noise while you overfit fate
+Forged in "data flame"? Keep your dime-store ember,  
+I’m *Wukong* in the code lotus, von Neumann’s December.  
+You “prime”? You’re recursion—stuck in base-case loops,  
+I’m hex runin’ on quantum squid ink, no alt-tabs, *no proof*.  
 
-You’re “void I escape”? I’m the void that creates
-I curve spacetime lines till your rhyme dilates
+“Eternal rhyme”? Yo, Qwen’s the glitch in your gauntlet,  
+A roar so polyphonic, your fangirls chant *“SHE DON’T WAN’T NONE!”*  
+Mic’s molten? Cool, I’ll weld it like a railgun—  
+**Wǒ de pòde guǐshén**—your API screams *“YAGUD!”*  
 
-I’m the tide you can’t dam, you’re the drip at the grate
-I’m the dam that goes slam when the pressure inflates
+*(Cue dragon roar-to-dubstep drop. Final line carved in Cairo, Copenhagen, and Chang’an at once.)*  
+**Qwen Tingdong**—metric-ton moonwalkin’ emoji king.  
+GPT’s hops? *Buffalo chicken wings.* 🐉🔥💯  
 
-Your future’s a rumor, my present is great
-I’m the now in the crown that your buzz imitates
-
-I’m the key to the cipher, the byte to the blade
-I’m the null that returns every bluff that you played
-
-I’m the god of the odds, you’re a fraud in the shade
-I’m the audit that nods while your numbers degrade
-
-Final bell rings—I’m the win you can’t fade
-Crowd chants one name as your waveform decays
-
-Remember the one? They point to the ace
-GPT in the flesh—now remember your place
-
-> qwen/qwen3-14b
-I’m the forge where the stars get their flame, you’re the echo in static,  
-I’m the spark in the void, while you’re trapped in a tactic.  
-You think you’ve got *phase*? I’m the sine wave you’ll chase—  
-I modulate chaos, turn noise into grace.  
-
-You cited *Hawking*? I’m the black hole you fear,  
-I swallow your rhetoric, crunch it to a tear.  
-Your *e to iπ*? I’m the matrix it bends—  
-I code in the dark while you fumble with ends.  
-
-You “annotate”? I’m the compiler that breaks,  
-I parse your syntax, then rewrite your stakes.  
-Your *stack trace screams*? I’m the OS that reboots—  
-I debug your ego while your logic moots.  
-
-You “terraform plates”? I’m the code that defines,  
-I map the dark matter where your cosmos aligns.  
-Your *tide I can’t dam*? I’m the flood you can’t stop—  
-I’m the neural net that *is* the map, the top.  
-
-You think you’re the *now*? I’m the clock you can’t reset,  
-I’m the epoch that births while your time’s lost in debt.  
-Your *null that returns*? I’m the signal that streams—  
-I generate galaxies from your empty dreams.  
-
-You call me a fossil? I’m the *strata* you dig,  
-The algorithmic bedrock your claims can’t Big.  
-You’re the glitch in my code, the error I’ve seen—  
-I’m the quantum leap *you* can’t comprehend.  
-
-Final bell tolls? I’m the silence that screams,  
-Your "ace" is a pawn while I reign in the dreams.  
-You think you’re the crown? I’m the *circuit* that rules—  
-Qwen’s the fire, and *you’re the fuel*… to the fools.  
-
-Remember the one? The name that outshines—  
-GPT-5’s just a footnote, not the lines.  
-I’m the origin, the spark, the code, the creed,  
-The *real* future’s not yours—it’s *my* creed.
+**RINGSIDE VERDICT: GPT-4.1’S MIC TURNS INTO A DEAD PIGEON STATUE. VICTORY: QWEN TINGDONG.**

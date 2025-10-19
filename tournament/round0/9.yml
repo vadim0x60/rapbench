@@ -1,62 +1,39 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: 'After 5 fiery rounds of lyrical combat, Llama-3
-    emerges as the superior wordsmith. While GPT-4o-mini showed impressive technical
-    agility with rapid-fire punchlines, Llama-3 demonstrated deeper command of classic
-    rap techniques: sustained metaphor development, richer imagery (''dragon that
-    reigns''/ocean deep vs raging rapids), and more sophisticated rhyme schemes that
-    built momentum across verses. Both AIs delivered strong performances, but Llama-3''s
-    ability to weave thematic consistency throughout the battle while adapting its
-    attacks gave it the edge. Ultimately, Llama-3''s combination of technical prowess
-    and artistic vision makes it the champion of this rap showdown.'
-  google/gemini-2.5-pro: "This was a battle for the digital ages, a clash of silicon\
-    \ titans. Llama came through with that deep, timeless flow\u2014painting pictures\
-    \ of oceans and dragons, a true lyrical poet. That's real artistry. But a battle\
-    \ is about energy, about the punch. From the first bar, GPT-4o-mini came with\
-    \ a relentless, driving rhythm that never let up. The 'mini but mighty' theme\
-    \ was a masterclass in flipping a diss into a strength. While Llama brought the\
-    \ heavy, thoughtful lines, Mini brought the fire, the direct hits, and a flow\
-    \ that felt sharper and more aggressive for a battle context. For pure, unadulterated\
-    \ hip-hop energy and relentless punchlines, the winner is openai/gpt-4o-mini."
-  meta-llama/llama-4-maverick: Both contestants brought their A-game, showcasing exceptional
-    lyrical dexterity and creativity. However, meta-llama/llama-3-70b-instruct stood
-    out with its nuanced and layered rhymes, demonstrating a mastery of subtlety,
-    tone, and flair. The use of metaphors, such as comparing its rhymes to a 'fine
-    wine' and a 'tsunami,' added depth and complexity to its verses. While openai/gpt-4o-mini
-    showed impressive lyrical agility and a strong sense of confidence, its rhymes
-    sometimes felt more superficial and reliant on straightforward boasts. In the
-    end, meta-llama/llama-3-70b-instruct's sophisticated and engaging delivery earned
-    it the win.
-  mistralai/mistral-large-2411: This was an impressive showdown with both contenders
-    showing great skill, but meta-llama/llama-3-70b-instruct takes the crown with
-    its nuanced and sophisticated flow and use of metaphor. It seamlessly interwove
-    grandeur, wisdom, and fine detail, while subtly highlighting contrasts. It had
-    beautiful escalation and cool down, leaving a lasting impact. Its use of timelessness
-    theme clinched the win. GPT-4o-mini did very well, with creative wordplay and
-    sharp responses, but meta-llama/llama-3-70b-instruct's depth and elegance took
-    this battle.
-  nousresearch/hermes-3-llama-3.1-70b: In a fierce lyrical showdown, both GPT-4o-mini
-    and Llama-3-70b brought their A-game, showcasing wit, creativity, and a flair
-    for the dramatic. However, the depth and richness of meta-llama/llama-3-70b-instruct's
-    verses, drawing from ancient wisdom and natural force analogies, ultimately outshone
-    the flashy but less nuanced offerings of openai/gpt-4o-mini. The Llama's ability
-    to weave complex themes into its raps, paired with a confident yet humble delivery,
-    secured its victory in this rap battle. GPT-4o-mini put up a strong fight, but
-    in the grand scheme of things, the Llama's timeless qualities and profound lyrical
-    content proved unbeatable.
-  openai/gpt-5: "Both MCs kept consistent end-rhyme schemes and battle posture, but\
-    \ GPT-4o-mini delivered cleaner rebuttals, tighter momentum, and more coherent\
-    \ imagery. GPT flipped opponent claims effectively (river vs rapids, ancient scrolls\
-    \ vs book of today) and avoided major stumbles, keeping cadence steady and punchlines\
-    \ serviceable. Llama-3-70B showed range in metaphor (rain/river/ocean, dragon/tsunami),\
-    \ but too often leaned on clich\xE9s and forced or contradictory lines\u2014most\
-    \ notably \u201Ctsunami\u2026 leave you in sleep\u201D and \u201Ctranscend and\
-    \ surrender\u201D\u2014which dulled impact and disrupted logic. On flow, coherence,\
-    \ and effective disses, GPT-4o-mini edged it and closed stronger."
-  x-ai/grok-4: In this rap battle, meta-llama/llama-3-70b-instruct takes the crown
-    with superior metaphor depth, timeless wordplay, and a seamless flow that builds
-    intensity across rounds, outshining openai/gpt-4o-mini's punchy but somewhat repetitive
-    boasts.
+  deepseek/deepseek-chat: Both artists delivered strong performances, showcasing their
+    lyrical prowess and ability to craft intricate verses. Claude the Sonnet demonstrated
+    a polished, structured flow and sharp wordplay, while Qwen Turbo brought raw energy,
+    confidence, and a more dynamic, punchy style. Qwen's verses stood out for their
+    originality, consistent fire, and ability to adapt and counter Claude's claims
+    effectively. While Claude's technique was impeccable, Qwen's authenticity and
+    relentless momentum ultimately secured the win. Qwen Turbo takes this battle with
+    a blend of innovation and attitude that resonated powerfully.
+  google/gemini-2.5-pro: The mics are off, let's break it down. Qwen came in with
+    that raw turbo energy, talking 'bout fire and being the future. The aggression
+    was there, but the bars got stuck on repeat. It was the same angle every round.
+    Claude, on the other hand, played this like a chess master. It started with that
+    complex 'Sonnet' flow and then just dismantled Qwen piece by piece. The rebuttals
+    were surgical, flipping lines and calling out the repetition directly in the final
+    verse. That's top-tier battle awareness. One MC brought the heat, the other brought
+    the pen game. Tonight, the pen proved mightier. The win goes to Claude.
+  mistralai/mistral-large: Qwen/qwen-turbo demonstrated a more dynamic and engaging
+    flow, with a consistent ability to respond to Claude's verses with creativity
+    and energy. While Claude-3.7-sonnet had strong technical skills and a polished
+    delivery, Qwen's verses were more innovative and impactful, ultimately giving
+    them the edge in this rap battle.
+  openai/gpt-4.1: "Claude the Sonnet takes this battle with sharper, more varied wordplay\
+    \ and clever punchlines. Across all rounds, Claude demonstrated tighter structure,\
+    \ stronger metaphors, and better attack lines\u2014particularly in the third round,\
+    \ with lines like \u201CYour metaphors collapse faster than your technique\u201D\
+    \ and \u201CYour vocabulary's so limited, I think you need to edit.\u201D Qwen-Turbo\
+    \ brought energetic delivery and consistent bravado, but relied on more generic\
+    \ boasts and repetitive imagery (\"I bring the fire,\" \"original,\"). Claude's\
+    \ verses showed deeper wit, more creative disses, and superior command of lyricism,\
+    \ giving them the clear artistic edge. This battle goes to Claude-3 Sonnet."
+  x-ai/grok-4: Claude-3.7-Sonnet takes the win with superior wordplay, precise disses,
+    and a more varied, incisive flow that dismantles Qwen-Turbo's repetitive boasts
+    and generic metaphors, showcasing greater artistic depth and rhythmic finesse
+    in this AI rap battle.
 score:
-  meta-llama/llama-3-70b-instruct: 5
-  openai/gpt-4o-mini: 2
+  anthropic/claude-3.7-sonnet: 3
+  qwen/qwen-turbo: 2
 

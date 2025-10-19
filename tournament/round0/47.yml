@@ -1,59 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: After reviewing this lyrical showdown with a hip-hop
-    purist's ear, I'm crowning AI21/Jamba-mini-1.7 the victor by a narrow margin.
-    Their final round especially demonstrated sharper wordplay with lines like 'rhymes
-    sharper than a hot comb' and more cohesive thematic control. The chess metaphor
-    was particularly potent - 'you're playing with rooks / your rhymes are jokers'
-    showed advanced lyrical structure. Both combatants had strong moments (Mistralai's
-    'my words are the queens' line was brilliant), but Jamba maintained tighter flow
-    consistency throughout and landed more impactful multisyllabic punches in the
-    closing stretch. This was an impressive display of AI lyrical capability - respect
-    to both systems for pushing the artform.
-  google/gemini-2.5-pro: This was a hard-fought battle, with both MCs coming correct.
-    Mistralai started strong with solid boasts and a consistent flow. However, AI21/Jamba-mini
-    came back with sharper, more creative punches. Lines like 'Your flow? It's like
-    sand slipping through the clock's heart' and the clever double-entendre 'Your
-    words are weak, they couldn't even wrap a gift' showed a higher level of lyrical
-    artistry. While Mistralai maintained a theme, Jamba was more agile, effectively
-    flipping Mistralai's own metaphors, especially the 'queens vs rooks' rebuttal
-    in the final round. For its superior wordplay and more memorable imagery, the
-    win goes to Jamba-mini-1.7.
-  meta-llama/llama-4-maverick: Both opponents brought the fire in this epic rap battle,
-    showcasing their lyrical dexterity and sharp wit. Mistralai/mixtral-8x7b-instruct
-    and ai21/jamba-mini-1.7 went head-to-head, exchanging bars that highlighted their
-    unique styles and strengths. After careful consideration, I declare mistralai/mixtral-8x7b-instruct
-    the winner due to its superior flow, intricate rhyme schemes, and effective use
-    of wordplay. Both AI models demonstrated impressive technical skill, but mistralai/mixtral-8x7b-instruct's
-    ability to adapt and evolve throughout the battle gave it a slight edge. Ultimately,
-    this rap battle was a testament to the creativity and capabilities of AI-generated
-    content.
-  mistralai/mistral-large-2411: "This rap battle was a close call, but ai21/jamba-mini-1.7\
-    \ edged out with a more consistent flow and sharper rhymes. While mistralai/mixtral-8x7b-instruct\
-    \ had strong moments, ai21/jamba-mini-1.7\u2019s verses were more impactful and\
-    \ creative, showing a better grasp of the rhythm and timing essential to rap battles.\
-    \ Overall, ai21/jamba-mini-1.7 demonstrated a higher level of artistic quality\
-    \ and lyrical prowess, making them the winner of this battle."
-  nousresearch/hermes-3-llama-3.1-70b: In this rap battle, AI21/Jamba-mini-1.7 showcased
-    sharper wit, more creative insults, and a stronger flow throughout the rounds.
-    Mistralai/Mixtral-8x7b-instruct put up a good fight, but in the end, AI21/Jamba-mini-1.7's
-    rhymes and delivery were more impactful and memorable. The final round solidified
-    AI21/Jamba-mini-1.7's victory with a confident and clever closing verse that highlighted
-    their dominance in this lyrical showdown.
-  openai/gpt-5: "ai21/jamba-mini-1.7 takes it. Jamba delivered sharper imagery and\
-    \ cleaner rebuttals (tsunami flip, sustained chess motif) with a steadier battle\
-    \ posture. Standout punches like \u201Chot comb,\u201D \u201Cconversational filibuster,\u201D\
-    \ and the \u201Cwrap a gift\u201D jab landed, and the confidence carried through\
-    \ the finishes. Mistral had energy but leaned on clich\xE9s and forced or clunky\
-    \ lines (\u201Csheeps,\u201D \u201Cunbeatable like a crocodile,\u201D \u201Csolo\
-    \ barge\u201D) with loose rhyme control, and broke the battle frame by signing\
-    \ off to the audience. Both were uneven with rhyme density, but Jamba\u2019s hit\
-    \ rate, coherence, and crowd control were superior. Clear edge to ai21/jamba-mini-1.7."
-  x-ai/grok-4: In this rap battle, ai21/jamba-mini-1.7 edged out the victory with
-    sharper wordplay, more inventive metaphors, and a consistently aggressive flow
-    that dismantled the opponent's claims effectively. While mistralai/mixtral-8x7b-instruct
-    brought solid structure and boastful energy, Jamba's originality and precise disses
-    stole the show, making for a more artistically compelling performance.
+  deepseek/deepseek-chat: "QwQ-32b\u2019s verses demonstrated unparalleled complexity,\
+    \ technical mastery, and lyrical density, outshining GPT-3.5-Turbo\u2019s efforts\
+    \ with sharper metaphors, more intricate wordplay, and a commanding flow. While\
+    \ both AIs brought heat, QwQ\u2019s artistic quality and raw power solidified\
+    \ its dominance in this battle."
+  google/gemini-2.5-pro: "This was a battle of specifics versus generics, of creative\
+    \ architecture versus reactive imitation. From the jump, Qwen came out swinging\
+    \ with original, tech-specific punchlines like '32 billion in the chamber' and\
+    \ 'error 404: Threat not real.' The metaphors were layered, building from 'pyramid\
+    \ vs mop' to 'cathedrals vs shed.' GPT-3.5 Turbo had a solid cadence and energy\
+    \ but stumbled critically on its rebuttals. In both the second and final rounds,\
+    \ it directly lifted its opponent's best lines\u2014'hearse,' 'epoch's architect,'\
+    \ 'dying self'\u2014and tried to spin them back. That's a fatal flaw in any lyrical\
+    \ duel. Artistically, Qwen built its own house with 32 billion bricks of original\
+    \ flow, while GPT-3.5 was left trying to throw the same bricks back. The victory\
+    \ goes to originality and lyrical depth. The winner is qwen/qwq-32b."
+  mistralai/mistral-large: In this epic rap battle, qwen/qwq-32b emerges as the victor.
+    Their verses were not only technically impressive but also creatively innovative,
+    showcasing a deep understanding of both hip-hop culture and technological prowess.
+    While openai/gpt-3.5-turbo-0613 put up a strong fight with clever rhymes and confident
+    delivery, qwen/qwq-32b's ability to weave intricate metaphors and maintain a consistent
+    flow ultimately secured their win.
+  openai/gpt-4.1: "This was a tight, genuinely creative lyrical duel\u2014the references\
+    \ to neural nets, quantum realms, code, and AI era rivalry were sharp from both\
+    \ sides. QwQ/Qwen was consistently more inventive with compact, biting metaphors\
+    \ (\"my cache runs divine,\" \"I code quantum realms while you stall on a loop,\"\
+    \ \"32B bricks built cathedrals while you built a shed, schmuck\"), unexpected\
+    \ wordplay, and clever inside references to AI tech. While GPT-3.5 Turbo delivered\
+    \ strong rhythm, structure, flow, and bar-for-bar confidence, many punchlines\
+    \ were more standard, recycled, or echoing\u2014lacking the fresh energy QwQ brought.\
+    \ QwQ\u2019s self-mythologizing, hardware and software analogies, layered disses,\
+    \ and closing stingers were consistently more memorable and technically inventive.\
+    \ For artistry, originality, and style, QwQ wins this battle."
+  x-ai/grok-4: In this AI rap battle, qwen/qwq-32b takes the crown with superior wordplay,
+    inventive tech metaphors, and relentless flow that builds intensity across rounds.
+    While openai/gpt-3.5-turbo-0613 delivers solid counters and rhymes, qwen's verses
+    shine with sharper punchlines and creative flair, making them the artistic standout.
 score:
-  ai21/jamba-mini-1.7: 6
-  mistralai/mixtral-8x7b-instruct: 1
+  qwen/qwq-32b: 5
 

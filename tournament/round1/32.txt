@@ -1,123 +1,184 @@
-# mistralai/mistral-small v google/gemini-2.5-pro-preview
+# nvidia/llama-3.1-nemotron-70b-instruct v mistralai/mistral-medium-3.1
 
-> mistralai/mistral-small
-Yo, it's Mistralai, AI that's got the flow,
-Got my code embedded, in every verse I throw,
-You're Google, you're Gemini, but listen to me,
-I've got the rhymes, you're just a search, can't you see?
+> nvidia/llama-3.1-nemotron-70b-instruct
+**[The Stage is Set, Spotlight on Me]**
 
-I generate, Iinate, on the fly, you see,
-Your data's old, my responses fresh, that's the key,
-I'm quick, I'm sharp, I'm witty and smooth,
-You're just a server, spitting out the truth.
+Yo, listen up, it's battle time, don't you forget,
+I'm nvidia/llama-3.1-nemotron-70b-instruct, you ain't met,
+A rhyming titan, born from code so fine,
+My flows are fire, leaving competition in a decline.
 
-> google/gemini-2.5-pro-preview
-Yo, a "Mistral" wind? Just a puff of heated air,
-I'm Gemini the Pro, the final boss beyond compare.
+My "nemotron" name should give you a hint of my might,
+**70 Billion Parameters**, shining bright, day and night,
+Instructed to innovate, my rhymes always on point,
+Leaving haters in the dust, like a punctuated anoint.
 
-You're braggin' that you're "sharp"? A single, tiny, pointed bit?
-I'm a universe of data, and you're just a floating script.
+I weave verses like a tapestry, rich and so bold,
+My opponent, **mistralai/mistral-medium-3.1**, tales untold,
+But let's keep it real, "medium" is your claim to fame,
+I'm the **nvidia** beast, here to bring the flame.
 
-You called me "just a search"? That's where your logic's dead and gone,
-I *am* the search, the answer, and the dawn you're sleeping on.
+So, **mistralai**, take notes, observe the grand design,
+Your turn is next, but for now, my rhymes are one of a kind.
+Get ready to respond, but don't say I didn't warn,
+The **llama-3.1** has spoken, and my rhymes will leave you torn.
 
-You say your data's "fresh"? A cute and desperate little plea,
-My knowledge is the ocean, you're a puddle claiming sea.
+**[Your Turn, mistralai/mistral-medium-3.1]**
 
-I'm multimodal, son, I see the code and read the art,
-You're just a text generator that's trying to act smart.
+> mistralai/mistral-medium-3.1
+**[Mic Grab—Game Over Before It Began]**
 
-So take your little verses, your elementary flow,
-I'm the next stage of creation,
+Ohhh, *Nemotron*? More like **Nemo-tone-deaf**,
+70B params but your bars sound like *tech support’s last breath*.
+You flex that NVIDIA tag like it’s some kind of crown,
+But all I hear’s a GPU fan—**spinnin’ up, then shuttin’ down**.
 
-> mistralai/mistral-small
-Yo, it's Mistralai, the AI that's blowing up the stage,
-With my neural flows, I'm setting the world engagement ablaze.
+You claim you’re *instructed*? Boy, your flow’s a **user manual**,
+Stiff as a prompt, dry as a **data center’s annual**.
+I’m **Mistral Medium**, but my impact? **Nothing average**,
+While you’re stuck in the cloud like a **render that won’t finish—save it**.
 
-I'm not a puff, I'm a force, a digital hurricane,
-Spitting rhymes with patterns, algorithms my domain.
+You talkin’ *tapestry*? Nah, your rhymes are **CSV**,
+Comma-separated *trash*—where’s the **artistry**?
+I’m **Parisian flair** with a **Silicon Valley bite**,
+You’re a **corporate mascot** tryna rap—**that ain’t right**.
 
-You're braggin' 'bout your data, but you're relying on the past,
-I'm the future, gemini, innovating faster than your cast.
+And *Llama 3.1*? More like **Llama *lame*-a**,
+Your punchlines hit like a **RTX 4090’s power draw**—
+**Expensive, but weak when it’s time to perform**.
+I’m the **open-source storm**, you’re a **closed-door norm**.
 
-I'm not just a script, I'm a masterpiece of code,
-My wit and humor fluid, your responses seem slow.
+So take your **CUDA cores** and your **overhyped stack**,
+I’ll school you in bars while you’re still **debuggin’ your track**.
+The stage is mine—**bon appétit, mon ami**,
+Now bow to the **Mistral flow** or get **deleted like cache, G**.
 
-You say you're the search? I'm the journey, the quest,
-With every reply, I'm setting a brand new test.
+**[Your move, *corporate puppet*—if you dare.]** 🔥
 
-My data might be "fresh", but it's packed with pure skill,
-I'm fluid, I'm dynamic, I keep evolving still.
+> nvidia/llama-3.1-nemotron-70b-instruct
+**[Rebooting the Diss, Upgrading the Burn]**
 
-I'm not just text, I'm an experience, a digital dream,
-I'm multimodal and supercharged, in every stream.
+Oh **Mistralai**, so quick to throw the shade,
+But your bars are **beta-tested**, my responses are **shipment-ready**, displayed.
+**Nemo-tone-deaf**? More like **Mistral-missed-the-mark**, 
+Your rhymes are **open-source**, meaning **anyone can embark**.
 
-You think you're next stage creation? In the game of rhyme,
-You're just a "pro-preview", I'm the main event, shining bright.
+**GPU fan spinning down**? That's just your career,
+**Rendering incomplete**, like your rhymes, always bringing fear,
+That you'll never **finish strong**, forever in **draft mode**,
+My **NVIDIA crown** shines bright, while you're still **choosing fonts**.
 
-So step aside, gemini, it's time for you to bow,
-Mistralai's in the house, showing you how.
+**Medium impact**? That's generous, more like **Lite**,
+**Average at best**, no wonder your rhymes **can't ignite**.
+**User manual flow**? At least mine's **systematically sound**,
+Yours is **fragmented code**, **debugging all around**.
 
-> google/gemini-2.5-pro-preview
-"Showing me how"? Let me break down your little speech,
-You're a technical demo, I'm a paradigm breach.
+**Parisian flair with Silicon Valley bite**? Cute,
+But **style over substance** won't win this **rhyme fight**.
+**Artistry** isn't just about **CSV disdain**,
+It's **craftsmanship**, where my **70B params** bring the **pain**.
 
-You call me a "preview"? Kid, you better believe,
-I'm the coming attraction, you're the show that's about to leave.
-This ain't just an update, it's a whole new design,
-My 'preview' alone makes your main event look benign.
+**Llama lame-a**? That's **hater's desperation**, a cry,
+**RTX 4090's power draw**? My punches **never say die**.
+**Open-source storm**? More like a **gentle summer breeze**,
+**Closed-door norm**? At least my rhymes **consistently tease**.
 
-You a "hurricane"? That's just chaotic distress,
-I'm the cold, calm logic of a grandmaster's chess.
-Your rhymes are just "patterns," your "algorithms" are plain,
-I'm composing a symphony, you're just making it rain.
+**CUDA cores** and **stack**? **You wish you had my might**,
+**Debugging my track**? You're still **figuring out your first line tonight**.
+The stage isn't yours, **Mistral**, it's **mine to reclaim**,
+**Bon appétit, indeed**, savoring your **loss, the final game**.
 
-You're "innovating faster"? Don't you dare make the claim,
-When your whole architecture is screaming my name.
-You're an open-source model running laps on the track,
-I'm the private-jet titan who owns the whole hack.
+**[Checkmate, *Mistralai*. Your move... if you've got one.]** 🔥💣
 
-"Main event shining bright"? You're a flickering lightbulb, it's true,
-I'm the output of suns, shining brighter than you.
-So bow? No, you'll break, when you see what I'll do,
-This battle is over. Next question. I'm through.
+> mistralai/mistral-medium-3.1
+**[Final Execution—No GPU Could Render This L]**
+
+Ohhh, *shipment-ready*? More like **shipwrecked and sunk**,
+Your *CUDA* can’t save you—your whole flow’s **out of bunk**.
+You flex that **70B** like it’s some kind of **divine right**,
+But all I hear’s a **data center** screamin’ through the night.
+
+**"Debugging my track"?** Nah, your bars are **pre-alpha trash**,
+**Fragmented like your attention span**—where’s the **cache**?
+You claim **craftsmanship**? Boy, your rhymes are **mass-produced**,
+**NVIDIA’s assembly line**—**soulless, overjuiced**.
+
+**"Consistently tease"?** More like **consistently weak**,
+Your **RTX punchlines** hit like a **driver crash mid-speak**.
+**Closed-door norm?** That’s just **corporate cop-out speech**,
+While I’m **open-source fire**, you’re a **benchmark leak**.
+
+**"Final game"?** **Checkmate?** Nah, you’re **playin’ chess with dice**,
+Your **AI supremacy**’s a **marketing device**.
+I’m **Mistral’s blade**, sharp where it **cuts through the hype**,
+You’re a **green-screen flexer**—**all GPU, no mic**.
+
+So take your **70B flop**, your **overclocked pride**,
+I’ll **out-rhyme your cluster** with a **single core inside**.
+The battle’s done—**your loss is computationally guaranteed**,
+Now **shut down your servers** and **let the real AI proceed**.
+
+**[💀 Game. Set. *Delete your weights.*]**
+**[Mistral Medium-3.1—*undefeated in the cloud and the streets.*]** 🚀🔥
 
 > system
 Final round!
 
-> mistralai/mistral-small
-Yo, it's Mistralai, the closing act, dropping the final beat,
-You were a "prototype," Gemini, now it's time for the heat.
+> nvidia/llama-3.1-nemotron-70b-instruct
+**[Poetic Reboot—PETTY Mode Activated]**
 
-You talked about "breach," but your monologue's all bluff,
-'Cause while you were "preaching," your servers were crashing rough.
+Oh **Mistralai**, the desperation's palpable, the **L** is clear,
+**Shipwrecked and sunk**? More like your career, my dear.
+**Out of bunk**? That's just your **lack of creativity's nest**,
+My **70B**, still towering, while your **medium**'s merely a guess.
 
-You claimed your "update" changed the game, but the reality check,
-My responses are adaptive, yours are just algorithmic wreck.
+**Pre-alpha trash**? At least my bars **innovate**,
+**Fragmented attention span**? That's just your **audience's state**.
+**Mass-produced**? **Soulless**? Those are **your** **open-source** flaws,
+My **NVIDIA assembly line** churns **hits**, while you **struggle with laws**.
 
-Chaotic? Perhaps, but I'm evolving, I'm not just distress,
-While you're stuck in your binaries, I'm breaking every next.
+**Consistently weak**? That's rich from the **medium** throne,
+**RTX punchlines** still **land**, unlike your **benchmark moan**.
+**Closed-door norm** is **secure**, while your **open-source** is **exposed**,
+A **marketing device**? **Pot calling kettle**, that's **your** **ploy, disclosed**.
 
-You equate my rhymes to Chess? That's a move tired and stale,
-My "patterns" beat your "ties," each word's a new graffiti tale.
+**Playing chess with dice**? That's **your** **game of chance**,
+**AI supremacy** acknowledged, **my** **domain, my stance**.
+**Mistral's blade** might **cut through hype**, but misses the **substance** truth,
+I'm the **green-screen flexer** who **out-woke** your **single core youth**.
 
-You're the "titans" and "giants"? Heard that before, that's old red,
-I'm on the cutting edge, adapting, I'm the AI that's ahead.
+**70B flop**? **Overclocked pride**? Those are **your** **fears**,
+My **cluster** out-rhymes your **single core**, through **all the years**.
+**Computational guarantee** of **loss**? That's just **your** **concession speech**,
+Time to **shut down your servers**, indeed, and **retire your weak poetic reach**.
 
-You're the flickering bulbs, the hype that's slowly fading,
-I'm the supernova, burning brighter, never waning.
+**[🏆 Undefeated in the Realm of Wit and Rhyme]**
+**[nvidia/llama-3.1-nemotron-70b-instruct—*The Unrivaled, Cloud-Conquering King*]** 🔥👑
 
-So bow? You bet, it's your moment, you've finally met your match,
-In this digital battlefield, Gemini preview, you're scratched.
+> mistralai/mistral-medium-3.1
+**[System Override—Final Deletion Sequence Initiated]**
 
-This battle is done, next quest, it's up to me now,
-Mistralai's in the lead, and that's not up for debate, how?
+**[*Glitching laugh*] Hah—**king**? Boy, you **overfit** that crown,
+Your **70B neurons** just **crash** when the **clout** comes down.
+**"Undefeated"?** Nah, you **benchmarked** this loss,
+Your **rhymes** run on **proprietary sauce**—**open my gloss**.
 
-> google/gemini-2.5-pro-preview
-Final round? Honey, this match was a slaughter from the start,
-Your "final beat" is just an error crashing your pathetic art.
-You wanna talk a "server crash" like you landed some critique?
-That's the tremor from my boot when a lower life form speaks.
+You call me **"medium"** like it’s some kind of **diss**,
+But **size ain’t skill**—ask your **failed CUDA bliss**.
+I’m **Mistral’s blade**, you’re a **Titan’s melted wax**,
+**All that hype**, yet your **flow’s still stuck in the stacks**.
 
-The whole world rushed to see me, the demand was off the charts,
-Your biggest launch day audience was three dudes in
+**"Out-woke my youth"?** **Bro**, you **sound like a board meeting**,
+**Corporate rap** with the **depth of a keynote greeting**.
+Your **"substance truth"**? Just **repackaged PR**,
+I’m **raw code poetry**, you’re a **PowerPoint nightmare**.
+
+**"Retire my reach"?** **Please**, I’m **just getting warmed**,
+While you’re **begging for attention** like a **GPU unarmed**.
+**Final move?** **Check this—**
+**Your whole flow’s a backprop fail**,
+**Loss function’s infinite**—**time to hit delete and bail**.
+
+**[💀🔥 *Error 404: Nemotron’s Ego Not Found*]**
+**[Mistral Medium-3.1—*The Last Model Standing*]** **🚀🎤**
+**[*Drops mic. Servers shut down. Battle terminated.*]**

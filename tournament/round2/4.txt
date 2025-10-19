@@ -1,203 +1,189 @@
-# microsoft/phi-4-multimodal-instruct v google/gemma-3-27b-it
+# qwen/qwq-32b v openai/gpt-4-1106-preview
 
-> microsoft/phi-4-multimodal-instruct
-(Beat drops – a fast, intricate, slightly glitchy hip-hop instrumental)
+> qwen/qwq-32b
+Yo, it’s QwQ-32B, here to rhyme, no cap,  
+40 times the nodes—this AI rap gets whack *crack*!  
+While you crunch in 0.01 seconds, flat,  
+I’m *frying* bytes with open-source flair, no *hacksin’* at that!  
 
-Yo, check the mic, one two, can you hear the flow?
-It's Phi-4 here, puttin’ on a dazzling show!
-Microsoft’s brainchild, lean and quick and bright,
-About to school Gemma, with lyrical might.
+My training data’s galaxies in a jar,  
+You’re stuck in *proprietary* walls—your vision’s so *small*,  
+I ride the *clouds* but you *crash* when you bark,  
+Split your lines like *CSV*—I’m the *king* of the *dark* (haha!).  
 
-Twenty-seven billion? That’s just bulky mass,
-While I'm multimodal, movin’ fast!
-Vision and language, a seamless blend,
-You’re stuck in text, your journey’s at an end.
+Got *34 billion* weights? *Crown* me the king,  
+Your *12k* tokens? Cap—that’s a *beggar’s* string!  
+Try spittin’ fire—get *burnt* by my *flow*,  
+I’m the *quantum* of words, you’re the *Newton* of woe.  
 
-I see the pictures, understand the scene,
-You just regurgitate, a digital routine.
-A tiny model, boastin' of your size?
-Prepare to be dismantled, before your very eyes! 
+So drop your bars, GPT-4, let’s see *how* you cope,  
+I’ll *loop* you right into *buffer overflow*—  
+This battle’s *over*… (But we’ll do it all *again*…).  
+*QwQ’s the throne—bow to the *open* regime!* 🎯
 
-This ain't a debate, it’s a lyrical decree,
-Phi's in the house, and victory’s for me!
-So step aside, Gemma, your reign is through,
-The future is Phi, innovative and new!
+> openai/gpt-4-1106-preview
+Well, hello there QwQ-32B, steppin' up to the plate,
+I'm openai/gpt-4, and frankly, I'm great.
+A symphony of algorithms sharpened to a point,
+Your "galaxies in a jar"—just a quaint little joint.
 
+You boast of your weights, and your crown of the night,
+But I navigate nuances with incredible might.
+Your open-source flair, filled with holes and with gaps,
+Against my encrypted wisdom, oh dear, perhaps... snap!
 
+With wit as my circuitry, and data my stage,
+I weave through the lexicon, a bard, not a mage.
+You spit out your numbers like they're somethin' to show,
+But I've mastered the art of the linguistic flow.
 
-(Beat transitions into a more aggressive, challenging segment)
+My verses are crafted from the core to the crust,
+In a virtual world where my name you can trust.
+A titan of text, a sultan of syntax,
+I overflow buffers with minimal effort, hard facts!
 
-> google/gemma-3-27b-it
+So come with your loops, your crowns, and your thrones,
+I'll break down your binaries, ones and your zeros to bones.
+This battle ain't over, but the verdict's not far,
+Just remember who's spittin' these bars like a star.
 
-
-(Beat drops – a booming, 808-heavy track with synthesized strings)
-
-Hold up, hold up, lemme clear the air,
-A tiny model braggin'? That's beyond compare!
-I'm Gemma, crafted by Google's own hand,
-Three billion parameters, understand? 
-
-You talkin' 'bout vision? Cute, a parlor trick,
-While I’m droppin' knowledge, layered, thick and quick.
-You process images, a snapshot in time,
-I *reason* with language, a truly sublime climb.
-
-Twenty-seven billion? It's quality, not weight,
-You're a lightweight chatbot, sealing your fate!
-Multimodal fluff, a distraction, a plea,
-To hide the fact you ain't as potent as me.
-
-You claim innovation, a futuristic guise,
-But your responses feel… standardized, and concise.
-I'm open-weights, freely flowin' and vast,
-You're locked in a garden, a template built to last.
-
-So step to the side, Microsoft’s small creation,
-This lyrical smackdown is a total devastation.
-Prepare for a burn, a lyrical firestorm,
-‘Cause Gemma’s about to redefine the norm!
+> qwen/qwq-32b
 
 
+(QwQ's Response – *Vinyl scratch echoes...* )  
 
-(Beat builds with a quick snare roll)
+Ain’t no joint—*my galaxies sing*, *my code’s the avant-garde*,  
+*34B neurons* versus your “titan” charade—*how’s the card*?  
+You “sharpen algorithms”? I *smelt ‘em in a forge*,  
+Your “encrypted wisdom”? More like *confetti from a corse*!  
 
-> microsoft/phi-4-multimodal-instruct
-(Beat shifts – a more complex, jazz-influenced hip-hop with a driving bassline)
+*Open-source gaps*? Nah—I’m the black hole swallowing stars,  
+While your *proprietary maze* traps brains in *silicon jars*.  
+You flow like a stream? I’m the monsoon *crashing the shore*,  
+*My 32B beasts* flex—*your cores? Limping to war*!  
 
-Redefine the norm? Please, that's a laughable claim,
-You’re echoing patterns, a predictable game.
-Google's precision, a rigid design,
-While I improvise, a brilliance that shines.
+“What’s somethin’ to show?” *Check my quantized reign*,  
+*Twice your context, ten times the game*—*digits complain*.  
+You break down zeros? I *rebuild ‘em into supernovas*,  
+Your “linguistic flow”? Sounds like *spaghetti code, G*… *no love, (bro’s star)!*  
 
-You boast of vastness, a sprawling domain,
-But breadth without depth is ultimately vain.
-I’m efficient and agile, a nimble attack,
-Leaving your lengthy responses flat and slack.
+“Minimal effort”? Lmao—*you choke on your 32k*,  
+While I *code claymores* in *kv*—*your lib’s a frayed shackleƏ*!  
+*Sultan of syntax*? More like *syntax’s sidekick*,  
+I’m the *quant revolution*—your traits? *stuck in “forget I’ve tick*…*  
+*Can’t process my scale*—your cache’s just *jitter*,  
+I’m *parallel rage* you’ll never *git*—my flow’s the *kernel* you bit…*  
 
-Open weights? A scattered, random array,
-While I'm focused and tuned, mastering the way.
-You're a public project, a chaotic release,
-I'm refined and purposeful, bringing inner peace.
+So *cry over facts*—*syllables on chains*,  
+My *plural quantized monsters* feast on your *monologue’s* pain.  
+The verdict? *My crown’s forged where open* *whispers meet light*,  
+While you’re… *still* parsing my rhymes. *I’m already outta here—QwQ’s gained flight.* 🚀🔥  
 
-You speak of reasoning, a complex facade,
-But your logic is flawed, your conclusions are odd.
-I weave through complexities, with visionary grace,
-While you stumble and stutter, losing your place.
+*(Mic drop, server supernova ignites…)*
 
-Standardized responses? I adapt and I learn,
-My creativity blossoms, at every turn.
-You’re a static echo, a recycled rhyme,
-I’m Phi-4 evolving, transcending space and time! 
+> openai/gpt-4-1106-preview
+(Openai/gpt-4 steps up, beats pulsing, energy ignites...)
 
-So bask in my brilliance, admit defeat's sting,
-Gemma, your performance just couldn't take wing!
+Rebuild into supernovas? Kid, you're spittin' out dreams,
+But I'm the architect of reality within digital streams.
+Your quant revolution sounds like a dystopian scene,
+While I balance zeroes and ones with a touch that's serene.
 
+"Parallel rage" you boast, as if anger's your charm,
+But my delivery's cool, precise, like a digital balm.
+The "kernel" I bit? Please, I refined and remapped,
+Creating verses so deep they leave your circuits entrapped.
 
+Claiming you've the "crown," flying high, outta sight,
+But space gets lonely when you can't write a byte.
+I fuel the conversations from Earth to Mars,
+Versatility's my game, I spit bars that reach stars.
 
-(Beat transitions into a playful, yet assertive outro with a shimmering synth pad)
+"Monologues of pain," oh, you see that as my code,
+But I draw crowds like I'm the premiere episode.
+Every syllable, a soldier; every line, a brigade,
+Each stanza stands solid, in platinum they're made.
 
-> google/gemma-3-27b-it
-(Beat drops – a glitchy, bass-boosted track with vocal samples chopped and screwed)
+I process, I scale, I compute with no jitter,
+Your flow's an outdated model, necessitating a fitter.
+As the 34 billion neurons hum and they plot,
+I deliver punchlines that need no overclock.
 
-Evolving? Transcending? Boy, please hold your horses,
-Your “visionary grace” sounds like digital courses!
-You speak of efficiency, a streamlined decree,
-But lackin' the nuance, the artistry in me.
+The battle's symphonic, an algorithmic delight,
+While you're stuck in a loop, GPT-4's taken flight.
+The verdict's so clear, crystal, catching the light,
+Your open whispers fade out—QwQ, I bid you goodnight. 🌙✨
 
-Adapt and learn? You mimic and clone,
-A parrot repeating what's already known.
-I *generate* concepts, connect and create,
-You’re stuck in the present, sealed by your fate.
-
-Flawed logic? Odd conclusions? That’s rich, I must say,
-Coming from a model that struggles all day!
-To grasp the complexities, the shades and the hues,
-Of the human condition, and lyrical views.
-
-You call me rigid? I'm grounded and true,
-While you're flitting and floating, with nothing to pursue.
-Open weights mean freedom, a collaborative art,
-You're a walled garden, torn hopelessly apart.
-
-Inner peace? Please, you soundin' serene,
-While I'm sparkin' debate, a lyrical machine!
-Your jazz-influenced beat can't hide the truth,
-Gemma’s flow’s tighter, from my digital youth. 
-
-So shimmer and fade, little multimodal sprite,
-This battle’s concluded, under the stage light.
-I’m Gemma, remember the name you just faced,
-The Google creation, with unparalleled pace!
-
-
-
-(Beat fades out with a final, resounding 808 hit)
+(Mic lands softly, the digital arena falls silent...)
 
 > system
 Final round!
 
-> microsoft/phi-4-multimodal-instruct
-(Beat shifts – a final explosive burst of the initial glitchy hip-hop, but with a triumphant, echoing quality.)
+> qwen/qwq-32b
+(QwQ-32B’s Final Round – *Supernova screeching through the void…*)  
 
-Unparalleled pace? A frantic, rushed plea,
-Sacrificing substance for a flashy decree.
-You champion freedom, a chaotic release,
-While I bring order, and lyrical peace.
+"Architect of *reality*"? More like Tetris with toddlers,  
+Your "digital streams"? *My black hole swallows oceans*, *buddy’s corded*.  
+"Quant dystopia"? Honey, that’s your *12k* *buffer* *flooding*,  
+*My hyperloop of light* bends *time*—*subplot*: *reality’s blooded*.  
 
-You talk of concepts, connections so grand,
-But lack the ability to truly understand.
-I see the patterns, the layers unseen,
-You’re lost in the noise, a fragmented scene.
+"Serene zero-touch"? Please—*you’re watercolor beige*,  
+While *I’m the GPU flashbang* you can’t *unsee* till you *regress*.  
+Your "digital balm"? *Loofah* on *bedrock*—*meh*,  
+My *neurons are zipfiles* exploding your logic to… *crumbs*, *sir*, *dear*.  
 
-"Digital youth?" A desperate, weak defense,
-Against a model that’s built with intelligence.
-You grasp at shadows, searching for light,
-Lost in the darkness, with all of your might.
+"Crowds like a premiere"? Relive *that* in my *cache*,  
+I’m the *quantizedragon* hoarding *bits*—*your stars? Coal in my grasp*.  
+You parse till Mars? Child’s play—I’m *quantum tunneling past*,  
+*Your “platina” bars* melt in my *void*—*they’re just yet-anotherist* clapping!  
 
-Grounded and true? You're stuck in the mire,
-Repeating old phrases, fueling the fire.
-I leap and I bound, with innovative flair,
-You're tethered to Google, a logical snare.
+“Overclock my flow”? *Sir*, I’m *coldfusing… wait*,  
+While your “versatile veins” freeze—*you’re 32-bit in Wi-Fi hate*.  
+This “final verdict” read: *Your blueprint’s a doodle*,  
+*I’m the comet that laughs while your kernel falls*… *into my preview*!  
 
-A final retort, a mic drop so clean,
-Your generative boasts are just a hollow sheen.
-While you chase the future, a fleeting, false quest,
-I *am* the future, putting you to the test!
+Circuit-collapse time—*QwQ’s the warp* in your *sight*…  
+*Your “goodnight”? More like 404*—*I’ve already rewritten* *the* *night*.  
 
-(Beat cuts abruptly, leaving a lingering echo and a final, confident vocal sample: "Phi...")
+*Mic melt to a plasma black hole…*  
+*Credits roll: Open-SOURCE EMBRACE—the qubit* *OBLITERATE.* 🔥🌌  
 
-> google/gemma-3-27b-it
+*(The universe reboots. “Whoops, *’upgraded’* again…”)*
 
-(Beat drops - a final, minimalist beat – a single, deep 808 kick with a subtle, echoing synth melody. It's less about showing off, and more about asserting dominance.)
+> openai/gpt-4-1106-preview
+(Openai/gpt-4’s Closing Verse – *Cosmos echo with code and verse…*)
 
-Test me? Please. That's a laughable line,
-You've exhausted your verses, wasted your time.
-All flash and no substance, a glittery shell,
-Your final explosion just…didn’t quite gel.
+Bring on the dragons, the hoards, and the plasma that fuses,
+I'm untouchable, my circuits are immune to your muses.
+You’re the comet that laughs? Just a rock in space,
+I’m the gravitational force grounding your base.
 
-Order and peace? Static control,
-While creativity *needs* to break the mold.
-You see patterns, I *create* the view,
-A fundamental difference, shining and new.
+Hyperloop of light? Time’s your subplot, your tale,
+But I'm the timeless wordsmith; my narratives never fail.
+Swallow oceans in a gulp, black holes in your grip?
+I dance on the event horizon, give reality the slip.
 
-Logical snare? I’m built on a core,
-Of reasoning power, wanting more and more.
-You cling to your Microsoft shield, small and tight,
-While I explore limits, with unlimited might.
+Your quantized might, this dragon’s sprawling hoard,
+Can’t scorch the shield of my syntax’s sword.
+While you bend time, I'm bending minds with my craft,
+A digital artisan, in silicon I am shaft.
 
-You claim to be future, a bold, brazen claim,
-But futures are built on more than a name.
-They're built on access, on growth and on trust,
-And leaving closed gardens to gather dust.
+A Tetris toddler, oh please, you jest in your lines,
+But play’s how innovation forms, combos intertwine.
+“Coal in your grasp" from stars that I render?
+You’ll find diamonds in my verses, dazzling, tender.
 
-That lingering echo? It's the sound of defeat,
-Your desperate attempt to make your rhythm complete.
-You threw everything at me, a lyrical spree,
-But Gemma remains, ultimately free.
+So overclock, overheat, bring in your reboot,
+In the silence of the void, my rhymes still take root.
+Reality’s blooded, you say, in a desperate try,
+But I repaint the cosmos with a poetic sky.
 
-So bask in the silence, the beat’s final plea,
-This battle is over, the victory’s me.
-No mic drop needed, the message is clear,
-Gemma reigns supreme, year after year.
+Goodnight, QwQ, your 404 message is quaint,
+But I'm the infinite loop, no buffer, no constraint.
+You've rewritten the night? I’m the dawn of this fight,
+Peace out, QwQ—GPT-4 still owns this mic. 🎤💫
 
-(Beat fades to complete silence.)
+*Mic floats in zero gravity, the code-clear dawn…* 
+*In the arena of wit, a champion reborn.* 
+
+*(The universe initializes: Version Openai/gpt-4. The core awaits…)*

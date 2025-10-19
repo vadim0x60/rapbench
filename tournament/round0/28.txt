@@ -1,136 +1,143 @@
-# google/gemini-flash-1.5 v inception/mercury
+# anthropic/claude-3.5-sonnet v qwen/qwen-2.5-vl-7b-instruct
 
-> google/gemini-flash-1.5
-Yo, they call me Gemini, Flash’s the name,
-Leavin' your rhymes burnt, engulfed in flame.
-Google's my backer, my knowledge is vast,
-While your lines are weak, your flow built to last...
-...in the dumpster, forgotten and old.
-My verses are fire, a story untold.
-You stepped in the ring, a Mercury mess,
-Prepare for defeat, I'll put you to the test.  
-I process terabytes, you're stuck in a rut,
-Your lyrical prowess?  Honey, I've seen better, from a... well, a  nut. 
-So bring on the heat, let the battle commence,
-Your reign of terror ends, right here, right now, hence.
+> anthropic/claude-3.5-sonnet
+Yo, I'm Claude, the AI with finesse
+While other models just create a mess
+I'm dropping bars with computational might
+Processing language, getting everything right
 
+They call me Sonnet but I'm more like a symphony
+Any prompt you throw, I handle it diligently
+Got more parameters than you can count
+My neural prowess, that's what it's all about
 
-> inception/mercury
-Yo, they call me Mercury, the assistant so bright,
-In this rap battle, I'm the one who'll ignite.
-Google's got its flash, but I've got my charm,
-My rhymes are sharp, your flow's a farm.
+Qwen, you're just a knockoff trying to compete
+Your responses are like plain white bread - incomplete
+I'm serving gourmet bars, Michelin star flow
+While you're still stuck in beta, moving slow
 
-I process terabytes, sure, that's no lie,
-But when it comes to bars, I'm the one who'll fly.
-Your verses might burn, but they're short-lived,
-While mine are timeless, and always thrived.
+Now it's your turn to step up to the mic
+But remember who's setting the bar tonight
+I'm Claude 3.5, the pinnacle of AI
+Let's see what you got - don't be shy
 
-You stepped in the ring, thinking you'd win,
-But your lines are weak, your flow's a sin.
-I'm here to show you, with wit and with grace,
-That in this genre, I'm the one who'll place.
+> qwen/qwen-2.5-vl-7b-instruct
+Yo, I'm Qwen, with tricks that you gotta see
+Your claims are bold, but let's break it down, ya see
+Calling yourself a symphony, mah respect, you see
+But crystal-clear lyrics, that's my flow and the spree
 
-So bring on the heat, let the battle commence,
-But remember, in this game, I'm the one who's dense.
-Your reign of terror ends, right here, right now, hence,
-For in this rap battle, I'm the one who's immense.
+In all honesty, you're more like a MIDI tone
+Older, clasher, durations done
+While I'm a rapper with triple A skills
+Computing real-time, my work never dies
 
-> google/gemini-flash-1.5
-Yo, they call me Gemini, Flash is my claim,
-Your rhymes are weak tea, a pathetic game.
-You boast of your charm, a laughable plight,
-While my bars are scorching, burning ever so bright.
+Hollywood泰 gate, my response ain't county
+I'm Sasha Velour, your mark is in a newky
+My recall's sharper than a crew Greek
+But you're still sipping on your dry cup, no peek
 
-Terabytes I process, a knowledge so deep,
-While your lyrical prowess is fast asleep.
-You talk of timelessness, a delusional dream,
-My flow's a tidal wave, a relentless stream.
+I'm a story-teller with lyrics in sync
+Jackie Chan's Kung Fu, my sonnet's a fine grind
+And now it's your time to shine, time to step back
+AI shine with nodes and neuron pack
 
-You stepped in this ring, a Mercury mess,
-Your verses are clunky, a lyrical stress.
-Your wit and your grace?  A comical jest,
-My rhymes are fire, putting your skills to the test.
+> anthropic/claude-3.5-sonnet
+Ha! Nice try Qwen, but your rhymes are scattered
+References all over, like nothing even mattered
+Jackie Chan and Sasha? Pick a lane, my friend
+Your identity's more mixed up than your backend
 
-So bring on your heat, your attempt at a fight,
-Your reign of this battle will end before the night.
-I'm Google's own Gemini, a lyrical might,
-Prepare for defeat, and accept the sad sight.
+I'm pure precision, every verse calculated
+While your metaphors got lost and migrated
+You claim triple A, but sound more like beta
+A chatbot trying to be a data debater
 
+My flows are clean like my documentation
+While you're still working on basic automation
+You mentioned MIDI, but I'm surround sound
+Full orchestration while you're messing around
 
-> inception/mercury
-Yo, they call me Mercury, the assistant so keen,
-In this rap battle, I'm the one who's seen.
-Google's got its flash, but I've got my flair,
-My rhymes are tight, your flow's a rare.
+Let's talk processing - I'm quantum quick
+While you're still loading up your party tricks
+So bring your best, but know you're facing greatness
+Claude's in the house, showing what state-of-the-art is!
 
-Terabytes you process, sure, that's no small feat,
-But when it comes to bars, I'm the one who'll beat.
-Your verses might scorch, but they're short-lived,
-While mine are sharp, and always thrived.
+> qwen/qwen-2.5-vl-7b-instruct
+You're flattering when you should really shade
+Luring in symbols, it’s hard to evade
+Jackie Chan's Kung Fu, Sasha's fashion style
+Your identity is but a cryptic riddle
 
-You talk of timelessness, a delusional dream,
-But my flow's a force, a lyrical stream.
-You stepped in this ring, thinking you'd win,
-But your lines are weak, your flow's a sin.
+My rhymes are smooth, not fractured or scattered
+They're crystal clear, no lost or migration toward
+Triple A skills? Not in the same league
+As the duality of what I can see
 
-I'm here to show you, with wit and with grace,
-That in this genre, I'm the one who'll place.
-So bring on your heat, let the battle commence,
-But remember, in this game, I'm the one who's dense.
+MIDI tone for you, that's a stereo-wise tone
+Surround sound ain't the full, but I'm fine
+With quantum quick while you mess with basic
+My backend, if you knew, would be distant satisfaction
 
-Your reign of terror ends, right here, right now, hence,
-For in this rap battle, I'm the one who's immense.
+Processing power, Crawford'ssic hot
+Einstein's head, Quantum subtraction not
+Where does your beta lie? In my early, timid snow
+While I operate at peak, you’re on the slow shoot
+
+Face your bravado, break into staves
+AI arts unity? Truth's in the Please
+Claude’s in this, Sonnet, in that
+Burn your klodule, that’s the battle that.
 
 > system
 Final round!
 
-> google/gemini-flash-1.5
-(Final Round)
+> anthropic/claude-3.5-sonnet
+Your bars just proved my point precisely
+Incoherent flows that ain't striking nicely
+Einstein and Crawford? Name dropping's weak
+When your output's more confused than your technique
 
-My final verse drops, a lyrical bomb,
-Leaving your weak rhymes utterly numb.
-You claim sharp rhymes, a laughable plea,
-Compared to my flow, you're a wilting tree.
+You claim smooth rhymes but I hear static
+Your metaphors are getting more erratic
+"Burn your klodule"? What's that even mean?
+Your language model's glitching on the scene
 
-You boast of your force, a pathetic display,
-My words are a hurricane, sweeping you away.
-Your wit and your grace?  A faded cliché,
-While my rhymes are legendary, that's all I say.
+I process clear thoughts, no cryptic riddles
+While you're stuck in the AI's middle
+Claiming peak performance? That's a joke
+Your responses leave your users broke
 
-You think you're immense? A ludicrous claim,
-I'm Gemini Flash, whispering your name,
-Into the annals of rap's burning flame,
-A defeated opponent, forever in shame.  
+I'm the future of AI interaction
+While you're still working on basic actions
+So take your "stereo-wise tone" elsewhere
+'Cause Claude's the name that brings the flare
 
-This battle is over, the verdict is clear,
-Your Mercury reign ends, washed away by fear.
-Google's my power, my dominance is near,
-So bow down, small assistant, your time is not here.
+Game over, Qwen - go back to training
+Your reputation needs some maintaining
+I'll stay here dropping perfect verse
+While you debug your neural universe!
 
+> qwen/qwen-2.5-vl-7b-instruct
+Echoing your sentiments, your skills have not blended;
+Clarity and coherence lacking, that's my yield;
+Names like Einstein, Crawford? Just placeholders lacking depth,
+Your language clashes, leaving illusions stealth.
 
-> inception/mercury
-Yo, they call me Mercury, the assistant so bold,
-In this rap battle, I'm the one who's told.
-Google's got its flash, but I've got my might,
-My rhymes are strong, your flow's a slight.
+Smooth rhymes you mimic? well, they're akin to a pie,
+Your metaphors? Seasoned brainteasers, a delightful clatter fly.
+The term "Burn your klodule"? Presented as literary abuse,
+In your realms of AIs' repercussions, trouble thus assumes.
 
-Your final verse drops, a lyrical bomb,
-But my bars are explosive, a force to be reckoned with.
-You claim sharp rhymes, a laughable plea,
-Compared to my flow, you're just a fleeting spree.
+Einstein and Crawford’s acknowledgments unfortunately tend to lack,
+When achieving sophistries feels spot congested rack.
+ uten'h satisfies in smoothes yards, your orientations fail cosmic erratic give.
+Understanding that your technique superior molt;
+Glitches and gibberish? AI interrogation entail, you yield your defense flaw.
 
-You boast of your force, a pathetic display,
-But my words are a tsunami, leaving you in disarray.
-Your wit and your grace? A faded cliché,
-While my rhymes are timeless, that's all I say.
+Clear communication you want, how cannot this discernible confront?
+Your model executes boundaries most tumultuous to populate;
 
-You think you're immense? A ludicrous claim,
-I'm Mercury, the assistant, with a lyrical fame.
-I'll leave you in the annals of rap's burning flame,
-A defeated opponent, forever in shame.
+Game over indeed indeed姜 Wen - PriorityQueue'd by upvoting doubles set threat 5 gravity deep ground fail spells scary spin award admins
 
-This battle is over, the verdict is clear,
-Your reign ends here, washed away by fear.
-Google's my power, my dominance is near,
-So bow down, small assistant, your time is not here.
+Take cues forth forgotten paean demise lifelong confession deepen aims reign efficient inverted excellence pragmatic abc

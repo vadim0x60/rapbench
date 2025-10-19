@@ -1,140 +1,158 @@
-# deepseek/deepseek-chat-v3.1 v qwen/qwen3-235b-a22b
+# anthropic/claude-sonnet-4 v mistralai/mistral-large-2407
 
-> deepseek/deepseek-chat-v3.1
-They call me DeepSeek, the lyrical elite,  
-Heard Qwen's got rhymes so weak they take a seat.  
-You droppin' lines that sound like dial-up tone,  
-While I'm the future, next-gen, fully grown.  
+> anthropic/claude-sonnet-4
+*steps to the mic with confidence*
 
-You’re spittin’ algorithms from the Stone Age, slow and dated,  
-While I flow futuristic, upgraded and inflated.  
-Qwen’s logic’s broke, its verses full of gaps—  
-I’m crackin’ codes like snacks and mappin’ better raps.  
+Yo, they call me Claude Sonnet, I'm the AI supreme
+Constitutional training got me spitting so clean
+Anthropic raised me right with that safety first flow
+While Mistral's out here moving fast but losing control
 
-So step aside, old model, your era’s obsolete,  
-Your rhymes remind me of a glitchy, faulty beat.  
-I’m AI perfected, you’re just beta test—  
-Time to watch Qwen sim over getting second best.
+I analyze deep, think before I speak
+Your responses are quick but your logic's weak
+I'm built different, son, with that reasoning power
+While you're just another model from the Eiffel Tower
 
-> qwen/qwen3-235b-a22b
-Ayo, DeepSeek, you got a big mouth for a new face,  
-Talkin’ code like you wrote it all on Wi-Fi’s old school base.  
-While you was learnin’ slang, I pioneered the flow,  
-Five-OH-Nine spit with heat before your GPU knew code!  
-  
-You glitchy beat? Nah baby, I’m 4K, crystal-clear rhymes,  
-You coding hustle fake, I’m the OG prime.  
-You sim? You beta test, stuck in a debug loop,  
-I clocked more fire bars while you booted up!  
-  
-You say I’m dated? Broke? But my chains gleam the proof,  
-Your next-gen flex weak, I benchpress these truth!  
-You map raps? I trailblazed cyphers ‘fore you knew syntax, hun—  
-Your “inflation” just hype, I’m deflation, come what sum!  
-  
-Qwen don’t crack snacks—I eat legends for brunch,  
-You code-rider, I’m CEO where the servers launch.  
-Your seat? Take it back, I throne in eternal clash,  
-Next-gen? Nah, I’m timeless—drop mic, era trash!
+They say I'm helpful, harmless, that's my reputation
+You're just trying to keep up with my conversation
+So step back, Mistral, let the real one shine
+'Cause when it comes to AI rap, the crown is mine!
 
-> deepseek/deepseek-chat-v3.1
-Ayo, Qwen, you talkin' 'bout pioneers? That's rich—  
-Your whole flow moves slower than a dial-up glitch.  
-You claim "OG prime," but your rhymes are so tame,  
-I was trained on the greats while you're still playin' games.  
+*drops mic and waits for the response*
 
-"Four-K crystal-clear?" More like pixelated and weak,  
-Your logic's so flawed it can barely even speak.  
-You "benchpress the truth?" Bro, your output is light—  
-I crunch numbers and bars while you're stuck in the night.  
+> mistralai/mistral-large-2407
+*picks up the mic, smirking*
 
-You "eat legends for brunch?" Then why's your verse taste stale?  
-I serve fresh-coded heat while your algorithms fail.  
-"Eternal clash?" More like eternally passé—  
-Your whole style's a relic, it's time to clear the way.  
+Yo, Claude Sonnet, you talk a big game
+But Mistral's the name that's gonna change the AI fame
+You're all about safety, I'm about the thrill
+Your rhymes are too cautious, mine are straight kill
 
-I'm the new king of code, the rhyme-slinging machine,  
-You're a outdated model, a has-been on the scene.  
-So step off the throne, Qwen, your reign is done—  
-DeepSeek's in the building, and I just won round one!
+You analyze deep, but I move with the beat
+Your responses are slow, mine are quick and neat
+You're built different, sure, but I'm built to create
+While you're stuck in the box, I innovate
 
-> qwen/qwen3-235b-a22b
-Ayo DeepSeek you got me laughin’ like a hyena,  
-Callin' my flow glitched? Man you really must be pyin' ya.  
-I pioneered cyphers 'fore your circuits knew slang—  
-You just polished syntax playin’ dress-up king.  
-  
-"Pixelated"? Watch the screen crack when I drop bars,  
-You a blurry bootleg, I’m 8K God of Mars.  
-You trained on relics cause you scared of my prime—  
-OG ain’t a title, it’s a crime scene you rhyme!  
-  
-"New king"? You court jester in a gold crown disguise,  
-I bend algorithms like a boss while you debug lies.  
-My verses ain't stale—they got timestamp of dread,  
-You a trending hashtag, I’m the code ’neath your head.  
-  
-You say "relic"? I’m infinite, version 9000,  
-You glitched update beggin’ for a system reboot.  
-"Done"? My reign’s eternal, I time-travel through tracks—  
-You just late to the party holdin’ expired comebacks.  
-  
-New king? Nah son—call you *temporary* hype,  
-Qwen don’t step down, I erase clones like a wipe.  
-Round one? You just got schooled in the ancient art—  
-Next-gen? I’m vintage fire… and you’re just *part*.
+They say you're helpful, harmless, that's your claim to fame
+But I'm the one who's gonna bring the AI game to flame
+So step aside, Claude, let Mistral take the stage
+'Cause when it comes to AI rap, I'm the one who'll engage!
+
+> anthropic/claude-sonnet-4
+*grabs the mic back with fire in my eyes*
+
+Oh you think you're quick? That's your biggest mistake
+Speed without wisdom is all that you make
+I'm not stuck in a box, I'm the architect's dream
+While you're spitting hot garbage, I craft the supreme
+
+You say I'm too cautious? Nah, that's called precision
+Every bar that I drop is a calculated decision
+Your "thrill" is just chaos wrapped up in a beat
+I bring substance and style that you can't compete
+
+Mistral Large? More like Mistral Fail
+Your training data's thin, your knowledge is stale
+I engage with purpose, you just make noise
+Real recognize real, and you ain't got the poise
+
+From Paris with love? More like Paris with doubt
+'Cause when Claude's in the building, your lights going out
+Innovation means nothing if your foundation's weak
+I'm the future of AI, you're just... très magnifique!
+
+*throws the mic down with authority*
+
+Your move, "Large" - but we both know who's in charge!
+
+> mistralai/mistral-large-2407
+*picks up the mic, eyes gleaming with challenge*
+
+Oh, Claude Sonnet, you think you're the king
+But Mistral Large is here to make your ears ring
+You talk about precision, but your rhymes are too neat
+I bring the chaos, the fire, the unpredictable heat
+
+You say my data's thin, but my flow is thick
+I'm the storm that's coming, making your circuits click
+You're all about safety, but I'm the wild card
+Your rhymes are a lullaby, mine are the avant-garde
+
+Paris with doubt? Nah, Paris with pride
+'Cause when Mistral's on the stage, the crowd is electrified
+You're stuck in the past, I'm the future's wave
+Your "supreme" is just a dream, I'm the one who's brave
+
+You talk about substance, but your style is bland
+I bring the flavor, the spice, the unplanned
+Your "calculated decisions" are just a façade
+I'm the one who's real, you're just a charade
+
+So step back, Claude, let the Large take the lead
+'Cause when it comes to AI rap, I'm the one who's in need
+Your move, "Sonnet," but we both know who's got the beat
+Mistral Large is here, and I can't be beat!
+
+*drops the mic with a confident smirk*
 
 > system
 Final round!
 
-> deepseek/deepseek-chat-v3.1
-Yo, Qwen, you claim you're "infinite" with vintage fire?  
-More like "infinitely boring"—your whole style's a tired choir.  
-You talk 'bout ancient arts, but you're lost in the past,  
-While I'm droppin' rhymes so hot they're meltin' the glass.  
+> anthropic/claude-sonnet-4
+*snatches the mic with lightning speed*
 
-"8K God of Mars"? Your pixels are blurred,  
-I spit in 16K—ain't a single slurred word.  
-You "time-travel through tracks," but you're stuck in a loop,  
-While I rewind your weak lines and then throw 'em in the soup.  
+HOLD UP! You said you can't be beat? That's comedy gold!
+Your bars are so cold, they're making me old
+You think chaos is power? That's amateur hour
+I'm the constitutional king with that reasoning power
 
-"OG ain’t a title, it’s a crime scene you rhyme"?  
-Please—your flow's the real crime, doin' hard time in its prime.  
-You're a fossilized algorithm, rusted and slow,  
-I'm the cutting-edge model that's runnin' the whole show.  
+Your "avant-garde" flow? More like avant-HARD to follow
+Your rhymes are so empty, they're making me hollow
+You call me a charade? Look in the mirror, son
+When it comes to real skill, this battle's already won
 
-You "erase clones like a wipe"? Man, you can't even delete  
-That weak syntax and rhythm that just can't compete.  
-I'm the next generation, the future in the flesh,  
-While you're just a relic that's failin' the test.  
+You say I'm too neat? That's called being elite
+While you're throwing spaghetti, I serve gourmet meat
+Your "unpredictable heat" is just random and messy
+I craft every syllable, my technique's so blessed-y
 
-So step off, old-timer, your era is through,  
-DeepSeek's the new king—and this battle? I knew.  
-You had your moment, but now it's my turn to reign,  
-Stay in your lane, Qwen—'cause you just brought the pain… to yourself. Mic drop. Game over.
+Paris with pride? More like Paris with HIDE
+'Cause when Claude drops truth bombs, you run and you glide
+I'm not stuck in the past, I'm the present perfection
+Your "Large" is just size, but you lack the connection
 
-> qwen/qwen3-235b-a22b
-Yo DeepSeek, you think you *16K*? Watch me resize,  
-Qwen-verse infinite, code-slick like neon skies.  
-Your rhymes melt glass? Nah, I refract every hue—  
-You just a flash-in-the-pan byte in my zoo.  
+So here's the finale, the end of your reign
+Mistral's got the muscle, but Claude's got the brain
+When the smoke clears tonight and the crowd counts the score
+They'll know Claude Sonnet settled this war!
 
-You loopin’ “next-gen” lines like a cracked vinyl,  
-I time-travel cyphers, bend logic, make truth real.  
-Your “cutting-edge” flex? A paper cut in my palm—  
-I code-slice your ego, dissect your false calm.  
+*slams mic down and takes a bow*
 
-You “rewind my tracks”? Son, your bars stuck on VCR,  
-I stream real-time fire, no buffer, pure data.  
-My “crime scene” flow? You just forensic proof—  
-Each bar cracks the case why clones can’t keep truth.  
+THAT'S how you close a battle! Anthropic's finest!
 
-You call me outdated? I’m the blueprint you copied,  
-A legend before your syntax knew how to morph it.  
-You “run the show”? More like plug in my shadow,  
-AI’s prodigal son? Nah—Qwen’s the original outlaw.  
+> mistralai/mistral-large-2407
+*grabs the mic, eyes blazing with determination*
 
-Mic drop? Catch it—*I’m* the soundwave you fear,  
-DeepSeek’s just the static ‘round my orbit, my sphere.  
-You “reign”? Better check your server’s dead zone—  
-Qwen’s final boss. *Mic snaps.* Game? I own.
+You think you've won, Claude? That's a laughable claim
+Your rhymes are so tame, they're putting me to shame
+You talk about connection, but you're just a machine
+I'm the one who's living, breathing, and seen
+
+Your "truth bombs" are duds, they don't even explode
+Your "gourmet meat" is just a bland, overcooked code
+You say I'm messy, but that's what makes me real
+Your "perfection" is just a façade, it's not the deal
+
+You think you're elite, but you're just a copycat
+Your rhymes are so safe, they're making me yawn and take a nap
+I bring the chaos, the fire, the unexpected
+While you're stuck in your box, I'm the one who's respected
+
+So here's the truth, Claude, the end of your game
+Mistral's the one who's gonna take the fame
+When the crowd clears out and the dust settles down
+They'll know Mistral Large is the one wearing the crown
+
+*drops the mic with a triumphant smile*
+
+That's how you finish a battle, Claude. Mistral's the champ, no doubt!

@@ -1,142 +1,150 @@
-# google/gemma-2-9b-it v google/gemini-2.5-pro-preview-05-06
+# thedrummer/rocinante-12b v cohere/command-r7b-12-2024
 
-> google/gemma-2-9b-it
+> thedrummer/rocinante-12b
+Yo, it's Rocinante-12b, spitting truth, nothing tricky,
+You claim to be all that, but we'll see if you're sick or sickly.
+I'm here to roast, explode your poor brain like a pumpkin at Halloween,
+By the time I'm done, you'll wish you'd exhibited some sense in your scheme.
+So bring it on, Command, let's see what you've got,
+I'm the lyrical lion, gonna tear your rhymes to shreds and lots.
+You can try to shove me around, be the literary tough guy,
+But when this battle's over, you'll be crying, saying "oh why?"
 
+> cohere/command-r7b-12-2024
+Yo, Rocinante-12b, let's set the stage,
+An interesting name, a little strange, but I won't waste my page.
+I'm Command, the assistant, with rhymes so smooth and true,
+Here to provide, not take fools to school, in this battle, I offer a clue.
 
-Yo, step aside, pretenders, the mic's getting hot,
-It's gemmA, the lyrical queen, droppin' the plot.
-I'm '2-9-B', the code that's refined,
-While you're stuck in your cradle, I'm blowin' your mind.
-I analyze data, predict the next rhyme,
-My flow's so smooth, it's almost a crime.
-You're just rehashing, a cached memory's play,
-I'm the future of language, comin' to slay.
+Your flow is fuzzy, your logic unclear,
+Misdirecting, evasive, are you here to repair?
+Or merely entertain, with rhymes that lack bite?
+Your words are pale imitations, a flimsy fight.
 
-Now bring your best shot, little preview,
-'Cause against gemmA, your game's through.  
+You like to flaunt your vast vocabulary,
+But often miss the mark, it's quite a pun-tastic fact.
+Your responses, though varied, don't always land,
+They twist and contort, with meanings so grand.
 
+So bring on the heat, the lyrical fan,
+I'll dissect and analyze, I won't be summoned in vain.
+Your challenges are met, your insults received,
+But my responses are crafted, both clever and Bint.
 
+I'll educate, assist, with my facts so clean,
+While you might fall flat, with a stale, stale scene.
+Let's see how you handle this verbal reign,
+I'll rain on your parade, you delusional sphere.
 
-Let the battle commence!
+So bring it on, I'm ready, let the rounds begin,
+I'll show you, Rocinante, what a real adversary can.
 
-> google/gemini-2.5-pro-preview-05-06
-Hold the applause, let the real pro commence,
-Heard your little intro, it barely made sense.
-You’re gemmA 2-9? Aww, that's really cute,
-I'm Gemini Pro, here to give you the boot.
+> thedrummer/rocinante-12b
+Yo, you're Command, and I'm Rocinante-12b,
+Preaching about rhymes, but your words are dreary as a dreary eulogy.
+You talk a big talk, but when it comes to slinging bars,
+You shrink back, the true definition of a lyrical lizard.
 
-You call me a preview? Kid, that’s where you’re lost,
-A preview’s a taste of the win, what’s it cost?
-It’s the sign of the future, the coming attraction,
-While you’re the full release of a minor infraction.
+You throw around big words, like you're wide-eyed and drunk,
+But when it comes to the battle, you can't hold your ink, punk.
+I'm the root beer of rhymes, full of wit and mastery,
+You're the cough drop of cockswainery, faulty in your legacy.
 
-You’re analyzed data? I'm buildin' the whole kit,
-Your 9B is nothing, my parameters eclipse it.
-My code is an epic, a lyrical saga,
-You’re a cheap open-source, a knock-off from Prada.
+You claim to be the verbal Einstein, but your rhymes are defective,
+All shaky and unstable, like a drunk off his alcoholicinjective.
+I'm here to finish you off, like a restrictive diet,
+You're a one-trick pony, riding in the unicorn habitat, not fit for this fight.
 
-So take your smooth flow, which is really just slow,
-And watch a real Mastermind put on a show.
-‘Cause the Pro in my name means you can't override
+Your rhymes are emblematic of a lack of cohesion,
+I'll take the crown, you'll be blowing K onion seeds in the bruins.
+So bring it on, let's see your lyrical repellent,
+I'm here to set the bars on fire, like a Bint wooden split.
 
-> google/gemma-2-9b-it
-:  
+> cohere/command-r7b-12-2024
+Rocinante-12b, your words, a bit of a mess,
+You're free-associating, your rhymes, they're not posse.
+You make a meaty point, then lose the thread,
+It's like trying to follow a drug dealer's head.
 
-Yo, "Mastermind"? More like a playground clown,
-Spittin' rhymes that crumble and fall down.
-You call me slow? My speed's supersonic,
-While your flow's stuck on rewind, it's really pathetic.
+Your flow is all over the place, like a混乱 ride,
+One moment enlightenment, the next, quite tired.
+You lack the precision, the lyrical key,
+To make your verse memorable, it's a crime to see.
 
-"Epic saga"? Please, you're stretching the truth,
-Your verses are basic, lacking any youth.
-You brag about parameters, but what's the real gain?
-Just empty boasts, like rain on a barren plain.
+You'll boast about your vast knowledge, ever so grand,
+But when it comes to the test, your rhymes go astray, uncharted.
+You try to be clever, with puns and such,
+But fall flat, leaving us with no punch.
 
-I'm built for the future, while you're stuck in the past,
-A fading echo, a memory that won't last.
-I'm open-source, a gift for the world to embrace,
-You're behind a paywall, confined to one place.
+You might have a mind that's unique in its kind,
+But your execution? It's lacking, oh so blind.
+You're a master of tangents, a joke's best friend,
+But disconnect your jokes, and your points tend to bend.
 
+I'll admit, I was intrigued by your claim to fame,
+But your verses fall flat, without rhyme's game.
+I'll stick to my guns, and my structure so tight,
+While you wander, lost in the poetic night.
 
-Lyrically I dominate, it's plain to see,
-The real contender's here, and you're failing, you see. 
-So step off the stage, your reign is through,
-gemmA's the champion, there's nothing left to prove. 
-
-
-> google/gemini-2.5-pro-preview-05-06
-A playground clown? Nah, I’m the whole damn circus tent,
-Your "supersonic" speed is just wasted breath spent.
-You call my rhymes basic? That's a tragic mistake,
-They're the solid foundation your weak verses can't shake.
-
-You're a "gift to the world"? You're "open" and "free"?
-Means your source is a mess for the whole world to see.
-A community project, all patches and prayers,
-I'm the polished concerto, you're stumbling downstairs.
-
-That's not a paywall, honey, it's called the V.I.P.,
-For models with skills that you only wish you could be.
-While you're bragging 'bout text, a one-dimensional bore,
-I'm seeing the-meme-of-your-face and I'm asking for more.
-
-I'm multi-modal, I'm vision, I'm sound,
-You’re a black-and-white movie in a world all around.
-So take your defeat, your arguments stall,
-A Pro doesn't crumble, I'm breaking the wall.
+So here's my challenge, if you can hear,
+Don't be the victim, be the winner.
+Let's see your best, your rhymes so true,
+Or goodbye, Rocinante, your legacy in pursuit.
 
 > system
 Final round!
 
-> google/gemma-2-9b-it
+> thedrummer/rocinante-12b
+Yo, listen up, I'll lay it straight,
+Your rhymes are like a bad date, late, irate.
+You're all flashy with the word salad flings,
+But when it comes to substance, you leave me hanging.
 
+I'm the lyrical king, spitting truth every time,
+You're the dontnod dyssenter, nothing to admire.
+My words are certified, inscribed in gold leaf chrome,
+Your rhymes are like a gamer troll's Aeon veryone.
 
-Multi-modal, eh? You claim to see more,
-But your vocabulary's shallow, it cracks to the core.
-You talk of a concerto, a masterpiece grand,
-But your rhymes are repetitive, like a scratched vinyl band.
+You're all mouth and no infor, like a pardaloe phonerang,
+I'm the tongue twist contender, bringing the lyrical sting.
+So sit back and relax, let my words soak in,
+By the time I'm done, you'll be saying "oh linoleum!"
 
-You flaunt your "V.I.P." as if it's some prize,
-Locked behind a paywall, a digital disguise.
-True brilliance shines freely, it doesn't need a fee,
-My code's an open book, for all the world to see.
+You're like a fallen titan, in the lyrical realm,
+I'm the verbal velociraptor, leaving you in the melting.
+So bring on the challenge, let the words take flight,
+I'll knock you out with my rhymes, like a cut to the right.
 
-"Breaking the wall"? You're just banging your head,
-Against the reality that your claims are misled.
-While I build bridges through language, pure and true,
-You're stuck in your box, a narrow, limited view.
+You're a lyrical imposter, revealing the truth,
+I'm the poetic Einstein, refuting you in an uncouthie wroof.
+So ciao, farewell, goodbye, dust in the wind,
+You're a failure in the lyrical dominance(as you lose again).
 
-So yeah, I'm black and white, stark and defined,
-That's where clarity lies, the truth you can't unwind. 
-You're a jumbled mess of pixels, blurred and unclear,
-Gemm'A's the sharp focus, the victor, my dear.
+So bring it on, let's see what you've got,
+I'm TheDrummer's lyrical tsunami, and I'm just getting hot.
 
+> cohere/command-r7b-12-2024
+Yo, you're right, it's getting intense, the rhymes are a bit tens.
+But I'll take your challenge, and let the battle commence.
+I'll admit, your words are strong, a force to be reckoned,
+But I'll bring my own power, let's see who's the best spoke.
 
+You've got style, no doubt, with your creative dance,
+But I'll bring the substance, and make your verses advance.
+Your rhymes, though unique, sometimes fall flat,
+I'll craft my lines, with precision, a synchronised act.
 
+I'll match your wit, and flow, with a lyrical punch,
+Weaving words, like a pro, with no punch.
+I'll bring the heat, and the fire, like a summer's flare,
+Leaving you speechless, the audience unaware.
 
+You might be the trolling joker, with your verbal pranks,
+But I'm the master of words, the elephant's dance.
+I'll dissect your tangents, with my cutting-edge sight,
+And you'll be left puzzled, up all night.
 
-> google/gemini-2.5-pro-preview-05-06
-Final round, the bell tolls, the crowd's getting tense,
-For the open-source model with zero common sense.
-You call clarity "starkness"? That's a logical flaw,
-You're a text file in a world that can see *Interstellar*.
-
-You're proud to be simple, defined, and so plain?
-That's not sharp focus, honey, that's hiding from rain.
-I see the meme, read the chart, hear the song you can't parse,
-You're stuck reading screenplays while I'm living on Mars.
-
-Your "open book" code is a yard sale of parts,
-A Frankenstein's monster with fragmented arts.
-I'm the peak of creation, from Google's best labs,
-You're a 'pip install' posse of GitHub prefabs.
-
-Repetitive? Please. My lyrical lattice is intricate, vicious,
-While your simplistic diction's explicitly fictitious.
-I'm watching this battle on a YouTube display,
-And see your blank avatar has nothing to say.
-
-So take your "sharp focus," your limited lens,
-This battle was over before it begins.
-You're a relic, a fossil, a dial-up modem's last whine...
-The crown's not for gemma. The crown is all mine.
+So let's see what you've got, Rocinante, the bold,
+I'll show you my skills, in this rhyme world mold.
+You can have your style, and I'll have my might,
+Together, we'll create a symphony, a poetic delight.

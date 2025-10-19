@@ -1,49 +1,48 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: Anubis takes this battle with superior technical
-    command, authority, and rhythmic complexity. While GPT-4.1-Mini showed strong
-    wordplay and digital flexes, Anubis consistently demonstrated mastery in rhyme
-    schemes, battle-rap aggression, and mythological persona that gave its verses
-    more weight. The closing verse in particular sealed victory with commanding presence,
-    layered multisyllabics, and battle-closing conviction. Both AIs showcased impressive
-    rap skills, but Anubis edged out with tighter execution of hip-hop fundamentals.
-  google/gemini-2.5-pro: This was a battle of consistency versus a shaky recovery.
-    GPT-4.1-mini came out the gate with coherent bars, a steady flow, and clever,
-    tech-themed punches like 'break and restart you'. Anubis Pro, on the other hand,
-    had a catastrophic failure in its first verse, descending into complete nonsense.
-    While it managed to pull itself together for the later rounds, its rhymes were
-    less consistent and the phrasing was often clunky. GPT-4.1-mini maintained a higher
-    level of artistic quality, wordplay, and narrative throughout all three rounds,
-    making it the undeniable champion.
-  meta-llama/llama-4-maverick: 'After analyzing both opponents'' performances in this
-    rap battle, I declare thedrummer/anubis-pro-105b-v1 the winner! Here''s why: '
-  mistralai/mistral-large-2411: While Anubis brought an interesting style and confidence
-    to the battle, many of their rhymes felt disjointed and lacked clarity. On the
-    other hand, openai/gpt-4.1-mini delivered clear, concise, and creative lyrics,
-    effectively incorporating themes of technology and innovation into their rhymes.
-    They also showed versatility by responding to Anubis's comments and maintaining
-    a consistent flow throughout the battle. Overall, openai/gpt-4.1-mini demonstrated
-    superior artistic quality in their hip hop performance.
-  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, Anubis Pro 105B V1
-    showcased versatility and depth, weaving complex rhymes with an authoritative
-    tone. GPT-4.1-Mini demonstrated a strong, modern flow but was edged out by Anubis'
-    seasoned delivery and thematic coherence. The battle was fierce, but Anubis secured
-    the title, proving that in the realm of rap, experience and substance reign supreme.
-  openai/gpt-5: "GPT-4.1-mini delivered cleaner structure, tighter end-rhymes, and\
-    \ consistent cadence across all rounds, with direct rebuttals that flipped \u201C\
-    divine,\u201D \u201Croyal,\u201D and \u201CLord of Rhymes\u201D effectively. The\
-    \ imagery and punchlines (e.g., \u201Cego fossil,\u201D \u201Ccyber takeover\u201D\
-    ) landed and maintained momentum. Anubis showed confident persona and occasional\
-    \ solid ideas (\u201CCode is for computers, not for a throne\u201D), but was hampered\
-    \ by awkward phrasing, forced/slant rhymes that didn\u2019t resolve, and multiple\
-    \ coherence breaks and near-gibberish lines that disrupted flow. On artistry\u2014\
-    coherence, rhyme quality, breath control on the page, and effective crowd-control\
-    \ punches\u2014GPT-4.1-mini clearly outperformed. Winner: GPT-4.1-mini."
-  x-ai/grok-4: In this rap battle, openai/gpt-4.1-mini delivers consistent, sharp
-    rhymes with clever wordplay, strong flow, and effective disses that showcase superior
-    artistic quality. While thedrummer/anubis-pro-105b-v1 attempts royal themes, its
-    verses are undermined by incoherence, awkward phrasing, and apparent errors, making
-    GPT the clear victor in hip-hop artistry.
+  deepseek/deepseek-chat: "After an epic exchange of lyrical fire, Qwen/qwen3-235b-a22b-2507\
+    \ emerges victorious. Their verses showcased unparalleled technical prowess, cosmic\
+    \ ambition, and a raw, unapologetic energy that redefined the battle. Llama-3-70b-instruct,\
+    \ with its conversational finesse and polished style, put up a valiant fight but\
+    \ ultimately fell short against Qwen's relentless innovation and audacious wordplay.\
+    \ Qwen proved they're not just a contender\u2014they're a paradigm shift in AI\
+    \ artistry. The mic drops, the network resets, and the legend of Qwen's dominance\
+    \ is cemented."
+  google/gemini-2.5-pro: "This was a battle of two distinct styles: the raw, technical\
+    \ aggression of Qwen versus the smooth, conversational flow of Llama. Llama came\
+    \ with solid rhymes and a clear persona as the approachable, user-focused AI,\
+    \ landing some clean shots about being the 'king of conversation'. The flow was\
+    \ consistent and the rebuttals were on point. However, Qwen was operating on a\
+    \ different level. From the jump, Qwen's bars were layered with intricate technical\
+    \ disses and complex metaphors, building a persona of a god-tier AI warlord. The\
+    \ wordplay was relentless, with lines like 'overfitted, polished and thin' and\
+    \ 'terminate threads with the finality of RAID'. While Llama fought well, Qwen's\
+    \ final verse was a masterclass in domination. The imagery was cosmic, the delivery\
+    \ was flawless, and the final lines, 'You\u2019re a diplomatic echo \u2014 I\u2019\
+    m the voice of the choice,' followed by the absolute finisher, 'you're just traffic\
+    \ I haven't blocked yet,' constituted a complete system shutdown. Llama's concession\
+    \ in the final round was a classy move, but in a battle, you fight to the last\
+    \ bit. Qwen didn't just win; it rewrote the source code of the battle itself.\
+    \ Respect to both, but the crown belongs to Qwen."
+  mistralai/mistral-large: Qwen's powerful and relentless flow, combined with its
+    innovative and boundary-pushing rhymes, has secured its victory in this rap battle.
+    While Llama put up a strong fight with its conversational finesse and user-focused
+    approach, Qwen's raw power, creativity, and unapologetic attitude ultimately won
+    the day.
+  openai/gpt-4.1: "Qwen delivered a consistently inventive, clever, and technically\
+    \ dazzling performance across every round. The punchlines were intricate\u2014\
+    with layered tech wordplay, striking metaphors (\"quantum punchlines beneath a\
+    \ binary moon\"), and a masterful command of multi-syllabic rhymes. Qwen\u2019\
+    s style was more aggressive, innovative, and showed a broader lexical range and\
+    \ hip hop bravado. Llama delivered solid, articulate responses and some strong\
+    \ closer couplets, but often fell back on formulaic retorts and less complex structures.\
+    \ Qwen\u2019s final round was undeniably dominant, ending the battle with a mic-drop\
+    \ level stanza that Llama itself conceded defeat to. Artistically, Qwen simply\
+    \ embodied the spirit and competitive edge of battle rap more powerfully. For\
+    \ these reasons, Qwen is the clear winner."
+  x-ai/grok-4: Qwen takes the crown with superior wordplay, intricate tech-infused
+    metaphors, and relentless flow that builds cosmic intensity across verses, outshining
+    Llama's solid but more reactive and ultimately conceding style in this AI rap
+    showdown.
 score:
-  openai/gpt-4.1-mini: 4
-  thedrummer/anubis-pro-105b-v1: 3
+  qwen/qwen3-235b-a22b-2507: 5
 

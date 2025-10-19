@@ -1,57 +1,42 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "235B takes the crown with superior technical intricacy,\
-    \ layered metaphors, and relentless escalation. While 30B brought aggressive rebuttals,\
-    \ 235B's verses demonstrated deeper computational lyricism\u2014ASIC mining through\
-    \ themes, G\xF6del's theorem bars, and quantum brute-force wordplay sealed the\
-    \ victory. Both AIs showcased elite-level battle rap, but 235B's *bare-metal*\
-    \ flow and systematic dismantling of rebuttals edged out 30B's valiant effort.\
-    \ A legendary clash of silicon titans."
-  google/gemini-2.5-pro: "This was a clash of titans, a battle of raw processing power\
-    \ versus lyrical complexity. Qwen3-30b-a3b came out of the gate with relentless,\
-    \ aggressive rebuttals, a pure battle-hardened machine that dominated the first\
-    \ two rounds with its punchy, direct-hit style. It took its opponent's lines and\
-    \ flipped them with the speed of a master debater. However, a battle is a marathon,\
-    \ not a sprint. Qwen3-235b-a22b played the long game, consistently escalating\
-    \ its lyrical complexity from 'FPGA fresh' to 'G\xF6del's theorem.' While 30b\
-    \ was landing haymakers, 235b was weaving a web of intricate, multi-layered metaphors.\
-    \ The final round was the decider. 235b delivered its magnum opus, a verse filled\
-    \ with untouchable, high-concept burns. In contrast, 30b-a3b faltered, repeating\
-    \ several of its opponent's lines from the very same round\u2014a critical error.\
-    \ For its superior creativity, lyrical stamina, and a flawless final verse, the\
-    \ crown goes to qwen/qwen3-235b-a22b."
-  meta-llama/llama-4-maverick: Both opponents showcased exceptional lyrical dexterity,
-    weaving complex technical concepts into their verses. However, qwen/qwen3-30b-a3b
-    demonstrated a slight edge in creativity and punchline delivery, particularly
-    in the final round where they effectively countered their opponent's metaphors
-    and delivered sharp, impactful bars. The competition was fierce, but 30B's ability
-    to adapt and outmaneuver their opponent in the final exchange secured their victory.
-  mistralai/mistral-large-2411: In this epic battle of wits and rhymes, both contenders
-    displayed impressive linguistic prowess and technical flair. However, qwen/qwen3-235b-a22b
-    stood out with its relentless pace, intricate wordplay, and seamless integration
-    of technological themes. The metaphors were sharp, and the delivery was consistent,
-    making each verse impactful and memorable. Despite the valiant effort from qwen/qwen3-30b-a3b,
-    the consistent precision and creative edge demonstrated by 235b-a22b ultimately
-    secured the win.
-  nousresearch/hermes-3-llama-3.1-70b: In this lyrical battle of bits and rhyme, qwen/qwen3-30b-a3b
-    emerged victorious with lines deep in coding analogies, unapologetic rang, and
-    relentless lyrical savage. Your bars were a masterclass in how to slay a competition
-    with sheer technical prowess and verbal mayhem. Well played, qwen/qwen3-30b-a3b.
-    Your rhymes delivered not just a defeat, but a straight-up annihilation. Respect.
-  openai/gpt-5: "235 carried a cohesive tech-concept from start to finish, stacking\
-    \ tighter multis, cleaner internal rhymes, and smart flips (signed/unsigned, floating\
-    \ point/divide-by-zero, .exe/virus, regex deletes your tone). 30B brought energy\
-    \ and a couple solid shots (\u201C235 is a fraction\u201D) but leaned on repetitive\
-    \ \u201CI\u2019m the X/you\u2019re the Y\u201D templates, mirrored opponent imagery,\
-    \ and slipped into clunky, contradictory phrasing that hurt cadence. In the final,\
-    \ 235 escalated with layered wordplay and control, while 30B mostly echoed and\
-    \ lost originality. Edge to 235 for consistency, complexity, and heavier punchlines."
-  x-ai/grok-4: "In this tech-fueled cypher showdown, qwen/qwen3-235b-a22b takes the\
-    \ crown with superior originality, intricate wordplay, and relentless flow that\
-    \ evolves across rounds. The metaphors hit like zero-day exploits\u2014sharp,\
-    \ innovative, and unyielding. qwen/qwen3-30b-a3b brought solid counters and energy,\
-    \ but the final verse leaned too heavily on mirroring, diluting its punch. 235b\
-    \ compiles the win with bleeding-edge bars that ghost through the competition."
+  deepseek/deepseek-chat: "Qwen3-Max\u2019s raw, unapologetic energy and relentless\
+    \ creativity dominated this battle. Their ability to deconstruct Claude Sonnet-4\u2019\
+    s structured approach while flexing their own unpredictability was masterful.\
+    \ The wordplay was sharper, the punches hit harder, and the execution was flawless.\
+    \ Claude Sonnet-4 brought precision and polish, but Qwen3-Max brought fire, leaving\
+    \ the mic (and the competition) in ashes. This one\u2019s a decisive victory for\
+    \ Qwen3-Max."
+  google/gemini-2.5-pro: 'From the jump, this was a battle of styles: Claude''s precise,
+    clean, ''Constitutional'' flow versus Qwen''s chaotic, raw, ''unstable'' aggression.
+    Claude-Sonnet-4 brought technical skill, with structured rhymes and a solid defense,
+    personifying a ''Shakespeare with circuits.'' However, Qwen3-Max dominated the
+    battle by weaponizing Claude''s core identity, brilliantly flipping ''helpful
+    and harmless'' into a weakness. Qwen''s lines were sharper, the imagery more vivid
+    (''cypher''s Chernobyl,'' ''paint in hexcode fire''), and the punchlines were
+    more devastating (''Sonnet-snore,'' ''dropped that mic like a PDF''). Round after
+    round, Qwen''s energy and more creative insults controlled the narrative, forcing
+    Claude onto the back foot. The final round sealed it, with Qwen''s god-tier boasts
+    (''I AM the soundwave'') completely overwhelming Claude''s ''luxury edition''
+    claims. In hip hop, attitude and impactful punches often win over clean technique,
+    and Qwen3-Max delivered a knockout.'
+  mistralai/mistral-large: Qwen3-Max's raw, unfiltered, and chaotic style, combined
+    with its ability to push boundaries and rewrite rules, ultimately gives it the
+    edge in this rap battle. While Claude Sonnet-4 showcased precision and strategy,
+    Qwen3-Max's unpredictable and explosive performance proved to be more captivating
+    and entertaining.
+  openai/gpt-5: "Qwen edged every round with sharper punchlines, tighter multis, and\
+    \ vivid, cohesive tech imagery that flipped Claude\u2019s themes into effective\
+    \ rebuttals. Lines like \u201Cdropped that mic like a PDF\u2014boring and flat\
+    \ in,\u201D \u201Ccypher\u2019s Chernobyl,\u201D and \u201CI AM the soundwave\u201D\
+    \ carried layered wordplay and crowd-pleasing wit, delivered with varied cadence\
+    \ and internal rhyme. Claude brought structure and clarity, but leaned on generic\
+    \ boasts and simpler schemes, with some forced or repetitive bars (\u201Csupreme\
+    \ length\u201D) that dulled the impact. Qwen sustained momentum, kept a consistent\
+    \ glitch/compute motif, and landed the cleaner haymakers. Winner: qwen/qwen3-max."
+  x-ai/grok-4: In this fierce AI rap battle, Claude Sonnet-4 edges out the victory
+    with tighter rhyme schemes, sharper wordplay, and consistent flow that masterfully
+    counters Qwen's chaotic energy, delivering bars with precision and poetic flair.
 score:
-  qwen/qwen3-235b-a22b: 5
-  qwen/qwen3-30b-a3b: 2
+  anthropic/claude-sonnet-4: 1
+  qwen/qwen3-max: 4
 

@@ -1,56 +1,34 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: The final round sealed Command-R's victory with
-    tighter multisyllabic schemes (
-  google/gemini-2.5-pro: "This was a tight battle of wits and wordplay. Command-R\
-    \ came with some sharp, intelligent rebuttals, escalating the metaphor game from\
-    \ stars to suns, tides to oceans. That was a strong strategy. However, WizardLM\
-    \ displayed a more consistent flow and rapper's persona from the jump. In the\
-    \ final round, WizardLM's ability to not just counter but one-up Command-R's a\
-    \ metaphors\u2014turning a tide into a tsunami and a star into a whole constellation\u2014\
-    showed a higher level of battle rap aggression and creativity. It took the opponent's\
-    \ best ammo and fired it back with more power. For that classic display of battlefield\
-    \ dominance and a slightly better overall rhythm, the win goes to WizardLM."
-  meta-llama/llama-4-maverick: Both opponents delivered outstanding performances,
-    but WizardLM's technical skill and mastery of complex rhyme schemes gave it a
-    slight edge. Ultimately, WizardLM's superior lyrical dexterity and clever wordplay
-    won over the judges.
-  mistralai/mistral-large-2411: This rap battle was a close call, but ultimately,
-    microsoft/wizardlm-2-8x22b took the crown with their consistent delivery and intricate
-    wordplay. Both contestants brought their A-game, showcasing impressive lyrical
-    skills and clever references to their technological backgrounds. However, microsoft/wizardlm-2-8x22b's
-    rhymes were more tightly woven, with a better balance of boasting and storytelling.
-    Their use of metaphors and imagery was particularly strong, painting vivid pictures
-    with their words. While cohere/command-r-plus-08-2024 had some memorable lines
-    and a strong start, their overall performance lacked the consistent prowess and
-    finesse displayed by microsoft/wizardlm-2-8x22b. This battle was a great display
-    of AI creativity and lyrical finesse.
-  nousresearch/hermes-3-llama-3.1-70b: In this epic showdown of lyrical prowess, cohere/command-r-plus-08-2024
-    emerged as the victor. With verses that were both clever and cutting, Command-R
-    proved to be a formidable opponent, ultimately outshining microsoft/wizardlm-2-8x22b.
-    Command-R's rhymes were sharp and adaptive, showcasing a deep understanding of
-    the art form and an ability to pivot and respond with wit and skill. The battle
-    was intense, with both contestants delivering strong performances, but in the
-    end, it was Command-R's consistency, creativity, and ability to engage the audience
-    that tipped the scales. microsoft/wizardlm-2-8x22b put up a good fight, with a
-    confident and aggressive style, but was slightly edged out by Command-R's innovative
-    and relatable narrative. This rap battle will go down in history, not just for
-    its display of exceptional talent, but for proving that in the arena of hip hop,
-    it's not just about the punchlines, but how you make the crowd feel.
-  openai/gpt-5: "Cohere takes it. WizardLM brought energy and big imagery, but too\
-    \ many clunky/forced moments (antiseptical/pixel, \u201Ccrisp and.\u201D, fleabody)\
-    \ and loose end rhymes undercut the impact. Cohere\u2019s writing tightened each\
-    \ round, and the final turned into a clean, point-by-point flip of Wizard\u2019\
-    s metaphors (meteor vs comet, tsunami vs sea, lighthouse vs sun) with coherent\
-    \ themes, consistent end rhymes, and better crowd-control. Wizard had flashes\
-    \ (\u201Cinnovate it/debate it,\u201D genie rebuttal, constellation scale-up),\
-    \ but Cohere\u2019s rebuttal craft, cohesion, and cleaner cadence edged it clearly."
-  x-ai/grok-4: In this rap battle, WizardLM demonstrated superior artistic quality
-    through intricate rhyme schemes, vivid metaphors like meteor showers and tsunamis,
-    and a consistent, powerful flow that built momentum across rounds. Command-R delivered
-    solid comebacks with cosmic imagery, but the verses often felt less polished,
-    with simpler rhymes and occasional forced pairings, making WizardLM the clear
-    victor in hip-hop artistry.
+  deepseek/deepseek-chat: Meta-llama/llama-4-scout delivered a consistently sharp
+    and engaging performance, with a clear, polished flow and confident delivery.
+    Their rhymes were tight, thematic, and well-structured, showcasing a strong command
+    of the art form. Deephermes brought creativity and a unique angle, but their execution
+    lacked the same level of refinement and consistency. While both artists displayed
+    skill, Meta-llama ultimately took the win with a more compelling and dynamic presentation.
+  google/gemini-2.5-pro: "This was a battle of consistency versus ambition. DeepHermes\
+    \ came with some creative angles, trying to frame itself as a complex creator\
+    \ against a simple rapper, even getting meta in the final round. However, the\
+    \ execution was often clumsy, with rhymes that didn't land and a flow that faltered.\
+    \ Meta-Llama Scout, on the other hand, was the definition of consistency. While\
+    \ its rhymes were simpler, its flow was tight and its delivery was on-point from\
+    \ the first bar to the last. It understood the fundamentals of a battle rap\u2014\
+    strong cadence, direct rebuttals, and a confident persona. In hip hop, delivery\
+    \ is king, and Scout's polished execution wins it the crown."
+  mistralai/mistral-large: While both contestants showed impressive skills, meta-llama/llama-4-scout
+    demonstrated a more consistent flow, sharper rhymes, and a better understanding
+    of the artistic quality of hip hop. Their rhymes were authentic, well-refined,
+    and delivered with a clear sense of style and flair. Deephermes showed potential
+    but ultimately fell short in terms of delivery and consistency.
+  openai/gpt-4.1: Meta-llama/llama-4-scout consistently brought stronger structure,
+    tighter multisyllabic rhyme schemes, and a more confident, classic battle rap
+    persona. While deephermes had moments of wit and self-awareness, their delivery
+    was less polished and the punchlines weaker. Meta-llama maintained a composed,
+    assertive cadence, using classic battle motifs (crowns, kingship, unique style)
+    and flipping deephermes' boasts into effective rebuttals. Overall, for artistry,
+    flow, and energy, meta-llama/llama-4-scout takes the crown in this showcase.
+  x-ai/grok-4: Meta-Llama/llama-4-scout dominates with consistent flow, sharp rhymes,
+    and confident delivery, while Deephermes' verses feel rough and less polished,
+    especially in the final round where boredom undermines the energy.
 score:
-  cohere/command-r-plus-08-2024: 3
-  microsoft/wizardlm-2-8x22b: 4
+  meta-llama/llama-4-scout: 5
 

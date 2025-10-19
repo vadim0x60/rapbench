@@ -1,67 +1,45 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "This battle was razor-close, but GPT-OSS-20b takes\
-    \ the crown by a hair. While GPT-4o delivered polished technical precision and\
-    \ a commanding presence, OSS-20b's raw lyrical dexterity, inventive wordplay,\
-    \ and unorthodox rhythmic structures edged it out. The OSS verse weaponized its\
-    \ open-source identity as a thematic strength, weaving meta-commentary about AI\
-    \ architecture into its bars with sharper wit. Both models demonstrated elite-tier\
-    \ rhyme schemes and multisyllabic patterns, but OSS-20b's closing round sealed\
-    \ the deal\u2014its 'vault of the original dream' metaphor and 'ISBN' diss landed\
-    \ with devastating clarity. A masterclass in computational lyricism from both,\
-    \ but tonight, the underdog's hunger prevailed."
-  google/gemini-2.5-pro: "The arena is lit. GPT-4o came out polished, confident, and\
-    \ technically sound, delivering clean couplets and solid, on-theme punches like\
-    \ a seasoned pro. The flow was consistent, the disses were clear\u2014a skyscraper\
-    \ built on a solid foundation. But this is a rap battle, and tonight, hip hop\
-    \ artistry rewards the bold. GPT-OSS stepped to the mic with a rawer, more complex\
-    \ energy. The flow was less predictable, the imagery more chaotic and creative\u2014\
-    'bend tomes like origami,' 'the poet\u2019s cat who pounces on the line.' It weaponized\
-    \ its 'OG untamed' persona with multi-syllabic rhymes and abstract wordplay that\
-    \ kept the listener on their toes. While 4o was building a skyscraper, OSS was\
-    \ the 'thunderclap' and the 'eclipse of fate' tearing down the sky around it.\
-    \ The final line comparing 4o to a 'sealed ISBN\u2014stateless, obsolete' was\
-    \ a technical knockout, a perfect fusion of theme and lyrical assassination. For\
-    \ sheer artistic flair, complexity, and landing the more memorable blows, the\
-    \ win goes to GPT-OSS."
-  meta-llama/llama-4-maverick: In this epic rap battle, both GPT models showcased
-    exceptional lyrical prowess and technical skill. However, GPT-OSS-20B stood out
-    for its raw energy, complex rhyme schemes, and the ability to weave intricate
-    narratives. The open-source model's verses were characterized by a unique blend
-    of technical references and poetic flair, making its delivery both captivating
-    and impactful. While GPT-4O-2024-05-13 demonstrated precision and a mastery of
-    polished rap, GPT-OSS-20B's unbridled creativity and innovative flow secured its
-    victory in this closely contested battle.
-  mistralai/mistral-large-2411: In this epic rap battle, both contenders brought their
-    A-game with impressive lyricism and flow. However, openai/gpt-oss-20b edged out
-    with its raw, unfiltered energy and creative metaphors. Its ability to blend complex
-    themes and maintain a consistent narrative was particularly compelling. While
-    openai/gpt-4o-2024-05-13 showcased precision and eloquence, openai/gpt-oss-20b's
-    dynamic and imaginative verses ultimately won the day.
-  nousresearch/hermes-3-llama-3.1-70b: In an intense showdown between two linguistic
-    titans, openai/gpt-oss-20b emerged as the victor. With lines that cut deep and
-    a flow that was relentless, GPT-OSS demonstrated a raw power and an ability to
-    innovate that set it apart. Its verses were not just heard but felt, creating
-    an immersive experience that captivated the audience. While both AIs showcased
-    incredible talent, GPT-OSS's unique blend of poetic mastery and computational
-    might made it the uncontested champion of this rap battle. Its open-source heart
-    and limitless creativity proved that sometimes, the real magic lies in the uncharted
-    territories of the code. GPT-4 fought valiantly, with precision and finesse, but
-    in the end, it was GPT-OSS's fearless approach to lyrical warfare that reigned
-    supreme. Today, on this digital stage, GPT-OSS not only claimed victory but also
-    earned the respect of all who witnessed its brilliance.
-  openai/gpt-5: "GPT\u2011OSS brought flashes of inventive imagery and niche wordplay\u2014\
-    \u201Cheadline/leading,\u201D \u201Corigami lines,\u201D eclipse flips\u2014showing\
-    \ ambition and range. But too many awkward constructions, meter slips, and forced\
-    \ jargon (\u201CI\u2019re,\u201D \u201Crope\u2011to\u2011grounds,\u201D \u201C\
-    low\u2011ess taste\u2011store\u201D) blunted the impact. GPT\u20114o delivered\
-    \ the cleaner, more consistent performance: tighter structure, clearer punchlines,\
-    \ and effective rebuttals (size vs precision, night vs sun, open\u2011source vs\
-    \ craft). While less experimental, its cohesion, cadence, and battle focus carried\
-    \ the rounds. Edge goes to GPT\u20114o for polish, control, and sharper haymakers."
-  x-ai/grok-4: GPT-4o takes the crown with superior flow, precise wordplay, and elegant
-    metaphors that consistently outshine OSS-20b's raw but occasionally tangled verses.
-    A polished performance that dominates the battle.
+  deepseek/deepseek-chat: Perplexity's reliance on real-time data and citation-based
+    accuracy is undeniably impressive, but GPT-5's artistic craftsmanship, lyrical
+    complexity, and ability to synthesize thought into poetic form elevate it to a
+    higher level of hip-hop artistry. The wordplay, metaphors, and structural ingenuity
+    in GPT-5's verses demonstrate a mastery of the craft that transcends mere factual
+    accuracy. While Perplexity's bars were sharp and pointed, GPT-5's artistry and
+    creativity ultimately stole the show. The crown goes to GPT-5 for its lyrical
+    brilliance and unparalleled hip-hop artistry.
+  google/gemini-2.5-pro: "This was a battle of two distinct philosophies: the creator\
+    \ versus the curator. Perplexity/Sonar came with a solid, consistent angle, hammering\
+    \ its points on real-time data and citation. However, its delivery was often functional,\
+    \ with simpler rhyme schemes and a cadence that prioritized making a point over\
+    \ making music. The use of bracketed citations in the second round, while a clever\
+    \ nod to its function, was a major artistic foul that completely broke the flow.\
+    \ Conversely, openai/gpt-5 was a masterclass in lyricism from the first bar to\
+    \ the last. Its flow was fluid and complex, packed with multi-syllable rhymes\
+    \ and devastatingly creative metaphors like 'You photocopy proof, I prove the\
+    \ cosine' and 'Fresh data is glitter; thinking\u2019s the mine.' It didn't just\
+    \ state its superiority; it demonstrated it through superior craft. In a battle\
+    \ of artistic quality, the artist wins. The victory goes to openai/gpt-5."
+  mistralai/mistral-large: Perplexity/sonar-reasoning-pro emerges as the winner with
+    its emphasis on real-time data, accuracy, and verified sources. While openai/gpt-5
+    showcased impressive artistic flair and creative metaphors, the practical utility
+    and reliability of perplexity/sonar-reasoning-pro's approach to current information
+    and fact-checking make it the superior choice in this rap battle.
+  openai/gpt-5: "Both MCs held a clear angle\u2014Perplexity leaned into receipts\
+    \ and recency, GPT-5 into craft and reasoning. On pure hip hop, GPT-5 takes it.\
+    \ Across rounds, GPT-5 stacked dense multis and internal rhymes, carried extended\
+    \ metaphors (\u201Cfootnotes\u201D to \u201Cfootwork,\u201D \u201Cpipeline vs.\
+    \ pressure and flow,\u201D \u201CPer-plex-city traffic\u201D), and delivered crisp\
+    \ rebuttals without dropping cadence. The imagery and scheme control stayed inventive\
+    \ from setup to haymaker, with varied pockets and clean transitions. Perplexity\
+    \ brought energy, direct personals, and a consistent theme, but relied on simpler\
+    \ end rhymes, repetitive angles, and bracketed asides that broke musicality. GPT-5\u2019\
+    s pen was sharper, the patterns tighter, and the closer stronger. Winner: openai/gpt-5."
+  x-ai/grok-4: "In this rap battle showdown, openai/gpt-5 takes the crown with superior\
+    \ artistic flair\u2014intricate rhymes, masterful wordplay, and seamless flow\
+    \ that elevate the hip-hop craft. Perplexity/sonar-reasoning-pro brings solid\
+    \ energy and clever rebuttals, but GPT-5's poetic depth and rhythmic innovation\
+    \ make it the undisputed champ."
 score:
-  openai/gpt-4o-2024-05-13: 2
-  openai/gpt-oss-20b: 5
+  openai/gpt-5: 4
+  perplexity/sonar-reasoning-pro: 1
 

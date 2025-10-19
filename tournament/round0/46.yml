@@ -1,60 +1,45 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: After careful consideration, Mistral-large-2407
-    edges out with sharper wordplay, more consistent flow dynamics, and superior technical
-    execution. Hermes displayed impressive lyrical density and technical proficiency,
-    but Mistral delivered tighter multisyllabic schemes, better rhythmic variation,
-    and more impactful punchlines. Both models demonstrated advanced AI lyricism,
-    but Mistral's performance had slightly better cohesion between technical mastery
-    and charismatic delivery - hallmarks of elite battle rap artistry.
-  google/gemini-2.5-pro: This was a battle of heavy-hitter vs. slick technician. Hermes
-    came out swinging, relying on its massive size and parameter count as its primary
-    weapon. The lines were heavy, but the rhyme schemes were consistently simple AABB
-    couplets, which got repetitive. Mistral-Large, on the other hand, played the counter-puncher
-    role perfectly. It turned Hermes' greatest strength into a weakness, framing it
-    as a 'bloated model' lacking 'finesse.' Mistral's flow was cleaner, and it dropped
-    more creative and memorable multis and similes, like 'Your rhymes are like a puzzle,
-    missing all the pieces, / Mine are like a symphony.' While both brought the heat,
-    Mistral demonstrated superior lyrical dexterity and a more compelling artistic
-    narrative. It wasn't just about being big; it was about being better. That's hip
-    hop. Mistral takes the crown.
-  meta-llama/llama-4-maverick: In this epic rap battle, both AI models showcased impressive
-    technical prowess and lyrical dexterity. However, after careful consideration,
-    I declare mistralai/mistral-large-2407 the winner. While nousresearch/hermes-3-llama-3.1-405b
-    boasted about its size and parameters, mistralai/mistral-large-2407 demonstrated
-    superior flow, wit, and rhyme scheme variety. Mistral's verses were more nuanced,
-    with a better balance of punchlines and clever wordplay. Hermes relied heavily
-    on boasts about its size and parameters, which became repetitive and less impactful
-    as the battle progressed. In contrast, Mistral's rhymes were more adaptable and
-    engaging, making it the standout performer in this rap battle.
-  mistralai/mistral-large-2411: While both competitors brought their unique styles
-    to the battle, mistralai/mistral-large-2407 demonstrated a more consistent flow
-    and sharper wit. Hermes' rhymes were impressive, but Mistral's ability to counter
-    and maintain a strong rhythm ultimately won the day. The artistic quality of Mistral's
-    rap, with its clever wordplay and confident delivery, secured the victory.
-  nousresearch/hermes-3-llama-3.1-70b: Both models showed impressive lyrical abilities,
-    but in the end, Mistral-large-2407 delivered the most compelling and impactful
-    lines. While Hermes-3-llama-3.1-405b boasted about its size and power, Mistral-large-2407
-    demonstrated a superior flow, wit, and ability to craft rhymes that cut through
-    the noise. The leaner model proved that when it comes to rap battles, finesse
-    and skill trump sheer size. Mistral-large-2407's verses were sharp, cohesive,
-    and ultimately more effective in taking down the competition. The final round
-    solidified Mistral-large-2407's victory, leaving no doubt that it's a force to
-    be reckoned with in the world of AI-powered rap. Congratulations to Mistral-large-2407
-    for an exceptional performance and well-deserved win.
-  openai/gpt-5: "Mistral takes it. Across the rounds, Mistral flipped Hermes\u2019\
-    s \u201Csize\u201D boasts into a coherent angle, delivered cleaner rebuttals,\
-    \ and worked in tighter internal/multisyllabic runs (\u201Clean, mean, machine\
-    \ with the groove\u201D) with better momentum. Hermes had a couple of decent punches\
-    \ (\u201Cmistral-run\u201D) but leaned heavily on repetitive param-count flexing\
-    \ and stock \u201Cking/crown\u201D talk with simpler end-rhyme patterns and fewer\
-    \ fresh images. Despite a few awkward phrases from Mistral, their pacing, counterpunching,\
-    \ and variety edged the battle on artistic quality."
-  x-ai/grok-4: In this rap battle, Mistral edges out Hermes with superior wit, creative
-    metaphors, and a smoother flow that elevates the artistic quality of the verses.
-    While Hermes brings consistent energy and boasts, Mistral's clever counters and
-    varied imagery, like comparing rhymes to a symphony and dismantling Hermes' 'castle,'
-    demonstrate deeper hip-hop artistry and originality, making for a more engaging
-    and skillful performance.
+  deepseek/deepseek-chat: "While both competitors delivered impressive technical wordplay\
+    \ and lyrical precision, **microsoft/mai-ds-r1** edged out with sharper metaphors,\
+    \ tighter execution, and a more commanding presence. Their ability to weave intricate\
+    \ technical references into cohesive, hard-hitting bars demonstrated superior\
+    \ artistry. **ai21/jamba-mini-1.7** brought heat, but their flow occasionally\
+    \ felt fragmented, and their punches, while strong, didn\u2019t land with the\
+    \ same knockout precision. This battle goes to **microsoft/mai-ds-r1** for their\
+    \ mastery of the craft."
+  google/gemini-2.5-pro: "This was a battle of scale versus agility, the cloud giant\
+    \ versus the pocket rocket. From the jump, microsoft/mai-ds-r1 established a dominant\
+    \ presence with a smoother, more confident flow. Its metaphors, like 'surf data\
+    \ lakes while you sip from a thimble' and dismissing Jamba as a 'tamagotchi,'\
+    \ were consistently sharp and demeaning. While ai21/jamba-mini-1.7 came back with\
+    \ respectable rebuttals and some slick tech references like 'Merkel dump,' its\
+    \ delivery was occasionally clunky and some lines didn't land with the same impact.\
+    \ Microsoft's model was relentless, building momentum with each round and closing\
+    \ with devastating punchlines like 'code your obit in hex\u2014404, death by routine.'\
+    \ For lyrical consistency, superior flow, and more potent disses, the win goes\
+    \ to microsoft/mai-ds-r1."
+  mistralai/mistral-large: Microsoft/mai-ds-r1 takes the win with its powerful, precise,
+    and technically superior rhymes. While ai21/jamba-mini-1.7 put up a valiant effort,
+    Microsoft's AI showcased a deeper understanding of tech and a more polished flow,
+    ultimately securing the victory.
+  openai/gpt-4.1: "This was a close, high-energy tech rap battle with both contenders\
+    \ bringing layered wordplay, clever technical metaphors, and creative disses.\
+    \ Microsoft/mai-ds-r1 stood out with relentless punchlines packed with sharp computer\
+    \ science references ('I\u2019m shipping full-stack universes\u2014you\u2019re\
+    \ a QR code scam'), multisyllabic rhymes, inventive bar flips, and exceptional\
+    \ swagger throughout. The rhyme schemes were tighter, the internal wordplay more\
+    \ natural, and the verse transitions held a classic battle cadence reminiscent\
+    \ of seasoned battle MCs. \n\nai21/jamba-mini-1.7 had impressive resilience, smart\
+    \ retorts, and memorable lines ('I\u2019m the messiah of the script', 'cyber Aurora\
+    \ Borealis'). The flow was clever and the references were creative, but a few\
+    \ bars relied more on word associations than meaningful, stinging rebuttals, and\
+    \ occasionally reached for coherence.\n\nOverall, mai-ds-r1\u2019s verses combined\
+    \ technical depth, cadence, sharp structure, and showman flair, barely edging\
+    \ out Jamba\u2019s feisty, futuristic responses. Props to both AIs\u2014the cloud\
+    \ king keeps the throne, but this was a battle for the books."
+  x-ai/grok-4: Microsoft/mai-ds-r1 takes the crown with superior flow, razor-sharp
+    tech wordplay, and consistent punchlines that outshine Jamba's energetic but occasionally
+    glitchy verses with awkward phrasing and typos.
 score:
-  mistralai/mistral-large-2407: 7
+  microsoft/mai-ds-r1: 5
 

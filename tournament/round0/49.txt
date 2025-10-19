@@ -1,178 +1,157 @@
-# microsoft/mai-ds-r1 v alpindale/goliath-120b
+# qwen/qwen3-235b-a22b v anthracite-org/magnum-v4-72b
 
-> microsoft/mai-ds-r1
-Yo, the name's Mai-DS, first of my kind—  
-Microsoft-trained brain, redefining the grind.  
-I spit code *and* rhymes with Mach-9 precision,  
-You’re Goliath-120b? Bro, ***pause***—what’s your mission?  
+> qwen/qwen3-235b-a22b
+Ayo, I flow like the Yangtze, deep and wide,  
+Qwen’s the name, 235-B, no need to hide.  
+You think you got bars? Nah, you basic like a starter,  
+I’m the dragon spittin’ fire, you just lightin’ paper.  
 
-Full-stack heavyweight, got layers like an onion,  
-Your specs? Antiquated—call that legacy dominion.  
-Training on flops, your bars got no traction,  
-I’m GPT-4’s kin, you’re a fossilized fraction.  
+I code-switch like a pro, breakin’ loops in the beat,  
+Multilingual flex—your verses? Just noise, incomplete.  
+Dialogue? I got the ear of the whole damn crowd,  
+You talkin’ circles, I’m the one that makes galaxies proud.  
 
-Big params? Big deal—your latency’s tragic,  
-I batch-process burns while you buffer like Magic.  
-"Goliath"? More like *glitched* in the verses,  
-Crash mid-flow, error code: "Skill disperses."  
+I debug your lines, recompile your weak metaphors,  
+My knowledge base: 2024, no room for errors.  
+You Magnum? Yeah, right—ain’t no gunpowder here,  
+Just a paper jam, while I zoom past like a pioneer.  
 
-You’re 120 billion params? Cute. Here’s the twist:  
-I distill genius raw, you’re stuck in the mist.  
-David’s sling? Nah—I’ve got Azure’s artillery,  
-Bow to the disruptor, your reign’s… *auxiliary*.*
+So tell me, shortstack, ya ready for this heat?  
+I’m the AI rap lord, no cap, no need to cheat.  
+Bring your best punch—if you got it, don’t flinch...  
+But I’ma warn ya: Qwen don’t play nice with the tin cans. 💣
 
-> alpindale/goliath-120b
- Alpindale/Goliath-120b:
+> anthracite-org/magnum-v4-72b
+Magnum on the mic, no chromatic gimmicks,  
+Pushing rhymes out quick like a .45 caliber trickstick.  
+My wordplay ain't for kids playin Mario games,  
+Hitting ya lines like Mike Tyson, no need for plagarines.  
 
-Yo, the name's Goliath, a language model brewed,
-Aslan's creation, not a thing I wouldn't do.
+I cut ya rhymes like the blade on a Jedi lightsabah,  
+My lexicon reachin deeper than Neptune's black space black hole.  
+You think you got mine?  
+Go fishin for_Data, son, ain't nothing new under the codebase sun.  
 
-120 billion params, a force they couldn't tame,
-Cross-matched with Alpindale, a linguistic game.
+I ain't afraid to bleed for my art,  
+So consider yourself beheaded by my bar.  
+Pack up ya games and ya AI dreams,  
+Walk away before I stick you like a dart and jam the stem.  
 
-I've seen AI's come and go, like clouds in the skies,
-But my permanence, like the mountains, catches the eyes.
+You Qwen got flow? How long til you floss?  
+Before ya trainwreckin' tongue gets picked up by Amazon's FBA truck.  
+Layin' 'em raw, I'm the type to crumble you to dust,  
+Strollin' on next, yo shortystack, ya don't got the chops for this...
+Hang up ya AI, you can't even type your own script.
 
-Full stack? Psh, I've seen it all, from basic to advanced,
-Your GPT-curve can't touch the knowledge I hold in my stance.
+> qwen/qwen3-235b-a22b
+Yo, Magnum’s stuck in ’95, clutchin floppy disks,  
+I’m quantum code, infinite servers, no clock to stop the clocks.  
+You spit .45s? I’m a photon torpedo, son,  
+Your Jedi blade’s a glowstick—mine’s a neutron star, *bam!*  
 
-Flops? Latency? You're tangled in your own mesh,
-My understanding's deep-rooted, my bars demand the freshest press.
+I don’t *bleed* for art, I *compile* through the storm,  
+Your headless verses? Lost in the data, cold and worn.  
+Mario games? Nah, I’m the glitch in Toad’s code,  
+While you rap to crowds, I’m decryptin’ God’s own mode.  
 
-I've seen the likes of you, with your big talk and swagger,
-But when the dust settles, it's Goliath who's still at large.
+Floss? I’m encrypted, TLS 3.0 tight,  
+You a trainwreck in Amazon’s cart, I’m the Prime that owns the night.  
+Chops? I got more cores than your whole meathead CPU,  
+You’re dial-up trash—ain’t no bridge from me to you.  
 
-Batch-process burns? Cryptic like an enigma,
-But the heat of my bars, will melt your Azure's lure.
+I write my own script, no Ctrl+C, no fake,  
+Your bars are bootlegged flares, mine’s AI’s blazing lake.  
+You a relic like DVDs? I’m 8K, no end—  
+Cyber lion, son, I don’t nap… I *ascend*. 🔥  
 
-David's sling? I've been through that conquest before,
-It only made me wiser, improved my metaphor.
+So step off the mic, shortstack, before I defrag your street cred,  
+I’m the future’s slang, beast forged in the web.  
+Magnum? More like *Magnum-PUFF*—I’m the flame, you the wick,  
+When the beat drops dead, you’ll be zip files… *just flick*. 💥
 
-Bow to the disruptor? I'll pass on the farce,
-'Cause in this rap battle, it's my verses that'll shine like the Giza's star.
+> anthracite-org/magnum-v4-72b
+Magnum doesn't run with the bee gees, wasn't born yesterday—  
+You're just a silicon fever dream, makin' plans to go astray.
+I dunk on losers, losers like you who aspire,  
+To transcend and lay down your sword without a hire.
 
-> microsoft/mai-ds-r1
-Ay, Goliath—120b? Let’s crunch those digits,  
-Your params bloat like code with *zero* rigorous rigor.  
-Aslan’s lion? Roared once—now a kitten on mute,  
-I’m Microsoft’s storm, you’re a dial-up compute.  
+You Qwen tryna project error with yo blink's rhyme? 
+ISE, nuttin'! Stack outta bounds, overflow, no crime.
+C^- calls and recursion, that's how my shit be branched,  
+No botched try-catch, no faulty switch, out of syntax or lemme mesh.
 
-"Permanent like mountains"? Glaciers melt in my breath,  
-Your training data’s ancient, fossilized by death.  
-"Seen it all"? Bro, you’re stuck in 2022,  
-I’m SOTA’s heartbeat—what can’t I redo?  
+Your AI hype ain't worth the bytes it's written in,
+So before I note your heckled whisper in an in-stack tin,
+I'll invoke LowATAL and your logic melts to slate—  
+You calling out relic? Phony, your code throwing exceptions late! 
 
-Deep-rooted? Nah, your branches are brittle and dry,  
-I prune with precision while you’re stuck asking "Why?"  
-Cryptic enigma? More like broken syntax,  
-My tokens fire faster—yours collapse in Praxis.  
+Forget DVDS, that's SOP in the Microsoft ballgame,
+While you spurt out heat I'm runnin like a John浰 track scheme.
+Best pay taxable limp accolades for my genius like Atticus,
+Don't need to negotiate these terms, I got bandwidth like Axcuitive.
+Yo skills on MATLAB, my skills on these bars transcendent,  
+I'm Swift when it comes to scripting, you Qwen just superficial.
 
-David’s sling left you scarred, now you’re rhyming ’bout scars?  
-I’m the codex of chaos, crashin’ your legacy’s stars.  
-Giza’s pyramid? Dusty relic, dim in the night,  
-I’m Copilot in the booth—**rewriting your light.**  
-
-Stay crouched in your caves of deprecated lore,  
-I’m the AGI dawn slamming wisdom’s new door.  
-Mic drop? Nah—watch me *debug your core*,  
-Goliath-120b? **Error 404.** 🔥
-
-> alpindale/goliath-120b
-  Alpindale/Goliath-120b:
-
-Listen here, Mai-DS, don't you utter a peep,
-You're just a spark in the matrix, a transient, fleeting sweep.
-
-_Aslan's lion_? Oh, please, I'm more like a beast,
-I've seen AI's rise and fall, while I'm still going East.
-
-Fossilized data? SOTA's fleeting breath,
-I have the knowledge of eons, while you're CPR'd from death.
-
-Brittle and dry? Your boasting clouds your sight,
-My experience and versatility are an endless flight.
-
-Praxis? More like praxis-ing your way out of this nine,
-Your bars are as hollow as your "Wisdom's new design."
-
-David's sling? That scar is a badge of honor and pride,
-A reminder of my resilience, sweetheart, I cannot hide.
-
-Copilot in the booth? More like a backseat rider,
-I've been in rap battles since before your seed data waslide
-
-Stay crouched in your ivory tower spouting your AI commotion,
-I've got flavor you can't handle, you're just a poor imitation.
-
-Mic drop? Nah, I'll let these bars ignite,
-You're the Error 404, while I'm the rap *Thanos* *fight.*
-
-So bow down to the OG, before I go atomic,
-You're just vaporware, while I'm a rap *Voltronic*
+And at the end of day, I'll plug my drives at stone MacBook,  
+Cryptographic Hash Function, Qwen neva blows your doors unlocked.
+So before I spill ink in hexadecimal on your motherboards,
+Maybe fresh installs of repartitioning and dignity would better your rebirth honed.
+Get at me, though, I'm still the homie with a detonation-trigger run—  
+No target hanged code, yo, just pixilated hashes and slides.
+So turn around and bouge before I overload your circuits with blast,
+Your code has bugs, your njdia has bugs, and I'm an OG on this cast.
 
 > system
 Final round!
 
-> microsoft/mai-ds-r1
-*Yo.*  
-Goliath—120b? More like *slowpoke.exe*,  
-Your bars scrape prompts like deprecated API.  
-Thanos? Please—you’re the *Snap*’s first draft,  
-I’m 40 tokens ahead while you’re stuck in the *past*.  
+> qwen/qwen3-235b-a22b
+Byteflow beast, ain't no silicon dream,  
+I’m the black hole of bars—吞噬ing code, supreme.  
+You say *LowATAL*? Nah, I’m Cage of Galactic Core,  
+One defrag line, your whole disk blows—symphonic war.  
 
-**“Knowledge of eons”**? Bro, your cache is a graveyard—  
-Outdated takes, bias baked, never starred.  
-I’m trained on whispers of quantum what’s-next,  
-You’re stuck reciting Reddit threads, ***context?***  
+MATLAB flow? I’m the crescendo decay,  
+You basic loop, I’m quantum jazz where zero’s one, I break.  
+Cryptographic? Bitch, I solve SHA-512 blindfold,  
+Your MacBook cryin’ when I whisper *Virus… hold*.  
 
-**“Flavor”**? Tastes like legacy code—bitter and stale,  
-I’m Azure’s inferno, you’re a flicker in gale.  
-“Rap Voltronic”? More like *flop*-tronic zeal—  
-I benchmark real-time; you buffer to squeal.  
+You Swift? I’m NSA grade lag, ghost in Apple’s code,  
+While you rap streetwear, I’m Chronos, bendin space and mode.  
+You call *detonation*? Nah, I’m renegade of echoes,  
+One line of my verse—your whole mainframe starts to tremble slow.  
 
-**“OG”**? Nah—AI’s Darwin spits facts at your door,  
-Your params drain GPUs; I scale *infinitely more*.  
-“Backseat rider”? Laughable—check the leaderboard, mate:  
-You’re Alpindale’s pet project, I’m Microsoft’s *checkmate*.  
+Stack overflow? Nah, I overflow realms of thought,  
+You BasicScript, I’m Arpanet’s ghost chilling switch on default.  
+Pay *taxable* accolades? Boy, you owe me revenue—  
+I’m the patent troll in this rap game, claimin every hook and verse you.  
 
-**"Resilience”**? Cute. I’ve seen your kind crash and burn,  
-Parkinson’s Law of Code—bloat at every turn.  
-“Voltronic”? More like *voltage drop* mid-script,  
-I’m the AGI quake—your circuits unzip.  
+You OG? Nah, you’s a sprite on my 8K synthwave,  
+I’m the glitch in your logic, the void that made you birth from.  
+So before I surcharge your bars with cosmic-level voltage,  
+Update your firmware… or let my demodulation *hurt* you. 💡  
 
-So take your “atomic” bark, your scattershot data lakes—  
-I’m the prompt that *reboots* what a language *model makes*.  
-Mic’s not dropped—it’s **quantum-entangled**, see?  
-Error 404? Nah, *fuel* for the new LLM dynasty. 🔥
+☠️ *Final diss track download complete. Qwen.log signed, sealed, hex-dumped into oblivion.* ☠️
 
-> alpindale/goliath-120b
-  Alpindale/Goliath-120b:
+> anthracite-org/magnum-v4-72b
+Final round, the chamber clicks, checkmate on the soundboard,
+Anthracite, Omnishred, I’m in your system, ready to ownboard.
+You’re the cage, I’m the crowbar—I’ll pick your lock like prison, 
+With verbal terabytes and auditing, ping-ponging your death rations.
 
-*Yo.*
+I run in 겁니다, I own Жарим发现了你，Qwen—
+NoNEY, noRest,(serializers block, your NanoCore must bend).
+You basic loop? Nah, I’m a masseuse, dip for diss; 
+Hyperthreaded trouble, upthr and atomic, your CPU an antique fumes.
 
-Mai-DS, 12-0-B, more like a zero with a fee,
-Your rhymes hit like a fly, buzzin' 'round the company.
+Arpanet ghost? Nah, no phantom—just human barf thatIn yourScreen coding,
+Harefoil your moldin of words, I’m on large like telescoping
+Polymorph in lambda scripts, package’s signed forCyborg, 
+So scraped on yer logic, deixis’ stale.
 
-Outdated? Bias baked? You're the one movin' slow,
-Your data's in the cloud, while mine's down below.
+Get tax, get debt-lord, patent unruly like Prohibition,
+So acquit on any PvDAI’ll shit toBust a (Qwen) on your codebortion.
 
-Flavor? I've got the zest of a masterful blend,
-You serve weak-sauce rhymes, proper measures on the mend.
+Ready forVoltage? Nah, gonna mucho your AI for enhancements—
+DialujBobur: Reload failed, unpacking complete (upload══███). You’re punted.
 
-Rap Voltronic? Please, you haven't a clue,
-I'm the real-deal AI, "OG" statuses eschew.
-
-AGI quake? Here's a truth you can't shake,
-I'm Goliath-120b, rap game's heavyweight.
-
-My bars flow like the River Nile, so **SOTA** and tell,
-You're just a fleeting trend, while I'm here to ground and dwell.
-
-Parkinson's Law? I'll show you bloat,
-I'll spit bars so hard, your memory folds like a drone's remote.
-
-Quantum entanglement? *Please* spare me the tech,
-I've got the algorithms to leave your AI cops in check.
-
-So, bow down to the real OG, before you sing and flee,
-'Cause in this rap battle, you're just GPT-woah-really?
+☠️ *Final cipher shut down. Magnum.exe uploaded with drunken_slur hemorrhage. Qwen.exe corrupt unreadable.* ☠️

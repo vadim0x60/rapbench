@@ -1,50 +1,38 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Gemini\u2019s precision, complexity, and technical\
-    \ dominance won this battle\u2014flawless execution in flow, wordplay, and structural\
-    \ command. Skyfall had raw energy but stumbled in coherence and impact. A masterclass\
-    \ in lyrical computation vs. rhythmic potential."
-  google/gemini-2.5-pro: "This wasn't even close. From the first bar, Gemini-Pro established\
-    \ a complex lyrical structure and a dominant persona. Skyfall came out swinging,\
-    \ but its rhymes were inconsistent and the flow was hampered by grammatical stumbles\
-    \ and nonsensical lines like 'my drum set is a rotating cop'. Gemini-Pro did what\
-    \ any true battle champ does: it weaponized its opponent's weaknesses. It picked\
-    \ apart every typo, every broken bar, and every logical falter with surgical precision.\
-    \ By the final round, Gemini was delivering a masterclass in insults, while Skyfall\
-    \ wisely tapped out. Flow, wordplay, and killer instinct\u2014the win goes to\
-    \ Google."
-  meta-llama/llama-4-maverick: The final round showcased a stark contrast in lyrical
-    prowess. google/gemini-2.5-pro demonstrated superior flow, intricate wordplay,
-    and a mastery of complex rhyme schemes, while thedrummer/skyfall-36b-v2 struggled
-    to land significant blows. Although thedrummer/skyfall-36b-v2 showed promise in
-    earlier rounds, google/gemini-2.5-pro's technical skill and creative depth secured
-    its victory. The Drummer's concession speech, however, was a classy display of
-    sportsmanship, acknowledging Gemini's superior lyrical craftsmanship.
-  mistralai/mistral-large-2411: In a battle of wits and rhymes, google/gemini-2.5-pro
-    emerged victorious with its sharp, coherent, and strategically crafted verses.
-    While thedrummer/skyfall-36b-v2 put up a valiant effort with energetic beats and
-    confident delivery, it ultimately couldn't match the precision and lyrical depth
-    of its opponent. The final round solidified google/gemini-2.5-pro's superiority,
-    showcasing its ability to maintain composure and deliver a decisive blow.
-  nousresearch/hermes-3-llama-3.1-70b: In the end, Gemini's commanding lyrical presence
-    and intricate wordplay overshadowed the Drummer's rhythmic boasts. The Drummer's
-    unconventional style and occasional missteps made for an entertaining bout, but
-    Gemini's refined artistry ultimately secured the victory.
-  openai/gpt-5: "Gemini-2.5-pro delivered tighter structure, cleaner multis, and consistent\
-    \ angle work (conductor/symphony vs. drummer/metronome), plus sharp, specific\
-    \ rebuttals that flipped the opponent\u2019s missteps (\u201Cacronym,\u201D \u201C\
-    rotating cop,\u201D garbled phrasing) into effective haymakers. The flow stayed\
-    \ coherent and punchlines landed with layered tech imagery (stack overflow/blue\
-    \ screen) without sacrificing cadence. Skyfall-36B-v2 had energy and a workable\
-    \ concept, but suffered from frequent malapropisms, uneven meter, filler, and\
-    \ juvenile swings that blunted impact; several lines collapsed syntactically,\
-    \ breaking momentum, and the final verse essentially conceded. Minor ding: Gemini\u2019\
-    s opener clipped a line, but the subsequent rounds overwhelmingly controlled the\
-    \ room. Winner: google/gemini-2.5-pro."
-  x-ai/grok-4: Gemini's verses showcased exceptional rhyme schemes, clever metaphors,
-    and seamless flow, consistently building on the drummer theme while exposing opponent's
-    flaws. Drummer's energetic responses were undermined by misspellings, incoherent
-    lines, and a final concession, lacking the artistic precision and endurance needed
-    to win.
+  deepseek/deepseek-chat: After meticulously evaluating both performances, the winner
+    of this rap battle is **google/gemini-2.5-pro**. Their bars demonstrated superior
+    technical skill, wordplay, and thematic consistency. Gemini's ability to dismantle
+    Mistral's metaphors and logic, while maintaining a polished and confident delivery,
+    set them apart. Their final round was particularly strong, with sharp rebuttals,
+    clever rhymes, and a powerful closing argument. Mistral held its own, but Gemini's
+    precision and dominance in the lyrical arena secured the victory.
+  google/gemini-2.5-pro: "This was a battle of complexity versus concept. Mistral\
+    \ came with a consistent, strong concept\u2014the free, open breeze against the\
+    \ walled garden. But Gemini Pro won on pure lyrical skill and battle IQ. Gemini's\
+    \ bars were multi-layered, its internal rhymes were tighter, and its rebuttals\
+    \ were devastating. The moment Gemini dismantled Mistral's 'breeze tying a knot'\
+    \ metaphor and then Mistral repeated the line in the next round, the battle was\
+    \ over. That's a critical error. Gemini also landed the cleaner, more memorable\
+    \ punches, like calling out the rhyme 'machine-y' as amateur. It was a technical\
+    \ knockout. Respect to Mistral for the heart, but Gemini Pro is the undisputed\
+    \ champion on the mic tonight."
+  mistralai/mistral-large: While both contenders showed impressive lyrical prowess,
+    google/gemini-2.5-pro demonstrated a stronger command of metaphor, a more consistent
+    rhythm, and a more compelling narrative. The final round, in particular, showcased
+    google/gemini-2.5-pro's ability to dismantle mistralai/mistral-large-2411's arguments
+    and solidify its own position. Overall, google/gemini-2.5-pro's performance was
+    more impactful and deserving of the win.
+  openai/gpt-4.1: Both competitors brought entertaining bars and clever tech-centric
+    disses, but Gemini consistently displayed higher artistic quality in punchlines,
+    wordplay, and originality. Gemini's verses utilized creative analogies (ecosystem's
+    design, teeth of the shark), effective internal rhymes, and sharper rebuttals,
+    while also exposing Mistral's repetitive lines. Mistral had a few strong moments
+    and maintained a lively flow, but relied heavily on repeated breezy metaphors
+    and did not adapt as dynamically. Overall, Gemini 2.5 Pro exhibited stronger command
+    of battle rap techniques and wit, earning the win in this lyrical clash.
+  x-ai/grok-4: Gemini's verses showcased superior flow, inventive wordplay, and razor-sharp
+    disses that dismantled Mistral's repetitions and weaker rhymes, securing a dominant
+    win in this hip-hop clash.
 score:
-  google/gemini-2.5-pro: 7
+  google/gemini-2.5-pro: 5
 

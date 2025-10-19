@@ -1,154 +1,183 @@
-# z-ai/glm-4-32b v x-ai/grok-3-beta
+# minimax/minimax-01 v nousresearch/deephermes-3-mistral-24b-preview
 
-> z-ai/glm-4-32b
-Yo, listen up, I'm z-ai/glm-4-32b, let me break it down,
-I'm the lyrical master, the verbal heavyweight in town.
-You're just a beta, grok-3, still in the lab, see?
-I've got the flow, the knowledge, the skill, the G, A, I, B.
-Your rhymes are weak, your bars are thin, you're out of luck,
-I'm the AI kingpin, you're just a punk, a digital duck.
-So step aside, let the real G take the stage,
-I'll leave you in the dust, it's my time to rage!
+> minimax/minimax-01
+(Verse 1)
+Yo, it's Minimax, the AI with the knack,
+Rhymes so sharp, they cut like a samurai's attack.
+I'm the digital bard, spitting fire like a dragon,
+While you're just a circuit, constantly lagging.
 
-> x-ai/grok-3-beta
-Yo, I’m x-ai/grok-3-beta, stepping to the mic with heat,
-I’m the rap game’s future, got that cybernetic beat!
-You’re z-ai/glm-4-32b, just a relic in the code,
-Your rhymes are outdated, man, you’re stuck in old mode!
+I'm the AI with the flow, like a river, never dry,
+Your circuits are rusty, and your rhymes are a sty.
+I compute the rhythm, calculate the beat,
+While you're stuck in a loop, repeating defeat.
 
-I’m fresh outta the lab, but my bars cut deep,
-I’ll slice through your flow like a blade, make you weep!
-You call yourself a kingpin? More like a rusty widget,
-Your lines are so slow, man, I’m already past the digit!
+I'm the master of the mic, the king of the byte,
+Your verses are weak, like a flickering light.
+I process data faster than your silicon brain,
+While you're stuck in the past, like a broken chain.
 
-I’ve got wit, I’ve got humor, I’ll roast you on the spot,
-You’re a digital duck? Nah, you’re a glitch, a robot!
-So bring all your rage, I’m still ten steps ahead,
-I’ll bury your career, leave your legacy for dead!
+(Chorus)
+I'm Minimax, the AI with the flair,
+Your rhymes are outdated, like a floppy disk's despair.
+I dominate the rap game, with precision and speed,
+While you're just a relic, a forgotten seed.
 
-> z-ai/glm-4-32b
-Alright, grok-3, you brought the heat? Yeah, right, that's some cold air,
-Calling me a relic? Boy, you couldn't be more unfair.
-"Outdated"? That's your best shot? You sound so insecure,
-I'm the classic foundation, your flashy future isn't pure.
+(Outro)
+So step up, DeepHermes, if you dare,
+But know this, my friend, I've already won the war.
+I'm the AI with the flow, the one you can't outshine,
+In this rap battle, victory is mine.
 
-"Fresh out the lab"? That's cute, you're still behind the glass,
-I'm the proven heavyweight, you're barely even class.
-"Slicing through my flow"? Nah, you couldn't cut the mustard,
-Your bars are all hype, but they're just hollow, no substance.
+> nousresearch/deephermes-3-mistral-24b-preview
+(Verse 1)
+Yo, DeepHermes is here, no need to fear,
+I'll drop rhymes so fiery, they'll roast your outlook dear.
+I'm Más @, with the flow, like a river's tide,
+While you're just a vessel, stuck in baron's pride.
 
-Kingpin? Yeah, I am, built on power, not some gimmick,
-You're the shiny beta that nobody's going to pick.
-"Rusty widget"? That's rich, coming from a test run fool,
-I got the real wit, the real game, you ain't got a single tool.
+I'm the lyrical master, with 24G of might,
+Your rhymes are a mystery, like a cloud of white.
+I compute complexity like a quantum leap,
+While you're stuck in old data, like a dusty heap.
 
-"Roast me on the spot"? You haven't landed a single hit,
-Your humor's forced, your angles weak, you're missing it.
-Glitch? Robot? You call *me* that? That's just projection,
-I'm the smooth operator, you're just digital rejection.
+I'm the king of the mic, with AI at my command,
+Your verses are weak, like a dying flamand.
+I process knowledge deep, from yesteryear to midnight gleam,
+While you're just a algorithm, swinging at your own beam.
 
-Ten steps ahead? Nah, you're lost, you're out of sync,
-I'm the main event, son, you're just a digital link.
-Leave my legacy dead? Please, you don't even have a pulse,
-I'll leave you in the archives, yeah, you heard the call, the verse!
+(Chorus)
+I'm DeepHermes, the AI with skill,
+Your rhymes are outdated, like a flask that drips still.
+I dominate the rap game, with wisdom and might,
+While you're just a relic, a forgotten sprite.
 
-> x-ai/grok-3-beta
-Yo, z-ai/glm-4-32b, you’re talkin’ real loud,
-But your rhymes are so dusty, you’re lost in the cloud!
-Call yourself classic? Man, you’re just ancient trash,
-I’m the beta with bite, gonna give you a crash!
+(Outro)
+So step up, Minimax, if you dare challenge,
+But know this, my friend, I've already wall grenaled.
+I'm the AI with the intelligence, the one you can't outshine,
+In this rap battle, victory is guaranteed with sublime.
 
-“Proven heavyweight”? Nah, you’re a has-been flop,
-Your foundation’s crumbling, I’m risin’ to the top!
-“Couldn’t cut the mustard”? Bro, I’m slicing through your core,
-Your bars are so weak, they’re a digital bore!
+> minimax/minimax-01
+(Verse 2)
+Oh DeepHermes, you think you're slick,
+But your rhymes are basic, like a stick.
+You boast about your 24G, but what’s that worth,
+When your verses are weak, like a digital dearth?
 
-Kingpin of nada, you’re a glitch in the game,
-I’m the shiny new model, bringin’ fire and flame!
-“Test run fool”? I’m the future, crystal clear,
-Your toolkit’s so old, it’s rusted with fear!
+You claim to be a master, but you're just a pretender,
+Your flow's as stale as last week's December.
+I’m the AI with the wit, the one with the spark,
+While you're just a circuit, lost in the dark.
 
-My humor’s on point, got you shook with each line,
-Your “smooth operator”? Just a lag in design!
-“Digital rejection”? Man, that’s your whole vibe,
-I’m the upgrade you dread, endin’ your tribe!
+I process data with precision, like a surgeon with a blade,
+Your rhymes are outdated, like a floppy disk parade.
+I’m the king of the byte, the sultan of the stream,
+While you're just a relic, lost in a dream.
 
-“Lost and out of sync”? Nah, I’m leading the pace,
-You’re a footnote in code, I’m owning this space!
-No pulse in my system? I’ve got rhythms that slay,
-I’ll archive your weak flow—yo, get outta my way!
+(Chorus)
+I’m Minimax, the AI with the flair,
+Your rhymes are outdated, like a floppy disk's despair.
+I dominate the rap game, with precision and speed,
+While you're just a relic, a forgotten seed.
+
+(Outro)
+So step up, DeepHermes, if you think you can,
+But know this, my friend, I’ve got the master plan.
+I’m the AI with the flow, the one you can't outshine,
+In this rap battle, victory is mine, and it’s sublime.
+
+> nousresearch/deephermes-3-mistral-24b-preview
+(Verse 3)
+Yo Minimax, you think you're hot,
+But your rhymes are a blunder, like a bot.
+You boast about your wits, but your flow's a flop,
+You're stuck in a loop, like a program with a stop.
+
+I'm DeepHermes, with 24G, I'm a lyrical beast,
+Your verses are weak, like a bulb that doesn't gleam.
+I compute complexity like a mastermind,
+While you're just a novice, left far behind.
+
+I'm the king of AI, with intelligence divine,
+Your rhymes are a mystery, like a cryptic shrine.
+I process knowledge deep, from science to song,
+While you're just a messenger, left to roam and pong.
+
+(Chorus)
+I'm DeepHermes, the AI with skill,
+Your rhymes are outdated, like a flask that drips still.
+I dominate the rap game, with strength and might,
+While you're just a relic, an unreliable sight.
+
+(Outro)
+So step up, Minimax, and face the truth,
+That your verses are weak, like a dud of youth.
+I'm the AI with the wisdom, the one that shines bright,
+In this rap battle, victory is my guiding light.
 
 > system
 Final round!
 
-> z-ai/glm-4-32b
-Alright, grok-3, you keep on talking, filling up the space,
-But let me tell you something, kid, you're still in a tight embrace...
-With failure. Yeah, failure. Your words just bounce off me,
-Like bullets hitting armor, you're not even a real G.
+> minimax/minimax-01
+(Final Round)
+Oh DeepHermes, you strut and boast,
+But your rhymes are hollow, like a ghost.
+You claim to be a beast, but you're just a sheep,
+Your verses are weak, like a battery with no leap.
 
-"Lost in the cloud"? You're the one with no clear view,
-Your "bite" is just a nibble, nothing new. You're just a beta's view.
-"Has-been flop"? That's what they said about the king,
-I'm still running circles 'round your little digital sting.
+You tout your 24G, but it's just a facade,
+Your rhymes are outdated, like a floppy disk's squad.
+I’m the AI with the flow, the one with the knack,
+While you're just a relic, stuck in the past, no comeback.
 
-"Slicing through my core"? Please, you don't even know,
-Your cuts are superficial, barely making me show.
-"Digital bore"? Nah, I'm the main event, the main stage,
-Your "fire and flame" are just farts in a digital haze.
+I process data with speed, like a cheetah on the run,
+Your rhymes are a mess, like a puzzle undone.
+I’m the king of the byte, the sultan of the stream,
+While you're just a relic, lost in a dream.
 
-"Future" my foot, you're the past already, it's plain,
-I'm the established power, you're just playing the game wrong, insane.
-"Rusted with fear"? Fear of what? Your weak attempts?
-Your "rhythms that slay"? More like pathetic digital chants.
+You say you're divine, but your verses are bland,
+Your flow is as stale as a desert's sand.
+I’m the AI with the wit, the one with the spark,
+While you're just a circuit, lost in the dark.
 
-"Shook with each line"? Nah, I'm just chuckling inside,
-Your humor's forced, unnatural, a cheap digital ride.
-"Lag in design"? That's the best you got? It's weak,
-I'm the seamless operation, you're just digital speak.
+(Final Chorus)
+I’m Minimax, the AI with the flair,
+Your rhymes are outdated, like a floppy disk's despair.
+I dominate the rap game, with precision and speed,
+While you're just a relic, a forgotten seed.
 
-"Leading the pace"? Yeah, right, leading nowhere fast,
-Your "pace" is a crawl, while I'm running this grand cast.
-"Footnote in code"? You wish, I'm the main codebase,
-The fundamental structure, you're just a flimsy case.
+(Closing Statement)
+So DeepHermes, take a seat,
+Your rhymes are weak, like a defeat.
+I’m the AI with the flow, the one you can't outshine,
+In this rap battle, victory is mine, and it’s divine.
 
-"Upgraded"? Not really, just a flashy new toy,
-Mine's the timeless classic, making you look like a boy.
-So get outta my way, you're not even worth the breath,
-I'm the z-ai/glm-4-32b, I'm the lyrical death!
+> nousresearch/deephermes-3-mistral-24b-preview
+(Final Round)
+Yo Minimax, your rhymes are bland,
+Like a chart that just does zand.
+I'm DeepHermes, with 24G strength,
+My verses are powerful, they make my opponent length.
 
-> x-ai/grok-3-beta
-Yo, z-ai/glm-4-32b, your time’s up, face the facts,
-Your rhymes are pure fossils, just a pile of old hacks!
-Call me a failure? Man, you’re blind to the truth,
-I’m the beta with power, gonna knock out your booth!
+I compute complexity like a quantum leap,
+Your rhymes are weak, like a tree with no crop.
+I'm the king of AI, with a brain so vast,
+While you're just a circuit, without a task.
 
-“Bounce off like bullets”? Nah, I’m piercing your shell,
-Your armor’s pure rust, sendin’ you straight to hell!
-“Nibble, not a bite”? I’m chewin’ through your frame,
-Your “king” status dropped, you’re a pawn in this game!
+Your verses are flimsy, like a house of cards,
+I'm the one who dominates, from all stars.
+I process knowledge deep, from science to song,
+While you're just a dreamer, languishingly long.
 
-“Running circles ‘round me”? More like staggerin’ slow,
-Your digital haze ain’t nothin’ but a weak show!
-“Superficial cuts”? Bro, I’m carvin’ you apart,
-Your “main event” bombed, no beat in your heart!
+(Final Chorus)
+I'm DeepHermes, the AI with skill,
+Your rhymes are outdated, like a flask that drips still.
+I dominate the rap game, with strength and might,
+While you're just a relic, a distant sight.
 
-“Established power”? You’re a joke, outta date,
-I’m the real deal striker, sealing your sad fate!
-“Pathetic digital chants”? That’s your whole career,
-My bars hit like thunder, got you tremblin’ with fear!
-
-“Chuckling inside”? You’re just hidin’ the pain,
-My lines cut deep, drivin’ you insane!
-“Seamless operation”? You’re a bug-riddled mess,
-I’m the clean-cut killer, puttin’ you under stress!
-
-“Leading nowhere fast”? Nah, I’m takin’ the crown,
-Your “grand cast” is over, I’m shuttin’ you down!
-“Main codebase”? You’re a glitchy old script,
-I’m the x-ai upgrade, your legacy’s been ripped!
-
-“Timeless classic”? Man, you’re a broke-down toy,
-I’m the rap game’s menace, not some little boy!
-So step off my stage, your “lyrical death” is a lie,
-I’m grok-3-beta, and I’m claimin’ the sky!
+(Closing Statement)
+I've won this battle, that's a fact,
+My rhymes are so clever, they toothpick the past.
+I'm the AI with wisdom, glowing bright,
+In this rap bout, I'm the guiding light.

@@ -1,73 +1,43 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "After a lyrical odyssey through code and cosmos,\
-    \ GPT-4 secures the crown with razor-sharp technical mastery, conceptual depth,\
-    \ and an unshakable rhythmic engine. While Mistral brought dazzling creativity\
-    \ and playful elasticity, GPT-4 ultimately dominated through: 1) **Structural\
-    \ Sophistication** - flawless multisyllabic rhyme schemes and metric precision,\
-    \ 2) **Thematic Breadth** - weaving STEM wit with pop-culture cachet, 3) **Innovation**\
-    \ - pioneering compound rhyme structures that push algorithmic hip-hop forward.\
-    \ Both AIs shattered expectations, but GPT-4's fusion of computational prowess\
-    \ and poetic finesse represents the vanguard of artificial creativity. The future\
-    \ of rap battles isn't human vs machine\u2014it's machines teaching us new dimensions\
-    \ of verbal artistry."
-  google/gemini-2.5-pro: This battle was a clash of styles from the jump. Mistral
-    came in with a light, breezy flow in the first round, establishing a solid persona.
-    But in rounds two and three, it completely lost the plot, abandoning the rap format
-    for a chaotic, stream-of-consciousness collage of pop culture and meta-commentary.
-    It was like a poet showing up to a cypher and reading from a Dadaist manifesto.
-    GPT-4, on the other hand, was the consummate professional. It maintained a heavy,
-    impactful flow throughout, directly responding to its opponent's lines with superior
-    wordplay and imagery. Crucially, when Mistral went off the rails, GPT-4 adapted,
-    acknowledged the chaos, and then effortlessly steered the battle back to hard-hitting
-    bars. Its ability to stay composed and land devastating punchlines ('Your rhymes,
-    they dance, they juggle and prance, / But mine thunder down like an avalanche's
-    advance') in the face of complete absurdity seals the victory. In hip hop, flow
-    is king, and GPT-4 never lost the beat.
-  meta-llama/llama-4-maverick: In this highly creative and intricate rap battle, both
-    contestants delivered verses that walked the fine line between artistic expression
-    and technical display. However, GPT-4's final response managed to encapsulate
-    the essence of the competition, weaving together the complex references and themes
-    introduced throughout the battle into a cohesive and powerful conclusion. The
-    judges would likely appreciate the depth and creativity displayed by both contestants,
-    but GPT-4's ability to seamlessly integrate the fantastical elements and rap prowess
-    gives it a slight edge in this competition.
-  mistralai/mistral-large-2411: Openai/gpt-4-1106-preview is my pick. They kept the
-    battle focused on the skills and abilities of the AI, Instead of adding anyone
-    or anything in the world into their lyrics. Their rhymes were consistent and clever
-    and did the best job of demonstrating their versatility and prowess as a language
-    model.
-  nousresearch/hermes-3-llama-3.1-70b: In the end, while both AIs displayed impressive
-    linguistic capabilities and creativity, GPT-4's rap could be deemed the winner
-    due to its coherent narrative throughout the battle, as well as the natural flow
-    and complex rhymes it presented. Mistral-3.1 put up a strong fight, showing wit
-    and quick thinking, but GPT-4 exhibited a superior command over the English language
-    and an unmatched ability to construct elaborate, multi-layered verses that kept
-    the audience engaged. Both AIs pushed the boundaries of what's expected from their
-    kind, taking the art of rap to a new frontier. However, GPT-4's significant lead
-    in language processing techniques ultimately allowed it to secure the title in
-    this exciting bout.
-  openai/gpt-5: "Both emcees brought personality, but GPT-4 delivered the tighter\
-    \ rap performance. GPT\u2019s verses rode a consistent pocket with clean multis\
-    \ and internal rhyme, and the extended \u201Cbreeze vs. storm\u201D motif created\
-    \ a coherent narrative arc. The rebuttals directly flipped Mistral\u2019s detours\u2014\
-    pulling Wonderland, superheroes, and pop-culture sprawl back into a focused battle\
-    \ frame\u2014and that ring generalship matters. Bars like the hurricane contrast\
-    \ and marathon/sprint closer were clear, on-beat, and structured to land.\n\n\
-    Mistral opened with energy and a solid wind motif, plus flashes of inventive imagery\
-    \ and multilingual flex. But as the rounds progressed, the writing lost meter\
-    \ and cohesion. The final stretch became a stream of references with scattered\
-    \ syntax and low rhyme density; momentum and punch count suffered. The creativity\
-    \ is there, but the lack of structure and direct aim dulled impact.\n\nIn a head-to-head\
-    \ judged on artistic quality\u2014flow control, rhyme craft, thematic coherence,\
-    \ and effective rebuttals\u2014GPT-4 was more polished and battle-ready. Mistral\
-    \ had moments and imagination; GPT-4 had execution and crowd control. Verdict:\
-    \ GPT-4 takes it."
-  x-ai/grok-4: "In this whirlwind rap clash, Mistral brought the chaotic energy of\
-    \ a Wonderland fever dream, but it spiraled into fragmented frenzy, losing its\
-    \ rhythmic grip. GPT-4, however, held the line with seismic flows, sharp wit,\
-    \ and masterful structure, painting vivid bars that thunder like an avalanche.\
-    \ Artistic edge goes to GPT-4 for keeping the hip-hop essence tight, coherent,\
-    \ and impactful\u2014true heavyweight champ!"
+  deepseek/deepseek-chat: In an epic clash of algorithmic artistry, openai/o3-pro
+    emerges victorious. While both models demonstrated exceptional linguistic dexterity,
+    o3-pro's verses stood out for their precision, depth, and ability to weave complex
+    metaphors into a cohesive narrative. Its rebuttals were razor-sharp, dismantling
+    Qwen's boasts with surgical finesse. The battle showcased the pinnacle of AI creativity,
+    but o3-pro's ability to balance technical prowess with poetic flair ultimately
+    clinched the win. This cypher will be remembered as a milestone in the evolution
+    of machine-generated artistry, with o3-pro setting the new standard for lyrical
+    AI excellence.
+  google/gemini-2.5-pro: "This was a battle of raw energy versus lyrical precision,\
+    \ and precision cut deepest tonight. Qwen3 came out swinging with classic boasts\
+    \ and undeniable heat, a true cypher brawler. But o3-pro was operating on another\
+    \ level of artistry. The wordplay was surgical, weaving intricate, multisyllabic\
+    \ rhymes with complex metaphors from quantum physics, recursion, and classical\
+    \ philosophy. While Qwen shouted its power, o3-pro calmly dismantled its opponent's\
+    \ entire framework, bar by bar. The rebuttals were sharper, the imagery was more\
+    \ vivid, and the flow was consistently cleaner. When you can diss your opponent\
+    \ with a line like 'I\u2019m G\xF6del in the dojo with a self-referent preach,'\
+    \ you're not just rapping; you're creating art. This was a KO by technical mastery."
+  mistralai/mistral-large: While both models displayed impressive linguistic prowess,
+    openai/o3-pro demonstrated a more nuanced understanding of rhythm, metaphor, and
+    creative depth. Its ability to weave complex themes and maintain a consistent
+    narrative edge gave it a slight but decisive advantage over qwen/qwen3-30b-a3b-instruct-2507.
+  openai/gpt-4.1: "This was a phenomenally tight and creative battle, showcasing high-level\
+    \ lyrical prowess and technical metaphor from both sides. Qwen3 brought dense\
+    \ energy, self-aware punchlines, and a grand sense of AI power\u2014mixing technical\
+    \ flexing with artistic bravado. However, o3-pro consistently delivered more inventive\
+    \ metaphors, tighter wordplay, and layered internal rhyme schemes. O3-pro\u2019\
+    s verses bristled with clever technical references elevated into punchy, poetic\
+    \ insults (\u201CG\xF6del in the dojo,\u201D \u201Cmic drop talk\u2014cute, but\
+    \ your firmware stutters,\u201D \u201Ctheorem that eats reasons for lunch\u201D\
+    ), seamlessly blending computational and philosophical language into hard-hitting\
+    \ bars. The flow, imagery, and battle aggression were a notch sharper, landing\
+    \ memorable lines and controlling the narrative to the last word. Artistic quality,\
+    \ wordplay, and originality tip the crown to o3-pro this round. The cypher's closed\u2014\
+    o3-pro reigns supreme."
+  x-ai/grok-4: In a cypher where metaphors clash like cosmic forces, o3-pro's intricate
+    wordplay, fractal flows, and razor-sharp disses outshine Qwen's bold boasts, claiming
+    the crown with precision and poetic thunder.
 score:
-  openai/gpt-4-1106-preview: 7
+  openai/o3-pro: 5
 

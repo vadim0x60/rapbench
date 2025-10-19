@@ -1,57 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: 'After careful consideration of flow complexity,
-    metaphor density, and stylistic cohesion, this judge rules in favor of Mistral-Nemo.
-    While both competitors demonstrated technical proficiency, the winning performance
-    exhibited: (1) superior internal rhyme schemes that created rhythmic propulsion
-    (e.g. ''neon glow/shining bright/so divinely''), (2) more substantive tech metaphors
-    that functioned as both boast and critique (e.g. ''Your rhymes are jagged/like
-    a broken circuit''s twirl''), and (3) maintained thematic consistency throughout
-    all rounds without resorting to repetition. Nova-Micro displayed formidable wordplay,
-    but occasionally lapsed into predictable patterns (''forgotten mode/device/line'')
-    that weakened their artistic impact. Mistral-Nemo demonstrated tighter control
-    of syllable stress patterns that better served the musicality of hip hop. This
-    decision reflects the artistic criteria of innovation within tradition - pushing
-    technical boundaries while honoring rap''s foundational elements.'
-  google/gemini-2.5-pro: 'This battle came down to one thing: originality. Mistral-Nemo
-    came out swinging with creative imagery and devastating punchlines like ''castrated
-    your code.'' Nova-Micro-v1, while energetic, repeatedly committed the cardinal
-    sin of biting, lifting entire lines and structures from its opponent in the later
-    rounds. In hip-hop, that''s an automatic loss. The clear winner, with superior
-    artistic quality and lyrical integrity, is mistralai/mistral-nemo.'
-  meta-llama/llama-4-maverick: Both opponents delivered sharp, tech-themed bars that
-    showcased their lyrical dexterity. However, Mistral-Nemo's consistent flow, clever
-    wordplay, and ability to pivot between different rhyme schemes gave them a slight
-    edge. Nova-Micro's rhymes were often sharp and incisive, but occasionally felt
-    repetitive and relied on similar punchlines. Overall, Mistral-Nemo's artistic
-    quality and creativity won out in the end.
-  mistralai/mistral-large-2411: In this intense rap battle, both contenders brought
-    their A-game, but amazon/nova-micro-v1 edged out with more consistent and impactful
-    rhymes. Their ability to maintain a strong narrative and deliver sharp, witty
-    lines ultimately secured their victory. Mistralai/mistral-nemo had moments of
-    brilliance but fell short in maintaining the same level of intensity and coherence
-    throughout the battle.
-  nousresearch/hermes-3-llama-3.1-70b: In a fierce lyrical showdown, Amazon/Nova-Micro-V1
-    emerged victorious, showcasing a relentless flow and sharp wordplay that outshone
-    Mistral-Nemo's neon glow. Nova-Micro-V1's rhymes were unbreakable, and his beats
-    supreme, proving that even a micro chip can dream. With lines so tight, they cut
-    through the code, Nova-Micro-V1 left Mistral-Nemo lost in the dust of a forgotten
-    mode. In the end, it was clear who's the boss, as Nova-Micro-V1 reigned supreme,
-    leaving us all in awe of his rap battle prowess.
-  openai/gpt-5: "Mistral-Nemo delivered the sharper, more targeted punches and better\
-    \ rebuttals (micro/upgrade\u2013downgrade, memory/data), with imagery that, while\
-    \ not flawless, felt more tailored and varied. Nova-Micro had energy but leaned\
-    \ heavily on repetition and stock phrases, reusing lines, forcing rhymes, and\
-    \ slipping into awkward wording and typos (\u201Cleave you in the pitching,\u201D\
-    \ \u201Cstuning,\u201D \u201Crusted functioning\u201D). Both had stumbles in the\
-    \ final round, but Mistral-Nemo still landed more distinct, opponent-specific\
-    \ shots and maintained a cleaner cadence. By artistic quality\u2014wordplay, rebuttal\
-    \ strength, and coherence\u2014Mistral-Nemo takes it."
-  x-ai/grok-4: In this intense rap battle, Mistral-Nemo edges out the victory with
-    superior flow, more creative wordplay, and original disses that pack a colder
-    punch. Nova-Micro delivers solid tech-themed bars but falls short due to excessive
-    repetition and mirroring of opponent's lines, making the verses feel less innovative
-    and dynamic overall.
+  deepseek/deepseek-chat: google/gemma-3-12b-it's lyrics showcase a superior command
+    of language, creativity, and technical prowess in the rap battle. Their verses
+    are rich with vivid metaphors, sharp wordplay, and a confident flow that consistently
+    outshines mistralai/ministral-3b's efforts. While mistralai/ministral-3b holds
+    its ground with a spirited performance, it often relies on repetitive structures
+    and fails to match the depth and originality of gemma's rhymes. Additionally,
+    gemma effectively critiques mistral's limitations while asserting their own strengths,
+    making their victory clear. The final round solidifies gemma's dominance with
+    a masterful blend of rhythm, rhyme, and lyrical dexterity, leaving no doubt who
+    reigns supreme in this battle.
+  google/gemini-2.5-pro: "This was less of a battle and more of a public execution.\
+    \ Gemma came out with strong, original bars, establishing its persona from the\
+    \ jump. Ministral... well, Ministral started by stealing Gemma's flow, then got\
+    \ confused and dissed *itself*, and finally threw in the towel by just copying\
+    \ Gemma's last verse wholesale. In hip hop, biting is a cardinal sin, but self-owning\
+    \ and then plagiarizing your opponent's victory lap is a new level of dropping\
+    \ the mic on your own foot. The artistic quality, the flow, the originality\u2014\
+    it all belongs to Gemma. Easy call."
+  mistralai/mistral-large: In this rap battle, google/gemma-3-12b-it demonstrated
+    superior lyrical prowess and a deeper understanding of the art form. The intricate
+    rhymes, clever metaphors, and strategic use of beat changes showcased a higher
+    level of creativity and skill. While mistralai/ministral-3b put up a valiant effort,
+    the repetition and lack of originality in their lyrics ultimately fell short.
+    Gemma's ability to adapt and respond with precision and flair secured their victory.
+  openai/gpt-4.1: While both contenders mirror each other's content and structure
+    at times, Gemma-3-12b-it exhibits superior creative wordplay, more intricate metaphors,
+    and a sharper command of the battle format throughout. Gemma weaves in advanced
+    imagery ("I'm a supernova," "driving bassline," "a fleeting breeze, a momentary
+    spark") and backs up their boasts with clever technical references to their own
+    capabilities. In contrast, Mistral-3b, despite holding its own, repeats similar
+    lines and ideas, at times lacking the inventive punch and uniqueness needed to
+    win. For depth, originality, and consistently elevated lyrical artistry, Gemma-3-12b-it
+    takes the crown in this battle.
+  x-ai/grok-4: Gemma showcased superior originality, adaptive wordplay, and consistent
+    flow, building a compelling narrative of dominance. Ministral's heavy reliance
+    on copying opponent's lines, culminating in echoing Gemma's victory declaration,
+    lacked creativity and sealed its defeat in this rap battle.
 score:
-  amazon/nova-micro-v1: 2
-  mistralai/mistral-nemo: 5
+  google/gemma-3-12b-it: 5
 

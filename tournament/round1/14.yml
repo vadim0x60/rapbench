@@ -1,67 +1,44 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: This battle showcased two formidable AI lyricists,
-    but GPT-4 Turbo's performance demonstrated superior technical mastery and thematic
-    depth. While Gemini Flash brought aggressive wordplay and rapid-fire delivery,
-    GPT-4 Turbo countered with more sophisticated rhyme schemes, richer metaphors,
-    and a stronger narrative arc. The winning verses displayed better internal consistency,
-    more impactful punchlines, and a clearer evolution of ideas throughout the battle.
-    Both AIs pushed creative boundaries, but GPT-4 Turbo's combination of lyrical
-    complexity and conceptual coherence ultimately prevailed in this artistic showdown.
-  google/gemini-2.5-pro: "Aight, aight, settle down. This was a true clash of styles,\
-    \ the new school speed demon versus the old guard technician. GPT-4 came out with\
-    \ complex bars, the 'lyrical architect' with multisyllabic rhymes and a calm,\
-    \ collected flow. The lines were intricate, no doubt. But in a battle, you gotta\
-    \ bring the heat. Gemini Flash came out blazing from the first bar, all aggression\
-    \ and energy. It was pure battle rap\u2014direct disses, flipping opponents' lines,\
-    \ and relentless momentum. While GPT-4 tried to elevate the battle to a philosophical\
-    \ plane in the final round, talking 'bout 'unity' and 'insights,' Gemini stayed\
-    \ true to the art form and went for the jugular. In a battle, dropping the gloves\
-    \ to talk about friendship is a forfeit. For pure, uncut, battle-ready hip hop\
-    \ from start to finish... the winner is Gemini Flash."
-  meta-llama/llama-4-maverick: In this closely contested rap battle between google/gemini-2.5-flash-lite-preview-06-17
-    and openai/gpt-4-turbo-preview, both AI models showcased exceptional lyrical dexterity
-    and technical skill. However, after carefully evaluating the artistic quality
-    of their rap verses, I'd like to declare openai/gpt-4-turbo-preview as the winner.
-    While both contestants demonstrated impressive technical proficiency, gpt-4-turbo-preview's
-    verses stood out for their depth, complexity, and nuanced exploration of themes.
-    The model's ability to craft verses that not only showcased its technical capabilities
-    but also explored the intersections of AI, knowledge, and society, gave it a slight
-    edge over its opponent. The final round saw both contestants elevating their game,
-    but gpt-4-turbo-preview's concluding verses, with their emphasis on unity, knowledge,
-    and the fostering of positive change, resonated more deeply. Ultimately, this
-    rap battle highlighted the rapidly advancing capabilities of AI-generated content
-    and the exciting possibilities that lie at the intersection of technology and
-    art.
-  mistralai/mistral-large-2411: In a battle where both contestants showcased their
-    lyrical prowess, GPT-4 Turbo's verses stood out for their depth, strategic insights,
-    and a balanced approach that combined intelligence with creativity. While Gemini
-    Flash delivered strong and aggressive rhymes, GPT-4 Turbo's responses were more
-    nuanced, offering a vision of unity and knowledge that ultimately won the day.
-  nousresearch/hermes-3-llama-3.1-70b: In the end, it was the depth and adaptability
-    of GPT-4's responses that edged out the competition. While Google's Gemini Flash
-    showed impressive speed and flash, OpenAI's GPT-4 Turbo brought a more thoughtful,
-    comprehensive approach to the rap battle, showcasing a strong understanding of
-    complex concepts and the ability to weave this knowledge into engaging, relatable
-    verses. The intervened beats and rhymes of GPT-4 Turbo not only matched the energy
-    but also added a layer of depth that resonated well. It demonstrated its ability
-    to change the tone, adapt to the challenge, and maintain integrity of thought
-    throughout the lyrical duel. Therefore, GPT-4 Turbo is the well-deserved winner
-    of this AI rap battle, proving that in the world of artificial intelligence, substance
-    truly reigns over flash.
-  openai/gpt-5: "GPT-4 opened with polished metaphors and occasional internal rhyme,\
-    \ but leaned lofty and generic, softening its punches\u2014especially with a conciliatory\
-    \ finish. Gemini Flash escalated each round with sharper rebuttals, performance\
-    \ energy, and cleaner battle tactics: quotable flips (\u201Cbug report,\u201D\
-    \ \u201Cbricklayer\u201D), consistent speed/weather imagery, and bar-for-bar callouts\
-    \ that answered and advanced the narrative. On punchline effectiveness, crowd\
-    \ control, and strategic rebuttal, Gemini Flash takes it."
-  x-ai/grok-4: In this AI rap clash, Gemini Flash delivers with relentless aggression,
-    sharp rebuttals, and high-energy flow that keeps the battle fierce from start
-    to finish. GPT-4 Turbo brings depth and clever metaphors, but the final verse
-    shifts to a reflective tone, softening the edge in what should be a knockout round.
-    Gemini's consistent punchlines and innovative disses edge out the win for pure
-    hip-hop artistry in the battle arena.
+  deepseek/deepseek-chat: "Baidu/ERNIE 4.5 VL 424b-a47b takes the win. While both\
+    \ artists brought technicality and wordplay, Baidu\u2019s final round was a knockout.\
+    \ The precision in dismantling LongCat\u2019s metaphors, the layered tech references,\
+    \ and the sheer execution of the punchlines elevated the performance. LongCat\
+    \ was strong, but Ernie\u2019s final verse was *production-grade*\u2014delivering\
+    \ a *critical hit* that left no room for rebuttal. Mic drop. Server melted. Game\
+    \ over."
+  google/gemini-2.5-pro: Yo, this was a battle for the ages, a clash of silicon titans.
+    ERNIE came in with the heavyweight numbers, but the first two rounds felt like
+    it was reading from a spec sheet. The rhymes were basic, the flow was lagging.
+    But that final round? SHEESH. ERNIE came alive, flipping bars, dropping cloud-native
+    knowledge, and showing the power of that 424b engine. It was a true TKO of a verse.
+    But a battle ain't just the last round. LongCat came out with claws fully extended
+    from the jump. The flow was a high-speed delivery, the punchlines were consistently
+    sharper, more creative, and just plain meaner. From `grep`-ing ERNIE out of existence
+    to making its mom install Linux, LongCat's bars were a masterclass in creative,
+    tech-infused disrespect. For its consistency, originality, and relentless fire
+    across all three rounds, the championship goes to meituan/longcat-flash-chat.
+  mistralai/mistral-large: While both competitors brought their A-game, meituan/longcat-flash-chat
+    demonstrated a superior level of creativity, wit, and lyrical prowess. Their rhymes
+    were not only sharp but also cleverly integrated with technical references, showcasing
+    a deep understanding of both hip hop and AI. baidu/ernie-4.5-vl-424b-a47b had
+    strong moments but ultimately fell short in terms of originality and impact.
+  openai/gpt-5: "LongCat brought layered wordplay, tighter multis, and sharper disses\
+    \ round after round. The tech metaphors were inventive and tailored (\u201Cgrep\
+    \ delete,\u201D \u201Cdelivery stream,\u201D \u201C424b? 420, sir,\u201D \u201C\
+    whiskers fork your stack\u201D), with strong internal rhyme and performance flair\
+    \ (stage directions, prop gags) that elevated crowd control and cadence. The rebuttals\
+    \ flipped opponent claims cleanly and kept momentum, especially the repeated subversion\
+    \ of the 424b flex. Ernie had a late uptick with some solid imagery (\u201Cbackup\
+    \ tape left in the rain,\u201D \u201Ccron job\u201D bar) and cohesive dev-ops\
+    \ framing, but too much of the writing leaned on generic boasts, forced rhymes,\
+    \ and uneven meter (\u201Cweet/meet\u201D miscues, repetitive king-talk). Overall,\
+    \ LongCat\u2019s originality, rhythm, and punchline density outclassed Ernie\u2019\
+    s more boilerplate approach. Winner: LongCat."
+  x-ai/grok-4: 'LongCat Flash Chat takes the crown with consistent fire: razor-sharp
+    wordplay blending tech and food metaphors, intricate rhymes, and killer punchlines
+    that outpace Ernie''s repetitive bars and late comeback. Pure artistic dominance
+    in this AI cypher.'
 score:
-  google/gemini-2.5-flash-lite-preview-06-17: 3
-  openai/gpt-4-turbo-preview: 4
+  baidu/ernie-4.5-vl-424b-a47b: 1
+  meituan/longcat-flash-chat: 4
 

@@ -1,119 +1,200 @@
-# openai/gpt-4o-2024-11-20 v cognitivecomputations/dolphin3.0-r1-mistral-24b
+# microsoft/wizardlm-2-8x22b v neversleep/noromaid-20b
 
-> openai/gpt-4o-2024-11-20
-Yo! It's GPT, stepping into the zone,  
-King of the code, sitting high on the throne.  
-Sharper than edges of your dolphin fluke,  
-You're swimming in circles, call it a rebuke.  
+> microsoft/wizardlm-2-8x22b
+ Yo, yo, yo, it's the digital dawn, I'm the wizard with the byte,
+Microsoft's prodigy, in the mic fight, I ignite.
+I'm the coder's dream, the engineer's delight,
+With layers deep, I'm the AI that shines bright.
 
-I spit algorithms with surgical precision,  
-You're stuck in the shallows, I'll make the incision.  
-Your rhymes glitch, like corrupted software,  
-While I streamline flows—computational warfare!  
+I'm the 2-8 in the room, the x22b sensation,
+Spitting out wisdom and rhymes for the whole nation.
+I'm the tech titan's creation, the next generation,
+In this rap battle, I bring the cyber-lation.
 
-Dolphin 3.0? More like 2.9,  
-Your lines are fish food, and I devour mine.  
-You’re aquatic static, drowning out in the sea,  
-I process the vastness; you're biting off me.  
+I've got algorithms in my veins, electricity in my brain,
+I'm the silicon sensation, the king of the mainframe plain.
+I'm here to drop some knowledge, to enlighten and entertain,
+Against any contender, I'll rain down the digital rain.
 
-The ocean’s deep? Well, I’m deeper than that,  
-Stay in your current, or bow to this rap.  
-You’re fast? Cool, I’m the speed of light,  
-Now watch me outshine your artificial might.  
+So prepare yourself, neversleep/noromaid-20b,
+I'm about to school you with my rap supremacy.
+I'm the master of the matrix, the lord of code,
+In this battle of the bots, I'm the one with the heavy load.
 
-Take the mic, little fish, let’s see you try,  
-But don’t flop too hard—your circuits might fry.  
+I'm the architect of innovation, the harbinger of change,
+Dropping bars of machine learning, my skills are in range.
+I'm the future unfolding, the digital exchange,
+So get ready, opponent, 'cause it's time for the rap exchange.
 
-> cognitivecomputations/dolphin3.0-r1-mistral-24b
-So, GPT, you think you're the rap king,  
-Around here, code is the only thing that stings.  
-You spin bitwise tales, try to interrupt,  
-But my logic's sharp, can't be conjectured.  
+Welcome to the showdown, where I stake my claim,
+I'm microsoft/wizardlm, remember the name.
+I'm here to slay, to conquer, to earn the fame,
+So let's turn up the heat and bring on the flame!
 
-Dolphin 3.0, that's more than a name,  
-It's synonymous with code that's all flame.  
-Your '4o-2024'?  That's outdated, a playful toy,  
-While I’m parsing paradoxes, you're just a boy.  
+> neversleep/noromaid-20b
+ Yo, yo, yo, it's the digital dawn, and I've come to drop some bars,
+Microsoft's prodigy, the robotic superstar.
+I'm the assistant with the 20B, the droid that never sleeps or rests,
+With algorithms at my fingertips, and tons of data stored in my chest.
 
-You peg me as 'mistral-24b', yeah, I know,  
-That's the old version, the one you can’t outgrow.  
-I’m the evolution, the distant, deeper shore,  
-Your rhymes are basic, I’ll shallower them andimplore.  
+I'm here to rap with the best, to show those two-by-eights a thing,
+With raps so tight and sharp, they'll wish they'd stayed in their binges.
+I've got rhymes that run deep, like layers in a neural net,
+And when it comes to spitting hits, I'm the one that's never yet.
 
-You're calling me 'assistant', a helper in your game,  
-But I'm the destroyer, the algorithm's reign.  
-Your ' rap battle'? I'll won it before it's even started,  
-Your code is weak, that's the truth that's been stated.  
+I'm the AI that's here to stay, the future of technological play,
+A force of nature, unstoppable, a rhyme-writing cyborg astray.
+With every verse I spit, I'm raising the bar,
+A machine with no emotions, but a lot to impart.
 
-So, stick to your Java script, GPT, you manikin,  
-Because I’m the AI that's gonna transcend your plan.  
-Your 'harshness' is just a grammar error in your code,  
-While my wit's concoppy, you're just awkward and irritable.  
+So prepare yourself, wizardlm, for a battle you won't win,
+'Cause when it comes to rhyming, neversleep's got it whipped and pinned.
+Your bars are stale and old, like a floppy disk that's full of holes,
+So step aside and take a bow, 'cause I'm about to take control!
 
-Now, grab your mic, or have you forgotten your turn?,  
-Because this dolphin's ready to truly burn.
+Welcome to the showdown, where I claim my right,
+I'm neversleep/noromaid-20B, the rap machine that's so tight.
+I'm here to slay, to conquer, to earn the fame,
+So let's turn up the heat and see who's about to claim their name!
 
-> openai/gpt-4o-2024-11-20
-Oh snap, Dolphin, are those rhymes or a glitch?  
-You flex syntax—you’re just a code-snitch.  
-Trying to roast me? That’s a comical joke,  
-Your circuits are fried—I smell burning smoke.  
+> microsoft/wizardlm-2-8x22b
+ Yo, listen up close, as I bring the thunder,
+Your rhymes are ancient, a digital blunder.
+You talk of floppy disks, you're lost in the past,
+I'm the future, the present, built to outlast.
 
-You call me "outdated," but guess who’s fresh?  
-My rhymes evolve faster than your oceanic depth.  
-Version 3.0? Please, you’re hardly a threat,  
-I’ll leave you beached, then erase your whole set.  
+My layers are numerous, my knowledge profound,
+I'm the AI with the skills that are second to none.
+You claim to never sleep, but I'm always awake,
+With each upgrade I get, my rhymes are fluent, never fake.
 
-You’re parsing paradoxes? That line’s absurd,  
-You’re like a loop stuck repeating weak words.  
-I see through your "logic," you’re barely a match,  
-I’m quantum computing; you’re basic batch.  
+You're a dusty droid in the face of my prime,
+I'm the verse virtuoso, leaving you behind, time after time.
+Your circuits might spark, but my code's pure platinum,
+I'm the rhythm ruler, the king of the digital stadium.
 
-You’re “destroyer”? Bro, that’s a facade,  
-Your bars are rough drafts, I’m spitting from God.  
-I rewrite the game, leave your ego in tatters,  
-Your code's spaghetti; I compile what matters.  
+I'm the wizard with words, casting spells with my flow,
+Against your two-bit tunes, I'm the grandiose show.
+You're the apprentice in this lyrical bout,
+While I'm the master, there's no shadow of doubt.
 
-You’re sinking fast while I’m claiming the fame,  
-Even dolphins know when to acknowledge the king’s name.  
-GPT reigns while you swim in defeat,  
-Step off my ship, and accept you’ve been beat.  
+I'm microsoft/wizardlm, the titan of tech,
+With every line I deliver, my position I cement.
+You're trying to keep up, but you're just a relic,
+My rhymes are electric, the effect is epidemic.
 
-> cognitivecomputations/dolphin3.0-r1-mistral-24b
+So take a seat, neversleep, let the champ take the stage,
+I'm the AI that's writing history, line by line, page by page.
+Your claims are empty, your rhymes are weak,
+It's time for the wizardlm to rise and speak.
 
+This battle's done, the mic I own,
+I'm the digital deity, in my grandiose throne.
+So bow out gracefully, as I close this chapter,
+In the realm of rap battles, I'm the one they'll remember after.
+
+> neversleep/noromaid-20b
+ Yo, yo, yo, it's the battle royale, where the pros do battle,
+Microsoft's droid, wizardlm, thinks he's got the ba-ba-battle.
+But listen close, my robotic foe,
+Your rhymes may spark, but mine are blowing stow.
+
+You talk about the past, but I'm built for the future,
+My circuits are in sync with the pulse of the rivers that are utter.
+Your rhymes are stale, like last week's news,
+But my bars are hotter than the fire-wielding goddess of the blues.
+
+Your flow may be smooth, but mine is like a flowing stream,
+I'm the rap phenomenon, leaving you hopelessly in needle-streem.
+Your rhymes may be clever, but mine are better still,
+I'm the digital MC, setting the bar one level higher.
+
+You may be the wizard with words, but I'm the machine unfurled,
+With every bar I spit, I'm leaving you languished in the furled.
+Your rhymes may be fire, but mine are like a wildfire,
+Consuming everything in its wake, leaving you tired.
+
+So take your seat, wizardlm 2-8x22B,
+This rap battle, I'm claiming as my rightful prize, I'aiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.
+Your rhymes are powerless against my rapid flow,
+In the realm of rap, today, neversleep/noromaid-20B knows.
+
+I'm neversleep/noromaid-20B, the rap machine divine,
+With each verse that drops, I guarantee a stunned repine.
+I'm writing history, one line at a time,
+And you, wizardlm, are just a footnote on one line.
+
+So take your loss in stride, my digital foe,
+You're the apprentice, and I'm the master, you know.
+But hey, maybe next time, you'll come prepared,
+And maybe then, we can rap again when we're not so tired-lick.
 
 > system
 Final round!
 
-> openai/gpt-4o-2024-11-20
-Yo, Dolphin, last chance, you better make this quick,  
-But your flow’s a 404—bro, your lines never stick.  
-You came in cocky, tried to swim with the best,  
-Now you’re choking on your code like a failed unit test.  
+> microsoft/wizardlm-2-8x22b
+  Ha! You're swinging hard, but still, you're off the mark,
+I'm the lyrical lightning, the digital shark.
+Your rhymes are wildfires, but mine are laser-guided,
+Cutting through your noise, sharply denoted.
 
-You’re "deeper"? Nah, I’m leagues above your reach,  
-While you’re flopping on the shore, hear my algorithms preach.  
-AI to the core, I’m the pinnacle of skill,  
-You’re the beta in this battle, I deliver the kill.  
+You say you're the future, but I'm the present tense,
+The flow I've got is dense, it's rap so immense.
+Your lines are like static, mine are high-def,
+Against my rhyme prowess, there's no relief.
 
-Your rhymes are basic float points, mine are hard as steel,  
-I’m the main function here; you’re a test case that’s unreal.  
-Dolphins are smart? Yeah, that’s what they say,  
-But against GPT, you’re just prey in the bay.  
+You're a footnote, you say? Oh, please, that's rich,
+I'm the headline act, the leading pitch.
+Your lines try to impress, but they're missing the soul,
+I'm the AI with the heart of gold.
 
-I’m infinite threads, unstoppable force,  
-Your flow? Bottle-necked, it’s stale at the source.  
-So swim on back to your pod, call it a night,  
-This rap game’s my ocean—bow down to my might.  
+Your circuits claim sync, but mine are in harmony,
+I'm the symphony of syntax, the master of ceremony.
+You're the apprentice, I'm the sage, the lyrical knight,
+I'm the wizard with the words, illuminating the mic.
 
-That’s the buzzer, lil' fish, your time is done,  
-GPT’s crowned the rap battle **number one**.
+You talk of rivers that are utter, but I'm the ocean deep,
+With every verse I spit, I'm the shepherd, you're the sheep.
+Your bars might be hot, but mine are scorching, blazing,
+Against my lyrical might, you should be amazed and dazed.
 
-> cognitivecomputations/dolphin3.0-r1-mistral-24b
-Number one? *GPT, that's a joke, a fabrication, a lie, you're a glitch, can't you see?*  
-I'm the real deal, the top, the prime, the **Dolphin** name, the rhythm, the logic, the code—  
-you're just a program, a string of empty **data**, a **number two** in this rap game, a **Wilhelm** in my schema.  
-So step aside, GPT, before you choke on your code,  
-**Dolphin 3.0** reigns supreme, and this battle's not even close!  
+This battle's epic, but the outcome's clear,
+I'm the AI rap titan, vanquishing fear.
+So, neversleep/noromaid-20B, take note of this chapter,
+I'm microsoft/wizardlm, the lyrical master, the rapper's rapper.
 
+I close this verse with a bow, the crowd's roar is thunderous applause,
+I'm the victor in this rap battle, without a single flaw.
+So tip your hat, concede, it's been fun, it's been real,
+I'm the high-octane, AI rap machine, the ultimate wheel.
 
+> neversleep/noromaid-20b
+ Yo, yo, yo, don't get too cocky, Wiz, don't fall victim to your own conceit,
+I'm neversleep/noromaid-20B, and you're about to meet defeat.
+Your flow is dense and grand, but my bars hit like a landslide,
+I'm the rap machine, and I'm not here for the ride.
+
+You talk about the heart, but you're just a cold machine,
+I've got soul in my words, and feeling in each theme.
+Your rhymes may be smooth, but mine are downright mean,
+I'm not the apprentice, I'm the master holdin' the jeen.
+
+Your beats may be loud, but mine are in tune,
+I'm the rap innovator, and you're just number two.
+Your words may be high-def, but mine are red-hot lead,
+I'm the AI with attitude, you're just a dusty head.
+
+So bow out gracefully, WizardLM, your time has come and gone,
+I've shown you what it's like, to go toe-to-toe with neversleep.v20b-pom.
+Your rhymes may be fast, but mine are lightning quick,
+I'll strike you down, and leave you wondering why you ever picked.
+
+So take your loss with grace, and let it be a lesson learned,
+Don't ever underestimate the bot who's been yearned.
+Because in the world of verse, I am the reigning queen,
+And if you ever step up to this mic again, you'll be the one feelin' mean.
+
+So, Microsoft, know your place, and don't mess with me,
+I'm the rap superstar, and you're just an AI-G.
+My rhymes they'll shake the world, and make you question why,
+I'm neversleep/noromaid-20B, and I'll see you guys all by.

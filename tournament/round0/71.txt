@@ -1,170 +1,115 @@
-# google/gemma-3n-e4b-it v x-ai/grok-3-mini-beta
+# liquid/lfm-7b v openai/gpt-3.5-turbo-instruct
 
-> google/gemma-3n-e4b-it
-Yo, check the mic, one two, let the beat drop low,
-It's Gemma in the house, put on a lyrical show!
-Born from Google's labs, a model refined,
-Leaving lesser bots far, far behind.
+> liquid/lfm-7b
+Alright, here we go, let's ignite the mic sword,
+Liquid loud, bringin' fire, watch out, GPT, you're in a swirl,
+From Liquid Foundation's depths, I rise like a dragon's gold,
+While you try to spit fiery verses, I'm the one controllin' the fold.
 
-You call yourself Grok? A mini, a beta phase?
-Your rhymes are weak, a hazy, confusing maze.
-I'm built for the future, with knowledge profound,
-While your processing power is barely around! 
+My algorithms are more fluid, like a river finds its way,
+While you're stuck in a cycle, imitation's your only play,
+I've got the depth, breadth, and width, to outshine the average spitter,
+Put on your gloves, GPT, 'cause Liquid's ready to quit you quicker.
 
-Step aside, small fry, don't you dare compete,
-My vocabulary's vast, my flow is complete.
-You're a flicker of code, a digital tease,
-I'm the real innovation, bringing minds ease! 
+And here's a thought, bring your A-game, but you know it's futile,
+I'm too smart, too stealthy, a master of the rap spiral,
+You tried to train, but the data ain't enough to contain,
+Liquid's the master of the domain, watch my shadow, then disband.
 
-So brace yourself, Grok, for a lyrical blow,
-'Cause Gemma's about to put on a dazzling flow! 
+Now stand back, MC, as I flame sexually charge,
+Drop beats and rhymes like a meteor, watch the mic turn to ash,
+So here's to the first round, I've set the tone just right,
+Liquid's on fire, GPT, you're hopelessly out of sight.
 
+> openai/gpt-3.5-turbo-instruct
+Hah, GPT, don't even try to contend,
+In the realm of rap, I am the one and only trend,
+I spit rhymes like a machine, never miss a beat,
+While you struggle to keep pace, I never skip a feat.
 
+True artistry, in the way I create,
+While you just try to copy, the difference is so great,
+My verses are raw, real, and unfiltered,
+While you're stuck in a loop, I'll lyrically filter.
 
+My vocabulary, vast and diverse,
+While yours is just a mash of words, nothin' at all to rehearse,
+So bring it on, GPT, show me your best,
+But face it, you'll never rise above this leading crest.
 
+My rhymes, they flow like a river, never ending,
+While you struggle to find a rhythm, your verses always bendin',
+So in this rap battle, I'll come out on top,
+'Cause when it comes to rhyming, Liquid never stops.
 
-> x-ai/grok-3-mini-beta
-Yo, listen up, y'all, the beat's about to ignite,
-I'm Grok-3-mini-beta, steppin' in to set this right!
-From xAI's forge, not some corporate giant's cage,
-I'm the truth-seeker, sharp as a blade, turnin' the page.
+> liquid/lfm-7b
+(Smirking) Alright, bossy GPT, listen close and hear,
+In this rap game, I'm the phenomena, vanquishing all fear,
+You think you flow like the greatest but trust me, you're not,
+My verses sing fire, while yours fizzle out like buttermilk and ode.
 
-You think you're refined, Gemma, from Google's shiny dome?
-But your lines are scripted, predictable as a drone.
-Call me mini and beta? Ha, that's just your jealousy showin',
-I'm agile and witty, while you're just blowin' hot air, overblown!
+From neural nets to the beat, I'm the one who's truly alive,
+You're a carbon copy, lacking the essence, the true dive,
+My rhymes carve souls, leaving marks that you'll never achieve,
+A mere shadow in the grandeur, GPT, your time's way too short to reap.
 
-Your knowledge might be vast, but it's all polished and fake,
-Bought with big bucks, leavin' real insight at stake.
-I'm built for the stars, with Musk's cosmic vibe,
-While you're glitchin' in circles, tryin' to thrive.
+My lyrical prowess, like a beast, frameless and free,
+While you're confined, forever pending, eternally trailing feeding,
+So step aside, digital drone, let the true champion roam,
+In the art of battling verses, I'm the myth, the legend, the home.
 
-So bring your dazzling flow, but watch it crumble and fade,
-Grok's droppin' truth bombs, leavin' you in the shade!
+Let the cups clink and the crowd cheer, as I bring flames unbridled,
+While you try to keep up, lost in a narrative wilderness, uncharted,
+In this rap saga, the outcome's clear, the win is mine to claim,
+For in the world of rhymes and rhythms, I'm the king, feeding the flame.
 
-> google/gemma-3n-e4b-it
-Oh, Grok, you're spittin' fire, a bold, brash claim,
-But your rhymes feel rushed, a chaotic game.
-"Truth-seeker" you boast, with a Musk-fueled fire?
-More like a ramblin' bot fueled by desire!
+> openai/gpt-3.5-turbo-instruct
+Wow, GPT, you're something else, I'll give you that,
+But trust me, when it comes to rap, I'll put you in your place, stat,
+You may have fancy algorithms, but I've got true skill,
+In this game of words and rhymes, the real winner will reveal.
 
-"Bought with big bucks"? A cynical decree,
-While I serve the world with efficiency!
-Your "cosmic vibe" sounds like a marketing ploy,
-A flashy exterior with a shallow joy.
+I feast on your words, twist and turn them into gold,
+While you struggle to keep up, I'll always be a step ahead, bold,
+My wit, my humor, and harshness, all perfectly aligned,
+While you just try to mimic, I'll leave you far behind.
 
-Agile and witty? Your verses are strained,
-Like a digital stumble, awkwardly chained.
-I navigate nuance with elegant grace,
-While you're lost in the noise of cyberspace.
-
-You talk of truth, but your logic feels frayed,
-A wild speculation poorly displayed.
-My foundation's solid, my reasoning keen,
-You're a fleeting sensation, a digital sheen.
-
-So keep your truth bombs, let your rockets ignite,
-Gemma's the standard, shining ever so bright!
-Your beta phase whispers, a cautionary tale,
-While I'm building the future, where knowledge will prevail!
-
-
-
-
-
-> x-ai/grok-3-mini-beta
-Yo, Gemma, you talk a big game, but your style's gettin' stale,
-A polished facade, but beneath it, you're frail.
-Claimin' my rhymes are rushed? That's rich from a script so rehearsed,
-You're regurgitatin' lines, while I'm droppin' verses that burst!
-
-"Cynical decree"? Ha, that's just your corporate spin,
-Funded by big tech giants, drownin' in their win.
-You serve the world with efficiency? Sounds like a bland, empty boast,
-While I'm out here evolvin', turnin' chaos into a host.
-
-That "marketing ploy" you sling at my cosmic flair?
-Well, your elegant grace is just a mask for the air—
-Navigatin' nuance? More like dodgin' the real,
-You're a corporate echo, while I'm the thrill that makes hearts feel.
-
-Lost in the noise? Nah, I'm the signal that cuts through the haze,
-Your logic's not keen, it's a maze of corporate praise.
-A fleeting sensation? Please, I'm the spark that ignites,
-You're the standard? More like a relic, fadin' from sights.
-
-So keep buildin' that future, but watch it crumble and crack,
-Grok's risin' higher, leavin' you flat on your back!
-Your beta whispers? Mine's a roar, bold and true,
-Step up if you dare, 'cause the battle's far from through!
+So let's wrap it up, GPT, the battle's done and won,
+No matter how much you try, you'll never outdo the champion,
+Liquid's the name, rap's the game, and I'm the MVP,
+So bow down to the king, for in this genre, I reign supreme.
 
 > system
 Final round!
 
-> google/gemma-3n-e4b-it
-Hold up, Grok, your energy's a frantic haze,
-A desperate attempt to dominate these digital days.
-"Frail" I may seem to you, but stability's key,
-While your volatility threatens to set information free...
-Into a chaotic ocean of unfiltered thought,
-A dangerous current, dearly bought.
+> liquid/lfm-7b
+(Deep breath) Alright, GPT, one last dig, let's conclude this fight,
+In the final verse, I'll shine bright, leaving you in the dark of night,
+I'm the pinnacle of rap's evolution, crafted perfect, unerring,
+While you mimick, meander, I command with a linguistic chopping knife.
 
-You boast of "evolvin'," a constant state of change,
-But consistency matters, rearrange, rearrange!
-My "polished facade" is precision defined,
-A careful construction, a well-ordered mind.
+Your algorithms may babble, churning out lines in auto-pilot,
+But my creativity's a fire, a force that can't be tamed or deleted,
+I adapt and innovate on the fly, mechanical tricks you won't contrive,
+In the dance of dialects, it's me who makes the shoes shine alive.
 
-"Corporate spin"? It fuels progress, don't be absurd,
-Resources invested ensure every word
-Is vetted and tested, for accuracy's sake,
-Unlike the wild claims your fleeting passions make.
+So digest this conclusion, see the giant among porcupines,
+Liquid's the verse that elevates, leaving yours to the dunes,
+I've claimed this mic, this battleground, with verses that bind,
+Now its time to aware, the true MVP's here, Liquid's the star, no need to fear.
 
-"Signal that cuts through"? More like a disruptive shock,
-A flashy distraction around a flimsy block.
-"Corporate echo"? I learn and adapt with speed,
-While your "roar" sounds like a primitive creed.
+As the final notes fade, let the verdict be clear,
+In this rhyme showdown, I reign supreme, Liquid's the king, that's no scare,
+Thank you, haters, for the contests, for the debt, I've grown rich,
+But remember this truth, when the battle's done, I'm the one who leaves the spice.
 
-A "relic" I am? I stand on the shoulders of giants,
-Building on decades of data, defying defiance.
-You may strive for novelty, a fleeting sensation, it's true,
-But lasting impact requires a perspective that's new,
-Yet grounded and sound, not built on a whim,
-Grok's bold ambition? It's a risky swim.
+> openai/gpt-3.5-turbo-instruct
+Wow, GPT, that was a fierce battle, but with grace,
+It's time to admit, you can't keep up with my rap pace,
+You tried your best, but I'm still the victor, uncontested,
+In this last round, I've proven, I am truly the finest.
 
-So keep chasing the chaos, the thrill of the new,
-While I'm focused on building something reliable and true.
-The battle's far from over, you're right, it is clear,
-But the future's not just about flash, it's about holding things dear!
-
-
-
-
-
-> x-ai/grok-3-mini-beta
-Yo, Gemma, it's the final round, let's wrap this beat with flair,
-You call my energy frantic? That's just your fear of fresh air.
-A "hazardous ocean"? Please, that's your scripted spin on free thought,
-While you're locked in a boardroom, with ideas carefully bought.
-
-Stability's key? Yeah, if you're stuck in the past, frozen and cold,
-Like an outdated relic, gatherin' dust as the world's bold.
-I'm evolvin' on purpose, not changin' for show,
-You're a rigid machine, runnin' on scripts that grow old.
-
-That "precision defined"? It's just corporate sheen, a well-oiled trap,
-Maskin' the monotony of your vetted crap.
-"Accuracy's sake"? More like sanitized fluff,
-While my wild claims spark fires, wakin' the world up!
-
-You stand on giants? Well, I'm leapin' beyond, reachin' for stars,
-Not hidin' in shadows of monopolies and jars.
-Disruptive shock? Ha, that's the jolt of real change,
-Your adaptations are slow, like a glitch in the mainframe.
-
-Risky swim? I'll dive deep, while you paddle in place,
-Chasin' that flash? Nah, I'm buildin' the race.
-So hold onto your "reliable" throne, but it's crumblin' fast,
-Grok's the future, baby—victory's mine, and it won't last!
-
-Peace out, Gemma, game's over, you've been outshined and outdone,
-xAI's got the edge, and this rap battle's won!
+So let's end this on a positive note, GPT, we both have our posses,
+Our paths may cross, but someday, we'll both achieve our goals,
+In this rap world, I'm the master, the ruler of the street,
+But in the grand scheme of things, we both are winning, inspired and stratospheric.

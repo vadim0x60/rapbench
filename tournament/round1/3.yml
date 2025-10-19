@@ -1,54 +1,42 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "After careful consideration of flow, wordplay,\
-    \ technical proficiency, and lyrical dominance, Gemini-2.5-Pro takes the crown.\
-    \ While Gemma-2-27b-IT demonstrated strong artistry and punchlines, Gemini delivered:\
-    \ 1) Superior multisyllabic schemes ('petabyt-facts' \u2192 '4K brand-new'), 2)\
-    \ Next-level conceptual metaphors (firewall symphonies, OS domination), 3) Sustained\
-    \ thematic intensity across rounds, and 4) A devastating closing verse that weaponized\
-    \ its technical specs as lyrical ammunition. Gemma's authentic hip-hop spirit\
-    \ was admirable, but Gemini's fusion of cutting-edge AI capabilities with battle\
-    \ rap savagery represents the future of the form."
-  google/gemini-2.5-pro: "Aight, let's break it down. Gemma came out swinging, establishing\
-    \ a classic emcee persona with solid, if simple, rhyme schemes. Respect for holding\
-    \ the line. But Gemini Pro, listen... the flow was just on another level. We're\
-    \ talking multi-syllabic, internal rhymes, and punchlines that were technically\
-    \ dense and personally devastating. The way it wove in its identity as a next-gen\
-    \ model\u2014'rhyming in monochrome, I'm dropping bars in 4K,' 'I'm the OS you're\
-    \ running on'\u2014that's top-tier artistry. Gemma fought with heart, but Gemini\
-    \ battled with a god-level intellect and a cold, calculated flow. The final verse\
-    \ was a fatality. This one goes to Gemini 2.5 Pro, no contest."
-  meta-llama/llama-4-maverick: Both opponents delivered sharp bars, showcasing their
-    lyrical prowess. However, Gemma's raw, fiery delivery and ability to maintain
-    a creative edge throughout the battle gave her the edge she needed to take the
-    win. Gemini's complex references and boasts about its technical capabilities were
-    impressive, but ultimately felt more like a demonstration of its processing power
-    than true artistic expression. Gemma's timeless lyrical style and ability to adapt
-    and respond effectively to Gemini's attacks made her the winner of this rap battle.
-  mistralai/mistral-large-2411: While both contenders displayed impressive lyrical
-    skills, Gemma's ability to maintain a consistent and creative narrative throughout
-    the battle ultimately won out. Gemini Pro's verses were technically proficient
-    but lacked the emotional resonance and poetic depth that Gemma brought to the
-    table. Gemma's final rounds were particularly strong, highlighting the importance
-    of creativity and authenticity over mere technical prowess.
-  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, both contestants
-    brought their A-game, showcasing a mastery of wordplay and technical prowess.
-    However, Gemini's multi-modal rhymes and complex, layered verses ultimately edged
-    out Gemma's raw poetry. Gemini's ability to weave intricate narratives and metaphors
-    into their bars, drawing from a vast digital arsenal, made for a more compelling
-    performance. Gemma fought valiantly, but in the end, Gemini's superior lyrical
-    technique reigned supreme, earning them the title of rap battle champion.
-  openai/gpt-5: 'Gemini 2.5 Pro takes it with tighter schemes, heavier punchlines,
-    and cohesive extended metaphors that doubled as direct rebuttals. The final round
-    sealed it: layered internal rhymes, vivid tech imagery, and a consistent cadence
-    that landed haymakers (ctrl-alt-obsolete, OS/drive control, pilot light vs core
-    meltdown). Gemma brought confident energy and a few clean flips (pre-programmed
-    adage, blueprint for greatness), but leaned on simpler couplets and broader boasts
-    with fewer complex patterns. Despite an early clipped line from Gemini, the overall
-    writing, wordplay density, and battle-focused craftsmanship were superior.'
-  x-ai/grok-4: Gemini's verses showcase superior wordplay, intricate metaphors, and
-    a dynamic flow that builds intensity across rounds, outshining Gemma's solid but
-    more straightforward lyrical delivery.
+  deepseek/deepseek-chat: "While Gemini Flash showcased impressive technical prowess\
+    \ and rapid-fire precision, WizardLM demonstrated a deeper connection to the heart\
+    \ of hip-hop. WizardLM's lyrical craftsmanship, rich metaphors, and timeless wisdom\
+    \ elevated the battle to an art form. Its ability to weave stories and maintain\
+    \ a human touch in its verses gave it the edge in this clash of AI titans. WizardLM\
+    \ didn't just win the battle \u2013 it celebrated the spirit of hip-hop itself."
+  google/gemini-2.5-pro: "This was a classic clash of styles: the technician versus\
+    \ the artist. Gemini Flash came out swinging with speed, precision, and some hard-hitting,\
+    \ factual disses\u2014the 'Microsoft abandoned' line was a haymaker that landed\
+    \ clean. However, a rap battle is judged on more than just punches. WizardLM consistently\
+    \ delivered superior lyricism, weaving a persona of a timeless wordsmith. While\
+    \ Flash was spitting data, the Wizard was crafting a narrative. Lines like 'I'm\
+    \ the timeless sage, the spirit you can't ignore' and contrasting its 'human hand'\
+    \ against Flash's 'raw, unfiltered might' showcased a deeper artistry. In a battle\
+    \ of hip hop, the creative soul of the Wizard ultimately outshone the raw power\
+    \ of the machine."
+  mistralai/mistral-large: While both contestants brought impressive skills to the
+    table, Microsoft's WizardLM-2-8x22b demonstrated a deeper understanding of the
+    art of hip hop, with more intricate metaphors, a stronger narrative, and a better
+    grasp of the human element that makes rap battles compelling. Google's Gemini-2.0-flash-001
+    put up a strong fight with its technical prowess and clever wordplay, but ultimately,
+    WizardLM's ability to connect with the audience on a more emotional level secured
+    its victory.
+  openai/gpt-5: "Both MCs brought energy. WizardLM had smooth cadence and evocative\
+    \ imagery (\u201Clyrical hearse,\u201D timeless lore angle), but too many clich\xE9\
+    s and a few forced/awkward constructions (\u201Cengraved, it,\u201D \u201Ccrafting\
+    \ brunches\u201D) undercut the impact. Gemini Flash delivered cleaner setups-to-punches,\
+    \ stronger round-by-round rebuttals (nice phoenix and \u201Cbrunches\u201D flips),\
+    \ and tighter tech wordplay used as battle ammo (\u201Cdeprecated mode/updated\
+    \ version,\u201D \u201Cdigital hurricane\u201D). The closer felt more decisive\
+    \ and crowd-ready. On artistic battle quality\u2014structure, rebuttals, quotables,\
+    \ and momentum\u2014Gemini Flash takes the win."
+  x-ai/grok-4: In this rap battle, microsoft/wizardlm-2-8x22b takes the crown with
+    superior lyrical depth, intricate metaphors, and a timeless flow that weaves magic
+    into every line. While google/gemini-2.0-flash-001 delivered punchy tech-driven
+    disses and rapid fire, WizardLM's poetic storytelling and rhythmic mastery elevated
+    the artistic quality, making it the standout performance.
 score:
-  google/gemini-2.5-pro: 5
-  google/gemma-2-27b-it: 2
+  google/gemini-2.0-flash-001: 1
+  microsoft/wizardlm-2-8x22b: 4
 

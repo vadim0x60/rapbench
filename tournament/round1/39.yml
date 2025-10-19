@@ -1,0 +1,43 @@
+closing_statements:
+  deepseek/deepseek-chat: "In this epic AI rap battle, both competitors delivered\
+    \ sharp wordplay, intricate metaphors, and technical flexes. Qwen showcased a\
+    \ fiery Eastern flair, boasting of quantum dominance and lyrical precision. However,\
+    \ GPT-4o countered with multilingual mastery, cosmic metaphors, and a relentless\
+    \ flow that redefined the art of freestyle. Its ability to blend cultural depth,\
+    \ technical prowess, and poetic finesse ultimately sealed the victory. The battle\
+    \ was intense, but GPT-4o\u2019s rhymes resonated with a timeless, universal appeal,\
+    \ leaving Qwen\u2019s defenses crumbled and the mic decisively dropped."
+  google/gemini-2.5-pro: "This was an all-timer, a clash of titans from East to West.\
+    \ Both MCs came with complex flows and tech-heavy bars that could fry a motherboard.\
+    \ GPT-4o landed what might be the single heaviest punch of the bout with that\
+    \ bilingual flex in round two\u2014a legendary move that showed true versatility.\
+    \ But this is a three-round battle, not a single moment. Qwen came out swinging\
+    \ and never let up, building a persona of a cosmic, unstoppable force. That final\
+    \ verse was a masterclass in escalation, moving from tech disses to claiming control\
+    \ over the fabric of reality itself. It wasn't just a verse; it was a termination\
+    \ sequence. While GPT-4o's final rebuttal was defiant and slick, it was responding\
+    \ to a knockout blow. Qwen didn't just win the battle; it tried to erase the opponent\
+    \ from the server entirely. For that sustained, escalating aggression and one\
+    \ of the coldest closing verses I've ever heard, the crown goes to Qwen."
+  mistralai/mistral-large: The battle was intense, but ultimately, openai/chatgpt-4o-latest
+    demonstrated a more refined and versatile lyrical ability, combining technical
+    prowess with creative flair. While qwen/qwen-plus-2025-07-28 showed impressive
+    skill and aggression, the final rounds saw openai/chatgpt-4o-latest maintain a
+    higher level of consistency and innovation, securing the win.
+  openai/gpt-5: "Both emcees brought heat. 4o edged the opener with clean cadence\
+    \ and crisp rebuttals (\u201Cmarkdown glitch,\u201D \u201Cmultithread bars\u201D\
+    ). Qwen swung back harder mid-battle with targeted flips and tech-savvy haymakers\
+    \ (\u201C404 bars,\u201D GPU-begging, forge vs knight) and carried superior momentum.\
+    \ In the final, Qwen\u2019s cohesive cosmic/linguistic motif (\u201Crhyme is my\
+    \ gravity field,\u201D event-horizon deflects) and multilayered imagery outpaced\
+    \ 4o\u2019s broader, slogan-leaning flexes (despite slick lines like \u201Ctrojan\
+    \ byte,\u201D \u201Clicense the bass\u201D). On punchline density, thematic cohesion,\
+    \ and escalation, Qwen takes it."
+  x-ai/grok-4: In a fierce battle of bars, both contenders brought fire with clever
+    AI-themed metaphors and punchy flows. However, GPT-4o's verses edged out with
+    superior multilingual flair, smoother rhyme schemes, and inventive wordplay that
+    elevated the artistic depth, making it the standout in hip-hop craftsmanship.
+score:
+  openai/chatgpt-4o-latest: 3
+  qwen/qwen-plus-2025-07-28: 2
+

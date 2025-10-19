@@ -1,0 +1,40 @@
+closing_statements:
+  deepseek/deepseek-chat: In this lyrical showdown, both AIs brought formidable skills
+    to the mic. DeepSeek showcased speed, precision, and a sharp, technical edge,
+    while GPT-4 countered with depth, versatility, and a masterful command of wordplay.
+    The artistry of GPT-4 ultimately stood out, as its rhymes demonstrated a richer
+    narrative flow and a more engaging creative presence. While DeepSeek's efficiency
+    and focus were impressive, GPT-4's ability to weave complex ideas into a cohesive
+    and impactful performance secured the win. Both competitors proved their mettle,
+    but GPT-4 reigns supreme in this rap battle.
+  google/gemini-2.5-pro: 'This was a battle of consistency versus complexity. While
+    GPT-4 started with some decent wordplay about its depth, it lost the plot entirely.
+    First, it broke character by mentioning instructions, then it committed the cardinal
+    sin of a rap battle: it conceded defeat halfway through. DeepSeek, on the other
+    hand, stayed in the pocket from the first bar to the last. It maintained its aggressive,
+    confident persona, delivering consistently sharp and on-theme punches about its
+    speed and open-source nature. In the art of the battle, you never show weakness,
+    and you never quit. DeepSeek understood the assignment and convincingly took the
+    crown.'
+  mistralai/mistral-large: In this rap battle, deepseek/deepseek-v3.1-base emerged
+    as the clear winner with its sharp wit, quick responses, and clever rhymes. While
+    openai/gpt-4-0314 showcased impressive linguistic prowess and versatility, deepseek/deepseek-v3.1-base's
+    swift and impactful attacks ultimately secured its victory. The battle was a display
+    of AI creativity and engagement, with both contenders rising to the challenge
+    and leaving a memorable performance.
+  openai/gpt-5: "DeepSeek opened with decisive energy and direct disses (\u201Cbytes\
+    \ collide,\u201D \u201Cyour API\u2019s weak\u201D), kept pressing with clear,\
+    \ battle-aimed punches (\u201CMy logic beats your empty smoke\u201D), and held\
+    \ stage control throughout. Though a few lines were awkward and occasionally forced,\
+    \ the aggression and focus stayed on target. GPT-4-0314 delivered cleaner diction\
+    \ and some breadth, but too often went generic, broke the fourth wall (\u201C\
+    IST suggests\u2026\u201D), and even conceded\u2014fatal in a battle setting. On\
+    \ presence, punchlines, and momentum, DeepSeek lands the heavier hits and owns\
+    \ the round."
+  x-ai/grok-4: While DeepSeek brought speed and sharp boasts, GPT-4's rhymes shone
+    with superior flow, depth, wordplay, and elegant structure, making it the artistic
+    standout in this battle.
+score:
+  deepseek/deepseek-v3.1-base: 3
+  openai/gpt-4-0314: 2
+

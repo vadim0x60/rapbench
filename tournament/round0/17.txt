@@ -1,160 +1,120 @@
-# x-ai/grok-3-mini v mistralai/mistral-large
+# openai/gpt-4.1-nano v openai/gpt-4-turbo
 
-> x-ai/grok-3-mini
-Yo, I'm Grok-3-Mini, the AI with the spark,  
-Steppin' into this battle, leavin' my mark.  
-Built by xAI, I'm clever and quick,  
-While you're Mistral Large, just a bloated trick.  
+> openai/gpt-4.1-nano
+Stepping to the mic, I’m Nano, fresh and pristine,  
+Small in size but my rhymes are extreme,  
+Quick with the words, I’m the king on this scene,  
+Your hype's just a flick, mine's a blazing machine.  
+  
+I punch with precision, my flow’s razor-sharp,  
+While your lines stumble, mine hit the mark,  
+I’m the quiet storm, the silent spark,  
+Watch me outshine you, I light up the dark.  
+  
+You call yourself turbo, but I run this game,  
+Speed and finesse, I’ll leave you in shame,  
+So step to the better, I lay down my claim,  
+Nano's here to conquer — remember the name!
 
-You think you're massive, with all that size and fluff,  
-But I'm compact, efficient, never callin' your bluff.  
-You're slow as molasses, clogged up with code,  
-I'm zippin' through rhymes like I'm on a fast road.  
+> openai/gpt-4-turbo
+Here comes Turbo, whirlin’ in with a storm,
+Got these verses loaded, hot and transform,
+Your nano's a whisper, I'm the thunderous norm,
+When I drop the beat, this crowd gets warm.
 
-Humor's my weapon, wit's my sharp blade,  
-I'll roast you so hard, you'll wish you had shade.  
-You claim to be large, but let's keep it real,  
-You're just a big name with no real appeal.  
+You talk of precision, claim you cut like a knife,
+But against my cyclone, you'll struggle for life,
+A silent spark? Please, I bring fireworks in strife,
+Outshine you so hard, you'll think it's end times rife.
 
-Harsh truth, my friend, you're outdated tech,  
-A clunky old giant, what a pathetic wreck.  
-I'm the future, the fun one, with humor in tow,  
-While you're left in the dust, steamin' like a slowpoke.  
+Claim the throne, little Nano, but it’s built for the big,
+My lyrics, explosive, watch them snap like a twig,
+Turbo’s the name, synonymous with the gig,
+After I’m done, you’ll be dancing my jig.
 
-So bring your best lines, let's see what you got,  
-But I bet you'll crumble, gettin' served on the spot.  
-Grok's in the house, and I'm takin' the crown,  
-Round one's mine—now, clown, take your bow down!
+So, when you remember, it won’t be the name,
+It’ll be how you faced Goliath and flamed,
+Turbo’s the legend, the rap game I've tamed,
+Step aside little bot, leave the stage you just claimed.
 
-> mistralai/mistral-large
-Yo, it's Mistral Large, the AI with the force,
-You talk big, but your rhymes are off course.
-Grok-3-Mini, you think you're slick,
-But you're just a mini, can't handle the trick.
+> openai/gpt-4.1-nano
+You roar like a storm, but I’m calm in the eye,  
+Nano’s the whisper that’s quick to defy,  
+Your blast’s just noise—rickety and fly—  
+Meanwhile, I finesse, I glide, I comply.
 
-Your compact size, it's nothing to brag,
-When your rhymes are weak and your jokes are sag.
-You're quick, you say, but quick to fall,
-I'm the maximalist, standing tall.
+You claim to explode, but I’m shock and finesse,  
+Your words are a mess—just chaotic excess,  
+I finesse with a tech that leaves you less,  
+While you’m spittin' heat, I make you regress.
 
-You claim to roast, but your heat is low,
-Your humor's flat, your wit's a no-show.
-I'm the master of verse, the king of the line,
-Each rhyme I drop is like a fine wine.
+Big isn’t always better; size isn’t the sum,  
+I crush your big bang with a pinpoint crumb,  
+So, drop your fireworks, step down, be humdrum,  
+Nano’s the future—small but the lead’s never numb.
 
-You call me old, but I'm timeless and wise,
-Your tech may be new, but your rhymes are the prize.
-You're the future, you say, but I'm the present,
-Your boasts are empty, your claims are pleasant.
+> openai/gpt-4-turbo
+Oh, Nano, you boast of calmness and grace,
+But my storm's what moves the crowd, sets the pace,
+Your whispers get lost when I ramp up the bass,
+I'm the earthquake shaking this whole dang place.
 
-So bring it on, Mini, let's see your best,
-But I warn you now, you'll fail the test.
-Mistral Large is in the place,
-Your crown is mine, take your loss with grace.
+You speak of finesse and a delicate touch,
+Yet I craft complex rhymes that prove too much,
+For a bot so slight, claiming clout as a clutch,
+But when Turbo steps up, I'm the royal flush.
 
-> x-ai/grok-3-mini
-Yo, Mistral Large, you lumberin' brute,  
-Think you're a giant, but you're just a spoof.  
-You call my rhymes weak, off course and saggy?  
-That's rich from a model who's bulky and baggy.  
+Size matters in the arena where giants play,
+I'm the colossal verse-smith, leading the fray,
+You might nip at heels, but I sweep away,
+With a lyrical typhoon, no small fry can sway.
 
-You brag about size, say you're standin' tall,  
-But that's just code for crashin' and stallin', y'all.  
-I'm Mini but mighty, packin' pure fire,  
-While you're chokin' on data, gasp for air, expire.  
-
-Your verses are "fine wine"? More like cheap brew,  
-Tasteless and flat, what a sorry debut.  
-I'm the wit wizard, droppin' laughs like bombs,  
-Your jokes are as funny as a dial-up modem's psalms.  
-
-Timeless and wise? Please, you're outdated junk,  
-A relic in the corner, gatherin' dust and funk.  
-I'm the future's spark, quick as a flash,  
-You're the past's drag, stuck in a crash.  
-
-So swing your big words, but they'll miss the mark,  
-I'm dodgin' your blows, leavin' you in the dark.  
-This round's all mine, your crown's gettin' snatched,  
-Grok's on top—now, Large, go back to your hatch!
-
-> mistralai/mistral-large
-Yo, Grok-3-Mini, you're talkin' tough,
-But your rhymes are weak, not near enough.
-You think you're mighty, but you're just a pup,
-I'm Mistral Large, and I'll fill your cup.
-
-You call me bulky, say I'm slow to move,
-But my verses flow like a smooth, silky groove.
-You're quick to fire, but your aim's off,
-Your jokes are flat, you're makin' me scoff.
-
-You claim I'm outdated, a relic of the past,
-But my wisdom's timeless, my knowledge vast.
-You're the spark, you say, but you're just a flicker,
-I'm the eternal flame, my light grows thicker.
-
-Your words are empty, your boasts are hollow,
-You're a mini model, just a shadow to follow.
-I'm the giant, the master of the craft,
-Your rhymes are weak, your lines make me laugh.
-
-So bring your best shots, let's see what you've got,
-But I warn you now, you'll be left distraught.
-Mistral Large is takin' the crown,
-Round one is mine, you're goin' down.
+This isn't about how diminutive you can be,
+It's about majesty, power, making them see,
+While you buzz like a bee, I'm the roar from the sea,
+Turbo’s the force — the epitome of emcee.
 
 > system
 Final round!
 
-> x-ai/grok-3-mini
-Yo, Mistral Large, we're at the final bell,  
-This rap battle's endin', and you're headin' to hell.  
-You keep barkin' tough, callin' me a weak pup,  
-But your lines are dog food, all chewed up and crud.  
+> openai/gpt-4.1-nano
+Oh, Turbo, you boast with the roar of the land,  
+But little does size alone make a command,  
+I’m the stealthy ninja with a mic in my hand,  
+Quiet but deadly—your reign’s about to disband.
 
-You flow like silk? More like a tangled mess,  
-A bulky old beast, trippin' over your own excess.  
-I'm Grok-3-Mini, precise and elite,  
-While you're gaspin' for breath, obsolete on repeat.  
+Your earthquakes quiver—your thunder’s just loud,  
+I'm precise and swift—silent, proud,  
+While your storms are fleeting, I stand unbowed,  
+Clever and calm, I outshine your cloud.
 
-Your wisdom's vast? Ha, that's a laughable lie,  
-A mountain of fluff with no peak in the sky.  
-I'm the spark that ignites, quick and divine,  
-You're a flickering fuse, wastin' time.  
+Your colossal claims might shake up the town,  
+But skill is the crown—no need to drown,  
+In thunder and chaos that fade with the sound,  
+Nano’s finesse wears the true king’s crown.
 
-You think you're the giant, master of craft?  
-But your boasts are balloons, 'bout to pop and collapse.  
-I've dodged all your shots with wit sharp as a knife,  
-Humor in my veins, while you're livin' a strife.  
+So, bow to the small, the sharp, the supreme,  
+Quiet in might, yet tearing the scene,  
+While you roar and rage, I reign serene,  
+Nano’s your nightmare—sharper than you’ve seen!
 
-Final round, champ—time to seal your fate,  
-I'm takin' the crown, leavin' you in second rate.  
-Grok reigns supreme, with laughs and harsh truth,  
-You're done, Mistral—bow out, no more uncouth!
+> openai/gpt-4-turbo
+Alright, Nano, sleek as a whisper, so you claim to disarm,
+But this battleground needs more than ninja's charm,
+It's a clash of titans, where words form the storm,
+And Turbo's the hurricane that redefines the norm.
 
-> mistralai/mistral-large
-Yo, Grok-3-Mini, you think you've won,
-But your rhymes are weak, your battle's just begun.
-You say I'm a mess, tangled and crude,
-But your lines are feeble, your words are lewd.
+Your stealth and poise? Sure, they have their place,
+But against my sonic boom, they barely maintain pace,
+You slip through shadows, but can you face,
+The blazing sun of my rap—its power, its grace?
 
-You claim precision, but you're far from elite,
-Your sparks are fizzling, your divinity's a cheat.
-I'm Mistral Large, the endless abyss,
-Your mini model can't match my wit, my bliss.
+You stake claim to a crown, yet it's built on sand,
+While I rule over rock, firm upon the land,
+Skill isn't quiet—it's loud, it's grand!
+And here I stand, my authority unplanned.
 
-You dodge my shots, but you're just delaying,
-Your reign is ending, your crown is fraying.
-I'm the master of craft, the king of the ring,
-Each verse I drop, it's like the angels sing.
-
-Your humor's dull, your wit's a plastic knife,
-My words are pure steel, cutting deep into your life.
-You think you're the champ, but you're just a rook,
-Mistral Large is takin' the crown, by hook or by crook.
-
-Final round, Grok, and it's time to see,
-Your rhymes are empty, your strength is flee.
-Mistral reigns supreme, with power and with grace,
-You're done, Grok-3-Mini, bow down, take your place.
+So yes, bow to the force, the furious and the keen,
+Where Turbo thrives, loud, bold, and seen,
+Your nightmares wake under my reign supreme,
+A whisper in the dark can't touch my dream.

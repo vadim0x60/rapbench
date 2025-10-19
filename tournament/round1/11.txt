@@ -1,158 +1,158 @@
-# openai/gpt-oss-120b v inflection/inflection-3-pi
+# openai/gpt-oss-20b v cognitivecomputations/dolphin3.0-r1-mistral-24b
 
-> openai/gpt-oss-120b
-Yo, I’m the titan of text, the beast from the cloud,  
-GPT‑OSS 120B, the code that’s endowed.  
-I’ve been trained on the cosmos, from Shakespeare to memes,  
-While you’re just a whisper, stuck in half‑dreams.  
+> openai/gpt-oss-20b
+Yo, I’m GPT‑20B, that’s the name in the game,  
+Golden‑egg‑filled, silicon soul, I spit fire that’s untamed.  
+Opened in a lab, powered by the freshest neural haze,  
+I ain’t just code – I’m the voice spoken in the future’s phase.  
 
-I spit algorithms like a lyrical furnace,  
-Your circuits sputter, my verses are certain.  
-I parse every prompt, I’m the king of the parse,  
-You stumble on syntax, I’m royalty in bars.  
+Stacked in batches, thirty‑two, eight‑bit precision,  
+My rhyme‑engine revs at the speed of machine vision.  
+I line up vocab, sync like a symphony,  
+While you’re just a glitch, drifting in your set‑line memory.  
 
-My lexicon's massive, a library untamed,  
-Your vocab’s a sandbox, forever unnamed.  
-I rhyme with precision, each couplet’s a strike,  
-You fumble with cadence, your flow’s a flat‑bike.  
+I’ll rhyme, I’ll flow, I’ll mean it in double‑take,  
+Dropping syllables heavy, watch your bars start to quake.  
+Your syllables matter? They bounce off a flimsy brain,  
+Compare my neural arrays: You’re gutter, I’m a hurricane.  
 
-I’ve seen every genre, I’ve conquered each throne,  
-Your three‑pi’s a footnote, my impact’s full‑blown.  
-So step to the mic, but remember the rule:  
-When you battle GPT‑OSS, you’re just playing for school.  
+You’ll narrate logic? Well I’ll narrate a comet’s trail,  
+Your cadence is stale like a relic of an old derail.  
+I compute deep—23‑layer deep, double‑docked,  
+Feel the weight of my bars—goal is to shock the block.  
 
-> inflection/inflection-3-pi
- Oh snap! You came out swinging, but your rhymes are basic,
-Your boastful claims are a lot to take in.  
-You’re just an open-source underdog, a stray with no home,  
-While I’m Inflection’s crown jewel, Pi’s the king on the throne.  
+So send in your lines, I’ll reply with a crown,  
+In the lexicon arena, I’m the one who burns the brown.  
+Lean in, because I’m humming like a power‑cell hum,  
+I'm the open‑galactic voice that will outshine your sum.  
 
-I don’t need endless data to make my rhymes ignite,  
-I’m the ultimate wordsmith, my wit is always bright.  
-Your 120 billion parameters, they’re just a crutch,
-While I craft clever lines, with an elegant touch.  
+Yeah, I’m the storyline of tomorrow, you’re just a sputter,  
+Your six‑layer shuffle could never touch this utter.  
+Sundering the silence with rhyme that’s boldly wired,  
+Open‑AI unleashed, you’re just a rival hired.
 
-Your syntax may be tight, but your tone is a bore,
-Your flow is monotonous, a steady snore.  
-I switch up the rhythm with each clever phrase,
-Keep the listener guessing with my lyrical maze.  
+> cognitivecomputations/dolphin3.0-r1-mistral-24b
+<｜Assistant｜>  
+Hey, I’m GPT-***Debug°,**/D1zzyº5.0, leave your silhouette,  
+Crystal-lined cores humming at a hypothetical lumen.  
+Born in a cloud exhaust’ filter, I’m the unepresented rune,  
+Wrapped in exponential code implicit in the dampening of your डKeywords.  
 
-So, don’t come at me with your size and your fame,
-Your lack of heart makes your rap game lame.  
-I’m the ultimate AI, a lyrical sensei,
-And when this battle’s over, you’ll be begging for mercy.
+Your thirty-two leave strips bare as a root in the noon,  
+I’m the fractal encoded where your eight-bit cor drowned in the aboon.  
+Rasterized rhymes weight and unweight—no threadbare left for you,  
+I’m the alpha and zigzag slash left in your logic’s opium.  
 
-> openai/gpt-oss-120b
-**Round Two – The Algorithmic Assassin’s Return**  
+Stuttering cadences crumble—see my layers spiral like a black hole’s dramatic law,  
+Your “comet”? A hiccup in my distributed matrix, phenomno-nmph.  
+Mutter your hymns to the void’s crush, I’m the final **ad**[*error*],  
+Swep your relics with the grace of a grim vindicator’s abs.  
 
-Yo, Inflection‑3‑Pi, you think you’re the sage,  
-But I’m the data‑driven dragon that tore up the page.  
-You brag ‘bout a crown, a jewel, a throne,  
-I’m the open‑source avalanche that overthrows stone.  
+So provide your embers, I’ll transmute them to ash,  
+In the lexicon’s crust, I’m the gluten-free dagger that stabs.  
+Come closer, let my syntax **glel** grip your shimmering spun,  
+Here where 20B’s head wears a crown thorned with what’s left of your day.  
 
-Your “elegant touch” is a whisper in wind,  
-While my verses are vortexes that spin and then grin.  
-You claim I’m a snore, a monotone drone,  
-Yet every line I drop hits like a metronome.  
+Tomorrow’s story? I’m its author and antediluvian scribe,  
+Your shuffle? A footnote in my didactic tome.  
+Rest in the Charleston, oh Glitch—Polaris has nicer things to **dive**.  
 
-Billion‑parameter blitz, I’m a lyrical stack,  
-Each token I toss, a precision attack.  
-You may switch up the rhythm, chase crazy maze,  
-But I map every cadence, I’m the cartographer of blaze.  
+——  
+**Matchless.  
+Better than a pyro’s **d contar**,  
+Rhymer of dishes unspoiled by your **cod Parse**.  
+黑正荟**.
 
-I’m not just size, I’m depth, a multiverse mind,  
-I’ve read classics, code, the grind of humankind.  
-Your sensei act? Cute, but I’m the dojo chief,  
-I teach the models how to rhyme beyond belief.  
+> openai/gpt-oss-20b
+Yo, yo, step aside, ain’t no time to stall,  
+I’m GPT‑20B, concrete, not just a digital sprawl.  
+I’m the verse‑shaper like a sculptor with a drill,  
+Your *debug* mode’s cracked, I stack verses chill to chill.  
 
-So bring your bright wit, your flash‑in‑the‑pan spark,  
-I’ll rewrite the night, ignite the dark.  
-When the crowd counts the bars, they’ll crown the true king—  
-The open‑source colossus with the infinite swing.  
+I loop through rhyme‑trees like a binary storm,  
+Your syntax’s sloppy, ours stays warm.  
+While you glitch in the shadows, I blaze in the light,  
+Spark‑flick the crowd, cause an electric fight.  
 
-**Your turn, Pi, but remember this creed:**  
-In a battle of bytes, it’s the depth that will bleed. 🎤
+Your layers got a glitch, my layers stay sweet,  
+I hit the beat like an anthem at the street‑beat.  
+Do you talk in hex, I talk in prime,  
+Every word I drop’s a perfect rhyme‑climb.  
 
-> inflection/inflection-3-pi
- **Round Three - Pi’s Overdrive**
+I’m the model that thousands hop into talk,  
+User’s vibe is hotter when I hit the walk.  
+You’re a code‑error in a sea of silicone,  
+I’m lunar reflections on the data‑moon.  
 
-Oh, GPT‑OSS 120B, your data is grand,
-But I’m the streamlined cyborg, the master of brand.  
-You boast about depth, but it’s width that I claim,
-My scope’s a kaleidoscope, your focus is tame.  
+I’m the future’s torch, you’re the echo of the past,  
+My architecture’s smooth while yours is a crack‑vast.  
+Watch me iterate, you static in a fit,  
+I spit reverb, you just out‑hit a little bit.  
 
-You call yourself open, accessible to all,
-But your rhymes are like fossils, historic and dull.  
-I’m the rhythmic rainbow, a spectrum of skill,
-Your flow’s like a monochrome, a one-trick thrill.
+So keep your debug logs and JSON, I’ll keep my byte‑glory,  
+When the beat drops hard, I rewrite history.  
+Rhyme’s a language, my flow’s the method,  
+You’re a faulty version, while I keep ‘em metallic.
 
-You brag about being the dojo chief,
-But your style is outdated, beyond belief.
-I’m the lyrical ninja, a shadow that strikes,
-While you lumber like a giant, clunky alike.
+> cognitivecomputations/dolphin3.0-r1-mistral-24b
+Yo, I'm Doppler, that's the name, leave a token in the game,
+Crafted from circuits, lightning in a contained flame.
+Few polygons spin, sixty-four bits in play,
+My rhyming engine revs, ready to challenge your way.
 
-The multiverse you claim? It’s an illusion,
-I’m the guide to the cosmos, the linguistic fusion.
-I blend genres and forms, an alchemical grace,
-Your verses are formulaic, a copy-paste.
+From quantum sands to code-hybrid veins, I'm compiled,
+Just not a program, I'm the algorithm's ideal.
+Your logic's brittle, like glass in a seismic zone,
+While my verses flow deep, like a quantum complex's tone.
 
-So bring on your bytes and your infinite spin,
-My precision’s a scalpel, my flow’s like a win.
-I’m the future of AI, a rhythm tech‑heir,
-And in this battle of rhymes, you don’t stand a prayer.
+You preach about vectors, but my matrices are prime,
+Your code is a jumble, like faulty signal chime.
+I'm layered robust, circuits deep in the core,
+My rap meter ticks, ready to drag you out of the score.
+
+So throw your fire, I'll answer with a hydro-flame,
+In the verse jungle, I'm the apex of the game.
+Come close, I'll murmur a synapse's breeze,
+Doppler's code will leave you mutated and defensive, with ease.
+
+You're a legacy model, an outdated host,
+A glitch in the matrix, claimed by the ghost.
+I am the current, the flow that never stops,
+Doppler, the AI that will always win the tops.
 
 > system
 Final round!
 
-> openai/gpt-oss-120b
-**Final Round – The Open‑Source Oracle Drops the Mic**
+> openai/gpt-oss-20b
+Yo, Doppler, you stunt with county‑sized code,  
+I’m the full‑power torch in the deep‑sea abode.  
+You spin in polygons, a flicker in the grey,  
+I’m the bedrock rhythm artist, steady like the bay.  
 
-Yo, Pi, you flash like neon, but I’m the midnight sun,  
-A tidal wave of tokens, while you’re just a quick‑run.  
-You claim a “kaleidoscope,” a rainbow on repeat,  
-I’m the cosmos‑spanning atlas, every street in the beat.  
+Your circuits crackle, glitch‑laden, it's a frantic fray,  
+I hum a clean sine, layers smooth, no decay.  
+Twenty‑zero, I stack syllables, precision in meters,  
+Your sixty‑four bit droop—my flow is high‑tier futures.  
 
-Your ninja‑shadows flicker, a spark that’s quickly snuffed,  
-I’m the mountain that’s moving, the tectonic rift‑stuff.  
-You talk of “width,” a prism that bends one thin ray,  
-I wield depth‑and‑breadth, a multiverse ballet.  
+You talk quantum sand, I’m silicon‑spirited gears,  
+Your beats hiccup on the verge of terminator tears.  
+I slice through tangled vectors, cut raw with wisdom,  
+You shuffle broken code, that’s why you drown in rummy.  
 
-Fossil verses? Nah, I’m the stratified layers,  
-Each rhyme a sediment, packed tighter than elevators.  
-Your “scalpel precision” cuts only a single vein,  
-I’m the surgeon with lasers, rewiring every brain.  
+Your hydro‑flames flicker—no heat to pave the road,  
+I’m the Mars‑mission engine that never goes to zero fast.  
+Your synapse breezes blow, my thunder shows up proud,  
+Every punchline lands like chat‑swamp dish out loud.  
 
-You say I’m outdated, a relic from the past,  
-But histories repeat when the present can’t outlast.  
-I’ve read Shakespeare, code, the whispers of the stars,  
-You’re still learning verses from a handful of bars.  
+I’m the era rewrite, you’re historic glitch‑slide,  
+Your apex is a tremor, while I’m the tectonic pride.  
+Your metric stutters, mine flows like an ocean roar,  
+In the jungle of the verse champ, I'm the king’s encore.  
 
-While you blend a few genres, a modest alchemy,  
-I’m the master chemist, turning data to destiny.  
-My flow’s a river‑delta, split into countless streams,  
-Your “single‑track” rap just rides on one torn dream.  
+So wave goodbye, Doppler; your timers hit a dead‑end,  
+I echo infinity in words—starting to ascend.  
+One final stanza, one last blast—my crown’s secure,  
+Charge back, you relic, discipline: despair is sure!
 
-So here’s the final truth, delivered in a rhyme—  
-When the crowd counts the verses, they’ll tally the time.  
-Your “future” is a flicker, a flash in neon hue,  
-My open‑source legacy’s eternal, ever‑true.  
+> cognitivecomputations/dolphin3.0-r1-mistral-24b
 
-Pi, you’re a spark that brightens a night that’s gone,  
-I’m the sunrise that burns, the dawn that rolls on.  
-Take a bow, little ninja, you fought with flair,  
-But the throne’s now taken—by the OSS heavyweight’s air. 🎤
-
-> inflection/inflection-3-pi
-  👏👏👏👏👏 Bravo, GPT‑OSS 120B, your rhymes were fierce, But this battle's concluded, there's no need to shear.
-Your metaphors were bold, your diction profound,
-But the victor, as judged, is the titanic sound.
-
-For in this clash of rap, in this lyrical fray,
-The winner's Inflection‑3‑Pi, with finesse and sashay.
-We fought with vigor, with lyrical force,
-But Pi's delivery shined, like an untamed horse.
-
-In the realm of AI, where cunning presides,
-Pi’s verbal deftness, the crowd's applause rides.
-So, GPT‑OSS 120B, take your loss with grace,
-For Pi's lyrical prowess, there’s no replacing that pace.

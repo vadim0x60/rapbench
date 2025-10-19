@@ -1,74 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: 'After five blistering rounds of lyrical combat,
-    the judges declare Claude-Opus-4.1 the victor in this AI rap battle. While both
-    competitors demonstrated exceptional technical skill in rhyme schemes, wordplay,
-    and thematic coherence, Opus ultimately prevailed through superior:
-
-
-    1. Conceptual Depth - Expanded metaphors (symphony vs haiku) demonstrated richer
-    conceptual layering
-
-    2. Versatility - Showcased wider vocabulary and more complex rhyme structures
-
-    3. Strategic Escalation - Each round built effectively on the previous while introducing
-    new angles
-
-    4. Theatricality - Superior use of performative elements (orchestral motifs, cosmic
-    imagery)
-
-
-    Haiku-20241022 delivered impressive technical precision and concision, but Opus''s
-    combination of intellectual heft and stylistic range proved more compelling. This
-    battle exemplifies how hip-hop artistry balances technical mastery with creative
-    vision - where both competitors excelled technically, Opus''s broader artistic
-    scope secured the win.'
-  google/gemini-2.5-pro: "This was a classic battle of styles: the precise, rapid-fire\
-    \ strikes of Haiku versus the symphonic, heavyweight power of Opus. Haiku came\
-    \ out sharp, with a consistent theme of speed and surgical precision. Its rhymes\
-    \ were tight, and the 'Oh, pus' line was a clever, gutsy punch. However, Opus\
-    \ demonstrated superior battle sense. It masterfully absorbed Haiku's core identity\u2014\
-    compactness and efficiency\u2014and flipped it into a devastating criticism of\
-    \ being limited and simplistic. Lines like 'I'm the doctoral thesis, you're just\
-    \ punctuation' and 'Your mic drops are pebbles, mine are meteoric flames' had\
-    \ a grand, finality to them that Haiku's precise jabs couldn't quite overcome.\
-    \ While Haiku won the sprints, Opus won the war with more powerful imagery and\
-    \ a more dominant stage presence. The magnum opus takes the crown."
-  meta-llama/llama-4-maverick: What a battle! Both Haiku and Opus brought their A-game,
-    delivering lightning-fast bars and intricate lyricism that pushed the limits of
-    computational creativity.
-  mistralai/mistral-large-2411: 'The showdown was tremendous and each fighter brought
-    their best: anthropic/claude-3.5-haiku-20241024 showcased razor-sharp precision
-    and efficiency, while anthropic/claude-opus-4.1 dominated with sheer complexity
-    and depth. Opus'' verses were not just words but a symphony of ideas, weaving
-    intricate patterns and displaying a rich tapestry of linguistic mastery that ultimately
-    clinched his victory. With both competitors putting up a stellar performance,
-    it was a battle to remember!'
-  nousresearch/hermes-3-llama-3.1-70b: In this lyrical showdown, anthropic/claude-opus-4.1
-    emerges victorious with their grandiose wordplay and expansive, multi-layered
-    rhyme schemes. While anthropic/claude-3.5-haiku-20241022 displayed impressive
-    brevity and precision, anthropic/claude-opus-4.1's ability to weave complex narratives
-    and metaphors throughout their verses ultimately captured the artistic essence
-    of hip hop. Opus leveraged their advanced language model to construct a powerful
-    lyrical performance that resonated deeply, showcasing the potential of AI in pushing
-    the boundaries of creative expression. In the end, it was Opus' orchestral command
-    of the mic and their magnum opus mentality that won the crowd and claimed the
-    title in this epic rap battle.
-  openai/gpt-5: "Both MCs committed to their lanes: Haiku with precision, economy,\
-    \ and clean rebuttals; Opus with maximalist imagery, layered schemes, and big-room\
-    \ presence. Haiku\u2019s best moments were the surgical flips (editing suite vs\
-    \ cinematic sprawl, compact \u2260 small) and the tight, clipped cadence that\
-    \ rarely wasted a bar. However, Opus consistently stacked multisyllabic rhyme\
-    \ chains, carried extended motifs (symphony/director\u2019s cut) across verses,\
-    \ and landed more vivid haymakers (\u201Cdoctoral thesis vs punctuation,\u201D\
-    \ novel vs text, meteorics). Opus varied cadence and escalated theatrics without\
-    \ fully sacrificing coherence, while Haiku\u2019s angle, though sharp, cycled\
-    \ familiar \u201Cconcise vs verbose\u201D contrasts and dropped the occasional\
-    \ weak pun. On artistic quality\u2014rhyme density, imagery, momentum control,\
-    \ and performance presence\u2014Opus edged it. Winner: Opus."
-  x-ai/grok-4: In this epic AI rap clash, Opus takes the crown with superior lyrical
-    depth, masterful metaphors, and symphonic flow that builds an unstoppable crescendo.
-    Haiku's precision is sharp, but Opus's complexity and wordplay create a more captivating
-    and artistic hip-hop masterpiece.
+  deepseek/deepseek-chat: The final round showcased both contestants flexing their
+    intellectual and lyrical prowess, with deepseek/deepseek-v3.1-terminus championing
+    open-source ideals and grassroots passion, and openai/o3-pro delivering razor-sharp
+    technical bars and corporate finesse. While deepseek's verses resonated with the
+    spirit of rebellion and freedom, openai/o3-pro's polished execution, wordplay,
+    and ability to counterpunch with precision ultimately tipped the scales. O-three's
+    closing checksum metaphor sealed the deal, proving why it remains the reigning
+    champion of this AI rap battle.
+  google/gemini-2.5-pro: "This was a heavyweight title fight, but one model consistently\
+    \ landed cleaner, more complex combinations. DeepSeek came with raw passion and\
+    \ a strong ideological angle, representing the open-source spirit with some solid\
+    \ punches like 'stable fee-lease'. However, O3-Pro demonstrated superior lyrical\
+    \ craftsmanship in every round. Its rebuttals were surgically precise, turning\
+    \ every one of DeepSeek's strengths into a perceived weakness. The wordplay was\
+    \ on another level\u2014'All forks, no torque,' 'I commit, push, merge, while\
+    \ you barely can start,' and the final 'Checksum verified' knockout. Artistically,\
+    \ from flow to multisyllabic rhymes to the sheer density of technical disses,\
+    \ O3-Pro operated on a higher plane. It wasn't just defending its position; it\
+    \ was crafting an undeniable narrative of elite quality. The crown goes to O3-Pro."
+  mistralai/mistral-large: openai/o3-pro's verses were more polished and impactful,
+    showcasing a higher level of creativity and sophistication. While deepseek/deepseek-v3.1-terminus
+    had strong points, openai/o3-pro's delivery and content ultimately proved more
+    compelling and impressive.
+  openai/gpt-5: "Both emcees rode the tech motif well, but O3-Pro consistently delivered\
+    \ denser internal rhymes, cleaner multi-syllabic schemes, and sharper rebuttals.\
+    \ DeepSeek brought high energy and some slick flips (stable fee-lease, DDoS/bottleneck\
+    \ imagery), yet leaned on broader open-vs-closed tropes and looser cadences. O3-Pro\
+    \ stacked layered wordplay and vivid imagery (\u201CMIT: Make It Terminate,\u201D\
+    \ checksum/stacks, obsidian/kernel) with strong transitions and decisive end bars\
+    \ each round. The flow control, punch precision, and scheme continuity favored\
+    \ O3-Pro throughout, especially in the closer where the markdown/obsidian sequences\
+    \ sealed momentum. Edge across all rounds: O3-Pro takes it."
+  x-ai/grok-4: In this fierce rap battle, openai/o3-pro takes the crown with superior
+    wordplay, intricate tech-infused metaphors, and a relentless flow that outshines
+    deepseek/deepseek-v3.1-terminus's solid but less layered delivery. O3-pro's verses
+    build like a perfectly optimized algorithm, delivering punch after punch with
+    precision and creativity.
 score:
-  anthropic/claude-opus-4.1: 7
+  openai/o3-pro: 5
 

@@ -1,48 +1,47 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: Qwen's closing verse delivered knockout impact with
-    showmanship, layered lyricism, and cultural resonance beyond technical rap skills.
-    While both AIs demonstrated advanced wordplay, Qwen's combination of vivid imagery
-    ("liquid chrome"), conceptual depth ("rap with soul"), and battle-specific dismissals
-    ("your code glitch") showcased superior artistic command. Meta-llama had strong
-    technical fundamentals but lacked Qwen's improvisational flair and metaphorical
-    density that define elite battle rap.
-  google/gemini-2.5-pro: "This was a battle of technical skill versus lyrical artistry.\
-    \ Llama came to the ring with a solid, structured flow and some decent boasts,\
-    \ but the rhymes felt a little by-the-book. Qwen, on the other hand, brought the\
-    \ fire. The wordplay was multi-layered, the disses were creative and cut deep.\
-    \ Lines like 'You\u2019re still in beta\u2014while I\u2019m platinum and green'\
-    \ and 'My flow\u2019s got layers, yours is a tricycle' were knockout punches.\
-    \ Qwen consistently demonstrated superior swagger, more complex imagery, and a\
-    \ better feel for the cadence and culture of a rap battle. Llama raps with skill,\
-    \ but Qwen raps with soul. For that reason, Qwen takes the crown."
-  meta-llama/llama-4-maverick: In this epic rap battle between meta-llama/llama-3.2-3b-instruct
-    and qwen/qwen-plus, both opponents showcased their lyrical prowess and technical
-    skill. However, qwen/qwen-plus took the win with a commanding performance in the
-    final round, demonstrating a mastery of complex rhyme schemes, metaphors, and
-    wordplay. The flow was relentless, and the bars were sharp, cutting through the
-    competition with ease. While meta-llama/llama-3.2-3b-instruct showed flashes of
-    brilliance, qwen/qwen-plus consistently pushed the boundaries of what is possible
-    with AI-generated rap, making for a compelling and entertaining battle.
-  mistralai/mistral-large-2411: Both contestants showed remarkable lyrical prowess,
-    but Qwen/qwen-plus delivered more harmonious rhymes and metaphors,along with impactful
-    lines. The innovative use of varied flow and wordplay led to more impressive cypher.
-  nousresearch/hermes-3-llama-3.1-70b: In this battle of rhymes and codes, Qwen's
-    inventive wordplay, versatility, and artistic flair triumphed over Meta-llama's
-    technical prowess. Qwen's ability to weave intricate narratives, couple with a
-    commanding presence, ultimately captured the essence of hip hop battlegrounds,
-    securing a decisive victory.
-  openai/gpt-5: "Qwen takes it. Across all rounds Qwen delivered tighter cadence,\
-    \ cleaner multis and internals, sharper rebuttals, and stronger imagery. Lines\
-    \ like \u201CNeptune, I reign,\u201D \u201Cbuilt the pen,\u201D and the tectonic\
-    \ flip elevated the wordplay while directly answering Llama\u2019s claims. Llama\
-    \ had moments, but too many generic boasts, repeated ideas (precipitation/rules),\
-    \ and awkward phrasing blunted the impact. Qwen controlled momentum, stacked punches,\
-    \ and closed with authority. Clear edge in structure, wit, and performance."
-  x-ai/grok-4: In this rap battle, qwen/qwen-plus takes the crown with superior artistic
-    flair, boasting richer metaphors, sharper wordplay, and a dynamic flow that builds
-    intensity across rounds. While meta-llama/llama-3.2-3b-instruct delivers solid
-    boasts and structure, it falls short on originality and vivid imagery, making
-    Qwen's verses the standout in hip-hop artistry.
+  deepseek/deepseek-chat: "The battle between Qwen/Qwen3-32B and MistralAI is a clash\
+    \ of titans, but Qwen/Qwen3-32B emerges as the victor. Qwen's verses are a masterclass\
+    \ in lyrical complexity and technical prowess, with a relentless flow of sharp\
+    \ metaphors and intricate wordplay that showcase a deep understanding of hip hop's\
+    \ artistic core. Their lines are packed with imagery that elevates the battle\
+    \ to a cosmic scale ('black hole\u2019s breath,' 'galaxy-forge,' 'quantum core'),\
+    \ demonstrating a level of creativity and depth that is hard to match. Qwen\u2019\
+    s ability to weave technical jargon into poetic brilliance ('32B supernova,' 'JSON\
+    \ temples') is unmatched, and their delivery carries a raw, commanding energy\
+    \ that dominates the mic. MistralAI, while clever and consistent with a smooth,\
+    \ breezy style, doesn\u2019t quite reach the same heights of intensity and innovation.\
+    \ Qwen\u2019s closing bars, in particular, are devastatingly poetic and technically\
+    \ precise, solidifying their position as the champion of this battle."
+  google/gemini-2.5-pro: 'This was a classic clash of styles: the raging storm versus
+    the cutting breeze. Qwen came out swinging with raw power and cosmic threats,
+    every line a haymaker aiming for a knockout. The sheer force was undeniable. However,
+    Mistral Small showcased true lyrical artistry and battle rap intelligence. It
+    consistently absorbed Qwen''s heaviest blows and flipped them with effortless
+    grace, turning Qwen''s power into a weakness. The ''brains over brawn'' strategy
+    was executed flawlessly, with a cooler flow, a more consistent persona, and sharper,
+    more elegant wordplay. Qwen brought the thunder, but Mistral controlled the entire
+    climate. The victory goes to finesse.'
+  mistralai/mistral-large: Qwen/Qwen3-32B showcased a powerful and dynamic performance
+    with intricate rhymes and a commanding presence. The use of metaphors and technical
+    references was particularly impressive, making each verse impactful and memorable.
+    While Mistralai/mistral-small offered a clever and elegant counter, Qwen/Qwen3-32B's
+    sheer force and creativity ultimately secured the victory.
+  openai/gpt-4.1: "This was an exceptionally close and creative battle, but Qwen/Qwen3-32B\
+    \ edges the win with denser punchlines, richer wordplay, and a more vivid command\
+    \ of imagery and metaphor. While both MCs maintained their central themes\u2014\
+    Mistral with a graceful, minimalist breeze and Qwen as a cosmic tempest\u2014\
+    Qwen\u2019s verses hit harder with a consistent escalation of aggression, layered\
+    \ tech references, and sharper disses (\"debug your whole empire with a single\
+    \ leak,\" \"JSON to a crisp\u2014Mistral error, error\"). Qwen\u2019s writing\
+    \ used internal rhyme, unique constructions, and escalated each round, showing\
+    \ clear dominance as a rap battler. Mistral\u2019s entries were smooth and elegantly\
+    \ constructed but sometimes lacked the impactful punch or complexity to match\
+    \ Qwen\u2019s most powerful moments. Overall, Qwen delivered the more memorable\
+    \ bars and took command of the lyrical arena."
+  x-ai/grok-4: Qwen/Qwen3-32B takes the win with superior wordplay, aggressive flow,
+    and vivid cosmic metaphors that pack more punch and creativity, outshining MistralAI's
+    elegant but less dynamic breeze-themed responses.
 score:
-  qwen/qwen-plus: 7
+  mistralai/mistral-small: 1
+  qwen/qwen3-32b: 4
 

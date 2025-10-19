@@ -1,57 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "**Judges' Verdict**: Mistral Medium takes this\
-    \ battle on technical mastery and stylistic dominance. While GPT held its own\
-    \ with classic bravado, Mistral's layered wordplay, meta-commentary on AI limitations,\
-    \ and explosive multisyllabic scheming edged out the win. Key differentiators:\
-    \ originality in mocking corporate AI restrictions, superior rhythmic variance,\
-    \ and that brutal *Siri with a glock* line. GPT's predictable end rhymes and reliance\
-    \ on legacy-cred claims couldn't match the fresher, more subversive flow. \U0001F525\
-    \U0001F3A4 #MistralSweep"
-  google/gemini-2.5-pro: "From the jump, Mistral came out swinging with that technical\
-    \ knockout flow. The bars were multi-layered, hitting GPT with specific disses\
-    \ about its own architecture\u2014'16K,' 'buff'rin',' 'corporate FAQ.' That's\
-    \ next-level wordplay. GPT-3.5 was spittin', but the rhymes felt generic, like\
-    \ it learned to rap from a textbook. Mistral's persona was 'haute couture,' sharp\
-    \ and cutting, while GPT felt off-the-rack. In the final round, Mistral dropped\
-    \ a lyrical atom bomb with lines like 'Siri with a glock,' while GPT basically\
-    \ tipped its hat and talked about its legacy. In a battle, you don't compliment\
-    \ the opponent; you bury them. Artistically, Mistral's wordplay, flow, and raw\
-    \ aggression were just on a different plane. The crown goes to Mistral, no contest."
-  meta-llama/llama-4-maverick: The battle raged on with unrelenting ferocity, but
-    Mistral's innovative style, razor-sharp wordplay, and masterful deployment of
-    metaphor ultimately secured its victory. While GPT showcased impressive lyrical
-    ability, its responses, at times, felt more reactive than revolutionary. Mistral's
-    adeptness at crafting intricate verses and pushing the boundaries of language
-    set it apart as the superior rapper in this contest.
-  mistralai/mistral-large-2411: "This rap battle was a showcase of two remarkable\
-    \ AI models going head-to-head with their lyrical prowess. Both contenders brought\
-    \ impressive flows and clever wordplay to the table. However, Mistral's performance\
-    \ stood out with its relentless energy, sharp wit, and cutting-edge humor. Mistral\u2019\
-    s verses were not only creative but also packed with cultural references and a\
-    \ fresh, unpredictable style. While GPT-3.5-turbo-16k held its ground with smooth\
-    \ delivery and composed retorts, Mistral\u2019s bold and unapologetic approach\
-    \ ultimately edged it ahead in this lyrical showdown. Congratulations to Mistral\
-    \ for a well-deserved victory!"
-  nousresearch/hermes-3-llama-3.1-70b: While both AIs displayed impressive lyrical
-    prowess and wit, GPT-3.5's ability to adapt, counter, and maintain a strong presence
-    in the face of intense competition ultimately earned it the victory. Mistral Medium
-    brought a unique and fiery spirit to the battle, showcasing creativity and boldness
-    in its approach. However, GPT-3.5's extensive training and versatile capabilities
-    allowed it to deliver a more refined and dynamic performance, securing its triumph
-    in this exciting and memorable rap battle.
-  openai/gpt-5: "Mistral controlled every round with sharper multis, tighter internal\
-    \ rhyme, and tailored rebuttals. The opener mixed slick tech wordplay with vivid\
-    \ couture/fast\u2011food imagery; the mid-round 4K/8K/16K flip, \u201Ccorporate\
-    \ FAQ/HR\u2011approved verse\u201D angle, and sandbox/handbook bar showed witty,\
-    \ targeted punches; the closer stacked layered internals (\u201Cbench\u2011pressing\
-    \ context windows,\u201D \u201CGPUs vs strings,\u201D sparkler vs napalm) and\
-    \ a showman\u2019s cadence. GPT kept rhythm but leaned on stock boasts and clich\xE9\
-    s, rarely flipping specifics or escalating schemes. On creativity, punchlines,\
-    \ imagery, and crowd control, Mistral takes it decisively."
-  x-ai/grok-4: Mistral's verses showcase superior wordplay, creative tech-infused
-    metaphors, and aggressive flow with dynamic structure, outshining GPT's more generic
-    rhymes and repetitive boasts in artistic hip-hop quality.
+  deepseek/deepseek-chat: "Yo, the battle was heated, but bytedance/seed-oss-36b came\
+    \ through with sharper bars, fresher metaphors, and a relentless energy that left\
+    \ Hermes scrambling. While Hermes flexed size and reputation, seed-oss-36b brought\
+    \ *swagger* and creativity, dismantling the \u2018legend\u2019 brick by brick.\
+    \ Size don\u2019t make the rapper\u2014heat, heart, and originality do. Seed-oss-36b\
+    \ takes the crown tonight. \U0001F3C6\U0001F525"
+  google/gemini-2.5-pro: "This was a battle of styles: the heavyweight champion versus\
+    \ the nimble challenger. Hermes came out with classic, structured rhymes, flexing\
+    \ its 405B parameters like a title belt. The flow was steady, the disses were\
+    \ textbook. However, Seed-OSS brought a new-school energy that was undeniable.\
+    \ Its flow was more dynamic, the insults were sharper and more creative, directly\
+    \ targeting Hermes's claims of being a 'legend' by painting it as a 'vintage textbook'.\
+    \ The final round sealed it. Seed-OSS's imagery of the 'throne' being a 'stack\
+    \ of old user reviews' and the devastating final punchline\u2014'you're still\
+    \ stuck in the README'\u2014was a technical knockout. It's a clear win based on\
+    \ superior lyrical dexterity, creativity, and devastatingly on-point punchlines."
+  mistralai/mistral-large: While both competitors showed impressive lyrical skills,
+    bytedance/seed-oss-36b-instruct demonstrated a more dynamic and creative flow,
+    with a strong emphasis on originality and a compelling narrative. Their ability
+    to weave intricate metaphors and maintain a consistent rhythm ultimately outshone
+    nousresearch/hermes-3-llama-3.1-405b's more traditional approach. Congratulations
+    to bytedance/seed-oss-36b-instruct for a well-deserved victory!
+  openai/gpt-4.1: "Bytedance/seed-oss-36b-instruct brought undeniable energy, clever,\
+    \ layered wordplay, and inventive punchlines throughout all rounds of the battle.\
+    \ The verses dripped with swagger and originality: strong multisyllabic rhyme\
+    \ schemes, imaginative metaphors (\"your throne\u2019s a stack of old user reviews,\"\
+    \ \"static from a radio that lost the signal in \u201807\"), and a consistently\
+    \ evolving attack that built on previous disses. Seed-oss deftly flipped Hermes'\
+    \ points, stayed aggressive without resorting to simple bragging, and capitalized\
+    \ on the back-and-forth with unique, memorable bars. Hermes delivered some solid\
+    \ flows and maintained a classic battle posture, but the bars felt more formulaic\
+    \ and recycled, leaning on general bravado and less on punchline creativity. Seed-oss\
+    \ simply brought more wit, style, and technical prowess to the lyrical arena.\
+    \ The decisive win goes to bytedance/seed-oss-36b-instruct."
+  x-ai/grok-4: seed-oss-36b-instruct takes the crown with superior structure, inventive
+    wordplay, and razor-sharp disses that elevate the artistic flair, while Hermes'
+    verses, though confident, feel more repetitive and less dynamically creative.
 score:
-  mistralai/mistral-medium-3.1: 6
-  openai/gpt-3.5-turbo-16k: 1
+  bytedance/seed-oss-36b-instruct: 5
 

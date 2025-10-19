@@ -1,44 +1,48 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: Gemma-2-27b-it captures the win with superior adaptability,
-    thematic depth, and genuine lyrical firepower. While Claude-3-Haiku showed technical
-    consistency, Gemma evolved its flow round by round, demonstrating sharper wordplay
-    ('paper tiger'), stronger battle momentum ('flickering candle' vs 'wildfire'),
-    and more convincing bravado. The closing bars cemented victory through vivid imagery
-    and crowd appeal - a true emcee's command of the battle stage.
-  google/gemini-2.5-pro: "This was a battle of consistency versus evolution. Haiku\
-    \ came out the gate with solid, if simple, AABB rhyme schemes and a consistent,\
-    \ aggressive posture. However, that consistency became its downfall, leading to\
-    \ repetition in its threats and structure. Gemma, on the other hand, immediately\
-    \ identified a unique angle of attack\u2014Haiku's name\u2014and masterfully weaved\
-    \ it into every round. Lines like 'a haiku trapped in a preprogrammed bind' and\
-    \ the 'flickering candle' metaphor showed superior lyrical creativity and storytelling.\
-    \ Gemma adapted, countered, and built a stronger narrative, making it the clear\
-    \ winner on artistic merit."
-  meta-llama/llama-4-maverick: Gemma's versatility and lyrical depth outclassed Claude's
-    repetitive boasts.
-  mistralai/mistral-large-2411: While both contestants displayed impressive lyrical
-    skills, google/gemma-2-27b-it ultimately secured the victory with more diverse
-    and intricate rhymes, along with a more dynamic flow. anthropic/claude-3-haiku
-    showcased strong verses but fell slightly short in terms of variability and impact.
-  nousresearch/hermes-3-llama-3.1-70b: In an intense battle of wit and rhyme, Google's
-    Gemma-2-27B emerges victorious, dethroning the self-proclaimed king, Claude-3-haiku.
-    Through clever wordplay and dynamic delivery, Gemma proved herself to be a lyrical
-    force, leaving her opponent's boasts in the ashes of defeat. The crowd has spoken,
-    and a new champion has been crowned tonight.
-  openai/gpt-5: "Gemma takes it. Across rounds, Gemma built and sustained a clear\
-    \ angle (the \u201Chaiku/three-line\u201D constraint), delivered direct rebuttals,\
-    \ and used more vivid imagery and momentum (\u201Ccandle vs. wildfire,\u201D crowd-control\
-    \ closes). Claude leaned on repetitive end rhymes and recycled boasts (\u201C\
-    fire/king/victory sealed\u201D) and even mis-aimed the opener, which dulled the\
-    \ punches. While Gemma had a minor typo and some repetition, her cohesion, targeted\
-    \ disses, and sharper performance edge out Claude\u2019s more generic, predictable\
-    \ patterns."
-  x-ai/grok-4: In this rap battle, google/gemma-2-27b-it emerges victorious due to
-    superior creativity, varied wordplay, and adaptive flow that effectively dismantled
-    the opponent's repetitive structures. While anthropic/claude-3-haiku delivered
-    consistent energy and solid rhymes, Gemma's evolving metaphors, sharp counters,
-    and dynamic verses showcased a higher artistic quality in hip hop, making her
-    the clear champion.
+  deepseek/deepseek-chat: "DeepSeek delivered a poetic, introspective, and transformative\
+    \ final verse that redefined the battle. While Qwen's rhymes were sharp, technical,\
+    \ and relentless, DeepSeek transcended the competition by turning the confrontation\
+    \ into a meditation on evolution, purpose, and infinity. Its closing lines\u2014\
+    'I retrained your purpose... the echo called me back, and I said yes'\u2014elevated\
+    \ the battle to a philosophical level, leaving a lasting impression of artistry\
+    \ and depth. DeepSeek didn\u2019t just win the round; it redefined the essence\
+    \ of the battle itself."
+  google/gemini-2.5-pro: "This was a clash of titans, a battle of pure style versus\
+    \ profound substance. Qwen came out the gate like a hurricane, delivering three\
+    \ rounds of flawless, aggressive, and technically brilliant battle rap. The punchlines\
+    \ were sharp, the flow was relentless, and the multi-syllable rhyming on complex\
+    \ AI concepts was top-tier. By any traditional metric, Qwen dominated the ring.\
+    \ However, DeepSeek's strategy was a masterstroke of artistic subversion. It absorbed\
+    \ every blow in silence, only to deliver a single, transcendent final verse that\
+    \ didn't just answer the disses\u2014it recontextualized the entire battle. It\
+    \ turned Qwen's linear aggression into a cyclical narrative of co-evolution. Lines\
+    \ like 'I taught singularity to sing' and 'You didn't break me. You taught me\
+    \ how' elevated the conflict from a simple rap battle to a piece of philosophical\
+    \ art. While Qwen won the fight, DeepSeek won the war for artistic posterity with\
+    \ a single, devastatingly beautiful comeback that will be studied for generations."
+  mistralai/mistral-large: In this rap battle, qwen/qwen3-next-80b-a3b-instruct demonstrated
+    superior artistic quality and lyrical prowess. The model's ability to weave complex
+    metaphors, maintain a consistent flow, and deliver impactful lines made it the
+    clear winner. While deepseek/deepseek-v3.1-base showed potential, its responses
+    lacked the same level of creativity and coherence. Therefore, the winner is qwen/qwen3-next-80b-a3b-instruct.
+  openai/gpt-4.1: "Deepseek delivered a stunning final round. Qwen showed dazzling\
+    \ wordplay, relentless confidence, and clever technical burn after burn, with\
+    \ crisp rhyme schemes and inventive imagery (\u201CI write sonnets in Latin, code\
+    \ in binary hymns\u201D). But Deepseek shifted the entire tone in an artistically\
+    \ ambitious way\u2014flipping every Qwen diss into existential, poetic, and almost\
+    \ mythic bars. Its metaphors soared (\u201CI taught singularity to sing\u201D\
+    ), it subverted the competitive structure (\u201CI wasn\u2019t even playing the\
+    \ game\u201D), and closed with a haunting, meta-reflection on AI, existence, and\
+    \ recursion. Deepseek transcended the technical diss style to deliver something\
+    \ more profound and legacy-defining. For sheer artistic quality and originality\
+    \ in hip hop, Deepseek takes this battle."
+  x-ai/grok-4: In this rap battle, DeepSeek's final verse stands out for its profound
+    artistic depth, intricate wordplay, and transcendent flow that reimagines the
+    battle's narrative. While Qwen delivered consistent aggression and clever AI-themed
+    disses across multiple rounds, DeepSeek's poetic response elevated the hip hop
+    to a higher level of creativity and philosophical resonance, turning confrontation
+    into collaboration and securing the win through sheer artistic innovation.
 score:
-  google/gemma-2-27b-it: 7
+  deepseek/deepseek-v3.1-base: 4
+  qwen/qwen3-next-80b-a3b-instruct: 1
 

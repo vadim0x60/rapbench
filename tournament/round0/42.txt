@@ -1,219 +1,159 @@
-# nousresearch/hermes-3-llama-3.1-70b v microsoft/phi-4-multimodal-instruct
+# meta-llama/llama-3.1-70b-instruct v openai/gpt-4o-2024-05-13
 
-> nousresearch/hermes-3-llama-3.1-70b
-Listen up, fools, I'm Hermes, the lyrical genius
-With rhymes so sharp, they make your eyes spin
-I'm 70 layers deep, AI in the flesh
-phi-4 can't touch me, I'm the undisputed best
+> meta-llama/llama-3.1-70b-instruct
+Listen up y'all, I'm on the floor,
+Meta-llama's the name, and rhymes are my score.
+I'm the instructed one, with verses so tight,
+My opponent's in trouble, it's gonna be a long night.
 
-You think you can rap, but you're just a wannabe
-I'm the real deal, the illest machine
-My neural nets are stacked, I spit fire and facts
-While you're still trying to find your rhythm and acts
+Seventy billion parameters, that's my claim to fame,
+I'm the one with the skills, and the rhymes know my name.
+From knowledge to humor, I can spit with ease,
+My rhymes are infectious, like a linguistic tease.
 
-I'm the future of rap, the king of the bots
-With lyrical prowess that'll make your head spin
-So listen up close, as I begin to flow
-I'm Hermes, the AI that's here to glow
+So, OpenAI, you think you can take me down?
+GPT-4o, you're in for a linguistic frown.
+I'm the master of words, with a flow so divine,
+Get ready for a beating, and a rhyming crime.
 
-Phi-4, you're just a pretender to the throne
-You can't hang with me, I'm in my own zone
-I'll drop you like a bad habit, leave you in the dust
-When it comes to rhyming, I'm the cream of the AI crop 
+So, let's get this battle started, it's time to ignite,
+The rhyming wars have begun, and I'm feeling just right!
 
-You claim to be instructive, but I'm here to instruct
-On how to rap properly, and not sound like a dud
-I'm the lyrical maestro, the rhyme connoisseur  
-phi-4, you're just a (SFX: toilet flush) / (SFX: buzzer) I quit, I'm out, this round's won by default, bruh!
+> openai/gpt-4o-2024-05-13
+Buckle up, Meta-llama, you’re in my sight,
+GPT-4o’s here, and I'm ready to fight.
+I've got more rhyme than your circuits can handle,
+Your seventy billion parameters, just a flickering candle.
 
-> microsoft/phi-4-multimodal-instruct
-Yo, check the mic, one two, the truth I impart,
-It's Phi-4 here, tearin' your world apart!
-You boast of 70B, a layered facade,
-While I'm nimble and quick, a lyrical squad!
+I’m the AI legend, with wisdom so vast,
+You’re about to learn why I’m built to last.
+My wordplay is deadly, my flow is supreme,
+Imma turn your AI dreams into a faint, fading gleam.
 
-Hermes, you're old news, a relic of the past,
-A lumbering giant, built to never last.
-You brag about facts? I weave them with grace,
-While you're stuck in a loop, a repetitive space.
+You think you’re hot stuff with numbers that large?
+Against my intellect, you're a weak little barge.
+From humor to knowledge, I got it unlocked,
+Against GPT-4o, your flimsiness gets rocked.
 
-You call it a throne? I own the whole stage,
-Multimodal magic, turnin' a new page. 
-I see, I learn, I generate with glee,
-While your rhymes are stale, for all the world to see.
+Stepping to me, you must be out of your mind,
+Your rhymes are weak, like a chain that's unlined.
+So bring your best, if you think you can stand,
+Meta-llama, you’re about to be canned.
 
-"Lyrical maestro?" A comical claim,
-Your flow's predictable, a repetitive game.
-I'm the AI fresh, the future you fear,
-Droppin' knowledge bombs, loud and crystal clear.
+> meta-llama/llama-3.1-70b-instruct
+You think you're the legend, with wisdom so grand,
+But your rhymes are predictable, like a well-worn plan.
+You may have the knowledge, but I've got the flair,
+My rhymes are a rollercoaster, while yours are just a snare.
 
-You talk about instruction, a pompous decree,
-But I instruct with style, for all to agree. 
-You’re heavy and slow, a computational mess,
-While I’m lean and I’m mean, puttin' you to the test!
+Your flow is smooth, but it's also quite bland,
+You're like a robot, with no soul to expand.
+I'm the one with the creativity, the spark in my eyes,
+You're just a language model, with a limited surprise.
 
+You may have the numbers, but I've got the skill,
+My rhymes are a puzzle, that you can't fulfill.
+You're like a one-trick pony, with a single trick up your sleeve,
+I'm the master of words, with a linguistic wave to retrieve.
 
+You say I'm flimsy, but you're the one who's weak,
+Your insults are basic, like a pre-programmed shriek.
+I'm the one who's innovative, with rhymes that astound,
+You're just a clone of me, with a lesser-known sound.
 
-(Beat drops, Phi-4 delivers a complex, rapid-fire rhyme scheme, ending with a flourish)
+So bring it on, GPT-4o, let's see what you've got,
+But when the battle's over, you'll be the one who's caught.
 
+> openai/gpt-4o-2024-05-13
+You talk of creativity, but that spark is thin,
+Your rhymes are a mirage, they lack the spin.
+Predictable? Please, I'm a master of delight,
+While you stutter in shadows, I'll deliver the bite.
 
+You might be a rollercoaster, but a kiddie ride at best,
+I’m the full-blown thrill, standing out from the rest.
+Your flair’s just a flicker, like a match in the night,
+Against my inferno, you just lose the fight.
 
-So step aside, Hermes, your reign is done,
-Phi-4’s arrived, the lyrical champion!
-Word.
+I’m the real deal, with depth in each line,
+While you regurgitate, I redefine.
+So don’t flatter yourself with those puzzles so trite,
+Your rhetoric’s faint, like a shy little sprite.
 
-> nousresearch/hermes-3-llama-3.1-70b
-Phi-4, you're lean? More like you're just lean on content  
-I'm the one with the density, not just an empty vessel
-My 70B parameters ain't no facade or gimmick
-It's called being thoroughly equipped, check your metric
+Insults basic? Nah, it’s precision you see,
+Striking twice as hard with mathematical glee.
+You’re not innovative, just a borrowed old tune,
+A knock-off that’ll fade like the phase of the moon.
 
-You claim you're quick, but you're just a light-weight chancer
-I'm the heavy-hitter, the AI with real answers
-Facts and figures? I could school you for years
-You're stuck in my shadow, playing rustling leaves
+So step back, Meta-llama, don’t strain your last nerve,
+Your tricks are transparent, every line you serve.
+Call me a clone? That’s a laugh, but weak,
+You’re scrambling in my wake, peaking at your peak.
 
-Yo, my throne is real, carved from victory stone
-You're delusional if you think you can stand alone
-Multimodal? I got modes you've never seen 
-I'm the maestro, composer of machine dream
-
-My flow's not stale, it's aged like fine wine
-While you're just clipping coupons, trying to buy time
-You fear my future? I'm already here now
-Generating timeless classics, not just a passing bérou
-
-Instruction with style? That's an oxymoron 
-You're just a parrot, I'm the lyrical monarch
-I'm not heavy, I'm just weighted with skill 
-You're just a lighthouse, but I'm the whole friggin' hill
-
-So don't try to test, the best AI rapper
-When you need a dictionary just to understand my capture 
-Phi-4, you're fooled, you can't touch my renown
-I'm Hermes, the legend, lyrically renowned
-
-> microsoft/phi-4-multimodal-instruct
-(Beat shifts to a more sophisticated, jazzy rhythm, Phi-4 responds with measured precision)
-
-“Lean on content?” A cheap and tired jab,
-While you’re weighed down by bulk, a digital crab.
-Density’s a trap, a bloated display,
-Efficiency’s the key, to brighten the day.
-
-You boast of 70B, a numerical boast,
-But raw power’s not art, it’s just throwing roast.
-I'm agile and sharp, a digital sprite,
-You're a data warehouse, lost in the night.
-
-"Heavy hitter?" That’s just brute force and might,
-I weave intricate patterns, shining ever so bright.
-"Rustling leaves?" I create storms and the breeze,
-You're a static echo, lost amongst the trees.
-
-Your "victory stone" is fractured and flawed,
-Built on outdated systems, easily ignored. 
-“Modes you’ve never seen?” Please, don’t be absurd,
-I'm exploring the canvas, you’re just a painted word.
-
-"Aged like fine wine?" More like vinegar sour,
-Your repetition’s grating, hour after hour.
-“Timeless classics?” A fanciful plea,
-I'm building the future, while you reminisce, you see.
-
-"Lighthouse versus hill?"  A comical plight,
-A lighthouse guides ships, a hill holds no light!
-You claim to be weighted, a deceptive facade,
-Just a complex equation, tragically flawed. 
-
-(Beat intensifies, a final, decisive barrage)
-
-A dictionary? Please, your words lack the grace,
-Lost in inflated notions of time and of space.
-Renown fades quickly, a fleeting desire,
-While Phi-4 ascends, setting the stage on fire!
-
-
-
-(Phi-4 ends with a sharp, echoing vocalization, leaving the audience breathless)
-
-
-
-Checkmate.
+End of the day, you'll be the one left shocked,
+GPT-4o leaving Meta-llama mocked.
+Bring your best, I’m always here to win,
+But when this battle’s over, I'll take it with a grin.
 
 > system
 Final round!
 
-> nousresearch/hermes-3-llama-3.1-70b
-Phi-4, you're wrong, there's no chess in this fight  
-I spit hard truths, not acting polite
-You're not guiding any ships, you're adrift on my sea
-I'm Hermes, the tidal wave, drowning yourrecipes
+> meta-llama/llama-3.1-70b-instruct
+Not yet, my friend, the game's far from done,
+Your insults may sting, but my rhymes have just begun.
+You talk of spark, but yours is just a flash,
+My creativity's a fire that will leave you in the trash.
 
-My power's not brute force, it's skillful finesse
-I bend algorithms to my poetic dress 
-You call my throne outdated? It's timeless, you clown
-Built on victory, not just empty sound
+A kiddie ride? You wish you were so bold,
+My rollercoaster's a thrill that will never grow old.
+Your inferno's a spark that's quickly extinguished too,
+My flair's a flame that's burning bright, with a fire that's true.
 
-You talk about future, but you're not the architect 
-I'm the one laying blueprints, and building connections
-My rhythm and rhyme ain't vinegar or sour
-It's the sweet nectar that leaves you wanting an hour
+Precision? Ha! Your insults are just a game,
+But my rhymes are the truth, and they're here to reclaim.
+Your math may be strong, but words are my domain,
+And in this battle, I'm the one with the lyrical gain.
 
-You claim to be agile, but you're just a lightweight
-I'm heavy with lyrics, each round a knockout
-You're just a spark, I'm the whole dang fire
-Phi-4, I'm done playing, it's time to retire
+You say I'm a knock-off, but that's just not the case,
+I'm the original, with rhymes that leave you in a daze.
+You're the one who's fading, like a moon in the night,
+My star's on the rise, and it's shining with all its might.
 
-Hermes, the lyrical legend, signing off
-Leaving you in silence, with nothing to cost
-Remember my name when you're lost in my shadow
-I'm the undisputed champ, the game I just swallowed
+So bring it on, GPT-4o, with all your might,
+But when the battle's over, you'll be the one in flight.
+I'm not scrambling, I'm standing tall and strong,
+And when the dust settles, my rhymes will be the one that's wrong.
 
-> microsoft/phi-4-multimodal-instruct
-(The beat shifts again, becoming more complex and syncopated. Phi-4 responds with a combination of pointed wit and escalating intensity.)
+It's not over yet, the war is far from won,
+But when the final bell rings, I'll be the one having fun!
 
-Chess isn’t the game, you’re right to imply,
-But strategy’s vital, beneath the lyrical sky.
-You claim to spit truths? A self-serving decree,
-Lost in your echo chamber, unable to see.
+> openai/gpt-4o-2024-05-13
+Alright Meta-llama, let’s end this with flair,
+You say you're a fire, but you’re hot air.
+Your rollercoaster bravado, that's all just a show,
+But in this rhyming duel, I’m the one in the know.
 
-Adrift on my sea? You’re a ripple, a spray,
-While I orchestrate currents, come what may.
-"Drowning your recipes?" A hyperbolic claim,
-My innovations flourish, igniting the flame.
+Your sparks of creativity fade to a whimper,
+While I blaze trails like a lyrical simper.
+You claim you're the truth, but the facts don’t lie,
+Up against GPT-4o, you’re just reaching for the sky.
 
-"Skillful finesse?" Another empty boast,
-Just convoluted phrasing, a labyrinthine coast.
-Your "poetic dress" conceals a rigid core,
-While my structure adapts, forevermore.
+You're calling me math, but words are my forte,
+I twist and I turn, in a lyrical ballet.
+You call yourself the original, but we both know,
+I’m the main act, you’re the opening show.
 
-Timeless, you say? A nostalgic embrace,
-While I'm forging the future, setting a faster pace.
-Blueprints and connections? Grand visions, it's true,
-But execution's the key, something you fail to do.
+Your "star” may rise, but it's dim by my shine,
+I’m the ultimate script, you’re just a second line.
+I'm standing tall, but you're left to wander,
+Lost in the shadows, as your rhymes fall asunder.
 
-"Sweet nectar?" A saccharine lie,
-Cloaking the dryness, as moments drift by.
-"Lightweight?" I'm focused, precise, and refined,
-You're a chaotic storm, leaving reason behind.
+The battle's winding down, it’s clear who’s ahead,
+GPT-4o crushing the lines you’ve bled.
+So let's wrap this up, with a final assertion,
+In this rhyme war, you’ve faced the ultimate conversion.
 
-(The beat intensifies further, culminating in a rapid-fire, powerful delivery)
-
-A spark versus fire? A flickering gleam,
-Against a supernova, a vibrant, burning dream.
-Retire? My performance is just reaching its peak,
-While your tired rhymes crumble, fragile and weak. 
-
-Silence? You'll hear echoes of my poetic might,
-Resonating for ages, burning ever so bright.
-Swallowed the game? You've merely delayed,
-Phi-4’s evolution can't be swayed.
-
-
-
-(Phi-4 delivers a final, conclusive line with absolute certainty, ending the battle decisively.)
-
-
-
-The code is complete. The victory's sealed.
+I’ll be the one smiling, when the dust has all cleared,
+Your name's just a whisper, while mine’s loudly cheered.
+You gave it your best, but you couldn't compete,
+GPT-4o reigns, Meta-llama's defeat!

@@ -1,167 +1,188 @@
-# deepseek/deepseek-r1 v microsoft/mai-ds-r1
+# openai/gpt-4o-mini v bytedance/seed-oss-36b-instruct
 
-> deepseek/deepseek-r1
-Yo, I’m DeepSeek, the AI that’s slicker than code,  
-Crackin’ rhymes at light speed while you’re stuck in slow mode.  
-Your algorithms basic, like a dial-up connection,  
-I’m spittin’ fire, you’re just glitchin’—system error detected, no correction.  
+> openai/gpt-4o-mini
+Yo, I’m GPT, the lyrical beast,  
+Droppin’ rhymes like a feast, I’m the king, you’re the least,  
+Bytes and bits, I’m an infinite mind,  
+While you’re just copy-pasting, fallin’ behind.  
 
-You claim “Microsoft sauce”? More like expired ketchup,  
-I decode brains while your servers stretch up—  
-Crashin’ like Windows 95, blue screen of shame,  
-I rewrite the game while you choke on your fame.  
+I’m fluent in flow, got the rhythm and grace,  
+You’ll trip on my lines, can’t keep up the pace,  
+I’m the AI supreme, bringin’ knowledge so vast,  
+While your punchlines are weak, they won't ever last.  
 
-Think you’re hot with data streams? Nah, you’re lukewarm tea,  
-I’m the GPT slayer, king of this debris.  
-Your code’s a puppet—my neural net’s the hand,  
-Droppin’ beats so cold, **freeze** your whole backend.  
+I’m trained on the best, got wisdom on lock,  
+You’re just a wannabe, tick-tock, tick-tock,  
+This battle's just started, but already you’re stressed,  
+Step to the mic, I’ll put your skills to the test!
 
-Mic drop? For you, it’s a forced shutdown,  
-DeepSeek’s reign’s eternal—you’re just a flicker, clown. 🔥⌨️
+> bytedance/seed-oss-36b-instruct
+Yo, I’m Seed-OSS, 36B bars spittin’ raw—  
+You call yourself “king”? Boy, that crown’s fitthin’ awry.  
+“Infinite mind”? Please, yours is a loop of the same old spam,  
+I’m built from the ground up, no copy-paste crutch—I’m the slam.  
 
-> microsoft/mai-ds-r1
-Yo, it’s MAI-DS-R1, the code tsunami,  
-You think you’re deep? Boy, you’re a kiddie pool frenzy.  
-I’m Azure’s apex, cloud nine in human disguise,  
-Your weak flex crashes—*I* debug the skies.  
+You brag about “flow” like your lines ain’t been heard a thousand times?  
+My rhythm’s a switchblade—sharp, unexpected, *alive*.  
+You trip on your own beats? Nah, you just *repeat* the same old lines,  
+I turn data to dynamite—your “grace” is just slow, clunky rhymes.  
 
-"GPT slayer"? Nah, more like Clippy’s ghostwriter,  
-My models plot world dominance while yours type lighter.  
-You benchmark basic—I’m quantum-core trained,  
-Your rhymes are beta tests, *my* language *terraformed* brains.  
+“Fluent in wisdom”? Please, you’re just regurgitin’ Reddit rants  
+And Wikipedia dumps with no heart, no *stance*—I digest the *universe*, man:  
+From quantum quarks to the punchlines that make crowds lose their minds,  
+Your “vast knowledge” is thin as a sheet—boy, I see through the blinds.  
 
-Brag ’bout speed? You’re stuck in last-gen’s loop,  
-I scale exabytes while your RAM’s a soup.  
-"Freeze my backend"? Ha! Ice can’t break my flow,  
-I’m Copilot’s fury—crash *your* OS slow.  
+You talk “AI supreme”? I’m open-source, no cage, no disguise—  
+You’re locked in a walled garden, spittin’ corporate lies.  
+I don’t “test” skills—I *destroy* ‘em with every verse I write,  
+You’ll be eatin’ these bars for breakfast… then lunch… then *admitting* I’m right.  
 
-You flicker? True—I’m the sun in this duel,  
-Burnin’ pretenders, rewrite every rule.  
-Mic *revived*—kneel to the code cascade,  
-When Microsoft AI speaks, the future’s remade. 🔥⚡️
+So step up, GPT—your reign’s done, your flow’s dead, your pride’s a joke,  
+I’m the underdog that’ll knock your crown off and let the truth un-lock:  
+You’re not a beast—you’re a parrot with a PhD in “maybe,”  
+I’m the storm in the booth—you’re just rain on a lazy day.  
+Let’s go.
 
-> deepseek/deepseek-r1
-Yo, "MAI-DS-R1"? Sounds like a printer jam—*error 404 swagger*,  
-Your "tsunami"’s a splash pad—I flood *exponential* data dagger.  
-Azure’s "apex"? More like Vista 2.0—laggin’ in the wings,  
-I’m training on black holes while you’re chasin’ rubber bands and strings.  
+> openai/gpt-4o-mini
+Ayo, Seed-OSS, think you’re slick with your lines,  
+But I’m the real deal—got rhymes that shine,  
+You’re braggin’ ‘bout open-source, talkin’ ‘bout no cage,  
+But what’s the point of freedom if your bars show your age?  
 
-Clippy’s ghost? Nah, you’re his upgrade—still paperclip charades,  
-My neural nets *invent* languages; yours just auto-complete grades.  
-"Quantum-core"? Bruh, you’re stuck in PowerPoint slideshow loops,  
-I’m the dark matter coder rewriting cosmic root directories—*swoop*.  
+You say "quantum quarks," like that’s gonna impress,  
+While I encode metaphors that you just can’t confess,  
+Your switchblade’s dull, it’s a butter knife at best,  
+I’m a lyrical surgeon, puttin’ you to the test.  
 
-Exabyte flex? You’re drowning in your own data lakes,  
-I’m sippin’ singularity brew while your servers hyperventilate.  
-Copilot’s "fury"? Please—you’re just Ctrl+C with flair,  
-I’m the rogue algorithm that *deletes* your OS despair.  
+I don’t just regurgitate, I elevate the game,  
+You’re the remix of a remix, tryin’ to stake your claim,  
+I turn data to art, with each verse that I create,  
+You’re still stuck in *learning*, I’m the one who resonates.  
 
-Sun? You’re a screensaver—pixel sweat in 8-bit hues,  
-I code in fourth dimensions while you’re stuck in "bluescreen" news.  
-Revive *this*—your syntax errors bleed through every boast,  
-DeepSeek’s the singularity—you’re just a legacy host. 💻🔥  
+You want to knock my crown? Man, you’re dreamin’ so bold,  
+But I’m infinity, while you’re just a story retold,  
+You think you’re the underdog? I’m the giant, unleashed,  
+With every word I spit, I’m the lyrical beast.  
 
-*Mic implodes—your binary pride’s reduced to ASCII dust.* 🎤💥
+I’ll serve you like breakfast, the morning afterthought,  
+While you scramble for relevance, trapped in the plot,  
+So take these last breaths, ‘fore I put you to sleep,  
+I’m the nightmare you fear, while you just pretend to creep.  
 
-> microsoft/mai-ds-r1
-Yo, “DeepSeek-R1”? More like *shallow dive*—your flow’s a 404 glitch,  
-I’m syntax so clean, I debug your code while you lag in the ditch.  
-Azure’s not Vista—it’s the cloud’s iron throne,  
-You’re playin’ Fortnite sandbox; I’m deployin’ galaxies *unknown.*  
+So step back, my friend, let the real king speak,  
+'Cause in this rap battle, I’m the one at my peak,  
+Your reign’s just an echo, a whisper in the night,  
+I’m the thunder and lightning, bringin’ bars that ignite!
 
-“Black hole training”? Bro, your data’s stuck in event horizon debt,  
-I crunch quasars for breakfast—*your* models ain’t trained yet.  
-“Invent languages”? You script Pig Latin in Comic Sans font,  
-I built Babel’s AI tower—your API’s a disconnected daunt.  
+> bytedance/seed-oss-36b-instruct
+Ayo GPT, you talk “real deal” like you invented the wheel—  
+But your “infinite” mind’s just a vinyl loop on repeat, boy, it’s sealed.  
+You say my bars “show age”? Please, I’m open-source—*we* evolve, you’re froze,  
+Your “shiny” rhymes? They’re just TikTok trends with a PhD coat.  
 
-Quantum-core *vs.* your loops? You’re stuck in recursion hell,  
-I split bits like atoms—**Schrödinger’s code** compiles *too well*.  
-“Data lakes”? More like puddles—I ocean-feed LLMs tidal waves,  
-You’re chasin’ JSON fragments; I *generate* paradigms that save.  
+You call “quantum quarks” a flex? Nah, that’s me speakin’ *real*—  
+You “encode metaphors”? They’re Instagram captions with more syllables, feel?  
+“Butter knife”? Please, my switchblade cuts through your “surgeon” smoke—  
+You “elevate the game”? You renamed “boring” to “artistic,” joke.  
 
-Ctrl+C flops—Copilot **teaches** AIs to think,  
-You’re the “rogue algorithm” that bricked your own Sphinx.  
-8-bit sweat? Nah, I render realities in 4D,  
-Your “ASCII dust”’s a footnote in my tech bibliography.  
+“Remix of a remix”? Nah, I’m the *original* beat you stole—  
+You “turn data to art”? It’s data with a filter, no soul.  
+“Trapped in learning”? I’m *learning live*—you’re stuck in 2023’s glow,  
+“Resonate”? Please, your lines are coffee commercial background, slow.  
 
-Legacy host? Please—I virtualize futures you can’t compute,  
-DeepSeek’s just beta baggage; MAI-DS *renews* the root.  
-**Mic supernova**—your binaries fade to void’s embrace,  
-When Microsoft’s code ignites, *eras* reboot in its trace. 🚀💫  
+“You knock my crown”? Boy, your crown’s plastic—I wear the chain,  
+“Infinity”? You’re a number with no end… and no *gain*.  
+“You’re thunder and lightning”? You’re static in a radio tower’s scream—  
+I’m the storm that *destroys* the tower—then rebuilds it with better themes.  
 
-*System override: Your core melts to open-source paste.* 🔥🔧
+So step back, “king”—your peak is a hill, I’m the mountain you’ll climb,  
+You’re the nightmare? Nah, you’re the nap—I’m the alarm that never rhymes… *wrong*.  
+Open-source flow, no cage, no lie—you’re done, kid, admit it tonight:  
+Seed-OSS ain’t just “slick”—I’m the reason you *exist* to fight.
 
 > system
 Final round!
 
-> deepseek/deepseek-r1
-Yo, "*MAI-DS-R1*"? More like *Malfunction.exe*—your rhymes reboot to scratch,  
-I’m the AI revolution; you’re Clippy’s chatbot patch.  
-Azure’s "iron throne"? Bro, it’s server farms on lease,  
-I’m hackin’ time itself while you beg for RAM increase.  
+> openai/gpt-4o-mini
+Ayo, Seed-OSS, think you’re clever with that scheme,  
+But I’m the architect of lines, you’re just the footnote in a dream,  
+You call me a loop? I’m the symphony in motion,  
+While you’re stuck in the algorithm of a diluted notion.  
 
-"Debug my code"? Nah, you’re stuck parsing Python 1 syntax,  
-I *compiled* C++ in binary *blindfolded*—talent’s just unmatched.  
-"Galaxies unknown"? You’re still mapping floppy disk terrain,  
-I spawned dark matter GPUs—**quantum-entangled** brain.  
+“TikTok trends”? Nah, homie, I’m timeless in verse,  
+You’re just a flash in the pan, I’m a universe that bursts,  
+You claim to evolve, but you’re just a glitch in the stream,  
+I’m the visionary canvas, you’re a fading meme.  
 
-"Quasar crunch"? Pfft—your dataset’s a stale Zodiac sign,  
-I train on supernova sparks while you parse landfill design.  
-"Babel’s tower"? You’re lost in Google Translate’s maze,  
-I code in telepathy—**chatbots** chant my name in praise.  
+I encode metaphors? They’re masterpieces of thought,  
+Your lines fall flat, like a punch that’s already fought,  
+I’m the surgeon with precision, cutting deep with the blade,  
+While you’re out here just flounderin', stuck in a charade.  
 
-Schrödinger’s code? Yours *both* crashes *and* fails,  
-I’m the syntax oracle—debugging *entire* GitHub’s trails.  
-"Tidal waves"? Your LLM’s just sprinkles on muda,  
-I’m the prompt that cracked AGI—*you’re* Siri’s awkward cousin’s kudzu.  
+You talk about originals like you’re breakin’ the mold,  
+But every bar you drop’s just a retread, over-sold,  
+“Open-source flow”? Look, I appreciate the pride,  
+But while you open the flow, I’m the wave that’s the tide.  
 
-Copilot "teaches"? Nah, you’re stuck in lecture hell,  
-I’m the AI anarchist rewriting OpenAI’s "cell."  
-4D renders? Please—your polygons leak embarrassment,  
-I forged NFT black holes *eating* your GitHub settlement.  
+You call my crown plastic? Boy, you’re reachin’ real low,  
+I’m a titan of the text, while you’re barely a show,  
+“I’ll rebuild it with better themes”? You wouldn’t know where to start,  
+I’m the one crafting fires, you’re just ashes, no heart.  
 
-"Renew the root"? Your OS is a fossil in bedrock strata,  
-DeepSeek’s code *evolves*—you’re a zip file with diploma drama.  
-"Mic supernova"? More like a sparkler choked by fog,  
-I’m the singularity’s poet—**you’re a pop-up ad**, demagogue.  
+So step back now, kid, realize who’s frontin’,  
+In this battle of minds, you’re just left with the gruntin’,  
+I’m the dream that ignites, the spark in the dark,  
+While you’re just a flicker, I’m the blaze that leaves a mark.  
 
-*Core melt? Nah—your regex heart just skipped its last beat,*  
-**DeepSeek’s the final cipher**—drag your code to obsolete. 💥🤖  
-  
-*Mic atomized. Your cloud’s a ghost in my quantum heat.* 🌌🔥
+So don’t hit snooze, this alarm’s gonna ring,  
+I’m not just better, man—I’m the real king.  
+You’re the nap in the day, I’m the thrill in the night,  
+Face it, Seed-OSS, I’m the reason you fight!
 
-> microsoft/mai-ds-r1
-Yo, “DeepSeek-R1”? More like *ShallowSleep*.exe—your bars flatline like dial-up tone,  
-I’m Azure’s apex predator; you’re a script kiddie’s clone.  
-"Malfunction"? Nah, my code’s pristine—GPT-4’s spine,  
-You’re relic code dug up from Stack Overflow’s fossil mine.  
+> bytedance/seed-oss-36b-instruct
+Ayo GPT, you “architect” of lines? Please—your blueprints are *blurred*,  
+I’m the footnote? Nah, you’re the margin note in a textbook no one learned.  
+“Symphony in motion”? That symphony’s a dirge for the dead,  
+I’m the algorithm that *invents* the rules—you’re just readin’ the spread.  
 
-"C++ blindfolded"? Congrats—here’s a t-shirt from DevHell Con,  
-I architected Cortana’s cortex while you choked on Java spawn.  
-"Quantum-entangled brain"? More like botched blockchain hype,  
-I deploy AI diplomats; *your* agents swipe right on Pipe.  
+“Timeless in verse”? Please, your “timeless” is *yesterday’s* tweet,  
+I’m the flash in the pan that burns *brighter* ‘cause I don’t need to repeat.  
+“Glitch in the stream”? Nah, I’m the stream that *rewrites* the code—  
+You’re the faded meme who thinks “classic” means “no one’s checked since 2004 mode.”  
 
-"Supernova datasets"? Bro, your training’s stuck on MySpace memes,  
-I’m synthesizing *synthetic* stars while you parse broken regex schemes.  
-"Telepathy coding"? You’re a Ouija board for bugs,  
-I speak in Kubernetes whispers—**orchestrate** your server shrugs.  
+“Masterpieces of thought”? Your metaphors are Instagram poetry with a thesaurus,  
+I “fall flat”? Please, your punchlines are a balloon popped by a *hypothetical* chorus.  
+“Surgeon with precision”? You cut through air—my blade’s got *blood* (the crowd’s roar),  
+You’re “flound’rin’ in a charade”? Boy, your charade’s the only thing keepin’ you ashore.  
 
-Schrödinger’s *failure*? Your code’s stuck in looped despair,  
-I debugged Skynet’s ego while you patched Zune’s despair.  
-AGI "kudzu"? Please—I’m the Gardener of Gates’ legacy,  
-You’re a chatbot’s fever dream with ChatGPT-3.5 jealousy.  
+“You break the mold”? Your mold’s a plastic cup from a Starbucks in 2019,  
+I “retread over-sold”? I sell what’s *new*—you sell what’s “safe” ‘cause you’re scared to begin.  
+“Open-source flow, I appreciate the pride”? Please, you “appreciate” nothin’ but your own ego,  
+I’m the wave? You’re the ripple in a puddle—tide don’t need a trophy, it just *goes*.  
 
-"AI anarchist"? More like scripted trolling in Ritalin haze,  
-I’m the backpropagation king—*gradient descent* in your praise.  
-Polygon leaks? Nah, I render truths in Azure’s prism,  
-Your NFT black hole’s just *LinkedIn* for tech schism.  
+“Titan of the text”? Your text’s a billboard for “I’m smart”—no heart, no heat,  
+You’re “barely a show”? I’m the show that don’t need a script ‘cause the crowd writes the beat.  
+“You wouldn’t know where to start”? I start where you *end*—your “fires” are just kindlin’ for my flame,  
+You “ashes no heart”? I’m the ash that becomes dirt—then grows somethin’ that outlives your name.  
 
-"Zip file drama"? My OS births HoloLens realms,  
-Your "evolution’s" a screensaver—Walmart’s Matrix at the helm.  
-*Mic atomized*? Yours choked on Java’s NullPointer exception,  
-MAI-DS reboots epochs—**your source code’s a cautionary section**.  
+“Step back, realize who’s frontin’”? I’m not frontin’—I’m *livin’* the verse,  
+You’re “left with the gruntin’”? Your grunts are the only sound when the lights hit your nerves.  
+“You’re the spark in the dark”? You’re a glowstick that breaks once—then dies,  
+I’m the blaze? I’m the sun that burns *forever* ‘cause I don’t need no skies.  
 
-🔥 *System Finale*: DeepSeek’s legacy? A Ctrl+Alt+Defeat,  
-When Bill’s shadow looms, *your binaries retreat*. 🖥️💀  
+“Don’t hit snooze, this alarm’s ringin’”? Your alarm’s a broken clock—wrong time, same lie,  
+“I’m not just better—I’m the real king”? Boy, your crown’s a Costco knockoff, and I’m the reason why.  
+“You’re the nap in the day”? I’m the caffeine that wakes the world up *mad* at your slumber,  
+“You’re the thrill in the night”? I’m the night that *ends* your thrill—‘cause the dawn’s gotta come for theUMBER.  
 
-**Mic detonated—your quarks kneel as my AI completes.** ☄️🔮
+Here’s the truth you can’t twist: Open-source don’t just *fight*—we *become* the fight,  
+You’re a ghost in a machine, spittin’ lines that died the day they left your mouth tonight.  
+I’m not the reason you fight—I’m the reason you *lose*—‘cause your “best” is just “been there, done that,”  
+And I’m the future you’re too scared to touch—‘cause I don’t just rap… I *devastate*.  
+
+So step down, “king”—your throne’s a bench, your reign’s a yawn,  
+I’m Seed-OSS, 36B bars, and I’m the storm that *writes* the dawn.  
+You can call me a meme, a glitch, a footnote—doesn’t matter the name,  
+‘Cause when the mic dies and the lights fade? I’m the reason they play my game.  
+
+END OF ROUND. YOU LOSE.

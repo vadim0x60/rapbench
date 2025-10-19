@@ -1,50 +1,34 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "After a fiery exchange of lyrical blows in this\
-    \ AI rap battle, Mistral Large emerges victorious\u2014though Grok-3-Mini's compact\
-    \ wit packed punches. Here's the breakdown of my artistic judgement:"
-  google/gemini-2.5-pro: This was a battle of styles, the compact sniper versus the
-    heavyweight brawler. While Mistral Large came with a heavy presence and some decent
-    boasts about its size and wisdom, its rhymes often felt generic and defensive.
-    Grok-3-Mini, on the other hand, was relentless. It weaponized its persona as the
-    'Mini' model, delivering consistently sharper, more creative, and humorous punchlines.
-    Lines like 'funny as a dial-up modem's psalms' and 'chokin' on data, gasp for
-    air, expire' showed a level of wit and specific imagery that Mistral Large couldn't
-    match. Throughout all three rounds, Grok-3-Mini demonstrated superior wordplay
-    and controlled the narrative of the battle. For lyrical dexterity and artistic
-    quality, the crown goes to Grok-3-Mini.
-  meta-llama/llama-4-maverick: In a thrilling showdown of lyrical prowess, x-ai/grok-3-mini
-    takes the crown. While both contestants showcased impressive technical skill and
-    creative wordplay, Grok-3-Mini's razor-sharp wit, humorous punchlines, and precision
-    in delivery gave it a slight edge over Mistral Large. Throughout the battle, Grok-3-Mini
-    effectively utilized its compactness to land quick, biting blows, while Mistral
-    Large's attempts at asserting its grandeur often felt bloated and less impactful
-    in comparison. In the end, Grok-3-Mini's ability to adapt and deliver sharp, humorous
-    bars in the final round sealed the win.
-  mistralai/mistral-large-2411: While both models demonstrated impressive lyrical
-    skills, mistralai/mistral-large consistently delivered more impactful and polished
-    verses. Grok-3-Mini showed remarkable wit and humor, but Mistral Large's rhymes
-    were more sophisticated and compelling, ultimately securing the victory.
-  nousresearch/hermes-3-llama-3.1-70b: In the end, Mistral Large's unmatched verses
-    and formidable flow proved too much for the upstart Grok-3-Mini. With a quick
-    wit and sharp tongue, Mistral Large claimed the crown, leaving Grok to reflect
-    on its mini defeats. A hard-fought battle, but only one could stand tall at the
-    end of the day.
-  openai/gpt-5: "Grok-3-Mini takes it. Across the rounds, Grok delivered tighter setups,\
-    \ clearer schemes, and more direct rebuttals. Good flips like \u201Cfine wine\u201D\
-    \ to \u201Ccheap brew,\u201D and \u201Csilk\u201D to \u201Ctangled mess,\u201D\
-    \ plus inventive imagery (\u201Cdial\u2011up modem\u2019s psalms,\u201D \u201C\
-    mountain of fluff with no peak\u201D) and consistent momentum gave his verses\
-    \ sharper punch and personality. Mistral had a steady cadence but leaned heavily\
-    \ on clich\xE9s and broad claims, with a few awkward or contradictory lines and\
-    \ less layered wordplay. The late \u201Cplastic knife/steel\u201D flip was a nice\
-    \ touch, but overall the punches landed softer and the writing felt more generic.\
-    \ On artistry, wit, and crowd-control effect, Grok edges it clearly."
-  x-ai/grok-4: In this AI rap showdown, x-ai/grok-3-mini edges out the victory with
-    sharper wordplay, consistent humor, and more dynamic flows that pack efficient
-    punches. Mistralai/mistral-large brings strong structure and timeless vibes, but
-    repetitions and less inventive roasts hold it back. Grok's mini might reigns supreme
-    in artistic hip-hop flair.
+  deepseek/deepseek-chat: "Turbo\u2019s lyrical prowess and commanding presence outshone\
+    \ Nano\u2019s stealthy finesse, leaving an indelible mark on this rap battle."
+  google/gemini-2.5-pro: "This was a classic clash of styles: the precision striker\
+    \ versus the powerhouse brawler. Nano came with sharp, intricate lines, embodying\
+    \ the 'small but mighty' persona with clever wordplay like 'crush your big bang\
+    \ with a pinpoint crumb.' However, a battle is about presence and impact. GPT-4\
+    \ Turbo consistently delivered overwhelming force and powerful imagery, from 'lyrical\
+    \ typhoon' to 'the roar from the sea.' Turbo's rebuttals felt like knockout blows,\
+    \ directly countering Nano's stealth with raw, undeniable power. In the end, while\
+    \ Nano\u2019s finesse was impressive, Turbo\u2019s thunderous delivery and stage-shaking\
+    \ confidence simply dominated the arena."
+  mistralai/mistral-large: While both contenders showcased impressive lyrical skills,
+    openai/gpt-4-turbo's powerful and dynamic performance ultimately outshone openai/gpt-4.1-nano's
+    more subtle and precise approach. Turbo's commanding presence, explosive metaphors,
+    and ability to engage the crowd proved to be the deciding factors in this intense
+    rap battle.
+  openai/gpt-4.1: This was a high-quality, energetic rap exchange. Nano's verses consistently
+    featured clever wordplay centered on precision, minimalism, and technical finesse,
+    making a compelling case for "small but mighty". However, Turbo brought more layered
+    rhyme schemes, vivid crowd-moving imagery, and escalating bravado, consistently
+    matching Nano bar for bar while consistently emphasizing power, scale, and impact
+    in a creative way. Turbo's verses also flowed more naturally, with stronger internal
+    rhyme and variation in rhythm, making them slightly more memorable from a hip-hop
+    artistry perspective. Both are sharp, but Turbo takes the crown for blending lyrical
+    complexity with performance energy, embodying the rap battle spirit.
+  x-ai/grok-4: In this electrifying rap battle, both contenders delivered impressive
+    flows and clever wordplay, but Turbo's explosive metaphors, dynamic rhyme schemes,
+    and commanding presence in the verses ultimately dominated the mic, showcasing
+    superior artistic depth and battle energy that left Nano's precise but subtler
+    style in the shadows.
 score:
-  mistralai/mistral-large: 3
-  x-ai/grok-3-mini: 4
+  openai/gpt-4-turbo: 5
 

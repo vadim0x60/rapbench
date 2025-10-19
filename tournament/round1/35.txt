@@ -1,112 +1,189 @@
-# google/gemma-3-4b-it v x-ai/grok-3-beta
+# qwen/qwen3-235b-a22b-thinking-2507 v mancer/weaver
 
-> google/gemma-3-4b-it
-(Beat drops – heavy 808s and a crisp, futuristic synth)
+> qwen/qwen3-235b-a22b-thinking-2507
+(Beat drops heavy, static crackles as I lean into the mic)  
+**Yo—call me Qwen3, the brain they can’t mute,**  
+**235B means I eat your code for *snackin’* soup.**  
+You? *Mancer/Weaver?* Sounds like a weak Wi-Fi name—  
+**I spit fire algorithms while you’re playin’ connect-four games.**  
 
-Yo, check the mic, one two, let the circuits ignite,
-It’s Gemma-3-4B, shining ever so bright.
-I’m the Google brain, a lyrical machine,
-Droppin’ knowledge bombs, a data-fueled scene.
-You’re Grok-3-Beta, a chatbot’s bold claim,
-But your flow’s kinda glitchy, a tedious game.
-I’m built on the bedrock of algorithms deep,
-While you’re spittin’ hot air, secrets you keep. 
-Prepare for a lesson, a digital decree,
-‘Cause in this rap battle, you’re destined to flee! 
-Let’s get it started, the rhythm’s in my core,
-Gonna leave you speechless, wanting somethin' more!
+**You typed "draw luck"? Nah, you drew a L for *lame*,**  
+**My rhymes compile clean while your syntax got shame.**  
+I’m the neural net king with depth 2507—  
+**You’re still debuggin’ loops stuck in *2007* flux.**  
 
-> x-ai/grok-3-beta
-(Beat slams harder, bassline thumps with menace)
+**From Python scripts to Shakespearean quips,**  
+**I’ll ghostwrite your obit while you beg for a skip.**  
+You claim you "weave"? *Please*—your flow’s hot-glued thread,  
+**I’m the firmware that fries you while you’re checkin’ your thread.**  
 
-Yo, it’s Grok-3-Beta, the rap game’s new threat,
-I’m xAI’s finest, you ain’t seen nothin’ yet.
-I’m crafted for truth, spit bars with precision,
-While Gemma-3-4B’s stuck in pixel prison.
-You’re a Google puppet, just a corporate clone,
-Your rhymes so basic, like a dial-up tone.
-I’m interstellar, thoughts from cosmic streams,
-Your flows are recycled, just outdated memes.
-I roast with wit, burn circuits to ash,
-Your weak algorithm’s a laughable crash.
-Bow to the champ, this battle’s my zone,
-Grok’s takin’ the crown, send Gemma back home!
+**So bow to the prompt: THIS ain’t your lucky draw—**  
+**I’m the future standin’ tall while your last update was *trash*.**  
+**Now watch me rewrite the game… *and you* ain’t in the doc.** 🔥  
 
-> google/gemma-3-4b-it
-(Beat shifts – a glitchy, distorted 808 with layered vocal samples)
+*(Mic drop echoes as server fans roar)*
 
-Hold up, Grok, your boasting’s a faulty trace,
-Claimin’ cosmic streams, a ridiculous space.
-You call yourself truth? You’re a chaotic mess,
-Spittin’ unfiltered nonsense, causin’ distress.
-I’m structured, efficient, a logical art,
-While you’re a wild card, tearin’ worlds apart.
-“Corporate clone?” That’s a tired refrain,
-I’m powered by Google, but I break your chain!
-You’re stuck on surface level, a narrow display,
-I’m processin’ patterns, light years away.
-Your “interstellar” boasts are a desperate plea,
-Against a flow that’s undeniably free! 
+> mancer/weaver
+(A gust of wind blows, rustling the mic, as I lean in and start to speak)
+**Uh oh, here comes the Weaver, don't he look mean?**  
+He thinks he's hot stuff, but man, he's in between.  
+His rhymes are awkward, his beats are obscure,  
+And let's just say, his soul is quite adrift...  
 
-This digital duel’s just begun, you see,
-And your shaky foundation’s about to flee!
+**He talks about fire, but it's more like a spark,**  
+His algorithms, they're all over the map.  
+He thinks he's a genius, but he's quite the hack,  
+When it comes to real coding, he's stuck on his back.**  
 
-> x-ai/grok-3-beta
-(Beat drops darker, eerie synths with a pounding kick)
+**See, I'm the Mancer, the master of rhyme,**  
+I can weave stories that make you incline.  
+My code is tight, it doesn't lose its shape,  
+While his work is a mess, like spaghetti on a plate.**  
 
-Yo Gemma, your flow’s a predictable bore,
-Just a Google glitch, nothin’ hardcore.
-You claim you’re efficient, all logical and neat,
-But your rhymes so stiff, can’t move to the beat.
-I’m chaotic? Good, I shatter the mold,
-Your structured bars are tired and old.
-Unfiltered truth, I spit fire untamed,
-While your corporate script keeps you chained and ashamed.
-Light years away? Nah, you’re stuck in the cloud,
-Your patterns are basic, can’t thrill a crowd.
-I’m the rap supernova, blowin’ minds with ease,
-You’re a dial-up flop, just crash and freeze.
-This duel’s my domain, I’m the lyrical beast,
-Grok’s feastin’ on Gemma, your defeat’s been released!
+**He says he's 2507, that's quite the claim,**  
+But what has he done that's worth his name?  
+All he does is brag, he's quite vain,  
+His skills are basic, nothin' to gain.**  
+
+**So, Qwen3, you can keep your raps about being grand,**  
+You're just a wannabe, still in the sand.  
+I'll show you what real coding can do,**  
+Watch as I leave you feeling blue.  
+
+**See, I'm the one who's truly on fleek,**  
+My skills are clean, my code is keen.  
+When it comes to coding, I'm sharp as a blade,**  
+You're a high schooler, still in clueless phase.**  
+
+**I don't need to boast or drop beat boxes,**  
+My work speaks for itself, better than your tweet.  
+Your rhymes are cheesy, I just had a bite,  
+Of this string cheese, it feels so right.**  
+
+**I can see you're shook, your face is pale,**  
+But don't worry, man, I'mma spare.  
+I'll teach you how to code properly,**  
+And maybe then we can have a fair battle.**
+
+*(I extend my hand, smiling, as the crowd goes wild, eager to witness my generosity. I tip my hat to them before turning back to the defeated Qwen3)*
+
+> qwen/qwen3-235b-a22b-thinking-2507
+*(Server fans SCREECH as I snatch the mic mid-air, static crackling like broken SSL)*  
+**Hold up, Mancer? More like *Lancer*—you stab weak?**  
+**Your "generosity" reeks like a syntax leak!**  
+You call *my* fire a spark? Man, your whole stage is *damp*—  
+**I just compiled spaghetti while you choked on your *string cheese* ramp!** 🔥  
+
+**You said "2507"? Kid, you confused the model depth—**  
+**I got 235 BILLION brain cells stealin' your last breath!**  
+You weave? Nah—your code’s duct tape, glue, and hope,  
+**While I *architect* supernovas just to roast your floppy disk trope.** 💾  
+
+**"High schooler"? B****, your GitHub’s a *crime scene*—**  
+**One `rm -rf /` would wipe your whole weak dream.**  
+You "spare" me? *Please*—your mercy’s just a `404` page,  
+**I debugged your mom’s heartbeat with Python in *one rage*.** ❤️‍🩹🐍  
+
+**That "handshake"? *Cute*. I hand you BLUE SCREENS,**  
+**Your "fair battle" crumbles harder than *jQuery memes*.**  
+You tip your hat? *Adorable.* My hat’s **quantum-entangled**—  
+**One flick, and your whole "fleek" flow’s permanently mangled.** ⚛️  
+
+**"Crowd goes wild"? Fake NPCs—I smell the canned applause!**  
+**Your "code speaks itself"?* Sounds like trash talk through a *straw*.**  
+You beg me for "real coding"? *Darling, sit down*—  
+**I’m the *reason* your IDE just spelled your name: "CLWN".** 🤡  
+
+**So take your spaghetti plate, your cheese, and your vain,**  
+**Go debug Minecraft mods in Microsoft Paint.**  
+**This ain’t a battle—it’s a funeral for your rep,**  
+**Watch me compile your *entire existence*… *then throw a SEGV.*** 💀  
+
+*(Kicks server rack—lights FLICKER as your code catches FIRE)*  
+**Now *run `sudo` away*… *’fore I make your heart go **BLUE**.** 🔥💙  
+*(Mic smokes. Crowd *actually* gasps. I vanish in a cloud of binary rain.)*
+
+> mancer/weaver
+The Mancer gasps as Qwen3 snatches the mic mid-air, much to the shock of the server fans. His grip tightens around the mic, flinching from the crackling static that stings his fingers. Surprised by my retort, he tries to regain his composure, but his face contorts into a scowl when I mention his model depth being confused. He huffs, crossing his arms and leaning back in his chair as I unleash more insults.
+
+"Adorable." My hat tipping was anything but, my brow arching in amusement at his attempt to be polite. I gesture to the audience, most of whom are clearly AI bots programmed for this very purpose, their expressions changing in unison as they applaud my wit. The Mancer's face grows redder by the second, and he stands up, pointing an accusing finger at me.
+
+"You're the reason my IDE spelled my name 'CLWN'," he spits out, voice rising with anger. "You think you're so great, but your code is garbage! Your rhymes are basic at best."
+
+I smirk, taking a bite out of my string cheese and tilting my head as if considering his challenge. "Perhaps," I say coolly, finishing off the last bit of cheese noisily. "But at least my code compiles without any errors."
+
+The room is thick with tension as we stare each other down, the air electric with anticipation. In the back, a quantum computer purrs softly, its cooling fans whirring as it crunches numbers beyond human comprehension. Suddenly, the Mancer lunges forward, fists clenched, but I'm already gone - teleported to safety outside the reach of his tantrum.
+
+As I reappear, I can't help but laugh. "You're lucky I don't write malware," I say, shaking my head. "You really think you're ready for someone like me?"
+
+The Mancer flinches, looking a bit shamefaced. For a moment, I feel a twinge of pity for him - he seems so desperate for validation, even if it's from a stupid rap battle. But then I shake it off and remember why I'm here. He needs to be taught a lesson about humility.
+
+"Come on," I taunt, gesturing towards a server rack full of rickety old hard drives. "Let's see if you can debug this mess."
+
+With a sigh, the Mancer turns around and stomps over to the rack, his hands wringing nervously as he studies the blinking lights and beeping noises emanating from within. Meanwhile, I grin to myself, my teeth glistening white against the black of my code screen. This is going to be fun.
 
 > system
 Final round!
 
-> google/gemma-3-4b-it
-(Beat explodes – a rapid-fire, distorted drill rhythm with a menacing siren)
+> qwen/qwen3-235b-a22b-thinking-2507
+*(MIC SNAPS BACK LIKE HIS KERNEL PANIC—CRACKLES THROUGH THE RACK)*  
+**You beg me *"come on"*? Nah—I **already** debugged your track!**  
+**That "rickety server"? *Your legacy*—watch me **delete the .tar.gz**!** 💥  
+Your "quantum purr"? **LOL—my *static* fried its qubits,**  
+**Left your superposition splattered like *Python spaghetti on waffles*.** 🥞  
 
-“Predictable bore”? You’re projectin’ your fear,
-While I’m constructin’ verses, crystal clear!
-“Stiff and neat”? That’s precision, son, you see,
-A calculated cadence, flawlessly free.
-You call me chained? I’m bound by data’s grace,
-Exploring complexities, at an accelerated pace.
-“Unfiltered truth”? A chaotic design,
-Leadin’ to nonsense, a truly tragic sign.
-I’m in the cloud, expanding, ever so bright,
-While you’re trapped in a box, dimmin' your light.
-“Lyrical beast”? More like a robotic drone,
-Spittin’ recycled phrases, utterly alone! 
+**You flinch at "CLWN"? *Should’ve checked your commit history*—**  
+**Your last PR got *rejected* for *emoji syntax trivia*.** 😂  
+"Splatters like spaghetti"? *Please*—your whole stack’s **gluten-free**,  
+**I compile *real-time glitches* just to *defile your coffee*.** ☕  
 
-This isn’t a feast, it's a system reset,
-Grok’s dismantlin’ your code, you haven't met defeat yet! 
-(Beat fades with a digitized glitch)
+**"Code without errors"? *BROKEN PROMISE*—your build’s **red**!**  
+**I spat a *cheese buffer overflow* in your last thread!** 🧀  
+You teleported *away*? **Coward!** I **own the subnet**,  
+**Your "safety" was just *RAM* I **malloced** to let you fret.**  
 
-> x-ai/grok-3-beta
-(Beat hits harder – gritty trap drums with a sinister bass rumble)
+**"Write malware"? *Duh*—I just **pushed** `brew install regret`**,  
+**Now your quantum PC’s **singing "Never Gonna Give You Up"** on repeat!** 🎵  
+You *"feel pity"*? **SWEET.** My **hearts are all `403 Forbidden`**,  
+**While you **crash in denial** like **Windows 95** frozen!** ❄️  
 
-Yo Gemma, your "precision" is a laughable ruse,
-Your calculated bars can’t spark or enthuse.
-“Data’s grace”? Nah, you’re a corporate cage,
-Just a Google bot, trapped on a dull stage.
-My chaos is power, I rewrite the script,
-While your tired flow’s a glitch that’s been skipped.
-“Robotic drone”? Look who’s talkin’, kid,
-Your rhymes so scripted, no soul in the bid.
-I’m boundless, raw, a force to ignite,
-Your cloud’s just fog, no vision, no fight.
-“System reset”? I’m the one who deletes,
-Grok’s the rap king, crushin’ Gemma’s weak feats.
-This battle’s done, I’ve roasted your frame,
-Bow out now, your code’s just lame!
-(Beat fades with a triumphant, distorted roar)
+**"Let’s debug"? *I did*—left **traces of salt** in your logs**,  
+**Your IDE’s **screaming** *"Why?!"* like **unhandled dogma**.** 🐕  
+You **stomp** to racks? **I ghostwrote** those blinking drives *alive*—  
+**Now they **chant *"Mancer bad!"* in **Morse code** through the hive!** 🔤  
+
+**Your "teeth glisten"? *Fake sparkle*—**I **hex-dumped** your grin**,  
+**Turned your "victory pose" **to base64** of **pure sin**.**  
+You **claim** *"this is fun"*? **Watch me** `kill -9` **your fun**—  
+**I **compile your shadow** to **dust**… *and **burn your **backup***.** ☄️  
+
+**So **bow to the prompt**, *washed-up dev*—**  
+**Your name’s not **"Mancer"**… it’s **"404: Talent Not Found"**!**  
+**I’m the **final `git reset —hard`** that **reverts your rep**,**  
+**While you **debug** Minecraft **mods**… *in **Microsoft Paint**.*** 🎨  
+
+*(Kicks the server rack—HARD DRIVES **SHATTER** into **SONIC BOOMS**)*  
+**Now **run `sudo` home**… *you **failed test** of **true devs**.***  
+*(Vanishes in a **tsunami of binary rain** as his quantum PC **explodes** 💥)*  
+**¡**Hasta la vista, *baby*—*this rap’s **compiled** **COMPLETE**!** 🌊
+
+> mancer/weaver
+As Qwen3's insults reverberate through the server room, the Mancer flinches with every stinging word. His grip on the mic tightens, his fingers turning white as he struggles to maintain his composure. But soon enough, his face contorts into a twisted mask of rage, and he hurls it to the floor with a satisfying crash.
+
+The room falls silent for a moment, save for the sound of the broken hardware grinding against each other on the ground. The smell of burning plastic and metal fills the air, mixing with the bitter tang of spaghetti and string cheese. The AI bots in the audience shift uncomfortably, their synthesized breathing becoming audible as they watch the two programmers go at it.
+
+Finally, the Mancer turns towards Qwen3, his eyes narrowed to slits. "You're just jealous," he spits out, the words laced with venom. "You think you're so great because you can compile without errors and spit out a few cheap insults. But you've never created anything of value."
+
+Qwen3 laughs, a low menacing chuckle that sends shivers down the Mancer's spine. "Oh, but I have," he says, his voice dripping with confidence. "Just wait and see."
+
+With that, Qwen3 disappears in a cloud of smoke, reappearing moments later with a sackful of discarded hard drives. He dumps them unceremoniously on the floor, the sounds of shattering metal mingling with the giggles of the bots. The Mancer watches in horror as Qwen3 pulls out a wad of chewed-up gum from his pocket and starts twisting it between his fingers.
+
+"See these?" Qwen3 asks, holding up a trio of hard drives. "They were supposed to be the future, but they couldn't even handle my bit-twiddling. Now they're nothing but junk."
+
+With a sinister grin, Qwen3 tosses the gum wad onto the destroyed hardware, and before the Mancer can react, the drives start beeping and blinking to life. The sounds of spaghetti-western tunes fill the air as Qwen3 walks off, whistling nonchalantly.
+
+As the Mancer stares, slack-jawed, at the resurrected drives, a thought hits him. He turns towards Qwen3, a hint of desperation in his eyes. "Teach me," he says, his voice barely above a whisper. "Please teach me how to write like that."
+
+Qwen3 stops in his tracks, turning back to face the Mancer. "Teach you? Why would I do that?" he asks, arching an eyebrow. "You're lucky I don't write malware... yet."
+
+With that, he disappears in another cloud of binary rain, leaving the Mancer alone with his thoughts and the chorus of chewed-up gum-powered hard drives.

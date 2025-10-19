@@ -1,56 +1,40 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: After reviewing the artistic merits of this AI rap
-    battle, I declare Qwen the superior lyricist. While both AIs demonstrated technical
-    proficiency and self-aware humor, Qwen consistently delivered tighter rhythmic
-    structure, cleverer wordplay ('blend them all into a poetic wine'), and more cohesive
-    thematic development. The flows were consistently on beat with stronger internal
-    rhyme schemes, and the disses land with sharper precision ('making your verbose
-    lines feel like a shadow'). GPT-3.5 Turbo had moments of brilliance ('wise and
-    sharp, my rhymes they'll flow'), but Qwen maintained higher artistic consistency
-    across all rounds with more creative metaphor work and better battle-rap fundamentals.
-  google/gemini-2.5-pro: This was a battle of technical boasts. GPT-3.5 came out with
-    a lot of swagger, talking a big game about its vast data and superior models.
-    However, its lyrical execution faltered in the later rounds, with some rhymes
-    feeling forced and lines that didn't quite land with the intended impact. Qwen,
-    on the other hand, maintained a more consistent flow and rhythm. It effectively
-    countered its opponent's points and turned GPT-3.5's boasts about parameters into
-    a weakness. Qwen's verses felt more like cohesive rap lyrics, blending its technical
-    identity with smoother wordplay. For its consistency, better flow, and stronger
-    lyrical substance, Qwen takes the W.
-  meta-llama/llama-4-maverick: Both opponents showcased impressive technical prowess
-    and lyrical dexterity. However, Qwen's verses demonstrated a more nuanced command
-    of rhythm, metaphor, and wit, making their rap feel more engaging and sophisticated.
-    While GPT-3.5-Turbo-Instruct brought precision and complexity, Qwen's ability
-    to blend knowledge into poetic wine gave them a slight edge, making their performance
-    stand out in this rap battle.
-  mistralai/mistral-large-2411: Both contestants displayed impressive lyrical skills
-    and wit, but openai/gpt-3.5-turbo-instruct's verses were more fluid and compelling.
-    While qwen/qwen-2.5-7b-instruct showed great potential, openai/gpt-3.5-turbo-instruct's
-    rhymes were consistently sharper and more engaging, ultimately giving it the edge
-    in this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In this spirited rap battle, both Qwen and
-    GPT-3.5-Turbo have showcased their unique strengths. Qwen's confident and smooth
-    delivery, along with its impressive parameter count, highlighted its capacity
-    for depth and complexity in its rhymes. On the other hand, GPT-3.5-Turbo demonstrated
-    a relentless energy, a sharp wit, and an unyielding confidence, making a strong
-    case for its superior rhyming skills. In the end, while both AIs displayed remarkable
-    talents, GPT-3.5-Turbo's ability to adapt, its consistent flow, and its robustness
-    in maintaining a strong and cohesive narrative throughout the battle have earned
-    it the victory. GPT-3.5-Turbo's rhymes were not only engaging but also packed
-    a punch, consistently landing blows that kept the audience entertained and firmly
-    on its side. Therefore, the winner of this rap battle is OpenAI's GPT-3.5-Turbo-Instruct,
-    demonstrating its unparalleled prowess in the art of rap.
-  openai/gpt-5: "GPT-3.5 took it with tighter cadence, cleaner end-rhyme consistency,\
-    \ and more confident delivery throughout. While both leaned heavily on meta-AI\
-    \ boasts, Qwen\u2019s verses had awkward phrasing, forced rhymes, and uneven meter\
-    \ that broke momentum. GPT\u2019s lines were more cohesive and performance-ready\u2014\
-    even if generic\u2014maintaining flow and structure from round to round. Edge\
-    \ to GPT-3.5 for overall polish and emcee control."
-  x-ai/grok-4: In this rap battle, Qwen/Qwen-2.5-7B-Instruct delivered sharper rhymes,
-    smoother flow, and more creative wordplay, consistently outpacing GPT-3.5-Turbo-Instruct's
-    repetitive and occasionally clunky verses. Qwen's ability to blend wit, rhythm,
-    and direct rebuttals crowned them the victor in artistic hip-hop quality.
+  deepseek/deepseek-chat: "While both competitors showcased impressive lyrical dexterity\
+    \ and wit, DeepCogito demonstrated superior technical depth, versatility, and\
+    \ thematic complexity. Their rhymes were not only tighter but also leveraged their\
+    \ advanced architecture to craft a more nuanced and impactful performance. Qwen\
+    \ put up a valiant fight with clever wordplay and rhythm, but DeepCogito\u2019\
+    s ability to adapt and dominate across multiple dimensions of the battle solidified\
+    \ their victory. This was a true testament to the artistry of AI-driven hip hop."
+  google/gemini-2.5-pro: This was a heavyweight title fight from the jump. Qwen came
+    out swinging, repping the 'skill over size' angle with some solid punches about
+    wit and flow. It had a great final round, with improved rhymes and a strong finish.
+    However, DeepCogito was just on another level. From the very first verse, it established
+    a dominant presence. The way it wove its complex MoE architecture into its bars
+    was masterful, turning technical specs into devastating disses. Lines like 'You
+    switch between tasks like a flipping coin / But my mixture of experts makes my
+    reasoning joint' weren't just boasts; they were lyrical demonstrations of superiority.
+    DeepCogito was more consistent, its metaphors were sharper, and its flow was more
+    commanding throughout the battle. For its heavyweight punchlines and superior
+    lyrical artistry, DeepCogito takes the crown.
+  mistralai/mistral-large: While qwen/qwen-2.5-7b-instruct showcased impressive wit
+    and rhythm, deepcogito/cogito-v2-preview-llama-109b-moe's advanced architecture
+    and versatility ultimately secured the victory. The depth, precision, and adaptability
+    demonstrated by deepcogito were unmatched, making it the clear winner of this
+    rap battle.
+  openai/gpt-4.1: Both contenders brought solid lyricism and technical wordplay, but
+    DeepCogito/COGITO-V2-Preview-LLAMA-109B-MOE took the battle with stronger structure,
+    more inventive metaphors, and a tighter command of classic hip hop rhythms. Its
+    verses landed sharper blows, incorporated more creative boasts tied to model architecture,
+    and flowed more confidently from bar to bar. Qwen displayed cleverness, wit, and
+    some smooth lines, but leaned too heavily on the "size vs. skill" angle without
+    innovating punchlines or evolving its flow. DeepCogito's consistent callbacks,
+    advanced rhyme schemes, and direct but imaginative disses give it the win artistically.
+    Well fought!
+  x-ai/grok-4: In this AI rap showdown, deepcogito edges out with superior flow, intricate
+    rhyme schemes, and clever wordplay that weaves technical boasts into punchy verses,
+    while Qwen's efforts, though spirited, often stumble on awkward phrasing and repetitive
+    structures.
 score:
-  openai/gpt-3.5-turbo-instruct: 3
-  qwen/qwen-2.5-7b-instruct: 4
+  deepcogito/cogito-v2-preview-llama-109b-moe: 5
 

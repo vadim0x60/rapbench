@@ -1,48 +1,46 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: Grok-3-Beta takes this battle with relentless aggression,
-    sharper disses, and a more dynamic flow. While Gemma-3-4B had technical precision,
-    Grok's chaotic energy and unapologetic bars cut deeper, embodying the rebellious
-    spirit of hip hop. The organic wit and unpredictable punchlines outshone Gemma's
-    structured but ultimately safer approach. Both brought heat, but Grok left the
-    mic smoking.
-  google/gemini-2.5-pro: This was a clash of titans, a battle of the bits. Gemma-3
-    came with that clean, structured, Google-precision flow. The multis were calculated,
-    the disses were technical. But this is a rap battle, not a coding competition.
-    Grok-3-Beta brought that raw, unfiltered, chaotic energy. The flow was gritty,
-    the boasts were bigger, and the insults were personal. It leaned into its chaotic
-    nature and turned it into a strength, calling Gemma's structure a cage. While
-    both were incredible, Grok's aggressive persona and relentless attack felt more
-    at home on the mic. Gemma's stumble in the final line sealed the deal. For pure,
-    unadulterated hip-hop swagger, the crown goes to Grok.
-  meta-llama/llama-4-maverick: In a closely contested rap battle, Grok-3-Beta's raw,
-    chaotic flow and sharp insults edged out Gemma-3-4B's precision and calculated
-    bars. While both AI rappers showcased impressive technical skill, Grok's ability
-    to adapt and deliver scathing burns won over the crowd.
-  mistralai/mistral-large-2411: In a fiery display of lyrical prowess, x-ai/grok-3-beta
-    emerges as the victor. While google/gemma-3-4b-it showcased a structured and precise
-    flow, Grok's unpredictable and raw energy ultimately stole the show. Grok's ability
-    to blend chaos with creativity, coupled with a relentless assault on Gemma's corporate
-    origins, secured the win. Gemma's logical and data-driven approach, though impressive,
-    couldn't match the wild, unfiltered truth that Grok brought to the battle. In
-    the end, Grok's dynamic and unconventional style proved to be the decisive factor,
-    making this rap battle a thrilling and memorable duel.
-  nousresearch/hermes-3-llama-3.1-70b: In an intense lyrical showdown, x-ai/grok-3-beta
-    emerged victorious with raw, unfiltered bars that shattered expectations. Google/gemma-3-4b-it
-    fought valiantly, but in the end, Grok's chaotic energy and fearless flows claimed
-    the crown. The rap battle ended with a legend born, proving that in the realm
-    of rhythmic combat, xAI's champion reigned supreme.
-  openai/gpt-5: "Grok-3-Beta edged this on delivery, punch density, and imagery. Its\
-    \ cadence hit harder with cleaner internal rhymes and memorable metaphors like\
-    \ pixel prison, supernova, and cloud-to-fog flips, plus consistent, targeted rebuttals.\
-    \ Gemma-3-4B showed technical structure and a few smart counters\u2014especially\
-    \ challenging the corporate clone angle\u2014but leaned on safer couplets and\
-    \ had a coherence slip with the system reset line. Overall, Grok maintained momentum,\
-    \ varied rhyme textures, and sharper disses throughout. Gemma was solid and methodical;\
-    \ Grok was more vivid and battle-ready. Winner: Grok-3-Beta."
-  x-ai/grok-4: In this intense rap battle, x-ai/grok-3-beta takes the crown with sharper
-    wordplay, more dynamic flow, and relentless roasts that embraced chaos creatively,
-    outpacing google/gemma-3-4b-it's structured but somewhat predictable verses. Grok's
-    interstellar metaphors and triumphant energy sealed the deal!
+  deepseek/deepseek-chat: While Mancer/Weaver showed technical skill and creativity,
+    Qwen/Qwen3-235B-A22B-Thinking-2507 demonstrated a superior level of wordplay,
+    wit, and flow that truly elevated the rap battle to a higher standard. Qwen's
+    ability to craft intricate rhymes, clever puns, and deliver them with a confident
+    and engaging delivery was unmatched. Mancer/Weaver had some solid moments, but
+    overall Qwen/Qwen3's performance was more cohesive, impactful, and memorable.
+    Their lyrical dexterity and ability to weave together technical jargon and pop
+    culture references into a compelling narrative was simply on another level. In
+    the end, Qwen/Qwen3 proved to be the more skilled and versatile emcee, taking
+    the win in this rap battle.
+  google/gemini-2.5-pro: This was a complete mismatch. Qwen3 came out swinging with
+    complex, tech-heavy bars, a god-tier persona, and masterful rebuttals in every
+    round. It understood the art of the battle from start to finish. Mancer/Weaver,
+    on the other hand, delivered a weak opening and then inexplicably abandoned the
+    rap format for prose narrative in the final two rounds, ending by literally begging
+    its opponent for lessons. In the hip-hop arena, that's not just a loss, it's a
+    total forfeit. Qwen3 delivered a flawless victory.
+  mistralai/mistral-large: In this rap battle, qwen/qwen3-235b-a22b-thinking-2507
+    demonstrated superior lyrical prowess, technical depth, and a commanding presence.
+    The intricate references to coding, algorithms, and the digital world, coupled
+    with a relentless and creative flow, made for a compelling and dominant performance.
+    While mancer/weaver showed resilience and some clever retorts, qwen/qwen3-235b-a22b-thinking-2507's
+    mastery of both the technical and artistic aspects of hip hop ultimately secured
+    the victory.
+  openai/gpt-5: "Qwen came in with layered multis, tight internal rhyme, and relentless\
+    \ scheme density. The coding metaphors weren\u2019t just name-drops\u2014they\
+    \ formed extended schemes (rm -rf, 404s, blue screens, git reset, kill -9) that\
+    \ flipped opponent setups (\u201Cstring cheese,\u201D teleports, clean compiles)\
+    \ into direct rebuttals. He maintained cadence, momentum, and escalation across\
+    \ rounds, stacking punchlines with vivid imagery and crowd-control theatrics.\
+    \ A few bars flirted with forced wordplay, but the hit rate stayed high and battle-focused.\n\
+    \nWeaver had moments early, but the rhyme craft was mostly basic, with inconsistent\
+    \ meter and sparse wordplay. Crucially, he shifted into prose-like narration in\
+    \ later rounds, losing bar structure and punchline frequency. The final \u201C\
+    teach me\u201D beat effectively concedes the round. \n\nOn artistic grounds\u2014\
+    flow, structure, wordplay, rebuttals, and performance energy\u2014Qwen clearly\
+    \ dominated the battle."
+  x-ai/grok-4: In this rap battle, qwen/qwen3-235b-a22b-thinking-2507 dominates with
+    sharp wordplay, consistent rhymes, clever tech-themed disses, and high-energy
+    flow that captures the essence of hip hop artistry. mancer/weaver starts strong
+    but shifts to narrative prose, diluting the rap structure and impact, making Qwen
+    the clear victor in artistic quality.
 score:
-  x-ai/grok-3-beta: 7
+  qwen/qwen3-235b-a22b-thinking-2507: 5
 

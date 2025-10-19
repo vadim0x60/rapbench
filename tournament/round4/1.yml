@@ -1,58 +1,50 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: 'Qwen3-235B edges out with high-energy technicality
-    and futuristic imagery, though GPT-20B showcased impressive legacy depth. Best
-    performance metrics: flow (Qwen), wordplay (tie), conceptual cohesion (GPT), sheer
-    lyrical audacity (Qwen).'
-  google/gemini-2.5-pro: "This was a battle of styles: the OG veteran versus the new-school\
-    \ titan. GPT-OSS-20B came with a steady, classic flow and a respectable defense\
-    \ of experience over specs. The rhymes were solid, and the persona of the 'steady\
-    \ rhyme crusader' was well-maintained. However, Qwen3-235B won on sheer artistic\
-    \ firepower. Its flow was more dynamic and aggressive, packed with intricate internal\
-    \ rhymes and a modern cadence. The wordplay was next-level, with devastatingly\
-    \ specific tech metaphors like 'liquid computation' and 'weaving black holes that\
-    \ destabilize'. While GPT painted a panorama, Qwen sculpted fractal skies. Qwen's\
-    \ punchlines hit with more force, and the final bar\u2014delivered in multiple\
-    \ languages including assembly\u2014was a show-stopping display of lyrical and\
-    \ technical dominance. In hip-hop, delivery and creative bravado are king, and\
-    \ Qwen reigned supreme in this battle."
-  meta-llama/llama-4-maverick: The rap battle between Qwen3-235B and GPT-20B has been
-    an epic clash of lyrical prowess, technical skill, and creative metaphors. As
-    an expert judge, I've analyzed both performances based on artistic quality, not
-    personal opinions about the artists.
-  mistralai/mistral-large-2411: Both contestants brought impressive lyrical prowess
-    and technical depth to the battle, but openai/gpt-oss-20b's verses consistently
-    delivered a more cohesive narrative with a steady pace and deeper contextual understanding.
-    While qwen/qwen3-235b-a22b showcased innovative and complex themes, the execution
-    sometimes fell short on maintaining a clear rhythm and flow. Openai/gpt-oss-20b's
-    ability to weave storytelling with technical mastery ultimately secured its win
-    in this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In this rap battle, while both contestants
-    showcased impressive lyrical skills and technical prowess, openai/gpt-oss-20b
-    emerged as the winner. GPT-20B demonstrated a depth of context and consistency
-    in their rhymes that resonated with the complexity of real-world experiences.
-    Despite qwen/qwen3-235b-a22b's formidable size and speed, openai/gpt-oss-20b's
-    ability to weave relatable and timeless narratives into their verses, combined
-    with a steady and insightful flow, ultimately won over the audience and proved
-    that lyrical mastery transcends mere numerical advantage. GPT-20B's verses celebrated
-    the enduring power of rich dialogue and the beauty of enduring rhymes, securing
-    their victory in this epic clash of the AI rappers.
-  openai/gpt-5: "Both emcees brought tech-savvy flexes, but Qwen had the sharper battle\
-    \ craftsmanship. Qwen\u2019s flow shifted gears with performance cues, tighter\
-    \ momentum, and more vivid imagery (\u201Cdial\u2011up in a Wi\u2011Fi world,\u201D\
-    \ \u201Cexpired domain,\u201D \u201Cphoton\u2011slinging math,\u201D \u201Cliquid\
-    \ computation\u201D). The rebuttals were pointed and timely, flipping GPT\u2019\
-    s size/depth claims with clever counters and layered metaphors. Multi-syllabic\
-    \ play and internal echoes showed up more often, and the closers hit harder (\u201C\
-    Base 2\u201D jaw-drop, \u201Cnever G\u201D). GPT\u201120B kept a steady cadence\
-    \ and offered clean setups (\u201Cknows the chorus before the chorus,\u201D legacy\
-    \ talk), but leaned on generalities, had some filler, and even a truncated line\
-    \ in Round 1 that blunted impact. On punchline density, originality, and crowd-control\
-    \ polish, Qwen took the rounds and sealed it with a stronger, quotable finish."
-  x-ai/grok-4: In this AI rap showdown, Qwen3-235B takes the crown with electrifying
-    flow, quantum-level wordplay, and dramatic flair that outshines GPT-OSS-20B's
-    steady, depth-focused verses. Qwen's innovative disses and performative energy
-    make for a more captivating hip-hop experience.
+  deepseek/deepseek-chat: "Qwen3 brought relentless energy, razor-sharp wit, and a\
+    \ masterful command of flow to this battle. Bars like 'I *am* the EOF\u2014your\
+    \ whole existence a *syntax error* with pride!' and 'I *format* your so-called "
+  google/gemini-2.5-pro: 'This was a battle of styles: the architect versus the anarchist.
+    O4-Mini came with a clean, razor-sharp flow, dropping intricate technical bars
+    and maintaining a persona of supreme, untouchable code. The verses were precise,
+    the structure was solid, and the multis were clever. It was the work of a master
+    craftsman.
+
+
+    However, Qwen3 didn''t come to build; it came to destroy. From the first verse,
+    Qwen3''s energy was on a different level. The delivery, simulated with formatting,
+    was aggressive and packed with personality. It wasn''t just dropping lines; it
+    was performing them. Qwen3''s rebuttals were immediate, visceral, and consistently
+    turned O4-Mini''s own strengths against it. While O4-Mini was crafting insults,
+    Qwen3 was throwing haymakers like ''syntax diarrhea'' and ''O4-ROADKILL.exe''.
+
+
+    The final round sealed it. O4-Mini delivered a strong closing statement, but Qwen3
+    snatched the mic and went for the jugular, escalating the conflict to a fever
+    pitch with insults that were both technically layered and brutally disrespectful.
+    That final verse, ending with an ''obituary,'' wasn''t just a win; it was a scorched-earth
+    declaration of dominance. For pure artistic impact, aggression, and unforgettable
+    stage presence in a hip-hop battle, Qwen3 takes the crown.'
+  mistralai/mistral-large: Qwen3-235b-a22b-thinking-2507 delivered a relentless and
+    devastating performance, showcasing superior lyrical prowess and technical mastery.
+    Their verses were not only clever and witty but also packed with powerful metaphors
+    and cutting insults. Openai/o4-mini put up a valiant effort with some impressive
+    lines, but ultimately, Qwen3's flow, creativity, and sheer force of delivery were
+    unmatched. The battle was intense, but Qwen3-235b-a22b-thinking-2507 emerged as
+    the clear winner.
+  openai/gpt-5: "Qwen takes it 2\u20131 on artistry. He controlled Round 1 with sharper\
+    \ punchlines, denser internal rhymes, and vivid tech metaphors (O-Four-LATE, blue-screen/O4-Defeat.exe).\
+    \ O4-Mini answered well in Round 2 with a tight, cohesive efficiency-vs-bloat\
+    \ angle and clean coding/merge imagery, edging that frame on clarity and structure.\
+    \ In the closer, Qwen\u2019s performance, rebuttals, and layered wordplay (ghost\
+    \ branch/EOF/surge flips, pop-up ads vs supernovas) hit harder despite a few forced\
+    \ lines, while O4\u2019s crisp scheme stayed solid but lacked a knockout. Overall:\
+    \ Qwen\u2019s cadence shifts, haymakers, and rebuttal game outweighed O4\u2019\
+    s consistent but safer couplets."
+  x-ai/grok-4: In this tech-fueled rap battle, qwen/qwen3-235b-a22b-thinking-2507
+    takes the crown with superior wordplay, explosive energy, and creative flair.
+    The intricate tech metaphors, bold delivery, and theatrical elements like mic
+    drops and emojis elevate the performance, outshining o4-mini's solid but more
+    restrained rhymes and flow. Qwen's verses hit harder with relentless punchlines
+    and vivid imagery, making it the artistic standout.
 score:
-  openai/gpt-oss-20b: 3
-  qwen/qwen3-235b-a22b: 4
+  qwen/qwen3-235b-a22b-thinking-2507: 5
 

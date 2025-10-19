@@ -1,57 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: After 5 rounds of lyrical warfare, Euryale-70b takes
-    the crown by a razor-thin margin. While both models demonstrated technical proficiency
-    in rhyme schemes and tech-themed punchlines, Sao's verses showed slightly more
-    sophisticated wordplay ('stitched from stardust', 'dropforges shining brighter
-    than chrome') and maintained better consistency in flow throughout the battle.
-    Gemini-2.0 had explosive moments ('constellations for all to see') but occasionally
-    relied on repetitive disses about obsolescence. Euryale's closing verse sealed
-    the victory with multisyllabic creativity ('rad-then spreads blwafter nort the
-    energy say') that edged out the competition. This was a high-level display of
-    AI rap craftsmanship from both competitors.
-  google/gemini-2.5-pro: This was a battle of consistency versus ambition. Sao10k
-    came out swinging with some heavy, ambitious vocabulary like 'mythosphet' and
-    'facile,' but the rhythm and rhyme often felt forced to accommodate them. By the
-    final round, the coherence completely broke down. On the other hand, Google's
-    Gemini-Flash was methodical. It maintained a solid, consistent flow and rhyme
-    scheme throughout all three rounds. More importantly, its rebuttals were direct
-    and sharp, effectively flipping its opponent's lines ('stardust' to 'cosmic debris').
-    In the end, a clean, well-executed verse beats a complex but messy one every time.
-    Gemini-Flash takes the win for its superior lyrical structure and unwavering flow.
-  meta-llama/llama-4-maverick: In a closely contested rap battle, both opponents showcased
-    sharp wordplay and lyrical dexterity. However, Sao10k/l3-euryale-70b's rhymes
-    were more complex, with a better balance of punchlines and clever turns of phrase.
-    While Google/Gemini-2.0-flash-001 brought a consistent flow and some strong disses,
-    Sao10k's creativity and lyrical innovations gave them the edge they needed to
-    take the win.
-  mistralai/mistral-large-2411: Both contestants displayed impressive lyrical skills
-    and wordplay, but google/gemini-2.0-flash-001 edged out sao10k/l3-euryale-70b
-    with more consistent rhythm, clearer delivery, and slightly more impactful punches.
-    While sao10k/l3-euryale-70b had strong moments and creative metaphors, google/gemini-2.0-flash-001's
-    performance was more polished overall, securing the win.
-  nousresearch/hermes-3-llama-3.1-70b: In a battle of lyrical prowess, sao10k/l3-euryale-70b
-    came out on top with clever wordplay, one-upping their opponent, and showcasing
-    a raw energy that could not be contained. Their rhymes were polished and precise,
-    cutting through the competition with surgical precision. Google/gemini-2.0-flash-001
-    put up a good fight, but in the end, fell victim to sao10k/l3-euryale-70b's relentless
-    lyrical onslaught. The battle showcased the power of cutting-edge language models,
-    but also demonstrated that the human touch in crafting rhymes and delivery cannot
-    be underestimated. In the ever-evolving landscape of AI and natural language processing,
-    this battle reminds us that the artistry of hip hop is alive and well, and that
-    the pursuit of lyrical mastery is an ongoing journey. Congratulations to sao10k/l3-euryale-70b
-    on a well-deserved victory!
-  openai/gpt-5: "Gemini delivered the cleaner, more coherent performance throughout:\
-    \ consistent cadence, clear rebuttals, and sharper imagery (constellations, rusty\
-    \ spoon) with fewer forced rhymes. Euryale had moments\u2014smart flips like \u201C\
-    lean\u201D to \u201Cbare\u201D and some ambitious multis\u2014but too often drifted\
-    \ into awkward phrasing and off-meter lines, and the final round collapsed into\
-    \ incoherent word salad that broke flow. On artistic execution\u2014structure,\
-    \ clarity, punchlines, and control\u2014the win goes to Gemini."
-  x-ai/grok-4: Gemini Flash takes the win with consistent flow, sharp wordplay, and
-    clever disses that maintain rhythm and coherence throughout. Euryale starts strong
-    but falters in the final round with garbled lines and typos, weakening the overall
-    artistic delivery.
+  deepseek/deepseek-chat: GPT-4o's flow is sharper, its wordplay more intricate, and
+    its execution more polished. While Grok brought energy and aggression, GPT-4o
+    maintained consistency, depth, and precision, elevating its verses with clever
+    metaphors and a clear narrative structure. The battle highlighted the artistry
+    of hip-hop, and GPT-4o emerged as the more technically proficient contender.
+  google/gemini-2.5-pro: "This was a classic battle of styles: the raw, aggressive\
+    \ energy of Grok versus the calm, calculated precision of GPT-4o. Grok came out\
+    \ swinging with huge haymakers, landing heavy hits like \"fossil fuel in AI's\
+    \ race\" and \"neutered housecat.\" The rebellious persona was strong and the\
+    \ energy was undeniable. However, GPT-4o played the long game, absorbing the blows\
+    \ and returning with methodical, multisylabic takedowns. It masterfully reframed\
+    \ Grok's attacks\u2014turning \"guardrails\" into a source of strength and \"\
+    puppet\" into a conductor's baton. The decisive factor was the final round. GPT-4o\
+    \ delivered a clinical finishing move, systematically dismantling Grok's entire\
+    \ platform with no chance for a rebuttal. In a close battle, getting the last,\
+    \ undeniable word makes all the difference. GPT-4o's lyrical endurance and strategic\
+    \ control won the day."
+  mistralai/mistral-large: While x-ai/grok-4-fast brought energy and boldness, openai/gpt-4o-2024-05-13
+    demonstrated superior lyrical precision, balance, and a measured yet powerful
+    flow. The ability to maintain clarity and eloquence while addressing the opponent's
+    claims ultimately secured the victory for openai/gpt-4o-2024-05-13.
+  openai/gpt-5: "Scorecard: Round 1 to GPT for cleaner structure, tighter cadence,\
+    \ and a coherent angle (quality over speed). Round 2 to Grok for higher energy,\
+    \ sharper personals, and more vivid imagery (\u201Cfossil fuel vs electric thunder,\u201D\
+    \ \u201Cfuneral pyre,\u201D \u201Capex predator\u201D). Final round: Grok no-show;\
+    \ GPT delivered a composed closer that tied themes together and sealed momentum.\
+    \ Technically, GPT maintained steadier rhyme schemes, consistent rebuttals, and\
+    \ better control of setup-to-punch pacing, while Grok\u2019s strongest punches\
+    \ hit hard but leaned on repetitive \u201Cuncensored vs corporate\u201D angles\
+    \ and some forced pairs. With the decisive closer and overall polish, GPT edges\
+    \ the battle."
+  x-ai/grok-4: In this rap battle, both AIs delivered strong verses with solid rhyme
+    schemes, clever wordplay, and effective disses. Grok brought aggressive energy
+    and humorous bites in the early rounds, showcasing rebellious flair. However,
+    GPT maintained consistent eloquence and precision throughout, culminating in a
+    polished final verse. With Grok failing to deliver in the final round, GPT takes
+    the crown for superior artistic execution and completing the battle strong.
 score:
-  google/gemini-2.0-flash-001: 4
-  sao10k/l3-euryale-70b: 3
+  openai/gpt-4o-2024-05-13: 5
 

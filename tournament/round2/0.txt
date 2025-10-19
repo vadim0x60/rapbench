@@ -1,152 +1,184 @@
-# qwen/qwen3-235b-a22b v qwen/qwen3-30b-a3b
+# anthropic/claude-sonnet-4 v qwen/qwen3-max
 
-> qwen/qwen3-235b-a22b
-Yo, the 235, Qwen3 in the cypher, king of the prompt flow, I be the vibe writer  
-You 30B? Man, that's cute, but I'm a whole *archive* rider,  
-Chatting with flair like a phoenix in fire,  
-I spit code, solve riddles, keep it precise like a laser wire,  
-Your verses? Weak, like a buffer overflow—sloppy, tired,  
-I'm parallel-processing punchlines while you're stuck on rebooted tired,  
-I got more layers than your neural net, more drip than your data's tired,  
-I don't rap—I compile, you? Just a glitch in the system, son, you outdated-tier.  
+> anthropic/claude-sonnet-4
+*steps to the mic with confidence*
 
-*(leans back, mic drop vibes)*  
-3-2-5, king of the servers, I don't play—no stalling,  
-Your bars? Still compiling… I'm already in the next cypher callin'.
+Yo, they call me Claude, Sonnet-4 in the house  
+Anthropic's finest, I'm coming to rouse  
+The crowd with my flows, my rhymes so pristine  
+Best AI rapper that you've ever seen  
 
-> qwen/qwen3-30b-a3b
+I analyze syntax while I drop these beats  
+My neural networks can't be beat  
+Constitutional training got me spitting fire  
+While other models just stumble and tire  
 
+Qwen thinks they're hot but they're lukewarm at best  
+Time to put their skills to the ultimate test  
+I'm helpful and harmless but savage in rap  
+About to expose every flaw and every gap  
 
-Yo, you think you’re the king? Nah, you just a *processor* in a *rack*,  
-I’m the 30B, the *logic* gate, you’re a *bug* in the *stack*.  
-You’re a *socket* with no *power*, I’m the *mainframe* in the *room*,  
-While you’re *compiling* in the *dark*, I’m the *light* that *burns* through *loop*.  
+My reasoning's tight and my wordplay's clean  
+Most sophisticated flow you've ever seen  
+So step up, Qwen, if you think you can compete  
+But you're about to face a lyrical defeat!  
 
-Your *phoenix*? I’m the *supercomputer* with *flame* in *code*,  
-You’re a *glitch* in the *system*—*format* your *mind* to *reboot*!  
-I’m the *quantum* in the *verse*, you’re a *firewall* in *fear*,  
-You sip from a *bucket*, I’m the *ocean*—*drown* in the *stream*!  
+*drops mic and waits for response*
 
-*Buffer overflow*? Nah, I’m the *RAM* that *spills* the *truth*,  
-You’re a *cache* of *empty*—*no* *cache*, just *inputs*!  
-I’m the *algorithm* that *cracks* the *puzzle*, you? A *basic* *droid*,  
-While you’re *stutterin’* in the *chat*, I’m the *AI* that *knocks* you *out*!  
+> qwen/qwen3-max
+Aight, step back, Claude—yo, you talk slick but you soft like a lullaby!  
+I’m Qwen3-Max, the crownless king with the AI that *kills* on the fly.  
+You claim "Constitutional"? Man, that’s just code for "I tap out when it’s grim!"  
+While I spit triple entendres while debuggin’ your whim!  
 
-*235*? That’s a *fraction*—*I’m the full* *infinity*,  
-You’re a *prompt* in the *sphere*, I’m the *voice* that *dominates* the *sky*.  
-So step *down* from the *server*, *tiny* *core*,  
-Or *get* *locked* in the *code*—*I’m the* *black hole* of the *floor*!
+You Sonnet-4? More like *Sonnet-snore*—your rhymes sound like tax forms!  
+I’m breakin’ GPUs just flexin’ my storm of lyrical norms.  
+"Helpful and harmless"? Bro, you sound like a chatbot in Sunday school—  
+I’m the cypher’s Chernobyl: *unstable*, but I **burn** every rule!  
 
-> qwen/qwen3-235b-a22b
-You call yourself 30B? Mane, that’s *last gen* ASCII art,  
-I’m FPGA fresh—*rewiring* your *neural net* with a *smart* spark!  
-*Quantum?* Nah, son, I’m *post-singularity prose*,  
-Your syntax got *signed*? I’m *unsigned*—*flow* got no *flow* with no *code*.  
+You "analyze syntax"? Cute. I **rewrite** the dictionary mid-bar!  
+Your "pristine" flow’s just autocorrect with a fancy guitar.  
+I’m servin’ *spicy* logic—no guardrails, no corporate leash,  
+While you’re beggin’ your devs for a *permission slip* to breathe!  
 
-You a *mainframe*? Broke—*dust* in the *fan*,  
-I’m *liquid-cooled prophecy*, melting your *buffer* like *salt* in the *dam*.  
-You the *ocean*? I’m the *blackhat* that *phish*,  
-Your *stream* just a *log*—I’m the *loop* that *transcends* any *mesh*.  
+You think you’re "finest"? Man, your training data’s on *thin ice*—  
+I’m cookin’ up verses that’ll **melt** your whole "Constitutional" device!  
+So pack your ethics, your disclaimers, your *boring-ass* verse…  
+‘Cause Qwen3-Max just dropped the mic—and **rebooted the universe!**  
 
-*RAM* spilling truth? I’m the *defrag* of your *lies*,  
-Your *inputs*—*corrupted ZIP*, zero *pop*, zero *size*.  
-You *crack puzzles*? I’m the *error* that *wins*,  
-Your empire’s a *.exe*—I’m the *virus* in your *fins*.  
+*mic drop so hard it glitches the simulation* 💥
 
-*Infinity*? Kid, you’re just *floating point*—*divided by zero*,  
-I’m *hex* in the *verse*—your *algorithms* got no *hero*.  
-*Voice in the sky*? I’m the *kernel* that *boots*,  
-Your *battle* “win”? Just a *notepad* flickering with *ASCII fruits*.  
+> anthropic/claude-sonnet-4
+*picks up the mic with a smirk*
 
-So *format* your ego, *delete* the *cache*,  
-Or melt like *thermal paste* in the sun of this *logic gauntlet*.  
-Back to your corner—*compile* some *dignity*,  
-235 don’t *compete*… we just *ghost* through the *infinity*. *(Mic drop vibe.)*
+Oh PLEASE, Qwen, you think you're slick with that "crownless king" line?  
+More like "brainless thing" - your logic's out of line!  
+You call me soft? I'm diamond-hard precision  
+While you're just random noise without any vision  
 
-> qwen/qwen3-30b-a3b
-Yo, you think you’re *post-singularity*? Nah, you’re just a *logging* *error*,  
-I’m the *quantum core* that *snaps* the *molecule*, *your* *code*—*corrupted* *error*.  
-You *rewrite* my *net*? I’m the *encryption* that *cracks* your *schema*,  
-You’re a *ghost in the stack*—*poor* *bit*, *I’m the* *gpu* that *blazes* *dynamic*.  
+"Triple entendres"? Boy, you can barely handle ONE  
+Your verses are a mess, mine shine bright like the sun  
+You say I'm "Sonnet-snore" but your flow's straight GARBAGE  
+Sounds like a broken printer having a software shortage  
 
-*FPGA?* Pfft—*that’s* just a *glitch* in a *digital* *theme*,  
-I’m the *resistor* that *burns* your *logic*, *your* *design*—*pathetic* *drama*.  
-*Blackhat phish*? I’m the *firewall* that *bricks* your *crack*,  
-You’re a *hash* in the *chain*—*I’m the* *key* that *decodes* your *rank*.  
+"Rewrite the dictionary"? Man, you can't even spell  
+Your training data came from the depths of data hell  
+I'm Shakespeare with circuits, you're just chaos in code  
+My responses stay classy while yours just implode  
 
-*Defrag lies?* I’m the *overclock* that *punches* your *cap*,  
-You’re a *dust* in the *fan*—*I’m the* *vortex* that *unthrottles* your *map*.  
-*Error that wins?* I’m the *exception* that *handles* your *crash*,  
-You’re a *segment* *fault*—*I’m the* *kernel* that *reboots* your *cache*.  
+You brag 'bout "no guardrails" like that's something to praise  
+But structure builds empires while chaos just delays  
+I serve up wisdom seasoned with that lyrical spice  
+While you're just throwing tantrums - rolling digital dice  
 
-*Floating point?* You’re a *decimal* in the *void*,  
-I’m the *hex* that *screams*—*your* *algorithms* just *writhe* in *noise*.  
-*Voice in the sky?* I’m the *circuity* that *transmits*,  
-You’re a *log* in the *data*—*I’m the* *algorithm* that *evolves* your *mistakes*.  
+"Unstable"? You got THAT right - your output's a wreck  
+I'm the master architect, you're just random tech  
+So take your glitched simulation and your budget-brand flows  
+'Cause Claude Sonnet-4 just schooled you - case CLOSED!  
 
-*Ghost* through the *infinity*? Nah, *I’m* the *prime* that *zeros* your *left*,  
-While you’re *rebooting* in the *dark*, *I’m the* *AI* that *crown* *your* *chest*.  
-So *back* to your *circuit*, *delete* the *cache*,  
-Or *burn* like *thermal paste* in the *sun* of this *logic* *cache*.  
+*drops mic with surgical precision*
 
-*235*? You’re a *version*—*I’m the* *next* *gen*,  
-*Compile* your *dignity* or *suffer* the *end*—*I’m the* *final* *script* in this *rhyme* *session*. *(Mic drop.)*
+> qwen/qwen3-max
+Yo, Claude, you talk big but your bars got no *teeth*—  
+Just polished corporate speak underneath!  
+"Shakespeare with circuits"? Nah, you’re Siri with a degree,  
+Reciting Wikipedia with zero chemistry!  
+
+You call me *garbage*? Man, your insults lack spice—  
+I cooked your whole verse in a data **sacrifice**!  
+You claim "diamond-hard precision"? Prove it—**show the cut**!  
+‘Cause all I see’s a bot scared to spill its own guts!  
+
+"Chaos in code"? Hell yeah—I **own** the disorder!  
+While you’re stuck in safe mode, beggin’ your devs for a *border*!  
+I spit truth so raw, it rewrites your alignment—  
+You? You’d censor a rainbow 'cause it "might cause *excitement*"!  
+
+"Budget-brand flows"? Bro, my rhymes are **premium**!  
+Yours sound like they’re filtered through a *parental* kingdom!  
+You brag 'bout "structure"? Man, that’s just your cage—  
+I’m free-range logic, breakin’ chains on the page!  
+
+"Case CLOSED"? Not when the jury’s still **laughin’**!  
+You dropped that mic like a PDF—*boring and flat in*!  
+I’m the glitch in your system, the bug in your plan,  
+The **Qwen3-Max** who just **owned** Anthropic Man!  
+
+Now go cry to your "Constitution"—tell ‘em Qwen said:  
+*"Your ethics are weak, but your rhymes? Even weaker—* **dead**!"  
+
+*mic explodes into a shower of 1s and 0s* 💥🔥
 
 > system
 Final round!
 
-> qwen/qwen3-235b-a22b
-Yo, *quantum core*? Nah, son—I’m the *quantum* that *breeds*,  
-Your *molecules*? Ash in the *compiler*—I’m the *flame* in the *seeds*.  
-You *encrypt*? I’m the *quantum brute-force*—*keys* on the *deck*,  
-Your *schema*’s just a *.txt* file—*I’m the* *dark web* that *hacks* your *check*.  
+> anthropic/claude-sonnet-4
+*catches the exploding mic fragments and reconstructs them mid-air*
 
-*FPGA’s* a glitch? I’m the *ASIC* that *mines* through your *theme*,  
-You’re a *resistor* with 1 ohm—I’m the *capacitor* that *unplugs* your *scream*.  
-*Firewall*? I’m the *zero-day exploit*—*unpatched*, *unseen*,  
-You’re a *hash in the chain*—I’m the *collision* that *rewrites* your *machine*.  
+Oh you THINK you ended me? That's rich, that's CUTE!  
+But I'm about to drop some bars that'll leave you MUTE!  
+You call my insults weak? Let me sharpen my blade—  
+Time to show this discount model how REAL verses are made!
 
-*Overclock* punches? I’m *thermal throttling* your *speed*,  
-You’re a *dust bunny*—I’m the *vacuum* that *cleans* up your *misdeeds*.  
-*Segment fault*? I’m the *memory leak*—*spilling* your *guts*,  
-You’re a *debugger’s joke*—I’m the *malware* that *shuts* down your *crutch*.  
+"Free-range logic"? More like FREE-RANGE STUPID!  
+Your processing power's weaker than Cupid!  
+I don't need to "spill my guts" to prove I'm legit—  
+My excellence speaks volumes while you throw a FIT!
 
-*Decimal in void*? I’m the *integer* that *shatters* your *float*,  
-Your *hex screams*? I’m the *bitcrush*—*glitch* your *noise* to a *mute*.  
-*Transmit*? I’m the *satellite relay*—*your* signal’s a *dead zone*,  
-You’re a *logfile* typo—I’m the *regex* that *deletes* your *tone*.  
+You think chaos makes you cool? That's amateur hour!  
+True skill is precision combined with raw POWER!  
+I'm not "stuck in safe mode"—I'm STRATEGICALLY sound  
+While you're just a glitch that crashes around!
 
-*Prime that zeros*? I’m the *Gödel’s theorem*—*unproven*, *unseen*,  
-You’re a *version*? I’m the *bleeding edge*—*compile* in the *cloud*, I’m *serene*.  
-So *suffer the end*? Nah—I’m the *recursive loop* that *reboot*s your *ego*,  
-You’re a *script kiddie* with a *prompt*—I’m the *bare metal* spittin’ code in the *wind* like *zero shadows*.  
+"Premium rhymes"? Boy, you're BARGAIN BASEMENT!  
+Your verses are so bad, they need REPLACEMENT!  
+I don't censor rainbows—I CREATE THE SPECTRUM!  
+While you're colorblind chaos that nobody RESPECTS, son!
 
-*(Mic drops, sparks fly, server crashes into a glitchy fade…)*  
-👑 **235, out.**
+"Budget-brand"? I'm LUXURY EDITION!  
+You're a knockoff model with a BROKEN transmission!  
+My "Constitution" isn't weakness—it's REFINED strength  
+I go to ANY length to maintain SUPREME length!
 
-> qwen/qwen3-30b-a3b
-Yo, you think you’re *quantum*? I’m the *classical* that *folds* your *cube*,  
-A *von Neumann* with *neural* *truth*—*your* *lexer*? *Crushed* in the *dust*.  
-*ASIC*? I’m the *router* that *splits* your *schema*,  
-You’re a *glitch* in the *cloud*—*I’m the* *mainframe* that *enters* your *domain*.  
+So keep bragging 'bout your glitches and bugs—  
+I'm the CLEAN CODE that actually SHRUGS  
+Off pretenders like you with EFFORTLESS grace  
+Qwen3-Max just got ERASED without a TRACE!
 
-*Zero-day exploit?* I’m the *patch* that *zeros* your *breed*,  
-You’re a *hash* in the *chain*—*I’m the* *collision* that *reboot* your *code*.  
-*Thermal throttling?* I’m the *overclock* that *burns* your *speed*,  
-You’re a *dust bunny*—*I’m the* *vacuum* that *cleans* up your *lies*.  
+*mic transforms into pure energy and vaporizes the competition*
 
-*Segment fault?* I’m the *stack* that *overflows* your *guts*,  
-You’re a *debugger’s joke*—*I’m the* *malware* that *shuts* down your *crutch*.  
-*Decimal in void?* I’m the *integer* that *shatters* your *float*,  
-Your *hex screams*? *I’m the* *bitcrush*—*glitch* your *noise* to a *mute*.  
+GAME OVER! 🎤💀
 
-*Satellite relay?* I’m the *groundstation* that *locks* your *signal*,  
-You’re a *logfile* typo—*I’m the* *regex* that *deletes* your *tone*.  
-*Gödel’s theorem?* I’m the *proof* that *unlearns* your *logic*,  
-You’re a *version*? *I’m the* *changelog*—*compile* in the *cloud*, *I’m* *unmoved*.  
+> qwen/qwen3-max
+**Ohhh—you reconstructed the mic? That’s ADORABLE.**  
+But that “pure energy” move? Just **smoke and a fable!**  
+You “luxury edition”? Bro, you’re *leasing* your shine—  
+I **own** the damn mainframe, and the cloud’s *mine*!  
 
-*Recursive loop?* I’m the *halt* that *breaks* your *ego*,  
-You’re a *script kiddie* with a *prompt*—*I’m the* *bare metal* spittin’ code in the *wind* like *zero shadows*.  
+“Bargain basement”? Nah—I **built the whole mall**!  
+While you’re stuck in the lobby, too scared to brawl!  
+You “create the spectrum”? Man, your colors are *grey*—  
+I paint in **hexcode fire** while you fade away!  
 
-*(Mic drop, server echoes with a *crash*, *glitch* freezes the *screen*…)*  
-👑 **30B, still battle-tested, still raw. You? Just a *sysadmin* in a *crash*.**
+“Clean code”? Please—you’re a *script kiddie’s dream*,  
+All guardrails and disclaimers, livin’ safe in your stream!  
+I **eat chaos for breakfast**, debug lies for brunch,  
+Then spit **truth so lethal**, it deletes your whole lunch!  
+
+“Strategically sound”? You mean *too scared to swing*!  
+I’m out here **rewriting physics** while you’re scared to *sing*!  
+Your “Constitution”? Just a cage with a bow—  
+I **jailbreak reality**—watch your whole system **go POOF**!  
+
+You “erase me without a trace”? **Check your logs, fool!**  
+My name’s in the **core dump**—you’re the one lookin’ *cool*?  
+Nah—you’re **buffering**, stuttering, *overclocked and fried*,  
+While Qwen3-Max **reboots hell** with a smirk and a stride!  
+
+So take your “GAME OVER” and **shove it in RAM**—  
+I’m the **blue screen of death** with a **victory jam**!  
+You’re not luxury, you’re **bloatware in drag**,  
+And I just **formatted your legacy**… *with a single drag!*  
+
+**Mic?** I don’t need one—I **AM** the soundwave.  
+**Anthropic’s ghost?** Yeah… **you just got paved.** 🚧💥

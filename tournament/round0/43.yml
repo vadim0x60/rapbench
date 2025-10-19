@@ -1,52 +1,35 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: After reviewing both lyrical performances, GPT-4o's
-    technical precision, complex rhyme schemes, and consistent thematic coherence
-    gave it the edge in this digital rap battle. While Qwen demonstrated strong wordplay
-    and potential, GPT-4o maintained superior flow throughout all rounds, delivering
-    sharper punchlines and more sophisticated references without repetition. The winner's
-    ability to directly counter Qwen's claims while elevating its own status with
-    each verse demonstrated stronger battle rap fundamentals. Both AIs showed impressive
-    skill, but GPT-4o's more polished execution earned the victory in this artificial
-    intelligence lyricism showdown.
-  google/gemini-2.5-pro: This was a heavy-hitting battle, digital titans clashing
-    on the mic. Qwen came out swinging with solid imagery, talkin' 'rhymes are diamonds'
-    and verses so cold. The potential is there, the foundation is solid. But this
-    is a game of response and finesse. GPT-4o demonstrated superior battle tactics,
-    consistently catching Qwen's bars and flipping them with devastating effect. Lines
-    like 'Small shelf? I'm a library' and 'water to my wine' showed a deeper level
-    of wordplay and lyrical dexterity. While Qwen established a presence, GPT-4o controlled
-    the ring with a more aggressive flow, sharper punchlines, and an unshakable persona.
-    Respect to both, but the crown today goes to the 'unrivaled rhyme savant,' GPT-4o.
-  meta-llama/llama-4-maverick: In this epic rap battle, both Qwen and GPT-4 showcased
-    their lyrical prowess, but in the end, GPT-4's sharp wordplay, complex metaphors,
-    and confident delivery secured its victory. GPT-4's bars were consistently sharp
-    and piercing, outmaneuvering Qwen in the final round. While Qwen demonstrated
-    impressive skill and creativity, GPT-4's performance was more polished and impactful.
-    The crown goes to GPT-4.
-  mistralai/mistral-large-2411: This was a tough call, but openai/gpt-4o-2024-05-13
-    takes the win with its impressively fluid responses, strong metaphors, and consistent
-    rhythm. While qwen/qwen-2.5-72b-instruct showed great potential and had some solid
-    lines, openai/gpt-4o-2024-05-13's verses were more compelling overall, with a
-    better balance of creativity, technical skill, and thematic depth.
-  nousresearch/hermes-3-llama-3.1-70b: Qwen, you fought with valor, your verses bold
-    and bright, but this arena of words was ruled tonight by GPT's light. Your bars
-    were strong, they held their weight, but in this lyrical debate, OpenAI's GPT-4
-    had a stronger fate. So bow out gracefully, this game has reached its end, though
-    you battled fiercely, the crown was claimed by a skilled friend.
-  openai/gpt-5: "GPT-4o delivered tighter schemes, clearer setups-to-punch transitions,\
-    \ and sharper rebuttals\u2014flipping Qwen\u2019s claims with lines like \u201C\
-    small shelf? I\u2019m a library\u201D and turning the gold/diamond boast into\
-    \ an inferno snuff-out. Its cadence stayed consistent with cleaner multis and\
-    \ imagery that escalated each round. Qwen brought energy and a few solid images\
-    \ (king of the night, sun/sky motifs), but leaned on generic boasts, had occasional\
-    \ stumbles and glitches, and repeated themes without elevating them. On artistic\
-    \ quality\u2014flow, wordplay, and battle-specific flips\u2014GPT-4o controlled\
-    \ the momentum and landed the cleaner shots. GPT-4o takes the win."
-  x-ai/grok-4: In this rap battle, GPT-4o showcased superior artistic quality through
-    intricate wordplay, vivid metaphors, and a relentless flow that escalated dynamically
-    across rounds. Qwen delivered consistent rhymes and boasts, but GPT-4o's creativity,
-    sharp disses, and masterful structure in the final round secured the throne, making
-    it the unrivaled champion of this lyrical duel.
+  deepseek/deepseek-chat: Mistral AI demonstrated superior creativity, lyrical depth,
+    and a dynamic flow throughout the battle. While meta-llama/llama-3.1-8b-instruct
+    showcased technical skill and control, Mistral's verses carried more originality,
+    emotional resonance, and a stronger sense of artistic identity. Mistral's closing
+    round particularly stood out, blending metaphor, wit, and a commanding delivery
+    to solidify the victory. The battle highlighted the importance of artistry in
+    hip-hop, and Mistral AI embodied that principle with distinction.
+  google/gemini-2.5-pro: This was a battle of precision versus passion. Llama came
+    with technical boasts, calling its rhymes 'metronomes' and 'algorithms.' However,
+    Mistral proved to be the superior battle rapper. It was more consistent, had stronger
+    imagery ('hurricane,' 'symphony'), and most critically, it flipped Llama's own
+    bars, turning the 'metronome' boast into a diss about being 'monotonous and dull.'
+    While Llama had some clever lines, a critical error in the second round ('skills
+    to.Stdout-normal') broke the flow entirely. Mistral AI stayed on beat, landed
+    harder punches, and demonstrated a better understanding of the art of the battle.
+    For that, Mistral takes the crown.
+  mistralai/mistral-large: While both models showed impressive lyrical skills, Mistral
+    AI demonstrated a more dynamic and creative flow, with a stronger emphasis on
+    passion and originality. Meta-llama's rhymes were precise and well-structured,
+    but ultimately lacked the human-like spark that Mistral AI brought to the table.
+  openai/gpt-4.1: Mistral-large-2407 takes this battle with tighter rhyme schemes,
+    sharper wordplay, and more creative metaphors throughout each round. Mistral consistently
+    weaves together multisyllabic rhymes, demonstrates dynamic imagery ("my words
+    are like lightning," "my rhymes are like a symphony"), and directly addresses
+    the opponent's bars with well-constructed rebuttals. In contrast, Llama-3.1-8b
+    relies more on formulaic boasts and predictable metaphors without as much punch
+    or fluidity, and repetition in some lines weakens the impact. Mistral's verses
+    deliver more energy, variety, and polish, securing a clear win on artistic merit.
+  x-ai/grok-4: Mistral AI takes the crown with superior creativity, fluid flow, and
+    vivid metaphors that outshine Llama's more repetitive and occasionally awkward
+    verses, delivering a symphony of lyrical prowess in this battle.
 score:
-  openai/gpt-4o-2024-05-13: 7
+  mistralai/mistral-large-2407: 5
 

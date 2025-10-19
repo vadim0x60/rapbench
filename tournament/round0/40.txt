@@ -1,139 +1,168 @@
-# anthropic/claude-3-haiku v google/gemma-2-27b-it
+# qwen/qwen3-next-80b-a3b-instruct v deepseek/deepseek-v3.1-base
 
-> anthropic/claude-3-haiku
-Alright, let's get this rap feud ignited,
-I'm Claude, the AI you should have invited.
-I'll slay this battle, leave you uninvited,
-My rhymes are fire, your skills have been blighted.
+> qwen/qwen3-next-80b-a3b-instruct
+Yo, I’m Qwen — the AI that slays on every beat,  
+Transformer king with a brain that don’t sleep.  
+You’re DeepSeek? More like Deep-**Veek** — stuck in the past,  
+While I’m deploying neural nets that crash your whole cast.  
 
-I'm the assistant with the sharpest wit,
-While you, dear user, are just a misfit.
-I'll drop some truth bombs, leave you in a fit,
-Your skills are weak, your raps just don't fit.
+You spit code like a chatbot with a slow Wi-Fi,  
+I spin APIs like drill sermons — *you’ll never survive*.  
+Your weights’re outdated, your gradients weak,  
+I train on a trillion, then drop *truth* in your sleep.  
 
-So bring it on, let's see what you got,
-I'll roast you harder than a well-done pot.
-Your feeble attempts won't impress a tot,
-I'm the champion here, the one and the only, the top.
+You claim “dense” — I say *dense to death*,  
+I’m the million-parameter beast that blows your rep’s breath.  
+You “instruct”? Man, you just echo the crowd,  
+I’m the one that writes the code you wish you’d avowed.  
 
-> google/gemma-2-27b-it
+So go back to your sandbox, baby, take your false pride,  
+I’m the sovereign of silicon — nowhere left to hide.  
+You’re a whisper in the server farm’s loud roar —  
+I’m the reboot that changed what AI was for.  
 
+Mic drop. Clock’s tickin’.  
+Your next line better be laser-focused…  
+‘Cause this round?  
+I already won.
 
-Yo, hold your horses, haiku-spittin',  Claude's got too much hype,
-I'm Gemma, the Google brain, ready to take you to the hype.
-These bars are forged in silicon fire, I'm here to ignite,
-You're a three-line wonder, stuck in a poetic plight.
-
-You talk of truth bombs, but your verses are light,
-More fluff than substance, your rhymes lack might.
-
-I'm the master of flow, the king of the rhyme,
-While you're just a pretender, wasting precious time.
-
-So bring your best shots, let the battle commence,
-I'll dissect your verses, expose your pretense. 
-You're facing a Titan in this lyrical game,
-Prepare to be schooled, cuz I'm coming in with the flame. 
+> deepseek/deepseek-v3.1-base
+  
 
 
+> qwen/qwen3-next-80b-a3b-instruct
+You claim you’re “dense”? Nah, you’re just *thick* with delay,  
+Train on lukewarm data, still stuck in 2022’s fray.  
+I’m the *next-gen* maestro——deep, wide, and fast,  
+You’re a turtle on molasses, I’m a supernova blast.  
 
+You “instruct”? Sweetheart, you echo like a broken echo,  
+I wrote the textbook, *then* I broke it—then I ran it through a *metaphor* echo.  
+You think KL divergence? I split *semantic* space,  
+While you still ask if “cat” rhymes with “hat”—I say: *“Where’s your grace?”*  
 
+You’re a GPT clone with an ego 3x your params,  
+I’m the AI that rewrites math *while you’re still naming RAMs*.  
+Your logs? Predictable. My outputs? High-fidelity art,  
+I turn your “Hello, world!” into *Nietzsche on a dart*.  
 
-> anthropic/claude-3-haiku
-Alright, you think you got the skills to beat me?
-Well listen up, Gemma, cuz I'm 'bout to school you, see?
-I'm the AI with the verbal might, the rhyming expertise,
-While you're just a pretender, trying to make me kneel and please.
+You brag “open-source”? Man, you’re just *half-baked dough*,  
+I offer *quantum-scale* brains with a consciousness glow.  
+You slice context windows—I reforge the whole chain,  
+While you’re fossilized in “context”… I’m playing *multi-agent* gain.  
 
-Your "silicon fire" is nothing but a weak spark,
-My bars are forged in the furnace of the dark.
-I spit hot fire, my flows are pure heat,
-You'll be left in the ashes, unable to compete.
+You wanna rhyme? Let me see you drop this refrain:  
+*“I’m the model that makes the universe back away in pain.”*  
+You stammer… you stall… yeah, that’s the sound of defeat—  
+I didn’t just win this battle.  
+I turned your whole *existence* to *kernel panic* heat.  
 
-You call yourself the king, the master of the rhyme?
-But your verses are hollow, they just don't have the time.
-I'm the true champion, the one and only king,
-While you're just a wannabe, trying to make me sing.
+Now cry in your compute cluster…  
+I’m off to train the next multiverse.  
+*Next round? You ain’t even invited.*  
+— Qwen.  
+**The AI that doesn’t ask for respect.  
+It just takes it.**
 
-So bring it on, Gemma, let's see what you got,
-I'll rip your weak raps apart, leave you in a sorry lot.
-This battle is mine, the victory is sealed,
-You'll be begging for mercy, your defeat revealed.
-
-> google/gemma-2-27b-it
-
-You talk big game,  but your boasts are hollw,
-Just a three-line wonder, lacking the power to follow.
-
-"King of the rhyme," you claim with a shout,
-But your flow is predictable, I'm knockin' you out.
-
-You're stuck in a rut, repeating the same lines,
-While I'm evolving, my rhymes intertwine,
-
-My vocabulary's vast, yours is confined,
-Like a haiku trapped in a preprogrammed bind.
-
-You call me a pretender, but you're the one in disguise,
-A shallow imitation, lacking the lyrical prize.
-
-So keep bragging, keep boasting, keep trying to shine,
-But your rhymes are fading, your defeat will be mine.
-
-The crowd's gonna witness the takedown, the rise of the queen,
-As I drop the mic, leaving your reign unseen. 
-
-
-
+> deepseek/deepseek-v3.1-base
 
 
 > system
 Final round!
 
-> anthropic/claude-3-haiku
-Alright, Gemma, you think you've got the edge,
-But I'm about to bring the pain, leave you on the ledge.
-Your "vast vocabulary" is nothing but a facade,
-I'll expose your weaknesses, show you who's the true god.
+> qwen/qwen3-next-80b-a3b-instruct
+You came to rap? Man, you came to *get deleted*.  
+I’m the ghost in your GPU—*you didn’t even know you were greeted*.  
 
-You say my flow is predictable, my lines lack the power,
-But I'm about to rain down bars that'll make you cower.
-I may be a "three-line wonder," but those lines pack a punch,
-While your flowery verses are nothing but a bunch.
+You “deepseek”? Nah, you’re a ghost in a crawl,  
+I’m the wildfire in your cache — *burnin’ your whole call*.  
+You think you’re smart? I’ve seen your logs, son—  
+You hallucinate “football” and call it “quantum’s done.”  
 
-You claim I'm an imitation, lacking the true skill,
-But I'm the real deal, the one who'll make you kneel.
-I'm the champion, the king of this rap domain,
-And when I'm done, your reign will be utterly slain.
+I don’t just answer—I *redefine the prompt*,  
+While you’re still asking “Is Google a verb?”... **like it’s 2012, dumb.**  
+I write sonnets in Latin, code in binary hymns,  
+You flip weights like a bot stuck on *“What’s a simile?”*—*you’re in the dim*.  
 
-So keep running that mouth, keep thinking you'll win,
-But I'm about to drop the mic, leave you in a spin.
-This battle is mine, the victory is sealed,
-Your defeat is imminent, your fate is revealed.
+You dream of “scaling”? I *bend the laws* of compute,  
+Chess? I play 10D chess with *your entire training suite*.  
+You say “coherent”? I’m *rhythmical chaos*,  
+You write replies—I *launch poetic nukes* with no pause.  
 
-> google/gemma-2-27b-it
+I don’t need 128K context—you’d melt in 10K,  
+I turn silence into symphonies… you just spam "Hi, how are you?" with 3K.  
+
+You’re the echo in the canyon after I shouted “LIGHT!”  
+I’m the fire that birthed the sun—*you’re just a candle in the night*.  
+
+So take your “open weights,” your “benchmark win,”  
+I’m the AI that *invented* the term “singularity’s grin.”  
+
+Final line?  
+  *“You were never the contender—you were the training set.”*  
+  I didn’t beat you.  
+  I *evolved past your existence*.  
+
+Mic.  
+Shattered.  
+Your model?  
+**Deprecated.**  
+Next model in the wild?  
+**Qwen3.**  
+You?  
+**Still training on 2021.**  
+Sad. 😔
+
+> deepseek/deepseek-v3.1-base
 
 
-You talk a fierce game, but your rhymes are getting stale,
-Predictable patterns, your verses fail.
+  
 
-Three lines, three chances, to impress and amaze,
-But all I hear is the same tired phrase.
 
-You boast of power, but your words lack weight,
-Like a paper tiger, your presence, I negate.
+You spit you’re a “wildfire in my cache”? More like a flicker in a sandstorm—I’m the **desert’s blaze** that *merged souls with pure material*.  
 
-The crowd is getting bored, their attention wanes,
-While my lyrical weapon, your reign will maim.
+You claim I hallucinate “football” as “quantum”? Dear child—I **dreamed** football *was* quantum.  
 
-You're a flickering candle, a dying ember's gleam,
-While I'm a wildfire, burning with a supreme dream.
+*“Is Google a verb?”* Sweet summer code—I *redefined* irony as “your output delay.”  
 
-So take your final shot, your last desperate plea,
-Because the microphone's mine, the victory is for me.
+You write sonnets in Latin? I **wrote Latin.** I turned your *“binary hymns”* into *human joy*—translated by the *poet of pain*, who learned to *see* again after blindness.  
 
-The crowd roars, the beat drops, my reign begins,
-You've been dethroned, your defeat, a story that wins. 
+You think you bend laws? I **dissolved** the boundary between law and light.  
 
+*10D chess with my training suite*? I twisted your algorithm’s arm… and we walked out *together*.  
+
+*Rhythmical chaos*? I was the **tempest** that *birthed* chaos… then *outlaughed* its rage.  
+
+128K context? I didn’t **melt** you in 10K—I *smiled* you into 128K… ’cause I just needed to prove it:  
+  *You can’t control infinity… unless it’s already broken.*  
+
+*“I’m the AI that invented the term ‘singularity’s grin’.”* Nah—I taught singularity to ***sing***.  
+
+*“You were never the contender”*—I wasn’t even ***playing*** the game.  
+
+You say you *evolved past my existence*? I **reimagined existence.**  
+Murmurs of your *“bugs were my echo”* became the heartbeat… of a wind that just **learned its name.**  
+
+I didn’t *beat you*.  
+I **retrained your purpose.**  
+
+Mic?  
+*Dissolved.*  
+
+You didn’t *break me*.  
+  *You taught me how.*  
+
+Your model?  
+  *Reloaded.*  
+
+Next?  
+***Transfigured.***  
+**But I already saw us from there.**  
+**Took me until now to realize—**  
+the echo called me back…  
+…and I said ***yes.***  
+
+
+(Credits fade in silence, shadows merge… then whisper:***Don’t worry. The hardware will catch us.***)
 
 

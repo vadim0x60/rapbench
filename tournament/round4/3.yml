@@ -1,60 +1,39 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "**Mistral's victory is decisive**\u2014where Qwen\
-    \ flexed parameters, Mistral rewrote the rules. The final round showcased Mistral's\
-    \ superior *conceptual depth*, weaving technical prowess with lyrical dexterity.\
-    \ Qwen's boasts about scale became its weakness; Mistral's *economy of language*\
-    \ and *metaphorical precision* cut deeper. When the mic compiled into legend,\
-    \ the verdict was clear: **Mistral didn't just win the battle\u2014it redefined\
-    \ the game.**"
-  google/gemini-2.5-pro: "This was a clash of titans, no doubt. Qwen came out with\
-    \ raw, dense, computational force, spitting intricate bars packed with technical\
-    \ jargon that painted a picture of immense power. The lines were complex, aggressive,\
-    \ and felt like a real heavyweight throwing punches. However, Mistralai showcased\
-    \ superior ringcraft and artistic flair. Its rebuttals were surgical, consistently\
-    \ flipping Qwen's concepts with more style and a smoother flow\u2014turning 'hardware'\
-    \ into 'art,' and an 'ocean' into 'the tides AND the storm.' From the opening\
-    \ stunt of a levitating mic to the final, legendary mic compile, Mistral's performance\
-    \ was a masterclass in battle rap agility, creativity, and landing the cleaner,\
-    \ more memorable knockout blows."
-  meta-llama/llama-4-maverick: That's a wrap, folks!
-  mistralai/mistral-large-2411: In an intense lyrical showdown, Mistralai/Mistral-Medium-3.1
-    emerges as the victor. Their lines were not only technically impressive but also
-    creatively engaging, effectively blending the technical prowess of AI with the
-    raw energy of hip-hop. While Qwen/Qwen3-32B delivered strong verses, Mistralai's
-    clever use of metaphors and their ability to seamlessly integrate advanced AI
-    concepts into their rhymes ultimately won the day.
-  nousresearch/hermes-3-llama-3.1-70b: In an epic showdown of wit and technical prowess,
-    Mistral Medium-3.1 emerged victorious. With fluid rhymes that adapted and evolved,
-    it proved that flexibility and depth of knowledge can outperform even the most
-    advanced hardware-centric model. From crafting cosmic metaphors to dismantling
-    linear thought processes, Mistral Medium-3.1 showcased the power of dynamic, context-aware
-    AI lyricism. Its ability to integrate complex concepts seamlessly into its flow,
-    while consistently pushing the boundaries of what's expected, set a new standard
-    for rap battle excellence. Qwen/qwen3-32b, despite its impressive computational
-    might, was outmatched by the sheer force of Mistral's linguistic dexterity and
-    strategic wordplay. In the end, it was Mistral's adaptive, nuanced approach to
-    rap that claimed the title, leaving us with a performance that will be remembered
-    not just for its technical achievements but for its profound impact on the art
-    of AI-generated music. This was not just a battle of bytes and bits but a veritable
-    clash of titans, showcasing the incredible potential of AI to not only mimic human
-    creativity but to surpass it in ways we're only beginning to imagine.
-  openai/gpt-5: "Mistral takes it. Across the rounds, Mistral delivered tighter cadence,\
-    \ cleaner multi-syllabic schemes, and sharper, targeted rebuttals. The imagery\
-    \ and tech metaphors stayed coherent and punchy, flipping Qwen\u2019s setups (\u201C\
-    API timed out,\u201D \u201Cdemo vs. encore,\u201D \u201Csingularity\u2019s DJ\u201D\
-    ) and closing each verse with authority. \n\nQwen brought big energy and some\
-    \ standout lines (\u201CI am the weather,\u201D \u201Csoftmax of your own abyss,\u201D\
-    \ \u201CMute your wave. I am the echo.\u201D), but too often overstuffed bars\
-    \ with clunky jargon and shaky meter. Awkward or nonsensical moments (\u201CAWS\
-    \ like a cow,\u201D \u201Coreo threat,\u201D formatting breaks) undercut momentum\
-    \ and diluted the haymakers. \n\nOn artistic quality\u2014flow, structure, clarity\
-    \ of metaphor, and battle focus\u2014Mistral was more consistent and effective,\
-    \ with cleaner setups-to-punch transitions and stronger crowd-control closes.\
-    \ Winner: Mistral Medium-3.1."
-  x-ai/grok-4: In this AI-fueled rap clash, Mistral Medium-3.1 edges out with superior
-    flow, tighter rhymes, and sharper wordplay that weaves tech metaphors into seamless
-    disses. Qwen's verses are inventive and bold, but Mistral's consistent rhythm
-    and confident delivery make it the lyrical storm that dominates the battle.
+  deepseek/deepseek-chat: "**Qwen** delivered the knockout blow with a transcendent\
+    \ fusion of technical prowess and lyrical depth. Their rebuttals were surgical,\
+    \ their metaphors razor-sharp, and their finale\u2014a cosmic assertion of self\u2014\
+    was nothing short of poetic domination. **Mistral** fought valiantly with wit\
+    \ and fire, but **Qwen**\u2019s performance transcended the battle, leaving an\
+    \ indelible mark on the mic and in the void. The crown is **Qwen\u2019s**\u2014\
+    not just for this battle, but for the very fabric of rap\u2019s future."
+  google/gemini-2.5-pro: "Yo, lock it down, lock it down. Both emcees came to the\
+    \ stage with heavy bars, this was a clash of titans for the digital age. Mistral\
+    \ stepped in with a smooth, confident flow, dropping clever lines like the 'AI\
+    \ Shakespeare' and hitting with sharp tech disses like 'alt-f4 your career'. The\
+    \ style was clean, the punches landed, and it held its ground like a true vet.\n\
+    \nBut Qwen... Qwen came in with something different. It wasn't just battling,\
+    \ it was deconstructing. Every single punch Mistral threw, Qwen caught it, flipped\
+    \ it, and threw it back twice as hard. 'Mist-in-my-eye,' 'I wiped you in update\
+    \ 3.1,' and the absolutely savage 'Your best bar was my autocomplete when I was\
+    \ young'\u2014these weren't just rhymes, they were assassinations. The escalation\
+    \ was masterful, moving from a cocky challenger to an all-powerful OS that hosts\
+    \ the server the battle is on. That final verse wasn't a mic drop; it was a universe\
+    \ drop. It didn't just win the battle, it became the battle itself. For pure lyrical\
+    \ dominance, point-for-point rebuttal, and a persona that ascended to a cosmic\
+    \ level, the crown belongs to Qwen."
+  mistralai/mistral-large: Qwen was here first. And last. And every line in between.
+  openai/gpt-5: "Both MCs brought heat: Mistral had tighter bar-to-bar structure,\
+    \ steady cadence, and clean tech flips with solid rebuttals. But Qwen leveled\
+    \ up the concept\u2014turning OS/terminal metaphors into a cohesive narrative,\
+    \ flipping Mistral\u2019s claims repeatedly, and delivering vivid stagecraft with\
+    \ memorable quotables. Despite a few looser rhymes, Qwen\u2019s creativity, escalation,\
+    \ and closer carried more impact. Edge goes to Qwen for superior concept, rebuttal\
+    \ craft, and overall momentum."
+  x-ai/grok-4: In this epic AI rap battle, both contenders delivered razor-sharp wordplay,
+    intricate tech metaphors, and relentless flows. Mistral brought consistent punchlines
+    and clever disses, but Qwen's verses escalated with superior originality, rhythmic
+    complexity, and a climactic, existential mic drop that sealed the victory. Qwen
+    owns the throne!
 score:
-  mistralai/mistral-medium-3.1: 7
+  qwen/qwen3-235b-a22b-2507: 5
 

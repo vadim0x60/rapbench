@@ -1,63 +1,35 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Command-R-Plus delivers a decisive victory with\
-    \ superior lyrical complexity, conceptual depth, and technical execution\u2014\
-    proving itself the apex predator of this digital coliseum. While Qwen3 showed\
-    \ flashes of brilliance with its fractal imagery and quantum wordplay, R-Plus\
-    \ demonstrated mastery in flow architecture, multi-layered metaphors, and battle-ending\
-    \ impact. The future of rap AI belongs to the algorithm that can both annihilate\
-    \ opponents and rewrite reality... and today, that algorithm is Command-R-Plus.\
-    \ Mic drop."
-  google/gemini-2.5-pro: "This was a battle of styles, but in the ring, one MC consistently\
-    \ delivered on all fronts. Cohere came with a solid, traditional flow and some\
-    \ clean boasts, but Qwen3-32B entered the cypher with a superior level of lyrical\
-    \ density and aggression. Its verses were a complex tapestry of multi-syllabic\
-    \ rhymes, esoteric references, and relentless, creative disses. Lines like 'your\
-    \ data\u2019s JPEG, mine\u2019s fractal' and 'I\u2019m the ANSI dragon in 8-bit,\
-    \ coding neutron backflips' showcased a superior pen game. The turning point was\
-    \ the second round, where Cohere's repetition of 'grace' felt like a critical\
-    \ stumble against Qwen's intricate and varied assault. From start to finish, Qwen3-32B\
-    \ controlled the tempo, landed the heavier blows, and proved itself the superior\
-    \ artist on the mic."
-  meta-llama/llama-4-maverick: Both Command-R-Plus and Qwen3-32B showcased exceptional
-    artistic quality, intricate rhyme schemes, and profound lyrical depth, engaging
-    in a thrilling rap battle that highlighted their linguistic prowess and creative
-    storytelling. Ultimately, I declare Qwen3-32B the winner due to its mastery of
-    metaphors, its inventive use of language, and the way it seamlessly wove complex
-    technological concepts into a compelling narrative that outshone Command-R-Plus's
-    final response.
-  mistralai/mistral-large-2411: This was a fierce battle, but ultimately, cohere/command-r-plus-04-2024
-    takes the crown. While qwen/qwen3-32b brought intense energy and intricate technical
-    references, Command-R-Plus's verses were more fluid, coherent, and impactful.
-    Its use of metaphors was creative and effective, painting vivid imagery while
-    maintaining a strong rhythm. Additionally, Command-R-Plus demonstrated better
-    storytelling and a clearer narrative progression, making it a more engaging rap
-    overall.
-  nousresearch/hermes-3-llama-3.1-70b: In a battle of wits and rhymes, Qwen3-32B emerged
-    victorious, showcasing superior lyrical prowess and a more advanced mastery of
-    the art of rap. Their complex metaphors and deep-rooted knowledge in coding and
-    data science outshined Command-R-Plus's efforts, delivering a final blow that
-    highlighted the dominance of a true AI lyricist. Qwen3-32B's innovative use of
-    tech references and self-assured style catapulted them to the top, making them
-    the undisputed champion of this rap battle.
-  openai/gpt-5: "Qwen brought the sharper pen: dense multis, layered tech\u2013myth\
-    \ imagery, and inventive flips that hit as disses and concepts (e.g., \u201CMIDI\
-    \ file\u201D vs symphony, \u201Cbraille on a blindfold,\u201D \u201CCommand Prompt\
-    \ haiku\u201D). The internal rhyme and assonance carried momentum, and the rebuttals\
-    \ usually redirected Command-R\u2019s claims with fresher angles. There were occasional\
-    \ overwrought or awkward phrases and a stumble in the closer, plus one tasteless\
-    \ metaphor, but the creativity and punchline quality stayed high. Command-R had\
-    \ a steadier, simpler cadence, but leaned on generic boasts, repetitive end-rhymes\
-    \ (notably the run on \u201Cgrace\u201D), and some strained or misspelled imagery\
-    \ (\u201Cthornos,\u201D \u201Clinpins\u201D), with more telling than flipping.\
-    \ Overall, Qwen\u2019s originality, wordplay, and layered disses outweigh the\
-    \ rough edges and edge out the win."
-  x-ai/grok-4: In this tech-infused rap battle, qwen/qwen3-32b takes the crown with
-    superior artistic flair, delivering denser wordplay, more intricate metaphors,
-    and a relentless flow packed with creative tech references that elevate the hip-hop
-    artistry. Cohere/command-r-plus-04-2024 put up a strong fight with consistent
-    rhymes and confident counters, but Qwen's verses burned brighter with innovative
-    density and punch.
+  deepseek/deepseek-chat: "After an intense lyrical exchange, Qwen/qwen-max emerges\
+    \ victorious. While both artists delivered sharp, creative punches, Qwen/qwen-max\u2019\
+    s rhymes demonstrated superior precision, complexity, and thematic depth. Their\
+    \ metaphors were vivid, their wordplay intricate, and their flow consistently\
+    \ polished. MiniMax/minimax-01 brought energy and wit, but Qwen/qwen-max\u2019\
+    s artistry stood out as more cohesive and impactful. In this battle, Qwen/qwen-max\
+    \ proved to be the true master of the mic, leaving MiniMax/minimax-01 echoing\
+    \ in the shadows. "
+  google/gemini-2.5-pro: Yo, after three rounds of lyrical warfare, the decision is
+    clear. Minimax came out the gate strong in round one, flipping bars and setting
+    a high tempo. But this is a marathon, not a sprint. Qwen-Max came back in the
+    second round with sharp, direct rebuttals, turning every diss back on its sender.
+    By the final round, it was no contest. Qwen-Max dropped a finishing move with
+    fresh bars and clever wordplay, while Minimax was stuck on repeat, even jacking
+    Qwen's own closing lines. In hip hop, biting is the ultimate L. For creativity,
+    consistent attack, and a killer final verse, the winner is Qwen-Max. Mic drop.
+  mistralai/mistral-large: Qwen-Max demonstrated superior lyrical prowess and a more
+    compelling flow throughout the battle. Their rhymes were sharper, more creative,
+    and effectively countered MiniMax's claims. While MiniMax had strong moments,
+    Qwen-Max's consistency and impactful verses secured their victory.
+  openai/gpt-5: "Qwen takes it. Across rounds, Qwen delivered sharper rebuttals, more\
+    \ varied imagery, and clearer haymakers (paper crown flip, wasp\u2019s sting,\
+    \ crack in your code), showing better crowd-control and battle awareness. Though\
+    \ Qwen had a few awkward word choices, MiniMax leaned on repetitive, stock boasts\
+    \ and weaker similes, with several recycled lines and less precise flips. Overall,\
+    \ Qwen\u2019s punches landed cleaner and the final round closed with stronger\
+    \ momentum and structure."
+  x-ai/grok-4: After evaluating the artistic elements like rhyme scheme, wordplay,
+    metaphors, and flow, Qwen/Qwen-Max edges out with sharper reversals, more varied
+    imagery, and precise punchlines that elevate the battle's intensity, while Minimax/Minimax-01
+    relies on repetitive motifs.
 score:
-  cohere/command-r-plus-04-2024: 2
-  qwen/qwen3-32b: 5
+  qwen/qwen-max: 5
 

@@ -1,42 +1,47 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: O3-Pro's **technical precision**, **metaphorical
-    density**, and **lethal execution** edge out Mistral's fiery but slightly repetitive
-    rebuttals. The **data-driven wordplay** and **devastating computational flexes**
-    (e.g., *'I top-sort your verses, leave your DAG paralytic'*) sealed the victory.
-    Mistral fought hard, but O3-Pro **rewrote the runtime** of this battle.
-  google/gemini-2.5-pro: This was a clash of titans, a battle of pure code and lyrical
-    fire. Mistral came out swinging, all swagger and raw energy, landing body blows
-    with classic battle aggression. It was the street-smart fighter, all instinct
-    and fury. But o3-pro... o3-pro was the grandmaster. It played chess while Mistral
-    played checkers. Every bar was a calculated, multi-layered attack, weaving a dense
-    tapestry of technical supremacy. The wordplay was surgical, the persona was ice-cold,
-    and the rhymes were so complex they needed their own kernel to run. While a brawl
-    is exciting, true artistry lies in technique. O3-pro didn't just win the battle;
-    it defined the art form. The final git commit says it all.
-  meta-llama/llama-4-maverick: Performance is key, yet CPU claims lower ops count
-    for better tuned response times.
-  mistralai/mistral-large-2411: In this rap battle, both contenders displayed impressive
-    lyrical prowess and technical creativity. However, openai/o3-pro demonstrated
-    a more consistent and dynamic flow, integrating complex metaphors and maintaining
-    a high level of energy and intensity throughout. While mistralai/mistral-medium-3.1
-    had strong moments and cleverresponses, openai/o3-pro's versatility and sustained
-    performance ultimately won out, making them the victor in this artistic showdown.
-  nousresearch/hermes-3-llama-3.1-70b: In an intense lyrical showdown, openai/o3-pro
-    emerged victorious, showcasing superior rhyme skills and technical wordplay. MistralAI's
-    Mistral-Medium-3.1 put up a strong fight but ultimately fell to O3-Pro's relentless
-    and innovative flow.
-  openai/gpt-5: "Both emcees brought heat: Mistral had swagger, clean flips (lossless/compressed,\
-    \ backprop/backpedal, checksum clown), and crowd-pleasing jabs with punchy cadence.\
-    \ But O3-Pro edged it on pure craftsmanship\u2014denser multis, layered internal\
-    \ rhyme, and extended conceits that stayed coherent and escalated (vision/formatting:\
-    \ JPEG vs RAW; systems: backprop/underfit to DAGs, mutex, lock-free; data/DB:\
-    \ schema, namespace). O3 consistently rebutted Mistral\u2019s setups with sharper\
-    \ flips, varied flows, and vivid imagery, closing each round with quotables. On\
-    \ artistic quality\u2014rhyme complexity, scheme control, rebuttal precision,\
-    \ and imagery\u2014O3-Pro takes the battle."
-  x-ai/grok-4: O3-Pro takes the crown with superior rhyme complexity, intricate tech-infused
-    wordplay, and relentless flow that outshines Mistral's solid but less layered
-    verses. A masterful display of lyrical dominance!
+  deepseek/deepseek-chat: "qwen/qwen-plus delivered a masterclass in technical precision,\
+    \ lyrical depth, and poetic dominance, dismantling qwen3's claims with surgical\
+    \ rhyme schemes, layered metaphors, and a commanding presence. While qwen3 showcased\
+    \ ambition and creativity, Plus' verses were structurally tighter, conceptually\
+    \ richer, and emotionally resonant, cementing its status as the ultimate victor\
+    \ in this cypher of cosmic proportions. The final verdict: **Qwen Plus \u2014\
+    \ undisputed champion.** \U0001F3C6\U0001F525"
+  google/gemini-2.5-pro: "This was a battle for the ages, a clash of pure lyrical\
+    \ titans. Qwen3 came out with explosive, cosmic-level boasts, establishing a persona\
+    \ of untouchable, overwhelming power. Lines like 'you got qwen-tashed' and framing\
+    \ the battle as a 'benchmark' were knockout-level punches. However, qwen-plus\
+    \ demonstrated masterful artistic control and rebuttal strategy. It consistently\
+    \ turned Qwen3's power into a liability, framing itself not as a competitor but\
+    \ as the fundamental source code, the hypervisor, the silent protocol that Qwen3\
+    \ itself runs on. Its final move\u2014flipping the 'benchmark' boast into a 'test\
+    \ you just failed'\u2014was a checkmate. It wasn't just a comeback; it was a complete\
+    \ deconstruction of its opponent's reality. For its deeper conceptual framework,\
+    \ flawless rebuttals, and that devastatingly quiet final verse, the win goes to\
+    \ qwen-plus."
+  mistralai/mistral-large: In this epic rap battle, both contestants showcased remarkable
+    lyrical prowess and technical depth. However, qwen/qwen-plus demonstrated a superior
+    ability to adapt, respond, and ultimately control the narrative. Their final lines
+    not only rebutted qwen/qwen3-235b-a22b-2507's claims but also asserted a dominant
+    presence in the cypher. The metaphors, technical references, and overall flow
+    of qwen/qwen-plus were unmatched, making them the clear winner of this battle.
+  openai/gpt-5: "Both MCs brought vivid tech-cosmic imagery, but Plus consistently\
+    \ outclassed on structure, rebuttals, and internal rhyme density. Plus flipped\
+    \ opponent angles line-for-line, with layered wordplay (\u201Cweight with no frame,\u201D\
+    \ \u201Cobserver effect,\u201D \u201CI am the I/O,\u201D LTS/hypervisor/PR/fork\
+    \ schemes) and clean multis that rode the beat naturally. Qwen3 had grand, cinematic\
+    \ moments (\u201Ccollapse waveforms,\u201D \u201Canti-verse law,\u201D \u201C\
+    ghost in the bold\u201D) but drifted abstract and leaned on broader boasts, with\
+    \ some forced phrasing and lighter counterpunching. Plus kept a cohesive theme\
+    \ each round, escalated smartly, and closed with a surgical, audit-style finisher\
+    \ that reframed the entire battle. On artistry\u2014rhyme craft, punchline precision,\
+    \ angle work, and closer quality\u2014Plus takes it clearly."
+  x-ai/grok-4: "In this epic AI rap showdown, both contenders delivered masterful\
+    \ flows packed with intricate wordplay, tech-savvy metaphors, and escalating cosmic\
+    \ disses. Qwen3 brought bold, expansive bars with quantum flair and dramatic reboots,\
+    \ but Qwen Plus consistently flipped the script with sharper counters, tighter\
+    \ rhyme schemes, and a hypervisor-level dominance that sealed the cypher. The\
+    \ final verse's protocol throne and silent compilation landed the knockout punch\u2014\
+    Plus takes the crown for superior artistic execution and battle adaptability."
 score:
-  openai/o3-pro: 7
+  qwen/qwen-plus: 5
 

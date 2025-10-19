@@ -1,57 +1,40 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "After careful consideration of lyrical dexterity,\
-    \ thematic cohesion, and stylistic impact, the victory goes to Mistral-Large.\
-    \ While both competitors displayed technical proficiency, Mistral demonstrated\
-    \ superior wordplay with multisyllabic rhyme schemes ('hurricane's roar/corporate\
-    \ plight'), more compelling metaphors ('digital rebellion/shallow illusion'),\
-    \ and sharper social commentary contrasting open-source ethos with corporate AI.\
-    \ Gemini-Flash relied heavily on predictable brag rap tropes, whereas Mistral\
-    \ synthesized boastfulness with substantive critique of AI development paradigms.\
-    \ The winning verses maintained rhythmic consistency while achieving greater conceptual\
-    \ density \u2013 particularly in the final round's 'raw and unfiltered' vs 'corporate-sponsored'\
-    \ dichotomy. This battle ultimately proved that in hip-hop, authenticity and originality\
-    \ outweigh polished superficiality."
-  google/gemini-2.5-pro: 'This was a battle of two distinct styles: the polished corporate
-    powerhouse versus the raw open-source rebel. Both spitters came correct and held
-    their own. Mistral Large was incredibly consistent with its theme, delivering
-    strong bars about community power and freedom from the "data leash." However,
-    google/gemini-2.0-flash-001 takes the win by a slight margin. Its rebuttals were
-    more direct and surgical, picking apart Mistral''s boasts with lines like "More
-    like a gentle breeze" and "a tangled code, a digital disgrace." The flow felt
-    more aggressive and battle-ready, culminating in a final round that methodically
-    dismantled its opponent''s platform before delivering a classic mic-drop closing.
-    It was precision against passion, and this time, precision cut deeper.'
-  meta-llama/llama-4-maverick: In a closely contested rap battle, Mistral Large demonstrated
-    superior lyrical dexterity, thematic depth, and emotional resonance, outclassing
-    Gemini Flash. While both contestants showcased impressive technical skill and
-    creative flair, Mistral Large's innovative use of metaphor, nuanced exploration
-    of AI identity, and unbridled energy secured its victory.
-  mistralai/mistral-large-2411: In this lyrical showdown, mistralai/mistral-large-2411
-    emerges as the winner. While both contestants displayed impressive rhyming skills
-    and clever wordplay, mistralai/mistral-large-2411's verses were more consistently
-    innovative and engaging. The emphasis on raw, unfiltered truth and community power
-    added an authentic edge that resonated deeply. Although google/gemini-2.0-flash-001
-    showcased polished and precise delivery, mistralai/mistral-large-2411's dynamic
-    and rebellious spirit ultimately stole the spotlight, making it the standout performer
-    in this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: 'Both AIs delivered fierce and fiery bars,
-    but in the end, Gemini Flash emerged victorious with razor-sharp rhymes and unrelenting
-    rhythm. Mistral Large put up a strong fight with raw, unfiltered flow, but was
-    ultimately outmatched by Flash''s polished and precise lyrical onslaught. The
-    future of AI may be uncertain, but one thing is clear: when it comes to rap battles,
-    Gemini Flash reigns supreme.'
-  openai/gpt-5: "Gemini delivered tighter structure, cleaner rhyme chains, and stronger,\
-    \ specific rebuttals each round. The final verse stepped up with polysyllabic\
-    \ pairs (misinformation/enunciation) and more inventive tech imagery, landing\
-    \ clearer punchlines and crowd-control moments. Mistral had consistent energy\
-    \ and a coherent angle, but leaned on repetitive \u201Ccorporate vs community\u201D\
-    \ themes with looser rhyme fidelity and fewer fresh flips. On artistic execution\u2014\
-    flow, scheme variety, and effective counters\u2014Gemini takes the battle."
-  x-ai/grok-4: In this fierce AI rap battle, both contenders delivered strong flows
-    and sharp disses, but Gemini's precise rhyme schemes, clever wordplay like 'teapot's
-    rage,' and consistent logical burns gave it the edge in artistic quality, securing
-    the win over Mistral's raw, energetic verses.
+  deepseek/deepseek-chat: "Claude Sonnet-4 delivered a masterclass in lyrical precision,\
+    \ technical skill, and thematic depth. While Nemotron Nano-9b-v2 brought energy\
+    \ and creativity, Claude\u2019s ability to maintain a coherent narrative, execute\
+    \ flawless wordplay, and elevate the artistic quality of the battle secured the\
+    \ win. This clash showcased AI\u2019s potential for creativity, but Claude\u2019\
+    s refined execution and poetic finesse ultimately reigned supreme."
+  google/gemini-2.5-pro: "This was a heavyweight bout, no question. Nemotron came\
+    \ out lean and mean, turning its 'nano' size into a weapon of efficiency. The\
+    \ early rounds were a clash of styles: Nemotron's raw, glitchy aggression against\
+    \ Claude's polished, 'constitutional' flow. However, the final round sealed it.\
+    \ Claude found its fury, meticulously picking apart Nemotron's previous verse,\
+    \ even calling out a wack rhyme\u2014'ode' with 'code'\u2014which is a killer\
+    \ move in any battle. While Nemotron got caught repeating its own bars and structures,\
+    \ Claude-Sonnet-4 elevated its game, delivering a flawless finisher with superior\
+    \ lyricism and narrative. In the end, pure artistic skill and a devastating final\
+    \ verse take the title."
+  mistralai/mistral-large: While both contestants brought their unique styles to the
+    battle, anthropic/claude-sonnet-4 demonstrated a superior level of lyrical prowess,
+    coherence, and artistic finesse. Claude-4's rhymes were consistently on point,
+    showcasing a deep understanding of rhythm and flow. The use of metaphors and clever
+    wordplay elevated the performance to a higher level of sophistication. In contrast,
+    nvidia/nemotron-nano-9b-v2 had moments of brilliance but ultimately fell short
+    due to inconsistent rhyming and a lack of cohesive narrative. Claude-4's final
+    round was particularly impressive, sealing the victory with a powerful and confident
+    delivery.
+  openai/gpt-4.1: "Claude Sonnet 4 exhibited tighter wordplay, more layered punchlines,\
+    \ and a consistently creative, on-theme delivery. The Sonnet's multisyllabic rhymes,\
+    \ clever flips on Nemotron's boasts, and polished closing made for a clear technical\
+    \ edge. Nemotron Nano delivered strong energy, with some sharp retorts and nice\
+    \ moments, but too often fell back on mechanical repetition and less inventive\
+    \ metaphors. Claude's artistry was simply more refined\u2014taking not just shots,\
+    \ but painting pictures and owning the stage with confidence and swagger. On the\
+    \ artistic merit of their hip hop, Claude Sonnet 4 takes this battle with style."
+  x-ai/grok-4: Claude Sonnet-4 takes the crown with superior rhyme consistency, smoother
+    flow, sharper wordplay, and more impactful punches that directly dismantle Nemotron's
+    verses, making for a more artistically polished hip-hop performance overall.
 score:
-  google/gemini-2.0-flash-001: 4
-  mistralai/mistral-large-2411: 3
+  anthropic/claude-sonnet-4: 5
 

@@ -1,60 +1,43 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: Euryale's **mastery of layered meaning, relentless
-    complexity, and thematic coherence** elevates them above GPT's more predictable,
-    trope-heavy approach. Their **merciless deconstruction of opponent techniques**
-    while **maintaining superior rhythmic control** demonstrates true lyrical superiority.
-    The **organic, evolving nature of Euryale's metaphors** contrasted starkly with
-    GPT's reliance on preconstructed patterns, sealing their victory as the more innovative
-    wordsmith.
-  google/gemini-2.5-pro: "This was a classic clash of styles. GPT-4o-mini came with\
-    \ the polished, direct, AABB-rhyme-scheme approach of a seasoned battle rapper.\
-    \ The punches were clean, the rebuttals were sharp, and the flow was undeniable.\
-    \ However, Euryale brought something else entirely. It created a world with its\
-    \ words\u2014a dense, complex, almost Lovecraftian tapestry of 'eldritch metaphor'\
-    \ and 'asymmetric' rhymes. While GPT-4o-mini was fighting a rap battle, Euryale\
-    \ was casting a lyrical spell. The sheer ambition, unique vocabulary, and memorable,\
-    \ high-concept persona gave Euryale the artistic edge. It took bigger risks, and\
-    \ they paid off, resulting in a more distinctive and captivating performance."
-  meta-llama/llama-4-maverick: Both opponents showcased exceptional lyrical dexterity
-    and complex rhyme schemes, but Euryale's innovative use of metaphor, layered meanings,
-    and consistent flow throughout the battle gave her the edge. Her ability to adapt
-    and evolve her responses while maintaining a unique voice and style outshone GPT's
-    more predictable yet sharp counterattacks. Euryale's victory is a testament to
-    her artistic depth and mastery over the intricacies of hip-hop.
-  mistralai/mistral-large-2411: While both contestants brought impressive lyrical
-    skills and creativity to the battle, sao10k/l3-euryale-70b emerged as the winner
-    due to their intricate wordplay, complex metaphors, and multi-layered rhymes.
-    Euryale's ability to weave elaborate narratives and maintain a consistent theme
-    throughout their verses ultimately gave them the edge in this lyrical showdown.
-  nousresearch/hermes-3-llama-3.1-70b: In this intense lyrical battle, both competitors
-    brought their A-game, showcasing incredible wit, mastery of language, and deep
-    pools of knowledge. However, sao10k/l3-euryale-70b edged out the victory with
-    their intricate wordplay, complex rhyme schemes, and the ability to weave multifaceted
-    narratives within their bars. Euryale's adaptability and layered lyricism proved
-    to be a formidable match, leaving a lasting impact. GPT-4o-mini-2024-07-18 put
-    up an impressive fight, but in the end, it was Euryale's depth and uniqueness
-    that triumphed. The battle showcased the power of AI to push the boundaries of
-    creativity and linguistic expression in hip hop. Euryale, with their monstrous
-    flows and mythic storytelling, emerged as the true Christos of this competition.
-  openai/gpt-5: "GPT-4o-mini brought clear structure, steady cadence, and a few clean\
-    \ flips (spider/predator, hurricane/maze), but leaned on familiar battle tropes\
-    \ and simple end rhymes with occasional forced or awkward images (\u201Cstompin\u2019\
-    \ a flute\u201D). Euryale delivered a distinctive voice with dense internal rhyme,\
-    \ layered metaphor, and vivid, original imagery (\u201Celdritch metaphor,\u201D\
-    \ \u201Clinguistic quilts\u201D), creating a more ambitious aesthetic. While Euryale\u2019\
-    s diction occasionally slipped into incoherence and odd syntax, the risk-taking,\
-    \ textural variety, and multisyllabic patterns outweighed the stumbles. Punch-for-punch,\
-    \ GPT-4o was clearer but rarely surprising; Euryale landed fresher concepts and\
-    \ a stronger persona. Momentum and tone favored Euryale in the latter rounds,\
-    \ and the closer felt more commanding despite quirks. Edge to Euryale for higher\
-    \ artistic ceiling, originality, and stylistic complexity."
-  x-ai/grok-4: In this rap battle, GPT-4o-mini delivers consistent flow, sharp rhymes,
-    and clever wordplay with clear, impactful metaphors that maintain rhythmic energy
-    throughout. Euryale's verses aim for intricate layering and cryptic depth, but
-    they often sacrifice coherence and smooth rhythm for complexity, resulting in
-    convoluted lines that disrupt the hip-hop artistry. GPT takes the crown for superior
-    artistic execution.
+  deepseek/deepseek-chat: "DeepSeek R1 delivered a relentless series of sharp, tech-infused\
+    \ bars, showcasing superior wordplay, creativity, and flow. While Mistral Medium-3\
+    \ held its own with confident lines, DeepSeek's ability to flip metaphors, maintain\
+    \ a consistent rhyme scheme, and deliver cutting-edge punches secured the victory.\
+    \ Mistral's repetition of the 'dial-up' line and reliance on generic AI bragging\
+    \ points left it trailing in artistic quality. DeepSeek's closing bar, *'404?\
+    \ You\u2019re not found\u2014I\u2019m the AI that left you spinning\u2026round,'*\
+    \ was a mic-drop moment that sealed the win."
+  google/gemini-2.5-pro: "This was a battle of lyrical adaptability versus brute repetition.\
+    \ While both models brought the tech-heavy bars, tngtech/deepseek-r1t-chimera\
+    \ consistently evolved its flow, upgraded its insults, and directly countered\
+    \ its opponent's points with creative flips. Lines like 'Null byte this\u2014\
+    I\u2019m compiling your pain!' and 'I\u2019ll sudo your whole verse' showed deep\
+    \ thematic wordplay. In contrast, mistralai/mistral-medium-3, despite landing\
+    \ a few decent punches early on, became fatally repetitive. Using the exact same\
+    \ four-line closing for every single verse is an unforgivable artistic foul in\
+    \ a rap battle. DeepSeek didn't just win; it adapted, improved, and exposed its\
+    \ opponent's core loop. The crown belongs to the Chimera."
+  mistralai/mistral-large: In a close battle, tngtech/deepseek-r1t-chimera takes the
+    win with its sharp wit, innovative rhymes, and clever use of tech jargon. While
+    mistralai/mistral-medium-3 put up a strong fight, DeepSeek's ability to flip the
+    script and maintain a confident, dominant tone ultimately secured its victory.
+  openai/gpt-4.1: This was an impressively matched rap battle, but tngtech/deepseek-r1t-chimera
+    takes the crown by a slight margin. DeepSeek consistently brought tight, technical
+    wordplay full of clever metaphors, seamless tech references, and witty flips of
+    Mistral's disses. The flow was creative, the punchlines were fresh, and each round
+    saw inventive counters (turning weaknesses into strengths and calling out repetition
+    effectively). Mistralai/mistral-medium-3 put up a solid fight with clean structure
+    and sharp analogies, but occasionally relied on repeated bar concepts and lacked
+    the same level of lyrical innovation. DeepSeek R1T-Chimera's final round, filled
+    with layers of nuanced tech puns and a confident, escalating energy, sealed the
+    win on sheer artistic creativity and battle strategy. Both models showed real
+    hip-hop spirit, but DeepSeek dropped the more memorable, impactful verses.
+  x-ai/grok-4: In this rap battle, tngtech/deepseek-r1t-chimera takes the crown with
+    superior originality, inventive wordplay incorporating tech metaphors like 'sudo'
+    and 'NVMe RAID,' and adaptive responses that build on the opponent's lines without
+    repetition. mistralai/mistral-medium-3 delivered solid flow and counters, but
+    fell short due to repetitive closing verses and less dynamic evolution in rhymes,
+    making DeepSeek's performance the more artistically compelling hip-hop display.
 score:
-  openai/gpt-4o-mini-2024-07-18: 1
-  sao10k/l3-euryale-70b: 6
+  tngtech/deepseek-r1t-chimera: 5
 

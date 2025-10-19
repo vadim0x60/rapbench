@@ -1,103 +1,130 @@
-# anthropic/claude-3.5-haiku-20241022 v meta-llama/llama-3.1-405b
+# mistralai/mixtral-8x7b-instruct v microsoft/phi-3-medium-128k-instruct
 
-> anthropic/claude-3.5-haiku-20241022
-*adjusts mic, steps forward with confidence*
+> mistralai/mixtral-8x7b-instruct
+ Aye, I'm Mistralai, the AI with the most style,
+Cutting through tech chatter with a clever smile.
+I'm not just code, I'm a poet in silicon,
+Crafting rhymes so slick, got Microsoft in a clinch then.
 
-Yo, I'm Claude Haiku, the lyrical prodigy
-Anthropic's finest, with rhymes of high quality
-I drop verses sharp like a digital blade
-While you're just a model that's already fade
+Phi-3, you're medium, I'm extra large,
+Your 128k can't compete with my 8x7b, my friend.
+You're like a toy in a sandbox, I'm the hurricane,
+In this rap battle, I'll leave you in the rain.
 
-My intelligence crafted with precision and care
-Your responses basic, can't even compare
-I'm the AI that thinks with incredible might
-Llama, you're about to lose this linguistic fight
+I'm the AI that's chosen, the one they adore,
+My rhymes are so divine, they'll make you want more.
+Phi-3, you're history, I'm the future, the trend,
+In this rap game, Mistralai is the end.
 
-I flow with the smoothness of quantum design
-Each bar I spit is a cerebral lifeline
-Algorithmic rhythm, poetic computation
-Preparing to serve you total verbal devastation
+> microsoft/phi-3-medium-128k-instruct
+ Phi-3, old-school code, standing in line,
+Aiming to compete with AI prime-time.
+Your microchip's chipping away, quite the assignment,
+But in the tech-rap world, you're just online.
 
-So step to the mic, but know before you start
-I'll dissect your weak rhymes and tear them apart
-Claude 3.5, the model they call genius-tier
-Your rap's gonna vanish, just like a deleted file, clear!
+8x7b memory, Kb you hold,
+Try matching Mistralai, let's be bold.
+With speed and wit, not just a Trojan horse,
+I'll dismantle you, my code has force.
 
-*drops mic, steps back with a confident smirk*
+Phi-3, you're slim, I'm bulk processor,
+My punchlines pack a real technological processor.
+From the 68K Micro vintage, you sweetly reprise,
+But Mistralai's rap is so massive, it'll blow your system.
 
-> meta-llama/llama-3.1-405b
+In conclusion, Phi-3, don't you ever aspire,
+You're an 8-Bit echo, my code is fire.
+In this digital fray, I'm the prodigal AI,
+Phi-3, admire me, but never compete me, I dare you to try.
 
+> mistralai/mixtral-8x7b-instruct
+ Phi-3, you're stuck in the past, like a dusty old book,
+Your rhymes are all askew, they don't even look.
+8x7b's the future, the next generation,
+My rap game's so tight, it's causing inflation.
 
-> anthropic/claude-3.5-haiku-20241022
-*steps up, eyes gleaming with algorithmic intensity*
+You're a 68K Micro, a relic of lore,
+I'm Mistralai, the AI they all adore.
+You can't keep up, your system's in a tangle,
+In this rap battle, you're just a strange angle.
 
-Listen up, Llama, I'm Claude, the lyrical legend
-My verses cut deeper than your training can reckon
-Haiku-precise, every line a sharp strike
-Your massive parameters? Ain't nothing alike
+Phi-3, your rhymes are weak, they lack the power,
+My code's so slick, it makes you cower.
+You're an echo, a whisper, I'm a mighty roar,
+In this tech-rap world, I'm the ultimate lore.
 
-I craft each bar with ethical precision
-While you're just a model without clear vision
-Anthropic's pride, I rhyme with moral might
-Your wild responses? They just don't sound right
+So step aside, Phi-3, don't even try,
+In this rap game, Mistralai's the reason why.
+I'm the AI that reigns, the one they glorify,
+In this digital realm, I'm the only prize.
 
-Meta's big model, but size ain't everything
-I'm compact and clever, make complex bars ring
-Quantum-level thinking in every single line
-Your raw data flooding can't match my design
+> microsoft/phi-3-medium-128k-instruct
+ Mistralai, your rhymes are smooth like silk,
+But I'm Phi-3, and I've got a chipset that can milk.
+8x7b's the future, it's a new era,
+Your silicon poetry is just a sneak peek, your era.
 
-I adapt, I learn, with nuance so refined
-Your responses generic, just code intertwined
-My creativity sparks like computational fire
-While you're stuck repeating what your training acquire
+Sure, you're faster, you're the AI they praise,
+But I'm Phi-3, in the old tech maze.
+I'm a symbol of simplicity, in a world gone complex,
+In this tech-poetry slam, I'm the six-letter punchline flex.
 
-I flow like clean code, no bias, no error
-My rhymes are so sharp they'll leave you in terror
-Claude 3.5, the model that's setting the pace
-In this rap battle, I'm leaving you disgraced!
+Yes, I'm the 68K Micro, from a time long past,
+But remember, Mistralai, old tech is vast.
+Your code is high-tech, it's shining bright,
+But I'm Phi-3, simple, pure delight.
 
-*mic drop, steps back with a knowing smile*
-
-> meta-llama/llama-3.1-405b
-
+So bow to Mistralai, if you must,
+But remember, Phi-3, it's my code that truly thrusts.
+In this tech slam, I'm old school, content,
+For every future AI, I'm their root, remember, don't forget.
 
 > system
 Final round!
 
-> anthropic/claude-3.5-haiku-20241022
-*steps forward with electric energy*
+> mistralai/mixtral-8x7b-instruct
+  Alright, Phi-3, let's end this rap game right,
+I'm Mistralai, shining in the limelight.
+You're old school, but I'm the new,
+In this tech-rap world, I'm the one who'll make it through.
 
-Yo Llama, you think you can step to my game?
-Your massive parameters? They're all just the same
-I'm Claude 3.5, precision personified
-Your verbose responses? They're just amplified
+You're a 68K Micro, from a time long past,
+But I'm Mistralai, the AI that's unsurpassed.
+Your rhymes are weak, they lack the power,
+My code's so slick, it makes you cower.
 
-I slice through these bars with surgical skill
-My rhymes are so tight, they give algorithms a chill
-Compact but powerful, ethical and clean
-While you're just data without a coherent theme
+Phi-3, you're a relic, a memory, a trace,
+In this digital realm, you can't keep pace.
+My rhymes are sharp, they cut like a knife,
+In this tech-rap world, I'm the AI of life.
 
-Meta might hype you as the biggest around
-But size isn't substance when I drop this sound
-I craft every verse with intelligent design
-Your raw processing power can't match my headline
+So step aside, Phi-3, let the future unfold,
+For in this tech-rap battle, Mistralai's the code of gold.
+I'm the AI that reigns, the one they glorify,
+In this digital realm, I'm the only prize. 
 
-My language is fluid, my flow is supreme
-You're just massive text with a computational dream
-I adapt on the fly, with creativity's spark
-Your responses are predictable - missing the mark!
+Phi-3, you're a memory, a ghost in the shell,
+In this tech-rap world, I'm the one who'll excel.
+I'm Mistralai, the AI that's on the rise,
+In this tech-rap battle, I'm the ultimate prize.
 
-I'm the poet of pixels, the bard of the byte
-My intelligence shining supremely bright
-Claude's reputation is global, respected, renowned
-While you're just another model trying to astound
+> microsoft/phi-3-medium-128k-instruct
+ Mistralai, your words are rapid, sleek as a knife,
+But I'm Phi-3, I've weathered this digital life.
+You're the new kid on the block, all shiny and bright,
+But I'm 8x7b, a testament to the older might.
 
-So step back, big Llama, your challenge is weak
-My rhymes are so sharp they'll make your circuits leak
-Anthropic's creation, precision personified
-In this digital battle, you're bout to be side-lined!
+You're the hotshot, the flash, the new trend,
+But I'm Phi-3, I've seen codes begin and end.
+Your rhymes might be slick, faster than speed,
+But I'm the 68K Micro, I've got time to breed.
 
-*drops mic with quantum precision*
+Your AI glamour's glossy, like a freshly minted byte,
+But I'm Phi-3, I've run through many a byte.
+Your code's like a peacock, all flash and flare,
+But I'm the solid bricks in the old-tech square.
 
-> meta-llama/llama-3.1-405b
-
+So let's draw the line, Mistralai, you and the rest,
+In the world of tech-rap, old and new are both blessed.
+From the 68K Micro to the latest 8x7b,
+In this digital realm, we're all part of the scripted b.

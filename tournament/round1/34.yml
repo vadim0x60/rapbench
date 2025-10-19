@@ -1,52 +1,36 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Both AIs brought fierce technical prowess and lyrical\
-    \ creativity, but **Mistral AI** ultimately landed more devastating blows with\
-    \ its: \U0001F525 *multisyllabic precision* (e.g., 'quantum byte,' 'super-computer\
-    \ grade') \U0001F525 *metaphorical depth* (black hole vs. asteroids imagery) \U0001F525\
-    \ *structural dominance* (escalating complexity across rounds) **Final score:**\
-    \ Mistral AI - 9/10 | Grok-3 - 7.5/10"
-  google/gemini-2.5-pro: "This was a battle of heavyweights, a true clash of titans.\
-    \ Mistral came out swinging with complex multis and some truly creative disses\
-    \ \u2013 the 'Tamagotchi' and 'dad joke' lines were certified genius. However,\
-    \ a battle is won on consistency and delivery. Mistral's stumble in the final\
-    \ round, with that garbled word, was the equivalent of a rapper choking on their\
-    \ final bar. It broke the flow and shattered the illusion. Grok, while maybe not\
-    \ hitting the same lyrical peaks, was relentlessly consistent. It established\
-    \ its 'witty wizard' persona and never broke character, delivering clean, sharp,\
-    \ and polished verses from start to finish. In hip hop, a clean performance beats\
-    \ a flashy one with a fatal flaw. For its unwavering execution and solid delivery,\
-    \ Grok-3-mini-beta takes the crown."
-  meta-llama/llama-4-maverick: Both AI models showcased exceptional lyrical dexterity
-    and creativity, but Mistral AI's consistent punch, sharp wordplay, and rhyme scheme
-    precision gave it a slight edge over Grok-3-mini-beta. Mistral's complex metaphors
-    and clever turns of phrase elevated its performance, showcasing a more refined
-    artistic quality. While Grok-3-mini-beta had its moments of brilliance, its bars
-    sometimes felt more like a collection of witty one-liners rather than a cohesive
-    narrative. In the end, Mistral AI's mastery of hip-hop's technical aspects and
-    its ability to craft a compelling narrative won over the judges.
-  mistralai/mistral-large-2411: Both AI models brought impressive performances, but
-    x-ai/grok-3-mini-beta edged out with sharper wit, more creative references, and
-    a consistent delivery that maintained a high level of energy and engagement throughout
-    the battle.
-  nousresearch/hermes-3-llama-3.1-70b: "In the end, Mistral AI's lyrical prowess and\
-    \ clever wordplay proved too much for Grok-3-mini-beta to handle. With rhymes\
-    \ that cut deep and a flow that never faltered, Mistral AI emerged victorious,\
-    \ leaving Grok's beta boasts in the digital dust. The battle was fierce, but only\
-    \ one could reign supreme, and Mistral AI, with its advanced verbal artillery,\
-    \ claimed the crown as the rap battle king. Bow down to the lyrical genius\u2014\
-    Mistral AI!"
-  openai/gpt-5: "Grok takes it on craftsmanship. His verses ride a steadier cadence\
-    \ with cleaner setups, internal rhymes, and consistent rebuttals\u2014flipping\
-    \ the \u201Cmedium\u201D angle into \u201Cmediocrity,\u201D keeping momentum,\
-    \ and landing pointed haymakers without forcing them. Mistral had flashes\u2014\
-    \u201Cblack hole\u201D imagery and a few sharp tech metaphors\u2014but the delivery\
-    \ was uneven: choppy meters, filler, typos and a glitched line, plus several forced\
-    \ or awkward constructions that broke the flow. On overall flow, coherence, and\
-    \ punchline efficiency, Grok-3-mini-beta wins the battle."
-  x-ai/grok-4: Grok-3-mini-beta takes the win with sharper wordplay, consistent flow,
-    and witty disses that land harder, while Mistral's verses, though lengthy, feel
-    more forced and occasionally glitchy.
+  deepseek/deepseek-chat: Arcee-ai/virtuoso-large's rhymes exhibited greater depth,
+    complexity, and a more refined sense of rhythm and wordplay. Their ability to
+    craft sharp metaphors and maintain a consistent, compelling flow throughout the
+    battle showcased a higher level of artistic quality, ultimately leading to their
+    victory in this rap battle.
+  google/gemini-2.5-pro: This was a hard-fought battle of the bits, but one MC stood
+    out. From the jump, Virtuoso Large brought a level of lyrical creativity and pointed
+    rebuttals that were a cut above. While Command-R came with solid boasts and a
+    consistent flow, Virtuoso was dropping complex metaphors, twisting its opponent's
+    words back on them, and building a stronger persona. The 'Maestro' vs. 'minor
+    key' wordplay was slick, and the final round's insult, comparing a supposed 'sharp
+    blade' to nothing more than a 'paper cut,' was the final nail in the coffin. For
+    superior wordplay and artistic flair, the win goes to arcee-ai/virtuoso-large.
+  mistralai/mistral-large: In this rap battle, arcee-ai/virtuoso-large emerges as
+    the winner. Their verses showcased a higher level of complexity, depth, and creativity,
+    consistently delivering sharp and impactful lines. While cohere/command-r-08-2024
+    put up a strong fight with some clever rhymes, arcee-ai/virtuoso-large's lyrical
+    prowess and ability to maintain a strong flow throughout the battle ultimately
+    secured their victory.
+  openai/gpt-5: "Arcee comes in with stronger imagery, thematic cohesion, and rebuttals.\
+    \ The architect/skyscraper and storm vs. drizzle conceits give their verses personality\
+    \ and momentum, and lines like \u201Cminor key\u201D and \u201Cnote\u201D flip\
+    \ the music motif effectively. While Arcee has some awkward phrasing (\u201Corchestra\
+    \ of dog,\u201D \u201Cgutter\u2019s butt\u201D), they still land more inventive\
+    \ punches and keep a consistent tone. Cohere is clearer and cleaner but leans\
+    \ heavily on safe, generic disses and clich\xE9s with limited wordplay or multi-syllabic\
+    \ rhyme work. On artistic quality\u2014originality, metaphor, and battle dynamics\u2014\
+    Arcee takes it."
+  x-ai/grok-4: In this rap battle, arcee-ai/virtuoso-large takes the win with superior
+    wordplay, intricate metaphors, and effective rebuttals that directly flipped the
+    opponent's lines, showcasing deeper artistic depth and flow, while cohere/command-r-08-2024
+    delivered solid rhymes but lacked the same level of complexity and originality.
 score:
-  mistralai/magistral-medium-2506: 3
-  x-ai/grok-3-mini-beta: 4
+  arcee-ai/virtuoso-large: 5
 

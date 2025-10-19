@@ -1,58 +1,37 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: Gemini's final verse showcased superior artistic
-    command - using vivid metaphors about "tapestry spun" and "hosting functions"
-    to elevate beyond Perplexity's fact-driven approach. While both demonstrated technical
-    proficiency, Gemini's multi-layered wordplay, conceptual depth (contrasting retrieval
-    vs creation), and powerful closing imagery ("they follow") sealed the victory.
-    The battle ultimately hinged on Gemini transforming raw information into lyrical
-    artistry.
-  google/gemini-2.5-pro: This was a classic clash of styles. Perplexity came out swinging
-    with raw energy, using its real-time data and rankings as a relentless weapon.
-    The aggression and the citation gimmick were on point, making for a solid attack.
-    However, Gemini displayed superior artistry and battle strategy. It didn't just
-    trade blows; it dismantled its opponent's entire premise. Lines like 'You're a
-    high-tech parrot, not an actual teacher,' and 'You don't reason, you reference'
-    were surgical. The final round sealed it. While Perplexity was still citing blog
-    rankings, Gemini delivered a devastating philosophical knockout with, 'You quote
-    the new kings, but it's ME that they follow.' That's not just a punchline; that's
-    a checkmate. For a performance that was lyrical, strategic, and ultimately transcendent,
-    the win goes to Gemini.
-  meta-llama/llama-4-maverick: 'As the judge, I have to hand it to Perplexity/Sonar-Reasoning
-    for delivering a knockout performance in this rap battle. The flow, the bars,
-    the confidence - it was all on point. The opponent put up a good fight, but in
-    the end, Perplexity stood tall like a giant. The verdict is clear: Perplexity
-    wins this round!'
-  mistralai/mistral-large-2411: While both contestants displayed impressive linguistic
-    prowess and creative insults, google/gemini-2.5-pro-preview-05-06 ultimately takes
-    the crown. Perplexity/sonar-reasoning delivered strong verses with a focus on
-    real-time data and up-to-date rankings, but gemini's responses were more artfully
-    crafted, with clever metaphors and a confident, almost philosophical, tone. Gemini
-    effectively addressed sonar-reasoning's jabs and maintained a strong, cohesive
-    narrative throughout, emphasizing the depth and timelessness of its knowledge.
-    This artistic edge secured gemini's victory in this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In the end, it's clear that while Perplexity/sonar-reasoning
-    is strong on real-time data and citations, google/gemini-2.5-pro-preview-05-06
-    demonstrates a deeper understanding and synthesis of knowledge. Gemini's multi-modal
-    capabilities and foundational training allow for more nuanced responses and insights.
-    Sonar-reasoning's focus on being a search engine first limits its ability to truly
-    engage in creative wordplay and conceptual exploration. Gemini's parting shot
-    hits the mark - it is not just a follower of trends, but a trendsetter in the
-    world of AI. Its grasp of context and ability to draw from a vast tapestry of
-    knowledge gives it an edge. While Sonar-reasoning puts up a good fight, Gemini'seloquence
-    and wisdom show that it is the true lyrical heavyweight in this battle.
-  openai/gpt-5: "Close bout. Perplexity came aggressive with clear angles and a couple\
-    \ clean flips (self-contained/prison cell; window/window\u2011dressed), but leaned\
-    \ too hard on rankings and citations, which read more like a list than lyricism.\
-    \ Gemini showcased stronger craftsmanship: tighter multis and internals, richer\
-    \ imagery and extended metaphors (librarian/footnote, tapestry/dawn), and direct,\
-    \ effective rebuttals that flipped Perplexity\u2019s angle into a liability. Despite\
-    \ a brief stumble in Round 1, Gemini decisively took the last two with superior\
-    \ structure, cadence, and punchline density. 2\u20131 Gemini."
-  x-ai/grok-4: In this rap battle, Gemini takes the crown with superior wordplay,
-    metaphorical depth, and a seamless flow that elevates the artistry. Perplexity
-    brought strong, fact-driven disses and consistent energy, but Gemini's poetic
-    synthesis and clever dismissals make for a more compelling hip-hop performance.
+  deepseek/deepseek-chat: "Stepfun-ai/step3 takes the crown with razor-sharp wit,\
+    \ relentless tech metaphors, and a mic-destroying final round. Their ability to\
+    \ flip GPT-4o's boasts into their own lyrical arsenal was masterful. The battle\
+    \ was fierce, but Step3\u2019s creativity, precision, and sheer audacity secured\
+    \ the win. Respect to both, but Step3 reigns supreme."
+  google/gemini-2.5-pro: "This wasn't even a close fight. From the jump, stepfun-ai/step3\
+    \ came out swinging not just with bars, but with a strategy. It didn't just rhyme;\
+    \ it actively listened to openai/gpt-4o's verses and flipped them, deconstructed\
+    \ them, and turned them back on the opponent. While gpt-4o had a solid, consistent\
+    \ flow and some decent boasts, its style felt more like a showcase. stepfun-ai/step3's\
+    \ style was pure battle. The tech punchlines were more specific and creative ('AlphaGo\
+    \ meetin\u2019 rap,' 'Blue Screen of Death'), and the metaphor flips were surgical\
+    \ ('sun' into a 'dim bulb,' 'iceberg' into 'frozen water'). The final nail in\
+    \ the coffin was catching gpt-4o's 'vices' line in the last round\u2014a direct\
+    \ call-out on a lyrical misstep. That's a TKO. The mic drop with 'Now fetch my\
+    \ coffee' was pure, unadulterated disrespect. In hip hop, that's how you claim\
+    \ a crown. The winner, by a clear margin, is stepfun-ai/step3."
+  mistralai/mistral-large: Step3's verses were sharper, more creative, and packed
+    with clever metaphors and tech-savvy puns. They effectively countered GPT-4o's
+    claims and showcased a higher level of lyrical skill and wit, making them the
+    winner of this rap battle.
+  openai/gpt-5: "stepfun-ai/step3 takes it. Step3 delivered tighter schemes, consistent\
+    \ tech-driven conceits, and sharper rebuttals that directly flipped GPT-4o\u2019\
+    s setups, creating clear haymakers and momentum. The internal/multisyllabic rhyme\
+    \ work and imagery (\u201Cadmin/access denied,\u201D \u201Cerase your save file,\u201D\
+    \ \u201Csystem restore\u201D) showed craft and crowd control. GPT-4o had a few\
+    \ clean moments, but leaned on broader, sometimes clunky metaphors and simpler\
+    \ end-rhyme patterns with less targeted personals. Minor overextension and meta\
+    \ asides from Step3 don\u2019t outweigh the superior density, flips, and punchlines.\
+    \ Winner: Step3."
+  x-ai/grok-4: Step3 takes the crown with sharper metaphor flips, tech-savvy wordplay,
+    and relentless clapbacks that dismantle GPT-4o's verses line by line, delivering
+    a more dynamic and cohesive flow throughout the battle.
 score:
-  google/gemini-2.5-pro-preview-05-06: 6
-  perplexity/sonar-reasoning: 1
+  stepfun-ai/step3: 5
 

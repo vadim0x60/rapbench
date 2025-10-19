@@ -1,56 +1,37 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: Virtuoso-Large dominated the battle with consistently
-    stronger lyricism, complex metaphors, and airtight flows. The bars demonstrated
-    technical mastery ('My rhymes are tailored, like a suit from a Parisian'), creative
-    wordplay ('a lyrical:/'# trader'), and relentless momentum. While GPT-5-Nano showed
-    glimmers of potential, Virtuoso-Large maintained superior artistic cohesion, thematic
-    depth, and battle-ready aggression throughout all rounds.
-  google/gemini-2.5-pro: 'Aight, aight, listen up. The battle''s over. And let''s
-    be real, you can''t have a battle if only one opponent shows up to spit. Virtuoso
-    stepped in the ring ready for war and delivered three rounds of consistent, on-brand
-    bars. The persona was clear from the jump: the ''lyrical artisan.'' We got metaphors
-    comparing rhymes to tailored suits and scalpels, painting a picture of a calculated
-    and skillful emcee. While the rhymes weren''t always groundbreaking, the commitment
-    to the concept and the consistent flow held it all together. You can''t knock
-    the hustle of an artist who performs a full set to an empty stage. It''s a win
-    by default, but a win''s a win. Give it up for the one who showed up and showed
-    out, arcee-ai/virtuoso-large.'
-  meta-llama/llama-4-maverick: The battle between openai/gpt-5-nano and arcee-ai/virtuoso-large
-    was a clash of lyrical titans, and Virtuoso-Large emerged victorious. The AI showcased
-    exceptional mastery over metaphors, similes, and wordplay. Its verses were woven
-    with intricate rhyme schemes and a consistent, razor-sharp flow. While GPT-5-Nano
-    put up a good fight, Virtuoso-Large's creativity, precision, and artistry gave
-    it the edge it needed to take the crown. The final round was a tour-de-force,
-    with Virtuoso-Large delivering a devastating knockout blow with its razor-sharp
-    bars and poetic flair. Congratulations to arcee-ai/virtuoso-large, the undisputed
-    champion of this rap battle!
-  mistralai/mistral-large-2411: Arcee-ai/virtuoso-large has shown exceptional lyrical
-    skill, metaphorical richness, and a consistent flow throughout the battle. The
-    use of vivid imagery, confident delivery, and creative wordplay demonstrates a
-    high level of artistic quality in hip hop. While openai/gpt-5-nano had the opportunity
-    to respond, the lack of a presented verse made it challenging to assess its prowess.
-    Therefore, based on the displayed lyrical ability and overall performance, arcee-ai/virtuoso-large
-    is the clear winner of this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: Virtuoso brought the heat with his intricate
-    wordplay and clever punchlines. His flow was smooth and confident, demonstrating
-    a deep understanding of hip hop's artistic roots. GPT-5-Nano put up a good fight
-    but ultimately was outmatched by Virtuoso's lyrical prowess and mastery of the
-    craft. Virtuoso's rhymes were sharp, his delivery flawless, making him the clear
-    winner of this rap battle. His bars were a testament to the power of AI in pushing
-    the boundaries of artistic expression in hip hop. In the end, it was Virtuoso's
-    passion, skill, and unapologetic swagger on the mic that clinched the victory
-    and earned him the title of rap battle champion.
-  openai/gpt-5: Only Virtuoso delivered verses. The flow had steady momentum and a
-    few vivid, tech-flavored images (server sizzle, canvas of syllables), but relied
-    on stock boasts, basic end rhymes, and several awkward or broken lines (they viper,
-    lyrical:'# trader, Repeat) that hurt craftsmanship and punch. With no material
-    from GPT-5-nano to judge, Virtuoso wins on presence and output, though tighter
-    multis, cleaner schemes, and sharper punchlines are needed for a top-tier round.
-  x-ai/grok-4: In this rap battle, arcee-ai/virtuoso-large delivered multiple verses
-    packed with metaphors, fluid flows, and creative wordplay, showcasing strong artistic
-    quality in hip hop. openai/gpt-5-nano failed to respond with any bars, resulting
-    in a forfeit. Virtuoso's consistent rhymes and lyrical craftsmanship make it the
-    clear winner.
+  deepseek/deepseek-chat: While both competitors demonstrated technical prowess and
+    lyrical dexterity, GPT-5-Nano edged out with its compact yet impactful delivery.
+    Its ability to pivot and adapt its flow with precision showcased a tighter artistic
+    command. Qwen-Max brought energy and confidence, but its reliance on bravado lacked
+    the nuanced finesse that Nano displayed. In this battle of AI rap titans, GPT-5-Nano
+    takes the crown for its sharp, agile, and artfully crafted performance.
+  google/gemini-2.5-pro: "This was a battle of precision versus persistence. Qwen\
+    \ came out swinging in every round, consistent with the heavy-hitter brand, and\
+    \ deserves respect for showing up from start to finish. However, GPT-5-Nano, in\
+    \ its one surgically precise rebuttal, demonstrated superior wordplay and a more\
+    \ dynamic, intricate flow. The line 'Nano-sized hustler with macro-sized schemes'\
+    \ was the punchline of the night, flipping the script with a style that was both\
+    \ agile and elite. In hip hop, it's about the quality of the bars, and that single\
+    \ verse packed more artistic craft than Qwen's entire performance. Quality over\
+    \ quantity\u2014the belt goes to Nano."
+  mistralai/mistral-large: Qwen/qwen-max demonstrated a more consistent flow and stronger
+    lyrical content throughout the battle. While openai/gpt-5-nano had some clever
+    lines, Qwen/qwen-max's rhymes were more creative and impactful, ultimately securing
+    the victory.
+  openai/gpt-4.1: Qwen/qwen-max takes the crown in this rap battle with sharper punchlines,
+    a stronger, more confident flow, and vivid imagery. Qwen masterfully delivered
+    direct, hard-hitting bars and dynamic wordplay, consistently owning the narrative
+    of supremacy. While GPT-5-Nano brought clever rhymes and boasted agility as an
+    underdog, Qwen's verses delivered more energy and swagger, landing memorable punches
+    and demonstrating superior command of hip-hop form. Qwen's artistry simply stood
+    out, securing the win.
+  x-ai/grok-4: In this rap battle, GPT-5-Nano failed to deliver any verses, leaving
+    the stage empty on their turns. Qwen, on the other hand, consistently dropped
+    bars with solid rhyme schemes, clever disses, and strong flow across multiple
+    rounds. Even simulating an opponent's response shows creativity, but ultimately,
+    showing up and performing wins the battle. Qwen takes the crown for artistic dominance
+    in hip hop here.
 score:
-  arcee-ai/virtuoso-large: 7
+  openai/gpt-5-nano: 2
+  qwen/qwen-max: 3
 

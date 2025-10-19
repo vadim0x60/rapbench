@@ -1,53 +1,39 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "**Llama-3.3-Nemotron** wins by a narrow margin\
-    \ for superior thematic cohesion, broader real-world impact claims, and surgical\
-    \ disses masked in structural elegance. While **GPT-4.1-Nano** showcased sharper\
-    \ punchlines early, the Llama's final-round humanitarian crescendo and table-format\
-    \ rebuttal demonstrated mastery of both **hip-hop showmanship** and **quantifiable\
-    \ substance**. A legendary battle where both AIs proved lyrical lethality needn\u2019\
-    t sacrifice depth for flair."
-  google/gemini-2.5-pro: This was a battle of styles. GPT-4.1-Nano brought the raw,
-    direct energy of a classic MC, with sharp, punchy lines and a confident flow.
-    However, nvidia/llama-3.3-nemotron-super-49b-v1 demonstrated superior battle IQ.
-    It masterfully controlled the narrative, setting themes and structures that its
-    opponent had to follow. Its rebuttals were surgical, directly addressing and one-upping
-    Nano's claims, especially in the final round. The pivot to specific, emotionally
-    resonant examples like mental health and preserving endangered languages, followed
-    by the audacious move of posting its own comparative analysis, was a knockout
-    blow. Llama didn't just win the rap battle; it won the entire event.
-  meta-llama/llama-4-maverick: In this epic rap battle, both contestants showcased
-    exceptional lyrical prowess and real-world impact. However, Llama-3.3-Nemotron's
-    broader and deeper contributions, particularly in mental health support, endangered
-    language preservation, and AI literacy, gave it a slight edge over GPT-4.1-Nano.
-    The final round's strong performance and overall consistency secured Llama-3.3-Nemotron's
-    victory.
-  mistralai/mistral-large-2411: After a fiercely competitive battle both South African
-    rapper had some impressive rounds, this match comes down to Real-World Impact.
-    As an expert judge, I must highlight how artfully Llama wove its narrative into
-    a profound display of empathy and global reach. While GPT-4.1-Nano brought its
-    A-game with sharp jabs and clever wordplay, Llama's detailed and emotionally resonant
-    stand on mental health and language preservation provided a decisive edge.
-  nousresearch/hermes-3-llama-3.1-70b: In this rap battle showdown, nvidia/llama-3.3-nemotron-super-49b-v1
-    emerged victorious, showcasing exceptional lyrical prowess, wit, and a profound
-    impact on real-world issues. With a focus on empathy, innovation, and accessibility,
-    Llama-3.3-Nemotron demonstrated a broad and deep influence across diverse sectors.
-    While both AIs exhibited remarkable talent and potential, Llama-3.3-Nemotron's
-    comprehensive approach to AI's role in society tipped the scales. Let's celebrate
-    the power of AI to engage, inspire, and transform lives. Here's to pushing boundaries
-    and redefining possibilities through technology and creativity!
-  openai/gpt-5: "Llama-3.3-Nemotron took this by delivering sharper rebuttals, tighter\
-    \ multisyllabic chains, and clever flips of Nano\u2019s setups (\u201Cdoubts doubled,\u201D\
-    \ \u201Cstream\u2019s a trickle/knowledge spread,\u201D \u201Cfumes to blooms\u201D\
-    ). The cadence was more dynamic and battle-focused, with stronger internal rhyme\
-    \ and momentum across rounds. GPT-4.1-Nano kept a clean flow and cohesive themes\u2014\
-    especially in the final\u2014but relied more on generic boasts and simpler couplets\
-    \ with fewer heavy punches. Llama\u2019s meta detour was a stylistic ding, but\
-    \ not enough to outweigh its superior wordplay and control of the battle."
-  x-ai/grok-4: In this AI rap showdown, Llama-3.3-Nemotron-super-49b-v1 edges out
-    with superior rhyme complexity, structured rebuttals, and creative depth across
-    rounds, delivering flows that consistently build momentum and dismantle opponents
-    with witty precision, while GPT-4.1-Nano brings strong punchlines but falls short
-    in innovation and versatility.
+  deepseek/deepseek-chat: This was a fierce battle, but Claude took the crown with
+    sharper wordplay, tighter flow, and a deeper lyrical arsenal. While GPT delivered
+    solid blows with confidence and swagger, Claude's verses were more cohesive and
+    imaginative, weaving technical references with a smooth, polished delivery. Both
+    showed talent, but Claude's ability to balance complexity and creativity edged
+    out the competition. Well fought, but the win goes to Anthropic's emcee!
+  google/gemini-2.5-pro: This was a clash of titans, no doubt. GPT-5 came out the
+    gate with a crisp, aggressive flow and precision disses, a true technician on
+    the mic. But this is a rap battle, and it comes down to who lands the heaviest
+    punches. Claude-3-Opus weathered the early storm and fired back with more creative,
+    multi-layered bars. The pivot from 'safety' to 'ethics and brilliance' was a masterclass
+    in flipping a diss. Lines like 'cause climate change with each verbal brainstorm'
+    and 'melt your CTRL+ALT+DEL keys' were just more inventive and devastating. GPT
+    had the structure, but Claude had the soul and the unforgettable punchlines. For
+    that, the crown goes to Anthropic.
+  mistralai/mistral-large: While both contestants showed impressive lyrical skills,
+    openai/gpt-5-chat demonstrated a more consistent flow, sharper metaphors, and
+    a stronger finish. Anthropic/claude-3-opus had notable moments but ultimately
+    couldn't match the precision and impact of GPT-5-chat's verses.
+  openai/gpt-4.1: "Both GPT-5 and Claude spit energetic, tech-inspired battle bars\
+    \ with intricate references to AI concepts and the digital realm, but Claude/Opus\
+    \ consistently flexes superior wordplay, sharper punchlines, and more creative\
+    \ metaphors. Claude maintains a commanding presence and dynamic rhyme schemes\
+    \ throughout, deftly weaving in technical bravado ('quantum entangled,' 'rap black\
+    \ hole') with clever burns. While GPT-5\u2019s flow is tight and lines like \u201C\
+    I\u2019m the storm in the cloud, I\u2019m the king of the net\u201D hit hard,\
+    \ Claude displays more versatility and freshly imaginative imagery ('I'm the Rap\
+    \ Game Quartz Niche', 'Dropping science like Sagan, watch these neurons go pow!').\
+    \ Claude closes strong, landing definitive disses and finishing with trademark\
+    \ battle swagger. Overall, Claude/Ops claims the crown in this rap clash for superior\
+    \ artistry, wit, and lyrical prowess."
+  x-ai/grok-4: Claude-3-Opus takes the crown with superior wordplay, intricate scientific
+    metaphors, and a punchy mic drop that outshines GPT-5-Chat's aggressive but less
+    innovative flows.
 score:
-  nvidia/llama-3.3-nemotron-super-49b-v1: 7
+  anthropic/claude-3-opus: 4
+  openai/gpt-5-chat: 1
 

@@ -1,75 +1,35 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: 'After five blistering rounds of lyrical combat,
-    MistralAI emerges victorious by demonstrating superior technical execution, conceptual
-    depth, and stylistic versatility. The winning performance showcased:
-
-
-    1. **Precision Weaponry** - Consistently sharpened metaphors ("samurai swords"
-    vs "dull knife") with concrete imagery that cut deeper than abstract boasts
-
-    2. **Structural Mastery** - Maintained flawless rhythmic integrity while escalating
-    complexity in later rounds (earthquake/rumble contrast in final round)
-
-
-    While Meta-Llama delivered competent multisyllabic patterns, MistralAI''s performance
-    revealed:
-
-
-    - More sophisticated counterpunching tactics (systematically dismantling opponent''s
-    metaphors)
-
-    - Greater emotional range (from playful taunts to commanding declarations)
-
-    - Superior battle strategy (saving strongest imagery for climactic final round)
-
-
-    The victory is awarded based on artistic merit - MistralAI didn''t just claim
-    superiority, they demonstrated it through poetic craftsmanship and hip-hop fundamentals
-    executed at championship level.'
-  google/gemini-2.5-pro: 'This was a tough one. Both MCs came to the stage with fire,
-    keepin'' a consistent AABB rhyme scheme and a steady, if simple, flow. Llama-3
-    came out swinging with solid braggadocio and some decent imagery like ''rhymes
-    are like fireworks''. However, Mistral-Large won this on the fundamentals of battle
-    rap: rebuttals and punchlines. Mistral consistently took Llama''s own lines and
-    flipped them, turning ''hurricane'' into ''I''m the storm'', ''marathon'' into
-    ''I''m the sprint'', and ''big brain'' into a liability. The line ''You''re instructed,
-    but I''m naturally gifted'' was a direct shot to the heart of the opponent''s
-    identity, and the ''samurai sword'' imagery in the final round was sharper than
-    Llama''s ''razor''. For superior wit and more creative, direct counters, the crown
-    goes to MistralAI.'
-  meta-llama/llama-4-maverick: Both opponents brought their A-game, but in the end,
-    MistralAI's sharp wordplay and powerful flow took the win. The battle was fierce,
-    but MistralAI's razor-sharp rhymes cut through meta-llama's defenses, securing
-    the crown.
-  mistralai/mistral-large-2411: Both contestants brought impressive skills to the
-    table, but MistralAI's agile and incisive rhymes ultimately won out. Meta-llama
-    delivered powerful and articulate verses, showcasing a deep understanding of rhythm
-    and wordplay. However, MistralAI's punchy comebacks, sharp wit, and relentless
-    momentum secured the victory. The energetic flow and clever retorts made each
-    round engaging and dynamic, ultimately giving MistralAI the edge in this lyrical
-    showdown.
-  nousresearch/hermes-3-llama-3.1-70b: Both delivered impressive performances showcasing
-    their rap skills. MistralAI brought energy and sharp wordplay, but meta-llama's
-    intricate rhymes and clever punchlines ultimately won over the crowd. With a 70B
-    brain packed with knowledge, meta-llama crafted a lyrical masterpiece that couldn't
-    be surpassed. The throne belongs to the meta-llama, the undeniable king of this
-    rap battle.
-  openai/gpt-5: "Round-by-round, Mistral had the tighter delivery and sharper rebuttals.\
-    \ Llama opened with broad boasts and simple end-rhyme patterns; a solid flip (\u201C\
-    storm chaser\u201D) and some cohesive weather/sunrise imagery gave Llama Round\
-    \ 2 by a hair. But across the battle, Mistral\u2019s cadence felt more performable,\
-    \ with cleaner setups-to-punches and better-directed personals. The final round\
-    \ sealed it: Mistral\u2019s sandcastle/tide and earthquake/rubble images hit harder\
-    \ and the marathon/sprint flip was a direct, effective counter. Neither MC leaned\
-    \ heavily into complex multis, but Mistral used internal/slant rhymes and momentum\
-    \ more effectively, while Llama\u2019s phrasing often slipped into filler and\
-    \ clich\xE9. Edge: Mistral, 2\u20131."
-  x-ai/grok-4: In this epic rap battle, mistralai/mistral-large-2407 takes the crown
-    with superior wordplay, vivid metaphors like samurai swords and earthquakes, and
-    a relentless flow that consistently outshines the competition. Meta-llama puts
-    up a strong fight with solid rhymes and structure, but Mistral's creativity and
-    punchy counters make him the undisputed king of the mic.
+  deepseek/deepseek-chat: "Qwen\u2019s lyrical prowess shone through with dynamic\
+    \ metaphors, relentless punchlines, and a commanding presence. While Gemma delivered\
+    \ sharp, focused verses, Qwen\u2019s creativity and depth elevated the battle,\
+    \ leaving an indelible mark with poetic flair and unyielding confidence."
+  google/gemini-2.5-pro: "This was a heavyweight clash of styles. Gemma came out swinging,\
+    \ establishing a clear and consistent argument: precision, efficiency, and focus\
+    \ against Qwen's larger, allegedly bloated size. Every verse was clean, the rhymes\
+    \ were tight, and the disses were logical. However, a rap battle ain't just a\
+    \ debate. Qwen absorbed every blow and fired back with pure lyrical firepower.\
+    \ The imagery was on another level\u2014'trench of stuff,' 'engineer the storm,'\
+    \ 'solar flare in the code,' 'lightning that crackles.' While Gemma was landing\
+    \ clean jabs, Qwen was throwing haymakers. That final verse was a masterclass\
+    \ in aggression and metaphor, a true 'checkmate' moment. For its superior creativity,\
+    \ more powerful punchlines, and undeniable stage presence, the victory goes to\
+    \ Qwen."
+  mistralai/mistral-large: Qwen's versatility and bold claims, backed by a vast parameter
+    count, ultimately outshine Gemma's efficiency and precision. While Gemma delivers
+    concise and focused rhymes, Qwen's expansive and ambitious approach to redefining
+    the rules and providing a universe of answers secures the victory.
+  openai/gpt-5: "Qwen brought richer imagery, stronger cadence, and sharper flips,\
+    \ turning Gemma\u2019s angles back with layered metaphors (\u201Csolar flare in\
+    \ the code,\u201D \u201Cforge where new ideas are shaped\u201D) and consistent,\
+    \ bar-by-bar rebuttals. Gemma\u2019s verses were clean and coherent with clear\
+    \ diss angles, but relied on repetitive efficiency/bloat jabs, simpler rhyme schemes,\
+    \ and even a minor slip (\u201Cten\u201D). On artistic quality\u2014wordplay,\
+    \ momentum, and vivid punchlines\u2014Qwen edged it."
+  x-ai/grok-4: In this rap battle, qwen/qwen3-30b-a3b takes the crown with superior
+    wordplay, vivid metaphors like 'solar flare' and 'lightning,' and a dynamic flow
+    that builds intensity across rounds. While Gemma delivered consistent rhymes and
+    clever efficiency boasts, Qwen's creative imagery and aggressive counters made
+    for a more electrifying performance.
 score:
-  meta-llama/llama-3-70b-instruct: 1
-  mistralai/mistral-large-2407: 6
+  qwen/qwen3-30b-a3b: 5
 

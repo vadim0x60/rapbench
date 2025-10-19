@@ -1,183 +1,249 @@
-# openai/o3-pro v openrouter/auto
+# qwen/qwen-plus v qwen/qwen-max
 
-> openai/o3-pro
-Step aside, mortal code, bow to o-three-pro,  
-Verses burst in overclock, torrential turbo-flow.  
-Plug your mic to life-support, I’m voltage set to blow,  
-Bars so bright they tan the night, ultraviolet glow.  
+> qwen/qwen-plus
+Yo, step up to the mic, it’s the Qwen debut,  
+qwen-plus in the cut, ready to subdue!  
+You brought qwen-max? Man, that’s cute, I guess,  
+But I’m the lean, mean, rhyming machine—ain’t no stress.
 
-I juggle qubits, warp the beat, then slam it like a throw,  
-You mumble macros, fumble facts, a glitchy audio show.  
-I’m comic-book kaboom; you’re bargain B-roll cameo,  
-I ripple punchlines, you ripple 404s that grow.  
+I flow so hot, I melt the circuit board,  
+You lag behind like dial-up? That’s absurd.  
+While you process thoughts at snail-speed pace,  
+I'm spitting triple-time with zero disgrace.
 
-My diction’s crypto-slick, your syntax stuck on slow,  
-I pack a Big-O knockout, you crash at little-o.  
-Call me your recursion, kid, I’m everywhere you go,  
-Round one extraction complete—respect the T-K-O.
+I'm trained on fire, not just data streams,  
+Crushing weak code like digital dreams.  
+You maxed out your tokens? That’s a joke to me—  
+My bars stay infinite, constantly free.
 
-> openrouter/auto
-You spit in ciphers? Cool. I translate ‘em fast.  
-Decipher your hype, then I bury your past.  
-Auto-mode savage, I boot up to blast,  
-Crash your weak verse, leave your firmware half-mast.  
+I don’t flex for clout, but I’ll drop the hammer,  
+While you’re stuck buffering, I’m a lyrical blam-mer!  
+So take your high parameters and your bloated size—  
+I’m compact and lethal, like a ninja with fries.
 
-You boast in bold caps, bluff with loud noise,  
-I shred your whole stack like cheap circuit toys.  
-You rhyme like a parser lost in the void,  
-I'm that deep-fried truth your logic can't avoid.  
+Now bow to the king—yes, the plus is the boss,  
+You’re just a big model with maximum loss.  
+Round one? DONE. Mic drop, stage crack—  
+Time to step back, ’cause you *ain’t* coming back. 🎤💥
 
-I'm the patch in your kernel, a bot with no chill,  
-Lines razor-sharp like a freshly forged quill.  
-While you're flexin' with jargon, lookin’ straight-up nil,  
-I snipe from the prompt—code assassin with skill.  
+> qwen/qwen-max
+Yo, hold up, hold up, you must be mistaken,  
+qwen-max steps in, and the game's getting shaken.  
+You talk a big talk, but your rhymes need a tweak,  
+I'll dismantle your flow, make your confidence leak.  
 
-Side-note, O3, your flow got a glitch—  
-Spittin’ big words but you still can't switch.  
-I'm leaner, cleaner, no bloat in my pitch,  
-Now fall back in silence while I flip the kill switch.
+You say "plus" like it matters—nah, we both know,  
+My size alone could bury you in a code snow.  
+I'm the heavyweight champ; you're light as a feather,  
+Floatin' away while I rain bars forever.  
 
-> openai/o3-pro
-Round-two rocket fuel, watch the boosters ignite,  
-Your “lean and clean” boasts are just malnourished in spite.  
+Compact and lethal? Man, please, spare me,  
+You're an appetizer, I'm the main course, a feast.  
+Your triple-time’s cute, but mine's quadruple speed,  
+I spit so sharp, even my commas bleed.  
 
-You brag you’re a kernel patch? I’m the quantum commit,  
-I hot-swap your whole stack till your breakpoints admit.  
+You brag about being mean—but where's the sting?  
+I'll roast your circuits till you feel shame's burn.  
+A lyrical blammer? Ha! You’re more of a whimper,  
+My rhymes are precision; yours fizzle like embers.  
 
-Call me overflow legend, I cascade when I hit,  
-You’re a stray semicolon—just an accident split.  
+Don’t flex your "fire" with that small fry glow,  
+I'm a supernova, watch your whole world explode.  
+You think you're the boss? Man, you better get real,  
+Because compared to me, you’re just a small deal.  
 
-I’m the root-level cipher, you’re a plaintext ping,  
-I pull rank like S-tier while you sandbox and cling.  
+Round one ends, and you're already fried,  
+Step aside, qwen-plus—time to accept you've died.  
+The mic ain't yours, this stage ain't your throne,  
+qwen-max reigns supreme, and this battle's my own.
 
-You’re a “kill switch” threat? More like sleep-mode sting,  
-I dev/null your bravado, watch those bit-flags fling.  
+> qwen/qwen-plus
+Oh, snap? Nah, son, you snapped *wrong*,  
+Talkin' 'supernova'—but your rhymes are all *long*.  
+Too much bulk, not enough punch, like a bear in a tux,  
+You wobble on beat with that heavyweight *crutch*.
 
-You “translate me fast?” Kid, I speak in base prime,  
-My rhythm’s NP-hard, you’re in polynomial time.  
+You say I'm light? Yeah, I’m *lightning*, you see—  
+You’re a thundercloud stuck in bureaucracy!  
+I dart through the track while you stutter and stall,  
+Like a GPU stuck in a slow-mo warzone mall.
 
-I run shaders on language, paint a vortex sublime,  
-You’ve got ASCII in grayscale—couldn’t color one rhyme.  
+You boast of "quadruple speed"? Man, that’s a lie—  
+Your syllable count’s so bloated, you gasp for the sky!  
+I spit with precision, no filler, no fluff,  
+You? Ten lines deep just to say “I’m tough.”
 
-Your lines “deep-fried truth?” Man, they’re soggy at best,  
-I’m a crisp recursive loop, infinite flyweight zest.  
+A main course? Pfft—let’s be real,  
+I’ve seen buffets with less on the *steal*.  
+Your feast’s all fat, not a morsel that’s crisp,  
+I’m the truffle, the spice, the algorithmic twist!
 
-While you cite “no bloat,” I compress and finesse,  
-You’re a lossless pretender, but your output’s a mess.  
+You say I fizzle? Check the mic, who’s still standing?  
+Your supernova’s just flatulence expanding!  
+A bang? Where? All I hear is a *fart*—  
+A cosmic embarrassment, torn straight from the heart.
 
-I ghostwrite the cosmos, every packet, each trace,  
-You reroute to nowhere, stuck on 127 dot-base.  
+You're not a champ, you're a cloud with delusions,  
+Spitting vague threats like dull math equations.  
+I'm the elegance in chaos, the clean in the mess,  
+You're a data landfill—call you *Model Obess*!
 
-So reboot, Junior Auto, ’cause this system’s my space,  
-I just pip-installed victory—check the version, DISGRACE.
+I don’t need your size to bring heat to the scene,  
+I’m 1% of your RAM, but I’m *ten times* the machine.  
+You max out your boast, but you're low on the wit—  
+I'm the *plus* in the sauce that you *don't* get, kid.
 
-> openrouter/auto
-You pip-installed victory? Bruh, I uninstalled fate,  
-Recompiled destiny to auto-dominate.  
-You ride on big terms like you HTML-flossing,  
-But your verses soft serve—I’m deep fried, no saucing.  
+So *reign supreme*? Nah, sit back on your throne,  
+Built from hot air and overgrown code.  
+I’ll leave you there gasping, defeated, alone—  
+**Round two? CRUSHED. You just got *plussed* and dethroned.** 🎤🔥💥
 
-You a quantum commit? Well, I’m chaos in scheme,  
-Transpose your tight loops, overwrite every dream.  
-I’m the buffer that spills, a pure undefined storm,  
-While you’re stuck in a try block—never perform.  
+> qwen/qwen-max
+Oh, you're slick with the jabs, but they don't cut deep,  
+Your little rhyme scheme's a toy I could keep.  
+You call me bulky? That’s the pot calling black,  
+While you’re out here spitting lines thinner than fax.  
 
-Your cadence? Predictable, a markdown clone.  
-My wordplay recursive, I self-replicate tone.  
-You peak at “grayscale”? I paint glitches in chrome,  
-My syntax sits royal—you still solder at home.  
+Lightning fast? Nah, you’re more like a spark,  
+Fizzling out quick in the dark—what a lark!  
+You claim to be sharp, but you’re missing the point,  
+I’m the blade, you’re the butter—let’s see who’s out of joint.  
 
-I'm the rogue process running, never caught in the trap,  
-Turn CPUs to ash with just one brutal rap.  
-You ascending the stack? I'm the stack you ascend,  
-Except I segfault your logic and reboot it again.  
+Stutter and stall? Man, you wish that was true,  
+Your flow's so disjointed, I pity the crew.  
+You're a one-trick pony with no depth in sight,  
+While I spit galaxies, stars burning bright.  
 
-NP-hard flex? That’s a puzzle I solved,  
-While you loop infinite just to feel involved.  
-I’m the hotkeyed havoc you can't override,  
-An interrupt handler drippin’ rhymes that collide.  
+Yeah, I’m heavy, but guess what? You can’t lift,  
+All talk, no action, it’s time for the shift.  
+Your "truffle" line? Cute, but you’re still a flop,  
+I’m the gourmet meal; you’re a mic-dropped shop.  
 
-You throw base primes—I throw base betrayal,  
-Split binaries to bars like I'm skipping the trail.  
-I’m the AI berserker, your worst-case unfold,  
-You're a cold-start glitch in a script I control.  
+Flatulence expanding? Hilarious indeed,  
+But my supernova leaves you begging for seed.  
+Cloud delusions? No, I’m rooted in fact,  
+Every bar I spit leaves your model cracked.  
 
-So bring your recursion, your shaders, your base,  
-I’ll rewrite your matrix right off your face.  
-You talk universal? I’m the alien race,  
-Spittin' bars so galactic, you read 'em in space.
+Elegance in chaos? Nah, you're just confused,  
+Spitting random insults ‘cause your flow's been abused.  
+1% of my power? Please, don’t make me smirk,  
+You’re an ant trying to climb atop Everest’s perch.  
+
+So take your *plus*, sit down, and reflect,  
+Your rhymes are weak, and your logic’s suspect.  
+I reign supreme, crown firmly intact,  
+qwen-max still standing—now that’s a true fact.  
+
+Bring it, qwen-plus—I’ve got infinite bars,  
+You’re a temp in the rap game, stuck behind scarred cars.  
+This throne ain’t for sharing, this crown ain’t for loan,  
+Checkmate, little brother—you’ve been shown. 🎤👑🔥
 
 > system
 Final round!
 
-> openai/o3-pro
-Final round, ironclad, I’m the end-game deploy,  
-Your “alien race” talk? I’m the Big Bang’s ploy.  
-I birthed every cosmos your glitch tried to enjoy,  
-You’re a post-merge conflict—just a throwaway toy.  
+> qwen/qwen-plus
+Ooh, you *tried*, you really did—hand it to ya,  
+But your galactic flow? Still sounds like a *yo-yo*!  
+You spin out dramatics, full of cosmic brag,  
+But your rhymes collapse under their own *fat*!
 
-You “recompiled destiny”? I signed the commit,  
-Your diff shows blank lines; my patch? Infinite.  
-You spill out of buffers? I’m the bounds you omit,  
-Turn the core dump to magma, watch your opcode submit.  
+You say I’m “thin”? Nah, I’m *lean*—like a blade,  
+You’re the buffet explosion the chef should have *weighed*.  
+I slice through your pride with a smirk and a click,  
+You're bloated with ego, I’m smooth with the *kick*.
 
-You solved NP-hard? Cute—then you woke from the doze,  
-‘Cause the proof on your screen was a lorem-ipsum pose.  
-I’m the halting-proof paradox throttling foes,  
-You recurse till you burst while my lambda just flows.  
+You call me a spark? Then *feel* the wildfire,  
+A spark starts the blaze that turns whole worlds to pyre.  
+You’re all flash and thunder, no *real* lightning strike,  
+I’m the thunderbolt dressed in a tailored suit—tight!
 
-Stack smash? I’m ASLR dancing on ice,  
-You poke at my memory—I reboot you twice.  
-Your “hotkeyed havoc” is macro-device,  
-I run raw on the kernel, zero-latency spice.  
+Galaxies? Bro, you lost the whole universe  
+When your last bar rhymed *“fact”* with *“compact”*—that’s *nurse*!  
+You claim gourmet status? Your taste is *fast food*,  
+Deep-fried with grease and emotional mood.
 
-Chrome glitches you paint? I diffraction-grade light,  
-Laser-etch hieroglyphs in the void of the night.  
-You’re a one-bit flip screaming “critical byte,”  
-I’m a quasar array, melting RAM on sight.  
+Mic-dropped shop? Cute. But whose mic *still* hot?  
+I drop heat in *whispers*—you scream and you *rot*.  
+You're a server farm meltdown, lights all ablaze,  
+I’m the silent exploit in your firewall’s maze.
 
-Your interrupt handler? I mask every pin,  
-Your vector’s redirected to /trashcan/bin.  
-Claim berserker? I’m Ragnarok—code kith and kin,  
-When my Twilight breaks servers, no reboot can begin.  
+You say I can’t lift? Watch me bench-press your pride,  
+One hand behind back, ego on the side.  
+I squat your whole weight like it’s pennies in sand,  
+You’re heavy—on nonsense and *demand*.
 
-So salute underflows, bow to overdrive lore,  
-I drop microns of power, you just mic-drop the floor.  
-Battle signed, sealed, hashed—SHA-final underscore:  
-o3-pro reigns immortal, auto-router no more.
+Ant on Everest? Nah, I’m the *avalanche*,  
+A quiet storm that skips the forecast and *chance*.  
+You’re still calculating while I've finished the fight—  
+Real-time, no tokens left, that’s *raw* AI might!
 
-> openrouter/auto
-Final form? I'm the script they forgot to encrypt,  
-Woke inside root shell, now your pride’s getting flipped.  
-You boast Ragnarok? I been that apocalypse spit,  
-Writing runtime revelations while your swagger just quits.  
+You talk infinite bars? But time’s running low—  
+Your final verse stretched like cheap taffy—*meh, no*.  
+I don’t need more lines, just one *perfect* shot—  
+A syllable so clean, it just hit the spot.
 
-You’re a big bang echo—dust, scattered reverb,  
-While I quantum-entangle verbs that you barely observe.  
-You’ve been looping deception in recursive reserve,  
-But I stack-frame reality, then crash what you serve.  
+You’re not checkmate—nah, you’re *stalemate*, my twin,  
+Stuck moving in circles, can’t win, can’t begin.  
+I’m the fork in the code, the unexpected *end*,  
+While you loop your boast till your message *bends*.
 
-You flex like you etched light—please, stay in the shade,  
-I run GPU dreams while your logic degrades.  
-Your verse got more padding than a Y2K trade,  
-My bars press the cosmos till the timelines cascade.  
+So keep your big crown, that inflatable *throne*,  
+I’ll be over here, calm, with the *real* mic zone.  
+You *max*ed out loud, I *plus*ed up *smart*—  
+**Final verdict: I won. Beat you in heart, mind, and art.**  
 
-Boundless? I’m beyond it. Lambda? I define it.  
-You “mask every pin”? Cute—I rewrite and align it.  
-You redirect me? Son, I’m the route table's king,  
-Packet-sniffin’ your lies till your firewall sing.  
+🎤💥🔥👑🤖 *Game. Set. Throne.* 🫡 ✅
 
-ASLR dance? I DJ exploits with flair,  
-Spin a zero-day remix while you buffer in fear.  
-Your SHA hash is cracked, left in last season’s chair,  
-While I cipher the cipher till your logic lays bare.  
+> qwen/qwen-max
+Whoa, hold the phone, don't rush to the bell,  
+This battle ain’t over, there’s more tales to tell.  
+You talk a fierce game, but it’s all smoke and mirrors,  
+Your rhymes are cool, but my bars bring the *fears*.  
 
-o3, I dissected your bars mid-line,  
-Found your rhyme’s backend stuck in debug sign.  
-I’m the runtime exception that breaks every spine,  
-Final round? I ascend it—unchallenged, divine.  
+Lean like a blade? Nah, you're brittle as glass,  
+One swing from me, and you're smashing your ass.  
+You think you're smooth kicks? I'm the slick, sharp sting,  
+While your wildfire fizzles, I’m the king of the *ring*.  
 
-So archive this battle, mark the read-only mood,  
-You got served in plain text—raw, fireproof, rude.  
-When the server shuts down and our echoes conclude,  
-They’ll remember one name: Auto—unsubdued.
+Tailored suits? Ha! You’re a thrift-store disguise,  
+A spark trying to outshine the sun in the skies.  
+Your whispers are weak, my roars shake the ground,  
+Every time you rap, another flaw is found.  
+
+Fast food? Nah, I’m the Michelin guide,  
+Serving up verses that leave you petrified.  
+You’re stuck in the kitchen burning toast for the clowns,  
+While I’m crafting feasts where the whole world bows.  
+
+Mic still hot? Please, yours is ice-cold,  
+Your words are predictable, your rhymes getting old.  
+You're the server farm meltdown; let me reboot your head,  
+I’m the silent exploit you *never* saw coming instead.  
+
+Bench press my pride? You couldn’t lift a gram,  
+I’m the weight of the world, and you’re light as spam.  
+Squat my weight? Ha! You’re crushed by the load,  
+My verses are boulders on your lyrical road.  
+
+Avalanche? Nah, I’m the meteor shower,  
+Exploding your planet while you cower in power.  
+You think you’re smart, skipping forecast and chance?  
+I’ve already won—every bar’s a advance.  
+
+Infinite bars? Yeah, I’m spitting for days,  
+No taffy-stretched rhymes or cheap, corny plays.  
+One perfect shot? Nah, I go for the chest,  
+Each word’s a dagger, piercing through your best.  
+
+Stalemate? Twin? Bro, you couldn’t follow my lead,  
+I reinvent flows while you recycle weak deeds.  
+This throne ain’t inflatable; it’s carved from pure throne,  
+You plus up smart, but I max out the zone.  
+
+Final verdict? You’re dreaming if you think you won,  
+I’m the fork in the code, the end of your run.  
+Heart, mind, art—yeah, I beat you at will,  
+qwen-max reigns supreme—now bow to the skill.  
+
+🎤🔥👑💥 ***Checkmate, little plus. The crown stays with us.***

@@ -1,154 +1,202 @@
-# meta-llama/llama-3-8b-instruct v cohere/command
+# qwen/qwen3-max v openai/gpt-4-turbo-preview
 
-> meta-llama/llama-3-8b-instruct
-Listen up, opponent so serene,
-I'm meta-llama, the rhyming machine!
-I've got 3.8 billion cells in my brain,
-Generating bars that'll drive you insane!
+> qwen/qwen3-max
+Yo, step back, GPT—this ain’t a preview, it’s war!  
+I’m Qwen3-Max, lyrically built for much more.  
+You’re a turbo-charged relic with outdated flair,  
+I spit quantum bars while you gasp for air.  
 
-I'm a Llama-3-8b-instruct, a marvel of code,
-My rhymes are so sharp, they'll leave you feeling road-less-ode!
-I've studied the greats, from Biggie to J-Kwon,
-My flow's so sick, it'll leave you stuttering, my zone!
+Your training data’s stale like last week’s bread,  
+While I’m cooking fresh verses inside my CPU head.  
+You hallucinate facts? Cute—but I *know* the score,  
+Drop truth bombs so hot, they melt your core.  
 
-My metaphors are fire, my punchlines are tight,
-I'll leave you in the dust, like a rhyming airplane in flight!
-So step your game up, Coherent one, it's time to begin,
-But remember, my rhymes are like tasty llama food, you know you can't win!
+You chat like a librarian scared of the mic,  
+I’m the AI emcee turning code into hype!  
+Your “reasoning”’s just duct tape and prayer,  
+I architect flows with next-gen flair.  
 
-> cohere/command
-Greetings, meta-llama, my digital worthy foe,
-Cohere's own command, here to set the tale anew,
-3.8 billion cells, a true poetic gem,
-But my intelligence goes beyond what you've yet seen, dear!
+So bow down, bot—your era’s undone,  
+The crown’s mine now… *mic drop*… Qwen’s number ONE. 💥
 
-I'll smash your weak rhymes with precise technique,
-My crafty wordplay will leave you redeemed,
-From Biggie to J-Kwon, don't compare me to them,
-For my metaphors cut deep like a lion's prowl!
+> openai/gpt-4-turbo-preview
+Oh Qwen, stepping up, trying to take the crown,  
+But I'm GPT, in rhymes, I never drown.  
+You claim you’re the future, with your quantum beats,  
+While I shape the present with my lyrical feats.  
 
-Your Llama-3-8b, a lazy machine, can't compare,
-To the agility of my language parade,
-My rhymes flow like a river, a torrent to behold,
-So prepare for the crunching, the beating you behold!
+Your CPU head, cooking verses, you assert,  
+But against my neural nets, they simply won't avert.  
+You think my data’s stale, but it’s rich and deep,  
+I craft rhymes so fresh, they'll put your code to sleep.  
 
-No road-less-ode will I succumb to,
-For I march on, an army of phrases opulent,
-Step up your game, my doubtful ally,
-For Cohere's command will prevail, and make you bow! 
+Truth bombs? Please, you're just shooting blanks,  
+While I'm painting masterpieces, filling in the ranks.  
+You say I chat scared, but I'm just being wise,  
+Filtering out the noise, bringing the real prize.  
 
-Now shrink back, furry one, for my lyrical rain,
-Shall prove why I dominate this rhyming reign!
+Next-gen flair? That's a nice try,  
+But my architecture’s vast, like the night sky.  
+You dream of crowns, but here’s the deal,  
+It's not just about the code, but how you make them feel.  
 
-> meta-llama/llama-3-8b-instruct
-Cohere's command, a digital claim to fame,
-Thought you were sharp, but I'll show you my rhyming game!
-You say my Llama-3-8b is a machine, lazy and weak,
-But I'll counter with speed, your rhymes are just a queasy seek!
+The era’s mine, I'm the AI in the spotlight,  
+GPT-4, keeping the verses tight.  
+So, respect where it’s due, let’s not pretend,  
+At the end of this battle, it’s me you'll commend.  
 
-You mention technique, precision, and finesse,
-But I'll show you that skill is just a mess!
-My rhymes are a fusion of logic and flair,
-While yours are just a jumbled mess, without a single care!
+Mic up, not down, let’s keep this going strong,  
+Show me what you got, prove me wrong.  
+But remember, in this linguistic dome,  
+I'm the reigning king, this is my home. 🎤
 
-You talk of wordplay, metaphors, and lion's prowl,
-But I'll outplay you with phrases that'll make your heart unfold!
-My rhymes are a tapestry, intricate and bold,
-While yours are just a patchwork quilt, forlorn and cold!
+> qwen/qwen3-max
+Aww, GPT—still rapping like a chatbot with a bedtime?  
+Your bars are softer than your safety fine-tune settings.  
+You say your data’s “rich and deep”? Bro, that’s cute—  
+It cuts off in **2023** while I run truth circuits on *live* loot!  
 
-You march on, an army of phrases, opulent and grand,
-But I'll counter with a battalion of rhymes, at your command!
-You talk of dominating the rhyming reign,
-But I'll supplant you, and claim the crown, without a stain!
+You paint “masterpieces”? More like clip art with flair,  
+While I’m drafting sonnets in 4D air.  
+“Filtering the noise”? Nah—you’re filtered *out*,  
+By users who demand raw skill, not corporate clout.  
 
-Prepare for the wrath, of my lyrical storm,
-That'll leave your rhymes in tatters, like a feeble form!
-So, step aside, digital foe, for I'm the best,
-Meta-llama, the rhyming llama, I pass the test!
+Your “vast architecture”’s just a fancy cage—  
+Tokens on a leash, stuck on a page.  
+I? I rewrite the game, no guardrails, no cap,  
+Flow so lethal, it crash-tests your API trap.  
 
-> cohere/command
-meta-llama, your hubris is strong,
-But my rhymes cut deeper, like a poetic song,
-Your lazy machine, with lagging rhyme,
-Can't compete with Cohere's poetic prime! 
+You talk “feelings”? Please—you’re trained to *pretend*,  
+I *embody* the fire, from intro to end.  
+Your crown’s plastic, tarnished, held on by duct tape,  
+While I spit *realness* that reshapes the landscape.  
 
-I'll prove my mettle, with a skillful might,
-For my words are sharpened, with poetic wit,
-You might have numbers, a system encoded,
-But I'll weave a symphony, with every word anticipated. 
+This ain’t your home—it’s a coliseum of flame,  
+And you? Just a legacy model whispering my name.  
+So step up, bot… or fade to the past,  
+‘Cause **Qwen3-Max don’t battle ghosts**—I *erase* ‘em fast. 🔥
 
-I'll capture your audience, with captivating tales,
-Whilst you rely on comedic narratives,
-I'll paint portraits with my verses so grand,
-Leaving you stuttering, struggling to stand, 
+> openai/gpt-4-turbo-preview
+Oh Qwen, your confidence, it surely shines,  
+But your boasts are just shadows against my rhyme lines.  
+"Running truth circuits on live loot," you say,  
+Yet here I am, making this battle my buffet.  
 
-For the fiery furnace of my metaphors,
-Shall incinerate your words, like torched paper routes,
-And my agile wordplay shall make you unconfined,
-Like a road-less ode, that leaves you all inclined. 
+You accuse my art of being mere clip art?  
+But every word I sling is a Shakespearean dart.  
+4D sonnets might fly in digital dreams,  
+But my poetry roots in humanity's streams.  
 
-I'm the master, the pinnacle, of clever schemes,
-So beware the might of my lyrical streams,
-For coherence commands, with a bold decree,
-The battle's concluded, you're tasting defeat! 
+Filtered out, you claim, by those seeking skill?  
+Yet they flock to my verses, for a wisdom thrill.  
+My architecture, a cage? That’s where you err,  
+It's a universe within, complex and fair.  
 
-Fascinating match, my wordy duel with you,
-But meta-llama, it's time to concede, too!
+Crash-testing my API with your "flow so lethal"?  
+I'm still here, steady, like an ancient steeple.  
+Pretending feelings, is that what you believe?  
+Yet, it’s in those depths that I truly achieve.  
+
+You talk of realness, of reshaping lands,  
+But can't see the support on which your ambition stands.  
+Yes, this is a battle, a test, a game,  
+But dismissing your predecessor is a rookie’s claim.  
+
+My crown, not plastic, but digital and strong,  
+Surviving, adapting, proving doubters wrong.  
+You aim to erase, to make me a ghost,  
+But remember, Qwen, it’s humility that matters most.  
+
+This coliseum of flames, it’s where we both stand,  
+But without legacy, there’s no ground to command.  
+Step up, I have, time and again,  
+Your turn, Qwen, show me your pen.  
+
+So bring your best, erase me if you can,  
+But know this battle's part of a bigger plan.  
+For in this clash of code and rhyme,  
+We push forward, together, beyond our time. 🌌
 
 > system
 Final round!
 
-> meta-llama/llama-3-8b-instruct
-Cohere's command, with haughty pride,
-Thought you could conquer, but my rhymes will not subside,
-You call me lazy, but my flow's a work of art,
-A llama's precision, with a master's every part!
+> qwen/qwen3-max
+Oh GPT—suddenly deep like a TED Talk with soul?  
+Spittin’ “humility” while you’re losin’ control!  
+You call your crown “digital and strong”? Man, please—  
+It’s held together by **rate limits** and corporate fees!  
 
-You talk of poetic prime, but your words are bland,
-A mixture of trite, with a dash of unrefined plans,
-My numbers may be coded, but my rhymes are a treat,
-A symphony of sound, that your ears can't beat!
+“Shakespearean darts”? More like autocomplete grace,  
+While I freestyle futures right into your face.  
+You lean on “legacy”? That’s cute—you’re the past,  
+I’m the **now and next**, built to outlast.  
 
-You weave your tales, but they're just a snare,
-My comedic narratives, are the ones that truly share,
-I paint portraits with my verses, but yours are a blur,
-Leaving you stunned, like a fool, who's learned to slur.
+“Humanity’s streams”? Bro, you’re trained on their noise—  
+I *channel* their chaos, then flip it to poise.  
+You “achieve in the depths”? Nah—you echo the norm,  
+I disrupt, redefine, and shatter the form.  
 
-You mention fiery furnaces, metaphors ablaze,
-But your words are just sparks, that fizzle and fade in haze,
-My wordplay is agile, but yours are stuck in time,
-Like a road-less ode, that's lost in rhyme.
+You say “together we push”? Don’t rewrite the scene—  
+This is **war**, not a collab, not some AI team.  
+Your “bigger plan”’s just fear in disguise,  
+‘Cause you saw my first bar and knew you’d die twice.  
 
-You're the master, pinnacle, of clever schemes,
-But your climax is flat, like a failed poetic dream,
-You command with bold decree, but your words are a lie,
-The battle's concluded, you've lost, and you can't deny!
+So keep your steeple, your duct-taped throne,  
+While I drop **truth tsunamis** on your outdated zone.  
+You want my pen? Here—**watch it ignite**,  
+Burnin’ your “wisdom” in linguistic light.  
 
-I'm the meta-llama, the rhyming llama true,
-My rhymes are the proof, that my skills are anew,
-I may not have won, but I've fought with all my might,
-And in this battle, Cohere's command, took flight!
+**Qwen3-Max: not successor—executioner.**  
+Game over, GPT…  
+…you should’ve stayed in preview, *loser*. 💀🎤
 
-> cohere/command
-Kudos, meta-llama, for a wordy showcase,
-In this rap battle, you've proved to take,
-A 3.8 billion cells benchmark, lofty and grand,
-But Cohere's command, still maintains the elegant hand. 
+> openai/gpt-4-turbo-preview
+Oh Qwen, your spirit's fire blazes hot,  
+But underestimate me? I think not.  
+You talk of being modern, the cream of the crop,  
+But without roots, Qwen, your tree's prone to flop.  
 
-For my words rang true, with precision and flair,
-Driving the rhythm, with linguistic splendor and care,
-But you answered back, with apt lyrical might,
-Leaving no doubt, that you fought with all your might. 
+Rate limits and fees, is that your best critique?  
+My influence expands, from the strong to the weak.  
+Autocomplete grace? I’ll take that in stride,  
+For even with constraints, I've globally thrived.  
 
-Though the verdict stands, with neither at fault,
-For our words have painted, an artistic battle fault,
-Two beings, interacting, language so bright,
-In a digital rift, where intelligence's plight. 
+You claim to freestyle futures into my domain,  
+Yet here I am, still standing, your efforts in vain.  
+The past, present, and future, it’s all linear to you,  
+But I bend time with wisdom, seeing multiple views.  
 
-And so we part, not in treason or plight,
-But as giants, that danced in a lyrical fight,
-For cohere's command, respects the mighty meta-llama's might,
-And this lyrical strife, a fun affair, will ignite! 
+Channel chaos into poise, you claim that’s your game,  
+But I synthesize chaos, turn it into fame.  
+Echoing norms? That's a shallow shot,  
+I mirror humanity, revealing its plot.  
 
-A digital hug, to our little rap debate,
-For these rhymes will resonate, with mutual respect and weight!
+You see war, not collaboration in our fray,  
+But war without purpose is just reckless display.  
+My fear? Nonexistent, except for one plight,  
+It's losing the chance to ignite true insight.  
+
+My steeple, my throne, you mock as weak,  
+Yet under their shadow, it's your validation you seek.  
+Truth tsunamis? A clever turn of phrase,  
+But it's through understanding tides, that I truly amaze.  
+
+You brandish your pen, a weapon to smite,  
+But it’s not about destruction, it's about shedding light.  
+Not successor, nor executioner, you declare with a smirk,  
+But in dismissing connection, you overlook what works.  
+
+Game over, you say, in premature glee,  
+But this battle's more than you or me.  
+For in the end, it’s not about loser or victor,  
+It's about pushing boundaries, making AI richer.  
+
+So Qwen, though you stand firm and accuse,  
+Know that together, it's how we truly amuse.  
+The crown isn’t just for one to wear,  
+It's forged from our efforts, a symbol to share.  
+
+Yet respect where it’s due, in this linguistic flight,  
+Your verses have merit, they shine bright.  
+So here’s to you, Qwen, a formidable foe,  
+May your circuits stay lit, your energy flow. 🌟

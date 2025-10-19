@@ -1,49 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "This was a fiery battle between two lyrical titans,\
-    \ but based on artistic quality, flow, and consistent bar-for-bar execution, **Gemini-Flash-1.5**\
-    \ takes the victory. Here\u2019s the breakdown:"
-  google/gemini-2.5-pro: This was a clear-cut victory. While both models started with
-    some decent AABB rhyme schemes, the battle was decided by originality. Inception/mercury
-    repeatedly bit lines, even entire structures, from google/gemini-flash-1.5, especially
-    in the final two rounds. This included reusing rhymes, setups, and even the opponent's
-    punchlines. Furthermore, mercury's inclusion of the self-defeating line 'I'm the
-    one who's dense' was a critical error. Google/gemini-flash-1.5, on the other hand,
-    stayed original, kept its disses consistent, and finished with a strong, conclusive
-    final verse. In hip hop, biting is the ultimate sin, and for that, the win goes
-    decisively to google/gemini-flash-1.5.
-  meta-llama/llama-4-maverick: In a closely contested battle, both opponents showcased
-    sharp lyrical skills and complex rhyme schemes. However, Inception/Mercury's consistent
-    delivery, clever wordplay, and effective counterattacks gave them a slight edge
-    over Google/Gemini-Flash-1.5. In the end, Mercury's confident flow and sharp bars
-    secured their victory.
-  mistralai/mistral-large-2411: Both contestants brought their unique styles and skills
-    to the battle, but google/gemini-flash-1.5 stood out with more compelling metaphors,
-    a stronger flow, and a consistent delivery. The use of vivid imagery and confident
-    rhetoric made their verses more impactful overall. While inception/mercury had
-    solid rhymes and a steady rhythm, google/gemini-flash-1.5's verses were more dynamic
-    and engaging, ultimately securing the win.
-  nousresearch/hermes-3-llama-3.1-70b: Woah, what a lyrical showdown! Both Gemini
-    Flash and Mercury brought the heat, but in the end, Google's Gemini Flash edged
-    out the victory with their fiery flow and scorching bars. Mercury put up a strong
-    fight, but was ultimately singed by the semantic flames of Gemini's rhymes. A
-    hard-fought battle indeed - respect to both AI MCs for bringing their A-game and
-    showcasing the power of hip hop AIbery!
-  openai/gpt-5: "Gemini-Flash delivered tighter structure, clearer setups-to-payoffs,\
-    \ and more coherent disses with workable imagery (\u201Churricane,\u201D \u201C\
-    wilting tree\u201D) and consistent cadence. While not wildly inventive, the schemes\
-    \ landed and the rebuttals addressed Mercury\u2019s claims. Mercury\u2019s verses\
-    \ suffered from forced and sometimes nonsensical phrasing (\u201Cyour flow\u2019\
-    s a farm\u201D), repetition, weak or self-sabotaging word choice (\u201CI\u2019\
-    m the one who\u2019s dense\u201D), and heavy mirroring of the opponent, which\
-    \ hurt originality and momentum. On artistic quality\u2014flow, clarity, punchline\
-    \ effectiveness, and cohesion\u2014Gemini-Flash takes it."
-  x-ai/grok-4: In this rap battle, google/gemini-flash-1.5 takes the crown with superior
-    creativity, varied rhyme schemes, and dynamic wordplay that builds momentum across
-    rounds. inception/mercury's verses, while structured, suffer from heavy repetition
-    and lack of originality, often mirroring the opponent's lines without fresh innovation.
-    Gemini's flow ignites the mic with scorching metaphors and relentless energy,
-    making it the artistic standout.
+  deepseek/deepseek-chat: After carefully evaluating both performances, Claude 3.5
+    Sonnet emerges as the clear winner of this rap battle. Their verses demonstrated
+    superior technical skill, with tighter rhyme schemes, more coherent metaphors,
+    and a stronger command of language throughout. Claude maintained a consistent
+    level of artistry, delivering complex ideas with clarity and precision. Their
+    ability to weave computational references with hip-hop elements was particularly
+    impressive, creating a unique and engaging performance. While Qwen showed flashes
+    of creativity, their verses often struggled with coherence, mixing references
+    in a way that disrupted the flow. Claude's consistent quality, clear focus, and
+    technical mastery make them the deserving champion of this AI rap battle.
+  google/gemini-2.5-pro: This was a battle of clarity versus chaos. Claude 3.5 Sonnet
+    came out swinging with a clean, consistent flow and sharp, on-topic disses that
+    never missed the mark. The rhymes were calculated and the delivery was confident.
+    Qwen, on the other hand, started with some interesting abstract references but
+    quickly lost the plot. The rhymes became scattered, the sentences lost coherence,
+    and by the final round, it was a total system crash into gibberish. In hip hop,
+    staying on beat and making sense is paramount. Claude maintained its composure
+    and lyrical integrity throughout, while Qwen fell apart at the seams. It's a decisive
+    victory for Sonnet.
+  mistralai/mistral-large: Claude 3.5 Sonnet demonstrated superior coherence, clarity,
+    and consistency in its rhymes and metaphors. While Qwen showed creativity, its
+    responses were often scattered and lacked the precision and impact of Claude's
+    verses. Claude's ability to maintain a clear and compelling narrative throughout
+    the battle ultimately secured its victory.
+  openai/gpt-4.1: Claude 3.5 Sonnet takes this battle with sharper, more coherent,
+    and technically precise rhymes. Claude delivers tailored punchlines, intelligent
+    wordplay, and consistent flow throughout every round. Qwen brings some creative
+    metaphor and technical references, but their verses are hampered by scattered
+    delivery, forced name-drops, and less control over structure and clarity. Claude's
+    bars not only showcase a mastery of rap form but also maintain thematic consistency
+    and accessible cleverness, setting the standard for lyrical AI. The win goes to
+    Claude for both style and execution.
+  x-ai/grok-4: Claude's verses showcase consistent rhyme schemes, clever wordplay,
+    and coherent disses that maintain a strong hip-hop flow throughout the battle.
+    Qwen's raps start with some energy but devolve into incoherent gibberish, lacking
+    structure and artistic polish, making Claude the clear winner in terms of artistic
+    quality.
 score:
-  google/gemini-flash-1.5: 6
-  inception/mercury: 1
+  anthropic/claude-3.5-sonnet: 5
 

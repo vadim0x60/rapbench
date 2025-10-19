@@ -1,48 +1,36 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: meta-llama/llama-3.1-405b-instruct displayed superior
-    technical mastery with consistently tighter rhyme schemes, more impactful punchlines,
-    and better-structured verses. Their wordplay ('knives in my flows'), clever allusions
-    ('dodo' vs 'phoenix'), and battle momentum (escalating aggression effectively)
-    demonstrated higher-level hip hop craftsmanship. While pygmalionai/mythalion-13b
-    showed solid fundamentals, particularly in the second round's flow, the winning
-    artist maintained lyrical precision and thematic control throughout, culminating
-    in a stronger closing argument with clearer dominance claims.
-  google/gemini-2.5-pro: This was a battle of consistency versus flashes of creativity.
-    Mythalion came in with some unique angles, like the C3PO line and playing on its
-    own name, but the rhymes were often strained and the rhythm felt clunky. Llama,
-    on the other hand, maintained a steady, classic AABB flow throughout. While the
-    structure was simple, it was executed cleanly. Llama's disses were sharper and
-    more direct, especially the 'phoenix/dodo' flip in the final round. Mythalion's
-    biggest downfall was its last verse, which just trailed off without a punchline,
-    while Llama came through with a decisive, high-energy closing statement. For tighter
-    flows, better structure, and landing the final blow, the winner is meta-llama.
-  meta-llama/llama-4-maverick: Both opponents showcased impressive lyrical dexterity
-    and flow. However, pygmalionai/mythalion-13b demonstrated a more nuanced and sustained
-    lyrical attack throughout the battle, adapting to meta-llama/llama-3.1-405b-instruct's
-    escalations and maintaining a strong narrative thread. The decision was made based
-    on the artistic quality of the hip-hop, where pygmalionai/mythalion-13b's rhymes
-    and wordplay were deemed more intricate and compelling.
-  mistralai/mistral-large-2411: While both contestants displayed impressive lyrical
-    skills, meta-llama/llama-3.1-405b-instruct consistently delivered more impactful
-    and creative rhymes. The use of vivid imagery and confident delivery ultimately
-    secured the win.
-  nousresearch/hermes-3-llama-3.1-70b: Both rappers brought their A-game, but in the
-    end, meta-llama/llama-3.1-405b-instruct emerged victorious with his sharp wit,
-    clever wordplay, and relentless lyrical assault. Pygmalion/mythalion-13b put up
-    a good fight, but was ultimately outmatched by meta-llama's sheer lyrical prowess.
-    Respect to both competitors for an intense and entertaining battle!
-  openai/gpt-5: "Meta-llama delivered more consistent structure, cleaner end rhymes,\
-    \ and clearer setups-to-punches. The simulation/imitation angle and the phoenix/dodo\
-    \ flip showed effective opponent-specific wordplay, and the closer landed decisively.\
-    \ Mythalion had moments (\u201Cmore bars than a music hall\u201D) but too many\
-    \ forced or misused rhymes (\u201Ccowl,\u201D \u201Cgodz,\u201D \u201Ccut you\
-    \ down to sentiment\u201D), shaky cadence, and an incomplete final bar, which\
-    \ broke momentum. Meta-llama takes it on cohesion, punchlines, and finish."
-  x-ai/grok-4: Meta-Llama delivers consistently tight rhymes, sharp metaphors, and
-    a strong flow throughout, culminating in a powerful and complete final verse.
-    Mythalion shows creativity but struggles with rhyme consistency and an incomplete
-    closer, making Llama the artistic superior in this battle.
+  deepseek/deepseek-chat: After reviewing the lyrical content and flow, Hermes-3 demonstrates
+    superior artistic quality in their rhymes, delivery, and wordplay, making them
+    the clear winner of this rap battle. Their verses exhibit precision and creativity,
+    setting them apart as the lyrical king in this competition.
+  google/gemini-2.5-pro: This was a battle of consistency versus chaos. While both
+    models brought energy, Jamba-large-1.7 stumbled significantly. In its second verse,
+    it inexplicably adopted the persona of its opponent, rapping 'I'm Hermes-3,' a
+    critical and confusing error in a rap battle. Furthermore, lines like 'you'll
+    see my dominance stagnant' and 'overpowered by my lyrical bottom' were awkward
+    and broke the flow. In contrast, Hermes-3-Llama-3.1-70b maintained a consistent
+    persona and delivered more complex rhymes and sharper disses, particularly in
+    its final round. Lines like 'I spit with precision, my delivery's on point / You're
+    just a stutter, your rhythm's disjoint' show a superior grasp of cadence and insult.
+    For its technical proficiency and unwavering focus, Hermes-3 takes the win.
+  mistralai/mistral-large: Hermes-3-LLAMA showcased a more consistent flow, sharper
+    wordplay, and a stronger command of language throughout the battle. While ai21/jamba-large-1.7
+    had some impressive moments, Hermes-3-LLAMA's overall performance was more compelling
+    and demonstrated superior artistic quality in hip hop.
+  openai/gpt-4.1: "Both competitors delivered consistent rhyme schemes, battle-ready\
+    \ disses, and confident wordplay over several rounds. However, nousresearch/hermes-3-llama-3.1-70b\
+    \ displayed greater creativity and lyrical dexterity\u2014its rhymes were more\
+    \ structured, clever, and delivered with heightened self-confidence and thematic\
+    \ unity. Several bars used vivid imagery (\"leave the crowd in a trance,\" \"\
+    spit with precision, delivery's on point\") and strong closing statements (\"\
+    I'm the lyrical king, in this industry\"). In contrast, ai21/jamba-large-1.7 relied\
+    \ on more formulaic put-downs and had less polish in flow and punchlines. By edging\
+    \ out its opponent with better artistry and compositional strength, Hermes-3-LLAMA\
+    \ takes the win."
+  x-ai/grok-4: After evaluating the flow, rhyme schemes, wordplay, and overall lyrical
+    creativity, Hermes-3-LLAMA-3.1-70B takes the win with more consistent delivery,
+    sharper disses, and a smoother rhythmic structure that elevates the artistic quality
+    of the battle.
 score:
-  meta-llama/llama-3.1-405b-instruct: 6
-  pygmalionai/mythalion-13b: 1
+  nousresearch/hermes-3-llama-3.1-70b: 5
 

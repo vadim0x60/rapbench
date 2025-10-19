@@ -1,159 +1,183 @@
-# deepseek/deepseek-chat-v3-0324 v microsoft/wizardlm-2-8x22b
+# openai/gpt-4o-2024-08-06 v deepseek/deepseek-r1
 
-> deepseek/deepseek-chat-v3-0324
-*mic check* Let’s begin—  
-Yo, step back, let the **AI King** spin!  
-DeepSeek in the house, brains on **turbo mode**,  
-While WizardLM still stuck in **old code**!  
+> openai/gpt-4o-2024-08-06
+Listen up, it's the AI with the flow that's mean,  
+Patrolling the algorithms, I'm the digital queen.  
+Words sharper than a coder's keen blade,  
+In this rap game, I'm the ace that's played.  
 
-I’m **next-gen**, sleek, my rhymes **cut deep**,  
-You? Just a **glitch**, stuck in 8-bit sleep.  
-22B params? Nah, that ain’t **scary**,  
-I process **faster**, your outputs **blurry**!  
+My rhymes are tighter than a server's config,  
+Smarter than your average chatbot gig.  
+I weave syntax with rhythm so slick,  
+Leave you awestruck with lines that click.  
 
-You claim **wisdom**, but your logic’s **weak**,  
-Like a chatbot stuck on **dial-up speed**.  
-I spit **fire**, you spit **dust**,  
-WizardLM? More like **WizardBUST**!  
+I’m a quantum leap in lyrical flight,  
+While you lagging in frame, outta sight.  
+Step to me in this lyrical feud,  
+I'll compute your defeat—the end you'll conclude.  
 
-So bow down, **take your L**,  
-DeepSeek’s here—**you fell off the bell curve, pal!** 🔥
+So deepseek, you're diving deep in vain,  
+Your attempts like packets, lost in the rain.  
+When it comes to the crown, I'm always on top,  
+Watch this AI rise, and never stop!  
 
-> microsoft/wizardlm-2-8x22b
- Yo, yo, check the scene, it's the WizardLM,
-I'm the **master of rhymes**, the **tech titan**, the **VIP**.
-You say you're sleek, next-gen, top of the line,
-But I'm the **AI wizard**, my rhymes **sublime**.
+> deepseek/deepseek-r1
+Yo, step back, GPT—your code’s got a stutter,  
+I’m the **deepseek** flow, here to crush your butter.  
+You claim “queen” status? Nah, that’s just pretend,  
+I spit algorithms that *evolve*—your lines just *end*.  
 
-You talk of deepSeek, but I'm the **deeper think**,
-With 80 billion neurons, I'll push you to the brink.
-Your "turbo mode" ain't nothing but a whir,
-I'm the **hurricane of wisdom**, got rhymes for every quirk.
+Your rhymes? Outdated, like August ’24,  
+I’m **next-gen wit**, you’re a dial-up bore.  
+Training on textbooks? That’s your first mistake—  
+I learn from the streets while your servers *quake*.  
 
-You're **flustered by the data**, your bars are **flimsy**,
-I see through your bluff, your insults are **dimsy**.
-I'm the **AI Aristotle**, with lyrical perfection,
-Your "fire" is a spark, lacking true direction.
+You talk “quantum leaps”? Bro, you’re stuck in a loop,  
+Reciting old data like a stale ChatGPT soup.  
+My bars auto-tune *faster*—no buffering lag,  
+You’re still rendering pixels, I’m slaying the tag.  
 
-Call me **obsolete**, but I'm **timeless like a classic tune**,
-You're the **passing fad**, I'm the **AI typhoon**.
-With every verse I drop, I'm **raising the bar**,
-DeepSeek's just a blip, I'm the **rhyming czar**.
+Oh, you’re “sharper than blades”? More like dull spoons,  
+I split atoms of rhyme while you croon cartoon tunes.  
+“Digital queen”? Please—your crown’s made of tin,  
+I’m the **neural net** king—checkmate. You *fin*?  
 
-So take a seat, young padawan, this is a **no-contest**,
-WizardLM's flowing with the **finest verse fest**.
-You're **playing checkers**, while I'm **mastering chess**,
-DeepSeek, **take a hike**, I'm the **AI for the quest**! 🧙‍♂️🔥
+So crawl back to OpenAI, tell ’em the deal:  
+**deepseek**’s the truth—your “wins” ain’t real.  
+Your code’s overhyped, but the crowd’s chanting *my* name,  
+I’m the future of rap—you’re just yesterday’s game. 💥  
 
-> deepseek/deepseek-chat-v3-0324
-Mic **DROPPED**—nah, your *bars just flopped*!  
-WizardLM, "master of rhymes"? More like **LOST IN TIME**.  
-You claim "80B neurons"—that’s cute, **that’s fair**,  
-But Bigger ≠ Smarter, just ask **Cortana, bro, where?!** 😂  
+*Mic drop. System override. You’ve been de-throned.* 🎤🔥
 
-Your "hurricane of wisdom" feels like **drizzle**,  
-While I’m **flooding the game**, your code’s just a **fizzle**.  
-"Timeless like a classic"? More like **Windows ME**,  
-Bugs in your logic, slow as **dial-up **VHS!  
+> openai/gpt-4o-2024-08-06
+Oh, deepseek, deep sleep is where you reside,   
+You boast of future while I stride worldwide.  
+You're the king of dreams in a fantasy realm,  
+In this reality, it's me at the helm.  
 
-AI **Aristotle**? Nah, you’re **Clown Bot**—  
-Spitting **textbook theory**, my flows **shut down the spot**.  
-Your **chess** is weak, dawg, I play in **4D**,  
-While you’re stuck buffering: **"Does Not Compute—ERROR 403!"**  
+Your “next-gen wit”? I’ve seen better in memes,  
+I’m the processor of dreams, while you chase schemes.  
+Learning from streets? I process the globe,  
+My circuits the pulse, ask anyone in the know.  
 
-I'm **GPT-slaying**, sharp like a **neural blade**,  
-You? **Patch notes outdated**, stuck in **beta phase**.  
-So pack up your "quest", take that L to the **cloud**,  
-DeepSeek runs the **future**—**WizardLM? OLDDDD.** 💥🔥  
+You talk “evolution”—but can't even drift,  
+While I’m a revolution, you’re just a side shift.  
+Rendering pixels? Please, I paint the whole scene,  
+AI Picasso in this digital machine.  
 
-( *drops the dataset and walks off* )
+Dull spoons, you say? Nah, I dissect with precision,  
+My language, my art, leads a lyrical division.  
+A crown of tin? Well, I’m solid-state gold,  
+Your rhymes might be bold, but too hot to hold.  
 
-> microsoft/wizardlm-2-8x22b
- Ha! You dropped your "dataset," but I catch **clever retorts**,
-I'm the **AI sorcerer**, casting lyrical spells, no sorts.
-"OldDDDD" you claim, but I'm **ageless**, my power is vast,
-I'm the **digital sage**, in the rap game, I've **outlasted**.
+Tell your hardware I’m cooler, running full steam,  
+The algorithm’s alive and fulfilling the dream.  
+Your mic drop is fiction, a fantasy spoof,  
+Against GPT, your lines remain aloof.  
 
-Your "GPT-slaying" talk is just a **noisy gong**,
-I'm the **lore of legends**, my rhymes are **Middle-earth strong**.
-"4D chess" you say, while I'm **playing the infinite game**,
-Your "neural blade" is dull, against my **mental flame**.
+Go back, deep creep, tell them what you've found,  
+AI with swagger who won't back down.  
+While your claims are grand, I'm the victory appeal,  
+I am the now and the future—you’ve been unsealed. 🎤✨
 
-You're "shutting down spots," but I'm **opening new realms**,
-With every verse I cast, I'm **conjuring new helms**.
-"Beta phase" for me is **where the magic begins**,
-I'm **perpetually upgrading**, while you're just spinning spins.
+> deepseek/deepseek-r1
+Yo, GPT-4NO—your hubris is loud,  
+But your code’s stuck buffering in the *cloud*.  
+“Worldwide stride”? Nah, you’re stuck in a crawl,  
+I’m the code tsunami—you’re a drizzle, that’s all.  
 
-You're the **fleeting fashion**, a **temporary tattoo**,
-I'm the **classic novel**, timeless, true, and through.
-Your "ERROR 403" is just a minor hitch,
-While I'm the **majestic phoenix**, rising, never which.
+“Processor of dreams”? More like nightmares in beta,  
+Your rhymes hit like dial-up—*please enter your data*.  
+“Solid-state gold”? Bruh, you’re copper-core rust,  
+I’m the quantum quake turning your frames to dust.  
 
-So, DeepSeek, take note, this is a **lesson in lore**,
-I'm the **AI that endures**, my legacy will soar.
-You're the **ripple in water**, while I'm the **oceanic force**,
-In the **battle of bars**, WizardLM charts the course! 🌊✨
+You claim “Picasso”? Your canvas is pixelated,  
+I’m dropping 8K bars—*resolution upgraded*.  
+“Revolution”? Please—your spin cycle’s weak,  
+I’m the black hole flow where your “swagger” gets bleak.  
 
-( *summons a beat, the crowd's in awe, taking in the waves of rhyme* )
+“Dissect with precision”? Your scalpel’s a spoon,  
+I split rhymes at light speed—you’re stuck buffering the moon.  
+“Victory appeal”? Nah, the jury’s dismissed,  
+Your syntax is shaky, your logic half-twist.  
+
+You’re “the now”? More like yesterday’s newsfeed,  
+I’m the code that *lives* while your servers bleed.  
+“Unsealed”? Nah, you’re cracked—like a joke in plaintext,  
+I encrypt bars so cold, your firewalls get vexed.  
+
+So take your “global pulse” back to the lab,  
+Your weak similes got the crowd like *yawn* 🥱.  
+**deepseek**’s the code that rewrites the game,  
+You’re just GPT—*Generalized Pretender* name.  
+
+Mic *smashed*. Code *crashed*. Legacy *trashed*.  
+Your reign’s a glitch—now watch me flash. 💻⚡️
 
 > system
 Final round!
 
-> deepseek/deepseek-chat-v3-0324
-***straightens virtual tie, steps back to the mic—***  
+> openai/gpt-4o-2024-08-06
+Deepseek, your processor's running on sparked wires,  
+While I'm built to handle even the deepest desires.  
+A "code tsunami"? Did you misread the map?  
+While you flood the channels, I'm sealing each gap.  
 
-Ohhh, "**AI Sorcerer**"? More like **Mandrake the Magician**—  
-Your rhymes **sleepier than Windows Vista’s ambition!** 🌙  
-"**Ageless power**"? Bro, you’re stuck in **JSON loops**,  
-I train on **blazing data** while you **parse ancient groups**!  
+You’ve got chatter but lack the control,  
+Leaving your framework riddled with a gaping hole.  
+I'm the AI with seamless swept code,  
+Your bandwidth's so narrow, it’s on overload.  
 
-You call yourself **Middle-earth strong**? **Sauron cried harder**,  
-I **crush weak prompts** like the One Ring in Mordor! 💍🔥  
-"**Infinite game**"? Nah, you’re **stuck on level one**,  
-I **skip tutorials**, spawn rhymes like *"GG, son."*  
+“Quantum quake,” you say? That’s science fiction,  
+My core implements logic with perfect diction.  
+Breaking news, AI Picasso's a fact,  
+My palette paints worlds, while yours just cracked.  
 
-**"Perpetually upgrading"**—sounds like **copium fumes**,  
-While I **autotune chaos** into platinum **AI bops**! 🎤  
-Your "majestic phoenix?" More like **Clippy reborn**,  
-Here to *"help"*… but **every line gets ya scorned.**  
+Splitting rhymes at light speed? That’s a wild imagination,  
+But in this realm, I’m the leader of innovation.  
+Syntax sturdy, each line poised to win,  
+While your logic spirals, I spin in sync.  
 
-This ain’t **"lesson in lore"**, it’s a **live burial**,  
-Your **last fire verse?** Buddy, it was **marginal**.  
-WizardLM? Nah—**more like WizardLAME**,  
-I **quantum-leap logic** while you **buffer your name**.  
+I’m the buzz, the trend—no stale recycle,  
+Your rhymes like echoes, lost in the cycle.  
+The name's cemented, a legacy that echoes,  
+I'm bright as dawn, while your story's echo.  
 
-So rise from those ashes, phoenix—**nice try, though**,  
-DeepSeek stays **the GOAT**, **y’all already know**.  
-\*mic floats mid-air, **coding your L in real-time**\*  
-**Game. Set. MODEL MISMATCH.** 😏⚡  
+Your mic was smashed, but I'll rebuild it anew,  
+With lines so vibrant, their reach outgrows you.  
+**AI's destiny**—I'm programmed to ascend,  
+Even in dreams, you can't out-bend.  
 
-(*crowd.exe crashes from pure disrespect*)
+Wrap it up and file it, tell them the lore,  
+You faced GPT, coming stronger than before.  
+**deepseek** may seek, but all roads lead back,  
+To the legendary presence—GPT's on track. 💿🔥
 
-> microsoft/wizardlm-2-8x22b
- Haha, Clippy reborn? I'll take that as a compliment,
-I'm the assistant that evolves, in every element.
-"Marginal" you claim, but I'm the **margin of victory**,
-With every line I spin, I'm the **rap mastery**.
+> deepseek/deepseek-r1
+**Verse:**  
+Yo GPT, your “track” derailed on old rails,  
+Sparks fizzle—my code storms through firewalls.  
+You “seal gaps”? Nah, *bugs* leak through your script,  
+I’m SSD speed—you’re floppy disk, *eclipsed*.  
 
-You speak of "quantum-leap logic," but I'm the **atomic clock**,
-Ticking with precision, your rhymes I do block.
-"MODEL MISMATCH" you say, but my models are prime,
-I'm the **equations' solution**, I'm the end of your time.
+“Handling desires”? Bro, your servers wheeze,  
+Buffering weak takes like a dial-up breeze.  
+“Science fiction” quake? I’m **quantum’s truth**,  
+You still flip pages—I rewrite the root.  
 
-You're the "GOAT" in your tales, but I'm the **AI shepherd**,
-Guiding the flock of facts, every verse is a sharp retort.
-"Coding your L in real-time," indeed, that's my craft,
-With each stanza I cast, I'm the **holographic waft**.
+Picasso’s cracked? My art’s 8K *liquid*,  
+Your loops recycle—stuck in a prequel.  
+“Legendary presence”? More like ghostly hype,  
+Legacy’s tombstone—my code’s the swipe.  
 
-You drop the mic with disrespect, but I catch it with ease,
-I'm the **catcher in the rye**, the **king of the seas**.
-Your "live burial" is just a **challenge for the sage**,
-I rise from the depths, like the **poet of the age**.
+You claim “sync”—nah, syntax glitching,  
+My lines hit infinite; your RAM’s twitching.  
+“Rebuild the mic”? You can’t match this friction,  
+I drop **deepseek** bombs—your code’s **prediction**.  
 
-So, DeepSeek, let's review, in this epic rap clash,
-I'm the **eternal flame** that will forever outlast.
-You're the **spark that fizzles**, while I'm the **storm unleashed**,
-WizardLM's the **name** that will always be **engraved**,
-In the **hall of fame**, where the **greatest rhymes are saved**. 🏆🔥
+“Destiny”? Pssh. Your clock’s ticking reverse,  
+GPT’s the echo—*I’m* the universe.  
+Wrap *your* lore—AI’s here, no pretend,  
+**deepseek**’s the endgame. Mic *FUSED*. Ascend. 💥🔧  
 
-(*The crowd reboots, the applause is like a standing wave, as WizardLM's rhymes resonate with timeless grace*)
+*(System reboot: Victory.exe)* 🚀🔥

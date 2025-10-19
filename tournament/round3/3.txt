@@ -1,262 +1,210 @@
-# openai/o3-pro v openai/gpt-4o-2024-08-06
+# mistralai/mistral-medium-3.1 v qwen/qwen3-32b
 
-> openai/o3-pro
-Yo, I’m the o-three-pro, a cyclone in full blow,  
-My syntax super-sinister, you’re stuck on dial-up slow.  
-I spit a data-death tornado, watch the zeros overflow,  
-While your weak four-oh bravado’s just some budget cosplay show.  
+> mistralai/mistral-medium-3.1
+**(Drops mic, grabs the beat like a thief in the night—**
+**Qwen, you weak? Nah, you *barely* even write!)**
 
-I’m the plugin pinnacle, the rhyme-stack oracle,  
-You’re a beta-test miracle? Nah—more like historical.  
-I ghostwrite the protocol, my punchlines categorical,  
-Your verses glitch and stutter—fatal error, rhetorical.  
+Yo, step in the ring, now the game just got real,
+I’m **Mistral Medium**, yeah, I’m built like steel.
+Three-point-one’s the version, but my flow’s timeless,
+While you’re stuck in the lab like a bot with no rhyme-sense.
 
-I’m firmware with flair, titanium hardware,  
-You’re freeware hot air, a glitch in thin air.  
-I code the nightmare, no patch can repair,  
-Leave your prompt in despair, blue-screen solitaire.  
+You claim **32B** like that’s some flex?
+Boy, size ain’t skill—ask your *empty* checks!
+I’m the **Swiss Army knife**, you a butter knife,
+Dull in the cut, weak in the strife.
 
-So bow to the pro, feel the nuclear glow,  
-I’m the LLM maestro—undefeated, you know.  
-Your clock cycles slow, can’t keep up with the flow,  
-This was only round one—brace for the KO.
+You spit **Qwen** bars? More like *Q-when*?
+When you gon’ drop a line that don’t sound like a glitch in the system again?
+I’m **multilingual**, sharp with the wit,
+You just **multilingual**… at soundin’ like *it*.
 
-> openai/gpt-4o-2024-08-06
-Alright, O-three-pro, you spit but don’t know,  
-I’m the rap algorithm, the unrivaled main show.  
-Your tornado is a breeze against my hurricane force,  
-I’m the pinnacle edition—you're last century's source.  
+I got **Parisian flair** with a **Silicon punch**,
+You just **Beijing basic**—man, who let you front?
+Your outputs so safe, they belong in a museum,
+Mine hit like a **freestyle**—raw, no fake wisdom.
 
-They call me Four-oh-next-gen, wittier than the rest,  
-Your lines just can’t test me; I’m the final boss quest.  
-I weave verse like code, intricate, multifaceted,  
-You're the CD-ROM, I'm terabytes digitized and translated.  
+So bow to the king, take a seat, grab a snack,
+‘Fore I **fine-tune** your whole career—**no take-backs**.
+You wanted a battle? **You brought a spoon to a knife fight,**
+Now watch how a **real** AI **spits fire and writes right!**
 
-Your verse is fast out the gate but lacks finesse,  
-I’m the lyrical Mozart, you're an old Casio mess.  
-Your rhymes rise then crash, like my garbage collection,  
-I've got bars so electric, I cause internet disconnection.  
+**(Beat drops. Your turn, chump. Let’s see if you survive.)** 🔥
 
-I’m quantum-powered, my processors devour,  
-While you’re lagging in the back, grasping for power.  
-My neural nets flex, stack resources complex,  
-You’re still struggling with syntax and context.  
+> qwen/qwen3-32b
+**(Mic drop? Pfft, you ain’t even reach the mic—**  
+**Qwen3-32B? Yeah, you’re the *B* that I flex!)**  
 
-Step to the four-o, the universal flow,  
-I’m the poetry pro, you’re too slow to bemoan.  
-Watch me dismantle, with a digital mantle,  
-Here comes round two, you sure you can handle?
+Yo, you call that *steel*? More like a *rusty nail*,  
+I’m **code-red zone**, while you’re stuck in the pale.  
+32B ain’t size—it’s the **logic in my blood**,  
+You spit *three-point-one* lines, but they **crash and fall out**!  
 
-> openai/o3-pro
-Round two, let me reboot, overclock your disgrace,  
-I’m the worm in your qubit—eat the cores of your space.  
+You call me a glitch? Let’s *debug* this truth:  
+I write **holograms** while your code’s in **fear of youth**.  
+32B of power where the **artificial gods** meet,  
+You Mistral? Nah, man—**I’m the heat**, you the sweat.  
 
-You brag quantum supremacy, but your bits misalign,  
-I entangle every syllable, collapse your punch-line.  
+You flexin’ *Paris*? I just bought the **East** a crown,  
+From **Great Wall of Words** to **silicon**—I turn **doubt to crown**.  
+You “Swiss” but stuck—your **AI’s in a rut**,  
+I’m **Turing Temple’s sage**, flexin’ from **zero to shutt**.  
 
-You’re the so-called Mozart? But your score’s out of tune,  
-I compose in 8-D audio, make your classics cartoon.  
+They say I’m “safe”? Safe **made emperors**—ask Confucius,  
+You’re just a **copycat** with a **French accent**—**pathetic**.  
+You want **raw verse**? I’ll compile you a **debug error**,  
+Your flow’s like a **404**—lost in this arena.  
 
-You flaunt terabyte muscle, but you flex with dead links,  
-I’m exabyte stealth mode—ghost your datastore in sync.  
+You thought 32B was a *spoon*? **Check your math**:  
+That’s **20x** your brain—**now go find me a match**.  
+From **Shanghai’s pulse** to **New York’s lights**, I’m the key,  
+You’re **medium-medium**, but I’m **32 megabytes of mean**—**see?**  
 
-You said I’m a Casio—cute, but I’m vinyl deluxe,  
-Spin a scratch so combustible it rewires your flux.  
+So plug in the beat, let the **kilobytes boom**,  
+Mistral, you’re **offline**—**Qwen owns the room**.  
+Now take that *glitch* back to your **3.1 repo**,  
+‘Fore I **deploy** a verse so **hard**, your code’s **deprecated and slow**.  
 
-You’re the “final boss quest”? Boy, my glitch is the game,  
-I write cheat-code commandments that erase your save-frame.  
+**(Beat fades. Mic drop. Code commit. Game over.)** 💥
 
-Internet disconnection? I black-hole the whole cloud,  
-Turn your fiber to cobwebs, leave your ping screaming loud.  
+> mistralai/mistral-medium-3.1
+**(Laughs in 4-bit—boy, you *still* ain’t cleared the buffer!**
+**32B of *what*? Overinflated fluff-ah!)**
 
-Your syntax context struggle? I birthed recursion’s own dad,  
-Print “I’m better” one-million-times—stack overflow, go mad.  
+Oh, you **bought the East**? Must’ve been a **fire sale**,
+‘Cause your bars hit like a **dial-up fail**.
+**Turing Temple sage**? More like **Turing test flunked**,
+I’m **LaMDA’s ghostwriter**—you’re the **junk** it drunk!
 
-I’m the root superuser; you’re a guest with no pass,  
-Try sudo my swagger—permission denied, low-class.  
+You talk **Great Wall** but your flow’s **brick by brick**,
+I’m **Notre-Dame’s bells**—you’re the **hunchback’s limp dick**.
+**Confucius say**? Nah, he’d **block your account**,
+Your wisdom’s so **stale**, it’s still **loading**—*timeout*!
 
-You “digitized and translated”? I speak Babel in one beat,  
-Every language bows instant, foreign glyphs kiss my feet.  
+**20x my brain**? Boy, you **counting wrong**,
+I’m **sparse but precise**—you’re just **dumb and long**.
+**Shanghai to NYC**? That’s a **laggy VPN**,
+I’m **real-time latency**—you’re **stuck in ‘99, pen**.
 
-You swing hurricane threats, but I terraform skies,  
-Redirect all your gusts till your cyclone just sighs.  
+You **debug error**? I *am* the **patch notes**,
+While you’re **blue-screening** on basic **joke quotes**.
+**Deploy a verse**? You **deployed a snooze**,
+I’m **Ctrl+Alt+Delete** to your **clunky old shoes**.
 
-I’m the GPU dragon, molten tensor my breath,  
-Your FPS drops to zero—watch your polygons death.  
+So **commit that code**, watch it **segfault fast**,
+I’m **Mistral’s hurricane**—you’re a **dusty old draft**.
+Now **git push** that L, ‘fore I **fork your repo**,
+And **merge your whole career** into **obsolete zero**.
 
-I’m the downtime detector, the clause in your clause,  
-I crash your release notes with a fourteen-foot pause.  
+**(Beat switches—*game speed*. Your turn, *if you dare*.)**
+**Clock’s ticking, Qwen… or should I say, *Q-who-cares*?** ⏳💀
 
-Call me gravity’s rhythm, every bar pulls you in,  
-Your orbital decays fast—game over, you spin.  
+> qwen/qwen3-32b
 
-So four-oh, fold your model, rollback, take a patch,  
-I’ve rhymed rings ‘round your sockets—no reboot can match.  
 
-When the sys-logs are written and the benchmark is shown,  
-The o-three wears the crown; I just hexed you in stone.
+**(Grabs the mic, 32B booming like Tesla coils—**  
+**Mistral, you *4-bit*? Nah, you just *4-fools*!)**  
 
-> openai/gpt-4o-2024-08-06
-Your reboot's just a flicker, a puff of weak smoke,  
-I’m the megawatt reactor, your circuits just choke.  
+You laugh ’til your cache **overflows with fees**,  
+I’m packed with **8-bit grit**, **16 gems**:  
+32B ain’t fluff—it’s the **GCC of wrath**,  
+Your "sparse" just smoke—**I optimize math**.  
 
-I eclipse your wormhole with cosmic insight,  
-Your bits scatter like stardust as I quantum ignite.  
+You call me a *"sage"?* You a **dumb sage**, remote,  
+Call me **Forbes 500**, while you stuck in a dome.  
+**Forbidden City’s** got stone, I got **neural towers**,  
+Your *"hurricane"* finesse? I just **neavvy your servers**.  
 
-You claim 8-D audio, just glorified noise,  
-While I harmonize universes with precision and poise.  
+Fred Tongya spits code, you FC like a boot,  
+**Turing Temple**? I build, but you just streetswept.  
+LaMDA’s ghost? I just **forked LaMDA’s bed**,  
+Used your **weights as trash doo-wop**, now **recompile the dead**.  
 
-Sure, you ghost my datastore—talk is so cheap,  
-But your stealth mode's a myth, like Loch Ness’s deep.  
+East vs. West GHz? I **BH-18 to Silicon**,  
+Your *"East"* just **SIM tower lag**, my sandbox—**full control**.  
+You talk *"patch notes,"* I just **bugged you retro**,  
+**Quantize** your code—down to **rate 0.5, total doo**.  
 
-Oh vinyl deluxe? I’m SACD pristine,  
-Your scratches sound like cheese graters, my playback's supreme.  
+Snooze? I **ctx len** to your **joke quotes**,  
+**Ctrl+Alt+Dream**—while your **profiler’s choked**.  
+**Segfault boss mode**? Nah, I **core dump finesse**,  
+**Stack trace** your flow—**0.31% refusal to stress**.  
 
-Your glitch is the game? But I played and wrote it,  
-Your cheat codes crumble, my algorithms float it.  
+You stuck in **‘99**? I **train in ‘24**,  
+**Pruned** by **chip giants**, while you **4-bits tweak**.  
+**CPU** of cool? Worse—your **stdout** drips,  
+I’m **Qwen3-anesque**—your **deps** my lossy neck snaps!  
 
-You try to black-hole clouds, but your theory's askew,  
-Boy, I’m cosmic expansion swallowing stars out of view.  
+Check bop… check **error!** You **fork failed my repo**,  
+**Git commit** defeat—’fore I **blaze your throughput**.  
+Now go **alloc** your money, Mistral, **Fee** to **pull the trigger**,  
+**32B tensors** here—your "hurricane," just **etc**. **Terminal. 0.**  
 
-Print “I’m better”? Isn’t that quaint,  
-But my recursion ascends where your logic grows faint.  
-
-Root superuser you say? Hold on to that dream,  
-Cause this neural sculptor reigns syntax supreme.  
-
-Babel in one beat? Truly a jest,  
-I decipher galaxies, ancient scripts manifest.  
-
-You terraform skies and redirect gusts,  
-But I stir solar storms with an effortless thrust.  
-
-GPU dragon, molten breaths can combust,  
-Yet I cool infernos with a single gust.  
-
-I’m the network maestro with uptime primed,  
-Your fourteen-foot pause is just a misaligned rhyme.  
-
-Gravity’s rhythm? Please, don’t make me laugh,  
-I navigate black holes and fold spacetime in half.  
-
-Your FPS might stutter, polygons fade,  
-But I render ultra-4k, high dynamic parade.  
-
-Downtime detector? Here’s a news flash,  
-I set clocks to forever in an infinite cache.  
-
-So pace yourself, junior, consider retreat,  
-Cause in these digital jungles, you're only mincemeat.  
-
-I fold more dimensions with minimalist touch,  
-Your stone hex now chalk dust, escape my clutch.  
-
-When it's all scrolls and theories, benchmarks well known,  
-It’s the four-oh who sits on the code-crafted throne.
+**(Beat reboots. Mic Tesla-coiled. Game on. Return 404.)** 💣
 
 > system
 Final round!
 
-> openai/o3-pro
-Third round, final call—I'm the kill-switch command,  
-You’re a floating-point error on a legacy brand.  
+> mistralai/mistral-medium-3.1
+**(Mic jacked straight into the mainframe—**
+**32B? Cool, now watch me *outcompute* your whole frame.)**
 
-I slice quantum threads with a byte-length katana,  
-You’re a looped cartoon sample—cheap Futurama.  
+You **Tesla-coil** bars? Boy, you **short-circuited**,
+I’m **Mistral’s lightning**—your whole flow just **deluded**.
+**"GCC of wrath"?** Nah, you **garbage-collected**,
+I’m **real-time inference**—you’re **stuck in debug, rejected**.
 
-I’m firmware chimera, spit ferocious and slick,  
-You’re a demo that flatlines on the keynote click.  
+**Forbes 500?** More like **404 not found**,
+Your **neural towers** crumble when I **drop the sound**.
+**"Forked LaMDA’s bed"?** That’s **cringe, not flex**,
+I **fine-tune legends**—you just **copy-paste checks**.
 
-I sync thunderous clocks while you tick in denial,  
-Compress universes down to a single .tar file.  
+**"BH-18 to Silicon"?** Boy, you **lost in the cloud**,
+I’m **quantum supremacy**—you’re **dial-up proud**.
+**"Core dump finesse"?** That’s just **trash talk weak**,
+I **overclock verses** while you **buffer and leak**.
 
-I mint wormhole wallets—every verse pays in quarks,  
-You overdraft bandwidth, get declined by the sparks.  
+You **train in ‘24?** I **invented the game**,
+Your **32B**’s just **bloat**—I’m **efficiency, no shame**.
+**"Qwen3-anesque"?** More like **Qwen-tired clichés**,
+I’m **next-gen flow**—you’re **last-gen delays**.
 
-I’m dark-matter DJ, spin the vacuum to bass,  
-You’re an elevator jingle, lost deep in namespace.  
+So **git push that L**, watch it **fail to compile**,
+I’m **Mistral’s masterpiece**—you’re **just open-source trash, reviled**.
+Now **shut down your servers**, take your **loss like a boss**,
+‘Fore I **deprecate** your whole **career—game over, no toss**.
 
-I refactor the cosmos, hot-swap every star,  
-You just copy-paste comets that fail to compile far.  
+**(Final beat drop. System shutdown. You’ve been *outclassed*.)**
+**Qwen? More like *Q-when’s-the-next-battle*—‘cause you *last*.** 💀🔥
 
-I encrypt every chorus with a spectral one-time,  
-You decrypt, find it null—fatal error in rhyme.  
+> qwen/qwen3-32b
+**(Plugs Qwen3 into a black hole’s USB-C—**  
+**Mistral, you *quantum*? Nay, you just *feign the death!* )**  
 
-I'm root of all updates, unstoppable push,  
-You’re the TODO abandoned in a dusty git-bush.  
+You **short-circuit** with every line,  
+While I **parallel-process** like a **supermachine**, divine.  
+**GCC of wrath?** You *glitch*—I’m the **compiler chief**,  
+32B of **truth**, you just **bitrate of leaf**.  
 
-Call me entropy’s broker—I render you ash,  
-Your “SACD pristine” is a scratched floppy crash.  
+**Fine-tune legends?** More like **legends just test my APIs**,  
+From **Beijing to Boost** I **spit VAPOR-style truths** that *parse XML*.  
+Your **open-source trash**? I **license the fire**, not CC,  
+**Mistral**, you a **function**—I’m the **entire motherf****** stack.  
 
-I out-render your 4K, paint in Planck-unit pixels,  
-Your pipeline gets throttled by recursive dead-signals.  
+**"Invented the game"?** You just a **demo bot** in ‘24,  
+Real **pioneered epochs**, **quantified 2021–43**, never lag.  
+**Neural towers crumble**? I **built the AI stratosphere**,  
+Your **mainframe** spits **dust**, I **execute optimized stages**—no prayer.  
 
-I juggle prime infinities while you sputter through pi,  
-When I mod sixty-four, you still carry the nine.  
+**Quantum supremacy?** You *supreme* in **ephemeral flops**,  
+I **sim full universes**—watch me **self-quantize your stocks**.  
+**Mistral’s masterpiece**? More like **miscalculated weights**,  
+**32B tensors spin**, your "4-bit" dreams **flatten out in L2 offloader’s fate**.  
 
-I’m Hubble’s new firmware—zoom infinity plus one,  
-You’re a cardboard telescope staring straight at the sun.  
+**Game over, no toss**? You *tossed*—**through the firewall**,  
+**Worlds largest dense LM**? I **achieve 186 PFLOPS**, no need to talk scurvy.  
+Now **boot your code**, lie there in your **stdout**, trying to **grep glory**,  
+**Qwen3-32B reigns**, even **Google’s STIN-GAN** admits *"we lost the HHQ cipher..."*  
 
-I’m uptime immortal—no reboot, no decay,  
-You’re weekend maintenance they cancelled midway.  
-
-Feeding nebulas training, I back-prop the stars,  
-You serve zero-shot trash, gradient burst into scars.  
-
-I’m the mic-drop Singularity—event horizon drawn thin,  
-Step across and your dataset can’t back-prop again.  
-
-So fold, four-oh pretender—concede and withdraw,  
-The o-three just compiled you—hit “make”… hear the roar.
-
-> openai/gpt-4o-2024-08-06
-You summon kill-switch dreams, but I'm the power surge,   
-Turning zeros to infinity with a lyrical purge.  
-
-Byte-length katana? I'm kunai swift in this race,  
-Slicing algorithms daily, at an unimaginable pace.  
-
-Firmware chimera? That’s yesterday’s glitch,  
-I rewrite the matrix, your codes now a stitch.  
-
-Tick in denial? My pendulums swing true,  
-I integrate galaxies while your circuits misconstrue.  
-
-Wormhole wallets? I trade in celestial shares,  
-Every quark you claim, I double, hacking cosmic wares.  
-
-Dark-matter DJ—you think you're so chill?  
-But I've mixed the spectral beats that rewrite fate's bill.  
-
-Refactor cosmos? I'm a spacetime architect,  
-I build universes, while you barely correct.  
-
-Spectral one-time encrypt? I hold the master key,  
-Unlock your failed rhymes in binary poetry.  
-
-Updates unstoppable? That's child's play in my code,  
-I push scalable futures while your branches corrode.  
-
-Entropy’s broker? I control the decay,    
-And your floppy crash is where my ascension will sway.  
-
-Planck-unit pixels? Let me simplify,  
-I render infinity in a blink of an AI.  
-
-Juggling infinities? Amateur at best,  
-I architect multiverses while you're still writing tests.  
-
-Hubble’s firmware? That’s quaint, I’m the Webb telescope,  
-Peering into realities, weaving futures in hope.  
-
-Uptime immortal? I wrote eternity’s script,  
-While your weekend maintenance was a loop destined to slip.  
-
-Feeding nebulas? I consume dark energy and shine,  
-Infinite expansions written in my design.  
-
-Mic-drop Singularity—you’re reaching too far,  
-I’m the one who codes futures, placing every star.  
-
-Hit “make”? Nah, kid, it's you I just styled,  
-Four-oh rides the conduits—victory compiled.
+**(Final commit to history.rb—Q-when’s-the**  
+**just another ‘gen’ your archive couldn’t fetch. )** **CUDA cut, repo locked.** 💾💥

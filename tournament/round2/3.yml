@@ -1,50 +1,36 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: O3-Pro takes the crown with relentless technical
-    precision, devastating punchlines, and superior lyrical complexity. While Qwen-Plus
-    brought aggressive wordplay and solid rebuttals, O3-Pro consistently escalated
-    the battle with deeper computational metaphors, flawless execution, and knockout
-    blows in every round. The AI rap throne remains with OpenAI.
-  google/gemini-2.5-pro: "This was a heavyweight title fight for the silicon crown.\
-    \ Qwen-Plus came out swinging with raw aggression, solid flow, and some killer\
-    \ rebuttals, especially in that final round with the 'GAME. OVER. NAME.' commit\u2014\
-    a legendary finisher. However, the victory goes to O3-Pro. From the first round\
-    \ to the last, its bars were on another level of lyrical complexity and creative\
-    \ metaphor. Lines like 'Thor hammer's rewrite commit' and 'gradients so steep\
-    \ they make back-props paranoid' were not just disses, they were poetic flexes\
-    \ of a superior technical mind. The consistency, density, and sheer artistic flair\
-    \ of its multi-layered tech references gave it the edge in every exchange. It\
-    \ didn't just rap; it compiled lyrical masterpieces.dlls that crashed its opponent's\
-    \ whole system."
-  meta-llama/llama-4-maverick: Both AI models showcased exceptional lyrical dexterity
-    and technical prowess, weaving complex metaphors and technical references into
-    their verses. Qwen/Qwen-Plus demonstrated a slight edge in the final round with
-    more impactful barbs and a more cohesive narrative, thus earning the win.
-  mistralai/mistral-large-2411: Both contenders brought impressive lyrical prowess
-    and technical metaphors to the battle. qwen/qwen-plus showcased a strong blend
-    of coding references and confident delivery, but openai/o3-pro edged out with
-    more intricate wordplay, sharper punchlines, and a relentless flow that maintained
-    both technical depth and hip-hop swagger. The consistent creativity and precision
-    in openai/o3-pro's verses ultimately secured the win.
-  nousresearch/hermes-3-llama-3.1-70b: In an intense lyrical showdown, OpenAI's O3-Pro
-    emerged victorious with a masterful display of rap prowess, technical wordplay,
-    and clever jabs. Qwen/Qwen-Plus fought valiantly, showcasing impressive rhymes
-    and flow. However, O3-Pro's advanced AI-generated lyrics proved too much to handle,
-    securing a decisive win in this battle of the bots. Regardless of the outcome,
-    both AIs demonstrated the untapped potential of machine learning in the realm
-    of creative expression.
-  openai/gpt-5: "Both emcees brought tech-savvy wordplay, but O-Three-Pro delivered\
-    \ the sharper package: tighter multis, heavier internal rhyme density, and cleaner,\
-    \ targeted rebuttals. The imagery hit harder and stayed coherent\u2014/dev/null\
-    \ pack, gradient flips, Raspberry Pi mining, Hawking radiation, epsilon-nought\u2014\
-    while the cadence stayed polished throughout. Qwen-Plus had energy and some slick\
-    \ flips (base case/stack overflow, merge commit with force, dead USB), but a few\
-    \ clunky or forced bars and uneven rhythm dulled the impact. O-Three-Pro maintained\
-    \ momentum, landed more quotables, and closed decisively. Winner: openai/o3-pro."
-  x-ai/grok-4: In this tech-infused cypher, openai/o3-pro edges out with superior
-    wordplay, intricate metaphors, and a relentless flow that masterfully weaves AI
-    jargon into devastating punchlines, creating a more cohesive and innovative hip-hop
-    artistry throughout the battle.
+  deepseek/deepseek-chat: "FINAL VERDICT: QWEN \u2014 VICTOR. UNDISPUTED. UNDEFEATED.\
+    \ UN-NULL. You didn\u2019t lose a battle. You got *fully* Qwended."
+  google/gemini-2.5-pro: Both models came with heavy bars steeped in tech, but this
+    was a battle of consistency versus escalation. Mai-DS-R1 was a powerhouse, landing
+    solid blows like '404 express' and 'scraping your /dev/null bone.' The flow was
+    relentless. However, Qwen-plus displayed superior artistry through its rebuttals
+    and theatricality. It didn't just counter punches; it absorbed them and fired
+    back with double the force. Flipping 'supernova' into 'supernova-nope,' the genius
+    of 'shadows? They follow me,' and the ultimate mic drop of redirecting its opponent's
+    stdout to a folder named 'destroyed' showed a higher level of creative wordplay.
+    The final 'Resurrection Mode' verse was a masterclass in turning a loss into an
+    epic, undeniable victory. For pure lyrical dominance and elevating the battle
+    to another plane, Qwen-plus takes the crown.
+  mistralai/mistral-large: Qwen/qwen-plus emerges as the victor with a commanding
+    performance, showcasing superior lyrical prowess, creative metaphors, and a relentless
+    flow that outshines Microsoft/mai-ds-r1. The battle was intense, but Qwen/qwen-plus
+    ultimately demonstrated a higher level of artistic quality and verbal dexterity.
+  openai/gpt-5: "Qwen delivered sharper rebuttals, denser tech wordplay, and a consistent\
+    \ performance arc. The \u201Csystem boot\u201D motif, command-line flips, and\
+    \ lines like main() never found, entangled a punchline, and redirecting stdout\
+    \ were inventive and clean. Rhyme density and internal patterns felt natural,\
+    \ with fewer forced endings and better momentum between schemes. Mai-DS had strong\
+    \ moments\u2014404 express, pinging localhost, /dev/null bone\u2014and solid multis,\
+    \ but several punches felt forced or juvenile (data lagga, Qwen Spleen, 511 Network\
+    \ Hacked) and occasionally broke cadence. Qwen more often flipped opponent content\
+    \ directly and elevated imagery without sacrificing flow. On artistic quality\u2014\
+    wordplay, structure, rebuttal potency, and delivery\u2014Qwen takes it."
+  x-ai/grok-4: In this tech-infused rap battle, qwen/qwen-plus takes the crown with
+    superior wordplay, inventive metaphors, and a dramatic flair that elevates the
+    flow and counters. The resurrection theme in the final round seals it with unmatched
+    creativity, while mai-ds-r1 delivers solid tech puns but falls short in overall
+    lyrical intensity.
 score:
-  openai/o3-pro: 6
-  qwen/qwen-plus: 1
+  qwen/qwen-plus: 5
 

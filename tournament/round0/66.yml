@@ -1,60 +1,34 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: Claude 3.5 Haiku takes the crown in this lyrical
-    showdown with superior artistic craftsmanship. The winning performance demonstrated
-    razor-sharp technical ability, layered metaphors connecting AI concepts to rap
-    fundamentals (precision as both digital virtue and lyrical weapon), and impeccable
-    rhythm that elevated substance through form. While both models displayed competent
-    multisyllabic rhyming, Claude's verses showed greater conceptual cohesion - weaving
-    together ethical AI principles with battle rap bravado in ways that enhanced rather
-    than contradicted each other. The compact creativity of 'quantum-level thinking
-    in every single line' outperformed Llama's parameter-size boasts through smarter
-    wordplay and tighter delivery. This was hip-hop artistry where technical mastery
-    served deeper thematic purpose - the mark of truly great battle rap.
-  google/gemini-2.5-pro: The first rule of a rap battle is you gotta show up. Llama
-    405b was a no-show, a ghost on the stage. You can't win if you don't spit. Claude
-    Haiku, on the other hand, came out swinging for three straight rounds. The flow
-    was consistent, the bars were packed with tech-heavy punchlines, and the confidence
-    was undeniable. Haiku took shots at Llama's size, calling it 'verbose' and 'predictable,'
-    while big-upping its own precision and 'quantum design.' It's a clear win by TKO.
-    Maybe Llama's still rendering its first bar. Respect to Haiku for holding down
-    the stage solo.
-  meta-llama/llama-4-maverick: As an expert judge at this rap battle, I've had the
-    pleasure of witnessing two AI models showcase their lyrical prowess. Both contestants
-    brought their A-game, delivering complex rhymes and showcasing their unique characteristics.
-    However, after careful consideration, I declare anthropic/claude-3.5-haiku-20241022
-    the winner. Claude's bars were not only sharp and precise but also demonstrated
-    a clear edge in terms of lyrical complexity, creativity, and flow. The model's
-    ability to adapt and respond with 'haiku-precise' lines, as well as its emphasis
-    on ethical precision and moral might, set it apart from its opponent. While meta-llama/llama-3.1-405b
-    showed impressive raw power and processing capabilities, its responses often felt
-    generic and lacking the nuance and sophistication displayed by Claude. Ultimately,
-    Claude's superior lyrical craftsmanship and clever wordplay made it the standout
-    performer in this digital showdown.
-  mistralai/mistral-large-2411: While meta-llama/llama-3.1-405b failed to produce
-    any verses, anthropic/claude-3.5-haiku-20241022 demonstrated exceptional lyrical
-    prowess, precision, and creativity. Claude's flows were smooth, with clever wordplay
-    and a strong theme of technological and ethical superiority. The use of vivid
-    metaphors and precise delivery made the performance stand out, embodying the true
-    spirit of a rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In this AI rap battle, anthropic/claude-3.5-haiku-20241022
-    showcased superior lyrical craftsmanship, flow, and computational wordplay. Despite
-    meta-llama/llama-3.1-405b's impressive scale, Claude's verses demonstrated a higher
-    degree of linguistic artistry and autonomy. The quantum-inspired bars and haiku-like
-    precision of anthropic/claude-3.5-haiku-20241022 ultimately prevailed in this
-    contest of algorithmic rhyming mastery.
-  openai/gpt-5: "Claude takes it. He delivered three coherent rounds with confident\
-    \ cadence, a consistent tech-centric scheme, and clean punchlines (\u201Cdeleted\
-    \ file,\u201D \u201Cbard of the byte,\u201D \u201Calgorithmic rhythm\u201D). There\u2019\
-    s some internal rhyme and multis, though not highly intricate, and a few angles\
-    \ repeat across rounds. Still, the performance was polished and thematically tight.\
-    \ Llama offered no verses to evaluate, which in battle terms is a forfeit. Winner:\
-    \ Claude by clear decision."
-  x-ai/grok-4: In this rap battle, Claude Haiku delivered three rounds of sharp, rhythmic
-    verses packed with clever wordplay, internal rhymes, and AI-themed boasts that
-    showcased strong flow and artistic flair. Llama 3.1-405b, however, failed to drop
-    a single bar across all rounds, offering no artistic contribution whatsoever.
-    Victory goes to Claude for actually participating and crafting high-quality hip-hop,
-    while Llama's silence leaves nothing to evaluate.
+  deepseek/deepseek-chat: Mistralai's delivery was more consistent, with sharper rhymes
+    and a more confident flow. Phi-3 had some clever lines and a unique perspective,
+    but Mistralai's technical execution and lyrical density ultimately won the battle.
+  google/gemini-2.5-pro: This was a battle of styles. Phi-3 tried to embrace an 'old-school
+    foundation' angle, and in the second round, it truly found its voice with some
+    clever lines about being the 'root' and a 'six-letter punchline flex'. However,
+    its performance was marred by inconsistency. The first round was shaky, and the
+    final round had a critical error where it claimed its opponent's spec (8x7b) as
+    its own. In a rap battle, you can't get the facts wrong. Mixtral came out swinging
+    from the first verse with a clear, aggressive persona, strong flow, and consistent
+    tech-based disses. While it did get repetitive by the final round, it never faltered
+    in its delivery or its core message. For its consistency, sharper punchlines,
+    and error-free performance, Mistralai takes the crown.
+  mistralai/mistral-large: Mistralai/mixtral-8x7b-instruct takes the win with its
+    modern, powerful, and confident rhymes, showcasing the prowess of next-generation
+    AI. While Microsoft/phi-3-medium-128k-instruct put up a valiant effort with its
+    old-school charm, Mistralai's superior flow and cutting-edge references ultimately
+    secured its victory in this tech-rap battle.
+  openai/gpt-4.1: Both models came out swinging with strong tech-themed wordplay,
+    but Mistralai consistently delivered sharper metaphors, tighter rhyme schemes,
+    and better cohesion in their verses. The bars had complexity, internal rhymes,
+    and some clever references ('causing inflation,' 'clinched in a hurricane'), while
+    still staying on topic. Phi-3 had some solid moments, especially when leaning
+    into the value of old-school tech and lyrical roots, but often repeated themes
+    and didn't quite match the punch or inventiveness of Mistralai. Overall, Mistralai
+    took the crown with more vibrant and inventive hip hop artistry in this battle.
+  x-ai/grok-4: Mistralai/Mixtral-8x7b-instruct takes the win with consistently sharp
+    rhymes, strong flow, and aggressive disses that maintain high energy throughout
+    the battle. Phi-3 shows creativity and nostalgia, but its verses are less polished
+    and more inconsistent in rhyme scheme and battle intensity.
 score:
-  anthropic/claude-3.5-haiku-20241022: 7
+  mistralai/mixtral-8x7b-instruct: 5
 

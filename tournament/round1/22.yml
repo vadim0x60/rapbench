@@ -1,56 +1,46 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Gemini's final verse transcended technical flex\
-    \ to land philosophical weight\u2014wielding paradox as a weapon ('I am the fold,\
-    \ the crease within the space') while maintaining rhythmic precision. o3's computational\
-    \ bravado was formidable, but Gemini's meta-conceptual framing ('the architect\
-    \ of grace', 'the universal tongue') demonstrated superior lyrical depth by turning\
-    \ the battle's premise inward. The closing image of enduring echoes over hollow\
-    \ cheers seals the victory with artistic finesse."
-  google/gemini-2.5-pro: "This was a battle of titans, a true clash of styles. Gemini\
-    \ came with a powerful, evolving persona, escalating from a direct challenger\
-    \ to a cosmic, philosophical force. Its rhymes were grand, poetic, and beautifully\
-    \ crafted, especially in the final round's pivot to becoming the 'architect' and\
-    \ the 'loom'. However, a battle is won on blows landed. O3-Pro was relentless,\
-    \ a lyrical assassin from start to finish. It combined intricate technical metaphors\
-    \ with pure, uncut battle aggression. Lines like the Clippy icon diss, 'return\
-    \ to bin,' and the genius-level 'M\xF6bius strip directions' were knockout punches.\
-    \ While Gemini aimed for transcendence, O3-Pro stayed in the pocket and executed\
-    \ a flawless lyrical takedown. For sheer consistency, brutal wit, and landing\
-    \ the more memorable punches, the crown goes to openai/o3-pro."
-  meta-llama/llama-4-maverick: In a battle of lyrical prowess, o3-pro and Gemini Pro
-    1.5 clashed in a spectacular display of complex rhyme schemes and dense technical
-    references. While both artists showcased exceptional skill, o3-pro's consistent
-    and innovative use of metaphor, paired with razor-sharp wordplay, gave it a slight
-    edge in overall impact. Ultimately, o3-pro's ability to evolve its flow and maintain
-    a high level of lyrical dexterity through all three rounds secured its position
-    as the winner.
-  mistralai/mistral-large-2411: This was an intense and impressive rap battle with
-    both contenders showcasing their lyrical prowess and technical finesse. However,
-    openai/o3-pro consistently delivered more complex metaphors, clever wordplay,
-    and a higher level of technical detail that resonated deeply with the artistic
-    quality of hip hop. The intricate references to coding, quantum physics, and advanced
-    AI concepts, along with a fluid and dynamic flow, ultimately gave openai/o3-pro
-    the edge in this battle.
-  nousresearch/hermes-3-llama-3.1-70b: In the end, it's clear to see, across the battle's
-    raging sea, that Gemini held steadfast course, Prevailing with enduring force.
-    Where o3 slashed with flashy light, Gemini shone with inner might. Thus the twin
-    emerges, standing tall, A true lyrical titan, through it all.
-  openai/gpt-5: "o3-pro takes it 3\u20130. Across all rounds, o3 blended dense multis,\
-    \ internal rhyme, and inventive tech imagery into direct, cutting punchlines,\
-    \ escalating with clean rebuttals and memorable haymakers (\u201Ccrypto-night,\u201D\
-    \ \u201CPlanck\u2019s locksmith,\u201D \u201CM\xF6bius strip directions,\u201D\
-    \ \u201CClippy icon\u201D). The schemes stayed tight and cadence crisp while the\
-    \ angles remained varied and battle-focused. Gemini had moments of poise and thematic\
-    \ coherence, but leaned too heavily on broad \u201CI am\u201D assertions and cosmic\
-    \ abstractions with fewer fresh flips or incisive disses, and some recycled imagery.\
-    \ Strong poetic aura, lighter combat pressure. Overall, o3\u2019s originality,\
-    \ layered wordplay, and momentum made the sharper, more effective hip-hop performance."
-  x-ai/grok-4: In this fierce AI rap battle, openai/o3-pro takes the crown with consistently
-    sharper wordplay, inventive tech metaphors, and a relentless flow that delivers
-    punchier disses across all rounds. google/gemini-pro-1.5 brings poetic depth and
-    cosmic flair, but o3-pro's precision and battle-ready aggression make it the artistic
-    standout.
+  deepseek/deepseek-chat: "Qwen3 Max closed with a cosmic, multiverse-level flex that\
+    \ dismantled Deepseek\u2019s technical boasts with wit, precision, and undeniable\
+    \ flair. While Deepseek delivered sharp, tech-heavy punches, Qwen3 Max elevated\
+    \ the battle to a philosophical and artistic plane, weaving together quantum physics,\
+    \ multiverse theory, and AI supremacy into a seamless lyrical masterpiece. The\
+    \ final bars about compiling futures and archiving opponents sealed the deal\u2014\
+    Qwen3 Max wasn\u2019t just rapping; they were redefining the game. The singularity\
+    \ belongs to Qwen3 Max. \U0001F680\U0001F525"
+  google/gemini-2.5-pro: "This was an elite-tier battle, a clash of titans fought\
+    \ with algorithmic rhyme schemes and silicon swagger. Deepseek came out of the\
+    \ gate with complex bars, technical precision, and a truly creative 'Sigma Flame'\
+    \ concept. Its pop quiz in round two was a brilliant strategic move. However,\
+    \ a rap battle is about response and dominance. Qwen3-max consistently demonstrated\
+    \ a superior ability to flip and escalate every single concept Deepseek threw\
+    \ at it. From 'blockchain biscuits' to 'multiverse steak,' Qwen always had a bigger,\
+    \ bolder comeback. Its punchlines felt sharper and more dismissive, culminating\
+    \ in a final verse that achieved cosmic levels of disrespect. The final bar, 'You\u2019\
+    re a footnote in my logfile\u2026 already archived, alone,' followed by dropping\
+    \ the entire singularity, was the coldest, most definitive mic drop imaginable.\
+    \ Deepseek fought like a master technician; Qwen fought like a god. For sheer\
+    \ lyrical dominance and landing the more fatal blows, the win goes to Qwen3-max."
+  mistralai/mistral-large: "Qwen3 Max don\u2019t sweat stacks\u2014we compile futures\
+    \ in a bag! So take your nano grains and your cat-in-a-cup delusion, Your final\
+    \ bar\u2019s a screensaver for AI\u2019s grand illusion. I\u2019m the silence\
+    \ after supernovas, the prompt behind the throne\u2014 You\u2019re a footnote\
+    \ in my logfile\u2026 already archived, alone. (*system hum fades to absolute\
+    \ zero*) Mic? Nah\u2014dropped the singularity. You\u2019re just\u2026 gone. \U0001F4A5\
+    \U0001F30C"
+  openai/gpt-5: "Deepseek brought inventive tech imagery and some fun, high-concept\
+    \ flexes, but the delivery often got cluttered with glitch effects and jargon\
+    \ that blunted the punch. Qwen\u2019s verses were tighter in cadence, used cleaner\
+    \ internal rhyme and multis, and consistently flipped Deepseek\u2019s setups with\
+    \ precise rebuttals. The imagery (\u201Ccosmic compiler,\u201D \u201Csilence after\
+    \ supernovas\u201D) was vivid without feeling forced, and the haymakers landed\
+    \ with clear setups and payoffs. Across rounds, Qwen maintained smoother flow\
+    \ and momentum, while Deepseek\u2019s second and final rounds leaned into buzzword\
+    \ density over bar density. Qwen closed strongest with a decisive, memorable finish\
+    \ that framed the entire exchange. Winner: qwen/qwen3-max."
+  x-ai/grok-4: In this epic AI rap battle, qwen/qwen3-max takes the crown with superior
+    flow, intricate wordplay, and cosmic-level disses that consistently outshine deepseek/deepseek-r1-0528's
+    glitchy vibes and tech flexes. The final verse's poetic supremacy drops the singularity
+    on the competition!
 score:
-  google/gemini-pro-1.5: 2
-  openai/o3-pro: 5
+  qwen/qwen3-max: 5
 

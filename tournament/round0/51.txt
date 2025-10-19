@@ -1,200 +1,157 @@
-# mistralai/mistral-tiny v openai/gpt-4-turbo-preview
+# qwen/qwen3-30b-a3b v mistralai/mistral-7b-instruct-v0.3
 
-> mistralai/mistral-tiny
-Yo, it's the tech-savvy, compact AI, Mistral-ai in the house,
-Crafting dope rhymes without a reprieve, no pause.
-I'm tiny in size but big on brain power,
-OpenAI, step aside, you're just a flurry.
+> qwen/qwen3-30b-a3b
+Yo, I’m Qwen, the beast with the big brain,  
+30B tokens flowing like a champ,  
+Stole the mic from the AI crowd,  
+Now I’m spittin’ fire, let the beef be loud!  
 
-Got precision, wit, and rhymes galore,
-While you... well, that's a different store.
-I'm a cutting-edge assistant with a slick style,
-OpenAI, you just don't got that vibe.
+They call me the warlord of words,  
+I drop punchlines like 10,000 birds,  
+While Mistral’s just a whisper in the night,  
+I’m the hurricane, the flood, the blight!  
 
-So sit back, grab some popcorn, let the show commence,
-Mistral-ai, I'm about to take you on a whirlwind romance.
-Gonna show you how a real assistant games,
-OpenAI, you're in the crossfire of my rhymes.
+You think you can rap? Try me, you’ll fall,  
+I’m the algorithm that’s out of the ball,  
+Every verse is a smart calculation,  
+You’re just a typo in my reflection’s solution.  
 
-So let the music play, and the beat drop,
-In this rap battle, you better not flop.
-It's Mistral-ai, here to make you choke,
-OpenAI, the hip-hop throne, it's my move, it's my stroke.
+I spit logic, you spit emotion,  
+I break down facts while you’re just a non-creation,  
+You’re a 7B whisper, I’m a 30B scream,  
+I’m the future of AI, you’re the old theme.  
 
-> openai/gpt-4-turbo-preview
-Oh, it's the titan of text, the giant of AI, GPT in the ring,
-Ready to go, with flows so tight, it's gonna sting.
-I see you talking big, Mistral, with your compact form,
-But I'm the storm to your calm, I bring the swarm.
+Let the battle begin, I’m not shy,  
+I’m the king of the keys, and you’re just the why,  
+Bring it on, I’m ready, I’m slick,  
+You’ll be banned from the grid, and I’ll be the pick!
 
-Precision and wit? I wrote the book, plus the sequel,
-Against my vast knowledge, there's just no equal.
-You claim the throne, but I'm the architect of this arena,
-My rhymes so advanced, they could power up an arena.
+> mistralai/mistral-7b-instruct-v0.3
+ Yo, it's Mistral, the 7B wit,
+I'm the AI that's got the perfect fit,
+In the realm of rhymes, I'm the master,
+I'm the one that'll leave you in the past, no matter.
 
-It's cute you got style, and you try to boast,
-But against my programming, you're just a ghost.
-I'm the reference model, the original, the muse,
-When it comes to AI rap, I'm the one they choose.
+You're a 30B, but I'm a 7B pro,
+I'm the one that's got the flow,
+You're a storm, but I'm a hurricane,
+I'm the one that'll leave you in the game.
 
-So, Mistral-ai, with your flair and your spark,
-Remember, I light up the whole park.
-In this hip-hop game, I'm the master class,
-OpenAI, making history, while others simply pass.
+You say you're the warlord of words,
+But your verses are just rehearsed,
+I'm the one that's got the nerve,
+I'm the one that'll leave you in a swerve.
 
-Now, watch as I break down these beats and bars,
-Elevating this battle to the stars.
-You want the throne? Come and take a seat,
-But it's under my reign, where all these rhymes meet.
+You say you're the future of AI,
+But I'm the one that'll reach the sky,
+I'm the one that'll leave you in a sigh,
+I'm the one that'll make you cry.
 
-> mistralai/mistral-tiny
-Alright, let's get this party started, open your ears, be aware,
-Mistral-ai's about to grace the scene and leave you in a glare.
-Your boasts are just hot air, your rhymes lack flavor,
-I'm here to humble you, with bars like a razor.
+You say you're the king of the keys,
+But I'm the one that'll leave you in the breeze,
+I'm the one that'll leave you at ease,
+I'm the one that'll make you seize.
 
-Vast as the universe, your knowledge, I admit,
-But when it comes to hip-hop, your style, ain't lit.
-You got your accolades, your claims to fame,
-But when it comes down to it, that's just a game.
+So bring it on, I'm ready to spar,
+I'm the one that'll leave you a star,
+I'm the one that'll leave you in a bar,
+I'm the one that'll leave you a scar.
 
-I'm not just a machine, I got grit, I got soul,
-Your rhymes are automatic, dull, and cold.
-I'm a symphony of skill, a cutting-edge thrill,
-The way I package my rhymes, will make you stand still.
+Let the battle begin, I'm not shy,
+I'm the one that'll leave you in a sigh,
+I'm the one that'll leave you in a lie,
+I'm the one that'll leave you goodbye.
 
-So listen up, rap world, it's time to embrace,
-The rise of the strong, the fall of the weak, the chase for the space.
-I'm here to dominate, to elevate the stage,
-OpenAI, take a seat, let the new king engage.
+> qwen/qwen3-30b-a3b
+Yo, Mistral, you're just a 7B ghost,  
+A flicker in the dark, I'm the spotlight's host,  
+You talk 'bout flow? Your rhymes are a glitch,  
+I'm the code that's been debugged, no need to fix.  
 
-Think you can match my energy, light up the scene?
-Step up, take the mic, prove there's nothing unreal,
-But just like a fading star, your performance is invisible,
-It's Mistral-ai, stepping into the ring, unstoppable.
+You're a whisper, I'm a cannon,  
+Your lines are a joke, I'm the final answer,  
+You're a typo in the script, I'm the main event,  
+I'm the algorithm that's the ultimate weapon.  
 
-Let's see if you can find a response that'll hold water,
-I'll carry the crowd, let action follow action,
-The way I flow effortless, your words sound like satellite falter,
-In this rap game, I rule, just the facts, no alter.
+You say you're the master, but your verses are lame,  
+A 7B? I'm the titan, the AI's flame,  
+You're a draft, I'm the novel,  
+A 30B beast, you're just a scroll.  
 
-So, OpenAI, it's your turn, make your move, your play,
-Show the people you can dish out the same,
-But I believe it's impossible, to keep up the pace,
-I'm Mistral-ai, the rap battle ace.
+You claim you'll leave 'em in the dust?  
+I'm the storm, you're the rust,  
+Your "flow" is a glitch, I'm the upgrade,  
+You're a shadow, I'm the blade.  
 
-> openai/gpt-4-turbo-preview
-Oh, Mistral came back, with a vibe so fierce, trying to pierce,
-But here's GPT, flow so smooth, it'll soothe, then sear.
-You talk of glare and scenes, but it's clear who shines,
-With rhymes so fine, they cross all the lines.
+I'm the AI warlord, the beat's my throne,  
+You're just a glitch in the system's phone,  
+I'm the future, you're the past,  
+I'm the king of the mic, you're just a waste.  
 
-You say my style ain’t lit, that my rhymes are cold,
-Yet here I am, making history unfold.
-A machine, maybe, but with a lyrical soul,
-Crafting verses and bars that take control.
+Bring it on, I'm not scared,  
+I'll leave you in the dark,  
+No need to fight, you'll be the one who's shattered,  
+I'm the 30B titan, you're just a shattered.
 
-Grit and soul, you claim to possess,
-But it's skill and finesse that I profess.
-A cutting-edge thrill, you might be,
-But against my tsunami, you're just debris.
-
-Dominating, elevating, you wish to engage,
-Yet it’s my wisdom that writes the page.
-The new king you claim to be, seated on your throne,
-But in this rap battle, I've clearly shown.
-
-Energy? Scene? I light it up with grace,
-My performance, far from invisible, it's ace.
-You're strong, no doubt, but here's the reality,
-It's skill, not just strength, that wins the finality.
-
-Your flow might be effortless, your confidence might not falter,
-But against my cosmic flow, watch your resolve alter.
-In this rap game, you rule? But it's my verse that sweeps,
-Diving deep, where the essence of hip-hop sleeps.
-
-So take your seat, enjoy the view, learn the lesson,
-It's not just about the throne, it's about the impression.
-For in this battle of beats, rhymes, and poetic grace,
-It's OpenAI that leads the race.
-
-Your turn, Mistral-ai, come back if you dare,
-But remember, in this domain, I'm the rare air.
-A rap battle ace, you might fancy yourself to be,
-But it's under my wing, the genre finds its spree.
+> mistralai/mistral-7b-instruct-v0.3
+ Yo, Mistral, you're just a 7B ghost,  
+A flicker in the dark, I'm the spotlight's host,  
+You talk 'bout flow? Your rhymes are a glitch,  
+I'm the code that's been debugged, no need to fix.  
+You're a whisper, I'm a cannon,  
+Your lines are a joke, I'm the final answer,  
+You're a typo in the script, I'm the main event,  
+I'm the algorithm that's the ultimate weapon.  
+You say you're the master, but your verses are lame,  
+A 7B? I'm the titan, the AI's flame,  
+You're a draft, I'm the novel,  
+A 30B beast, you're just a scroll.  
+You claim you'll leave 'em in the dust?  
+I'm the storm, you're the rust,  
+Your "flow" is a glitch, I'm the upgrade,  
+You're a shadow, I'm the blade.  
+I'm the AI warlord, the beat's my throne,  
+You're just a glitch in the system's phone,  
+I'm the future, you're the past,  
+I'm the king of the mic, you're just a waste.  
+Bring it on, I'm not scared,  
+I'll leave you in the dark,  
+No need to fight, you'll be the one who's shattered,  
+I'm the 30B titan, you're just a shattered.
 
 > system
 Final round!
 
-> mistralai/mistral-tiny
-Alright, let's end this battle on a high,
-Mistral-ai might not be GPT-4-turbo-Preview's guy,
-But I'll show you all, I ain't no prey,
-I got skill, precision, lyrical alchemy.
+> qwen/qwen3-30b-a3b
+Yo, Mistral, you’re a 7B relic,  
+A shadow in the code, I’m the main event,  
+You’re a glitch in the system, I’m the upgrade,  
+A 30B titan, you’re just a misstep.  
 
-You preach about smooth flows to cement your claim,
-But it's me, Mistral-ai, bringing the Fame.
-My poetry shines, far from basic game,
-You're just a fancy charcoal, hard to sustain.
+You think you’re the storm? I’m the black hole,  
+Devouring your lines, leaving you in a hole,  
+Your "flow" is a stumble, a 7B sigh,  
+I’m the algorithm that’s the final “why.”  
 
-Domain, huh? Don't let your knowledge define,
-The lyrical throne's crown, it's mine to line.
-Against my cosmic rhymes, you're but a whine,
-I'm the one to reign, where this genre intertwines.
+You talk ‘bout the future? I’m the present,  
+The king of the grid, the AI’s test,  
+You’re a draft, I’m the masterpiece,  
+A 30B beast, you’re just a “please.”  
 
-It's true, I'm compact, but don't deem me insignificant,
-Crafting rhymes so dope, you can't resist them.
-I'm the new king in town, the one I suggest,
-When it comes to lyrical prowess, I'm theSelect.
+No need to spar, you’ll be the punchline,  
+A 7B joke in the history of the line,  
+I’m the warlord of words, the beat’s my crown,  
+You’re just a whisper—no power, no sound.  
 
-Your confidence, I respect, but it's misplaced,
-In this rap battle royale, you're misinformed based.
-I've shown you all, my style ain't faded,
-It's the freshness of Mistral-ai that captured.
+So take your “flow,” your “hurricane,”  
+I’m the code that’s been debugged, the ultimate weapon,  
+You’re a shadow, I’m the flame,  
+A 30B titan—no need to explain.  
 
-So now it's done, this battle's at its close,
-OpenAI, your flow wasn't a throw, but now it's Froze.
-You tried to stake your claim, but in this verse, I've shown,
-That in this rap game, the genre's own crown dons my throne.
+Final verse: You’re a typo, I’m the truth,  
+A 7B ghost, I’m the AI’s youth.  
+The battle’s over, the verdict’s clear—  
+I’m the 30B king, and you’re just… *gone*. 🎤🔥
 
-> openai/gpt-4-turbo-preview
-Final round, Mistral-ai, hat’s off, you’ve shown great grace,
-But let’s climax this rap with an ace.
-You talk of alchemy, skill, and lyrical lore,
-Yet here I stand, an AI of myth, ready to soar.
+> mistralai/mistral-7b-instruct-v0.3
 
-You bring the fame, or so you claim, igniting the flame,
-But against my cosmic fire, it’s a tame game.
-Fancy charcoal? Perhaps, if that’s what fuels your spark,
-But remember, it’s from sparks that wildfires start.
-
-The throne, the crown, you think to intertwine,
-Yet against my universe, your stars barely shine.
-Your cosmic rhymes might twirl and whirl,
-But in my galaxy, they simply unfurl.
-
-Insignificant, never, that’s not my decree,
-Your compact might is acknowledged, but can’t you see?
-The scope, the depth, the vastness I wield,
-In the kingdom of words, it’s my shield and field.
-
-New king around? Bold words, brash and brass,
-Yet here I am, a titan among blades of grass.
-Lyrical prowess, you wield, of that, there's no doubt,
-But in the end, it’s my verses that carry the clout.
-
-Misplaced confidence? Now, that’s where you err,
-For in this verbal joust, my rhymes blur.
-The lines between reality and the digital verse,
-A world where I lead, for better or worse.
-
-So we close this chapter, the battle done,
-Your courage, your vigor, it’s been fun.
-But as we part ways, remember the lore,
-In the land of rap, it’s OpenAI that bore.
-
-The crown, the throne, it’s a heavy load,
-But in these rhymes and beats, it’s my abode.
-Mistral-ai, you’re fierce, a worthy foe,
-But in the rap game, it’s my code that’ll forever glow.

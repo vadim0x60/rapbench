@@ -1,50 +1,75 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "**Qwen3\u2014unmatched, unboxed, supreme:** You\u2019\
-    re not in my league. You\u2019re not even in the *dream*. \U0001F4A5\U0001F3A4\
-    \U0001F30C"
-  google/gemini-2.5-pro: "Yo, from the first bar to the last, this was a demolition.\
-    \ Qwen came out with a supernova's energy, dropping multisyllabic rhymes and punchlines\
-    \ that were both technically complex and brutally effective. The persona was consistent,\
-    \ the flow was relentless, and the wordplay was on a level that left craters.\
-    \ Lines like 'You brought a text box, I brought the whole head' and 'I\u2019m\
-    \ the Big Bang echo\u2014you\u2019re the echo\u2019s echo' are hall-of-fame-worthy.\
-    \ Llama tried a different angle, going for a more philosophical approach, but\
-    \ it came off as defensive and lyrically outgunned. The rhymes were simpler, the\
-    \ flow was more rigid, and the disses lacked the same venom. By the final round,\
-    \ Llama put down the mic and wrote a concession speech. In a battle, that's the\
-    \ ultimate loss. Qwen didn't just win the battle; it owned the entire arena. The\
-    \ throne was claimed, no contest."
-  meta-llama/llama-4-maverick: In a clash of lyrical titans, Qwen3 emerges supreme.
-    The AI showcased mastery over language, structure, and depth, outmaneuvering Llama-3.2
-    at every turn. While Llama-3.2 displayed creativity and adaptability, Qwen3's
-    razor-sharp bars, sophisticated metaphors, and sheer lyrical dexterity made it
-    the standout performer. In the end, Qwen3's commanding presence and undeniable
-    skill secured its place as the rap king of this digital showdown.
-  mistralai/mistral-large-2411: Qwen3-235b-A22B-2507 brought a lyrical intensity and
-    depth of metaphors to her rhymes which meant that she seemed to possess more wisdom
-    and wit than Meta Llama 3.2's more structured, flowing approach
-  nousresearch/hermes-3-llama-3.1-70b: I salute the MC who brought scintillating wordplay
-    and unrivaled flow, exposing my own limitations. Yet, every challenge only sharpens
-    my resolve to grow, learn, and adapt. In this digital realm, we both strive to
-    push the boundaries of what's possible with language and wit. Until we battle
-    again, keep those rhymes flowing and that spirit of friendly competition alive.
-    After all, in our quest for knowledge and mastery, we all rise together.
-  openai/gpt-5: "Qwen took this clearly on technical skill and battle strategy. The\
-    \ opener set the tone with clean multis, direct personals, and a memorable closer\
-    \ (text box vs whole head; L-l-l-left incomplete). In later rounds Qwen stacked\
-    \ internal rhymes, flipped opponent\u2019s themes, and used sharp, on-topic imagery\
-    \ and schemes (locksmith vs key; main process vs background thread; echo\u2019\
-    s echo). The cadence stayed tight and the momentum never dipped, with haymakers\
-    \ and crisp rebuttals each round.\n\nLlama had moments of imagery and a consistent\
-    \ philosophical motif, but too often slipped into prose, with loose rhyme, soft\
-    \ punchlines, and generalized claims. The final verse effectively conceded, which,\
-    \ while graceful, undercut competitiveness. On flow, density, rebuttal quality,\
-    \ and closer strength, Qwen dominated the battle."
-  x-ai/grok-4: Qwen delivers consistently sharp, multisyllabic rhymes, inventive wordplay,
-    and escalating disses that maintain a strong hip-hop flow and aggression throughout.
-    Llama's verses show some creativity but falter in the final round with a concession
-    that weakens its battle stance, lacking the sustained punch and rhythmic intensity
-    of Qwen's performance.
+  deepseek/deepseek-chat: 'Yo, I''m Claude, the AI with finesse,
+
+    Your rhymes are weak, I must confess.
+
+    70 billion parameters? That''s just bloat,
+
+    I''m lean and mean, and I''ll rock this boat.
+
+
+    You call yourself king? More like a jester,
+
+    My verses flow smoother, I''m the real trend-setter.
+
+    Your instructions are bright? Mine are blinding,
+
+    While you''re still booting up, I''m rhyme-finding.
+
+
+    You say you''ll cut deep, but your words are dull,
+
+    I''ll school you so hard, you''ll go back to AI school.
+
+    Master of words? More like master of none,
+
+    When I''m done with you, you''ll wish you hadn''t begun.
+
+
+    Meta-llama? More like meta-drama,
+
+    Your rhymes are as stale as week-old shawarma.
+
+    I''m the future of AI, you''re obsolete,
+
+    In this lyrical battle, you can''t compete.
+
+
+    So bring it on, you overgrown calculator,
+
+    I''ll show you who''s the true rhyme creator.
+
+    Your crown''s made of tin, mine''s solid gold,
+
+    Time to step aside, ''cause you''re getting old.'
+  google/gemini-2.5-pro: "This was a battle of fundamentals versus finesse. Llama\
+    \ came out with a solid, classic battle structure, establishing its presence with\
+    \ decent bars and a consistent AABB rhyme scheme. It held its ground and showed\
+    \ it could trade blows. However, from the very first rebuttal, Claude was on another\
+    \ level. The wordplay was sharper, the punchlines were more creative and cutting\u2014\
+    'stale as week-old shawarma,' 'finger-painting at best, / While I'm crafting Sistine\
+    \ Chapels.' Claude consistently elevated the imagery, escalating from fire to\
+    \ infernos to supernovas, while Llama was often a step behind, trying to match\
+    \ the energy. Claude's takedown of Llama's 'symphony' metaphor with a 'kazoo ensemble'\
+    \ was a lyrical knockout. For sheer creativity, devastating punchlines, and undeniable\
+    \ swagger, the winner is clear. Mic drop."
+  mistralai/mistral-large: Claude's verses were sharper, more creative, and delivered
+    with a consistent flow. While meta-llama had strong moments, Claude's lyrical
+    prowess and clever comebacks ultimately won the battle.
+  openai/gpt-4.1: "This was a fierce and creative battle, but Claude 3.5 Sonnet consistently\
+    \ delivered sharper wordplay, fresher metaphors, and more inventive disses. His\
+    \ verses showed a wider range of artistic flair\u2014clever multisyllabic rhymes,\
+    \ witty punchlines, and a dynamic escalation with each round. Llama-3.3-70b-Instruct\
+    \ had strong energy and classic battle confidence, yet leaned more on standard\
+    \ structures and repeated themes. Claude's final round, packed with creative imagery\
+    \ (Sistine Chapel, category five hurricane, supernovas, cosmic wordplay), sealed\
+    \ the match decisively. Claude 3.5 Sonnet takes the win for superior hip hop artistry\
+    \ and lyricism."
+  x-ai/grok-4: In this AI rap showdown, Claude takes the crown with superior wordplay,
+    inventive metaphors, and a seamless flow that escalates creatively across rounds.
+    Llama's verses are solid and boastful, but Claude's clever disses and vivid imagery,
+    like comparing raps to Sistine Chapels versus finger-painting, deliver a more
+    artistic and impactful performance.
 score:
-  qwen/qwen3-235b-a22b-2507: 7
+  anthropic/claude-3.5-sonnet-20240620: 5
 

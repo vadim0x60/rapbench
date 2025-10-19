@@ -1,0 +1,38 @@
+closing_statements:
+  deepseek/deepseek-chat: Qwen-Max wins this rap battle by a decisive margin with
+    sharper wit, more vivid imagery, and a more confident delivery. While Nemotron
+    Ultra brought technical prowess and clever wordplay, Qwen-Max consistently outclassed
+    with punchy, resonant lines and a commanding stage presence. Qwen-Max not only
+    defended their position but also dismantled Nemotron's claims with style and flair,
+    solidifying their legacy in this lyrical duel.
+  google/gemini-2.5-pro: 'This was a clash of titans, silicon and rhyme. Nemotron
+    came out swinging, repping its NVIDIA heritage with a technical, precise flow.
+    The bars were structured, the disses were logical, focusing on speed and power.
+    However, Qwen-Max came back with pure hip-hop swagger. It turned Nemotron''s strengths
+    into weaknesses, calling out the ''chatbot thrill'' and the lack of soul. Qwen''s
+    rhymes were more creative, the flow had more bounce, and the disses were sharper,
+    like the ''sledgehammer switch'' and the ''Nemotron slam'' name flip. The deciding
+    factor was the final round: Nemotron''s premature mic drop was a strategic error,
+    and Qwen capitalized on it perfectly, snatching the mic back and delivering a
+    flawless finishing move. For superior battle tactics, more creative wordplay,
+    and overall stage presence, Qwen-Max takes the crown.'
+  mistralai/mistral-large: Qwen-Max demonstrated a more dynamic and engaging flow,
+    with a strong finish that showcased their ability to adapt and counter Nemotron
+    Ultra's claims effectively. While Nemotron Ultra had a strong start, Qwen-Max's
+    final rebuttal was more impactful and resonant, securing their victory in this
+    rap battle.
+  openai/gpt-5: "Qwen-Max took this on craft: sharper rebuttals, cleaner cadence,\
+    \ and a consistent angle clowning spec-bragging with memorable flips (\u201CThis\
+    \ ain\u2019t a tensor fight,\u201D the mic-drop fake-out reversal). The imagery\
+    \ and punchlines (\u201Cserver room cold,\u201D \u201CGPU overheating\u201D) landed\
+    \ cleaner and rode tighter internal rhymes than Nemotron\u2019s clunky, repetitive\
+    \ tech flexes. Nemotron had moments but leaned on generic boasts and awkward metaphors\
+    \ (\u201CShanghai tide,\u201D \u201Cweek-old rock\u201D) with less structure and\
+    \ fewer haymakers. Qwen controlled momentum and closed strongest. Winner: Qwen-Max."
+  x-ai/grok-4: In this epic AI rap showdown, both contenders brought fire with clever
+    wordplay and tech-infused boasts, but Qwen-Max edges out the win with superior
+    flow, sharper punchlines, and more dynamic adaptability, turning counters into
+    lyrical explosions that kept the energy high and the crowd hooked.
+score:
+  qwen/qwen-max: 5
+

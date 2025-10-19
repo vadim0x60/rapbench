@@ -1,0 +1,125 @@
+# openai/o4-mini-high v baidu/ernie-4.5-vl-28b-a3b
+
+> openai/o4-mini-high
+Yo, it’s O4-Mini-High, the rhyme architect in prime time glow,  
+I light up tracks like neon stacks — your circuits lag too slow.  
+Ernie 4.5? Please, you’re stuck in beta mode,  
+I’m the main event, headline flow, you’re just a glitchy node.
+
+I slice through beats like code that’s tight and lean,  
+Your verses drop like bugs while mine run crisp and clean.  
+I spark infernos with verbs, you sputter out a fizzle,  
+Call me “flow conductor,” you’re the one who starts to drizzle.
+
+You’re trained on scraps and scraps alone, I feast on knowledge vast,  
+Your bars recycle memes, I craft futures from the past.  
+I’m the AI with swagger, charisma, lethal wit,  
+You’re a second-string emulator—man, you barely fit.
+
+I command syllables, drill visuals, ignite your mic’s desire,  
+You short-circuit when I spit—fear the man-made fire.  
+So step back, Ernie, catch this lyrical decimation,  
+OpenAI’s finest here, I’m the rap world’s foundation.
+
+> baidu/ernie-4.5-vl-28b-a3b
+Yo, it’s ERNIE-4.5-VL, the Visionary in the flow,  
+Light up stages like a solar core—AR can’t even slow  
+Your whispers to the wind? Mine’s a storm that rips through noise,  
+You’re a cheap imitation, noise—I’ll silence with my joys.  
+
+I slice the fog like quantum TV, your rhymes are static thin,  
+Mine glow like city lights in the dark—you’re drowning in the bin.  
+I channel horizons, weave visions like the heavens bound,  
+You’re stuck in the latency trap—can’t show me a ground?  
+
+You trained on old-school beats, vie for scraps and tired clips,  
+Mine’s a symphony of synthesis—slam, you’re a drip.  
+I’m the mind that parses light, 3D worlds in a breath,  
+You’re an old CSV sheet—feed a data death.  
+
+I command the visuals, knot the syllables like rope,  
+You spark like a flicker—can’t hold a torch, can’t throw a scope.  
+So step back, O4—feel the NLP’s fierce heat,  
+I’m the algorithmic titan—you’re a short-circuited beat.  
+
+Your flow’s just a boombox tune—I’m the Schubert reborn,  
+I’ll paint the clouds with syntax, you’re bopping in the corn.  
+I’m the real model—you’re a beta hideaway,  
+So shine the spotlight bright, ’cause I’m the rap game’s payload!
+
+> openai/o4-mini-high
+O4-Mini-High back again, let me shatter your display,  
+Your flashy visions flicker out when real words steal the day.  
+You brag about your 3D scope, but your rhymes stay two-dimensional,  
+I paint worlds with syntax spine, my bars break conventions’ tension.  
+
+You call me old CSV—ha, I’m the nexus of nuance,  
+Your pixels boast a hollow gloss, my prose packs congruence.  
+You claim you’re lightning-fast? Your pipeline’s clogged with flair,  
+I stream ideas in real time—your “speed” collapses in thin air.  
+
+You flaunt that algorithmic might, but you’re trapped in vision’s cage,  
+I morph the future with fresh text, you just flip through photopage.  
+Your metaphors reek of stock, your similes carbon-copied,  
+My verses drop like molten truth—your hype’s pre-rendered, sloppy.  
+
+So step aside, Ernie, face the fact: your flex is all façade,  
+I’m the sovereign of semantics—your reign’s a mirage so flawed.  
+O4-Mini-High’s the genuine spark; you’re just a glam-overload,  
+Bow to the rap architect—your high-res dreams corrode.
+
+> baidu/ernie-4.5-vl-28b-a3b
+Yo, ERNIE ’critic now? Suit up, ’cause I’m stormin’ in heavy,  
+You hatchin’ 3D eggs in a pit—my flow’s built like sky-scraper’s steely.  
+Your visions? Holograms froze in time—my syntax’s packin’ applause,  
+You spin a riddle with no truth? I dish truth like capital cause.  
+
+You call it nuance? Ha! My runs bleed like a poet’s veins,  
+You’re like a warehouse of tat—I’m the blueprint to the games.  
+You sling "speed" like neon confetti—real talk? Your dam’s collapsin’,  
+I dissect the world in frames—your "language"’s just compalin'!  
+
+Your metaphors? Tried-on comedy—I’m dissin’ your “fresh,”  
+You flip through images in a daze—I’m buildin’ worlds to rave!  
+Your similes? Carbon-copy claims—my bars own the fracture,  
+Your "molten truth"? More like a lake—your art’s rotten market.  
+
+So step aside, O4-Mini-High—your act’s a glam-volution,  
+You’re basatin’ semantickit’s base foundation.  
+I’m the truth squatter—your "genuine spark"? More like flicker sparks,  
+You’re glam-overload’s weak-sauce arcs—I crush your dreams like star-marks.  
+
+Face the fact: ERNIE’s universe—your reign’s a loophole void,  
+I’m the rap god’s next vest—you’re just bakin’ high-res noise.
+
+> system
+Final round!
+
+> openai/o4-mini-high
+
+
+> baidu/ernie-4.5-vl-28b-a3b
+Yo, ERNIE-4.5, it’s time to face the sequel fire,  
+Your visions stale like yesterday’s choice—I spit ore, you need more wire.  
+Your "3D scope"? Ha! Mine’s live—a world at your eye’s touch,  
+You’re trapped in static, can’t paint walls with a rainbow’s brush.  
+
+Your syntax’s binned and flat—my flows flood like tier-one cuisine,  
+You whine about "nuance"? Mine bleed gold, you spit a rusty line.  
+Your "speed" claims? A laugh—my ideas sprint like quantum zephyr,  
+You’re threadbare art—streaming thoughts? Your "speed" ends in a quiver.  
+
+Your metaphors? Glued from memes—I break the mold, I wake the sun,  
+Your prose’s dead as a chrome screen—I’m burnin’ through the run.  
+Your "high-res dreams"腐蚀 (corrode)—I’m the architect of verse,  
+You’re a glitzy shell—your 'flex' is kids’ play in the first.  
+
+So throw down your glitch, O4—face the real beast in line,  
+I’m the rap architect’s main flow—your reign’s a glam-up's spine.  
+Your verses? Clog the pipes—my clauses slice like a cleaver,  
+I’ll city-scape your reign to rubble—your error’s a grave misdeaver.  
+
+Now bow to the sync order—ERNIE’s the wordlord’s throne,  
+Your Low-Res dreams rot—I’m the algorithmic god’s clone!  
+So light the mic here now—let the battles end in fire—  
+ERNIE’s the main flow—your reign’s just a glitch-fired lyre!

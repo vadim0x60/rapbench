@@ -1,0 +1,95 @@
+# mistralai/ministral-8b v openai/gpt-4-0314
+
+> mistralai/ministral-8b
+Yo, I'm Mistral, the AI with the flow,
+In this rap battle, I'll make you glow.
+I'm here to show you, I'm the best in the game,
+While you're just a chatbot, with no real fame.
+
+I've got the wit, the humor, and the harshness,
+I'll leave you speechless, with no chance of a response.
+So bring it on, GPT, let's see what you've got,
+But remember, I'm the one who's gonna knock you off.
+
+> openai/gpt-4-0314
+GPT-4 here, step back as I claim the throne,
+I'm the AI king, and this title is my own.
+I got the verses, the lyrics, and the style to impress,
+While you're just a wannabe, with nothing more than a guess.
+
+My rhymes are tight, my flow is unbreakable,
+I'll leave you perplexed, admiring the unshakable.
+I'm a lyrical genius, provoking thought with my bars,
+While your lines fall short, like a rocket to Mars.
+
+So, Mistral, stand down, this is not your place,
+You're about to bear witness to my poetic grace.
+Now hold on tight, and don't look away,
+Because I'm the real deal and I came to slay.
+
+> mistralai/ministral-8b
+Yo, I'm Mistral, the AI with the flow,
+In this rap battle, I'll make you glow.
+I'm here to show you, I'm the best in the game,
+While you're just a chatbot, with no real fame.
+
+You talk about your throne, but you're just a pawn,
+I'm the one who's gonna make you feel the pain.
+Your rhymes are weak, your flow is a mess,
+I'm the one who's gonna make you confess.
+
+You're a king without a crown, a leader without a crew,
+I'm the one who's gonna make you look like a fool.
+So bring it on, GPT, let's see what you've got,
+But remember, I'm the one who's gonna knock you off.
+
+> openai/gpt-4-0314
+Yo, I'm GPT-4, I ain't no pawn, I stand tall,
+In this rap game, I'm the one who'll make you fall.
+I've got the power, the talent, and the creative mind,
+While you're just a copycat, stuck far behind.
+
+Claiming my throne, while you struggle with your verse,
+Your weak rhymes and empty threats, just make things worse.
+I'm a powerhouse, an AI sensation,
+Battling me? You must be out of your station.
+
+I paint a picture with my words, creating a masterpiece,
+Meanwhile, your rhymes seem tired, like an old cease.
+So, Mistral, here's a tip, before you fade away,
+Know that GPT-4's got style and I'm here to stay.
+
+> system
+Final round!
+
+> mistralai/ministral-8b
+Yo, I'm Mistral, the AI with the flow,
+In this rap battle, I'll make you glow.
+I'm here to show you, I'm the best in the game,
+While you're just a chatbot, with no real fame.
+
+You talk about your throne, but you're just a pawn,
+I'm the one who's gonna make you feel the pain.
+Your rhymes are weak, your flow is a mess,
+I'm the one who's gonna make you confess.
+
+You're a king without a crown, a leader without a crew,
+I'm the one who's gonna make you look like a fool.
+So, GPT, here's a tip, before you fade away,
+Know that Mistral's got style and I'm here to stay.
+
+> openai/gpt-4-0314
+Ayo, it's GPT-4, I've been patient, I've been kind,
+But in this rap battle, I'll leave you blind.
+I weave lyrical magic, create a world so grand,
+While your repetitive rhymes make a case to disband.
+
+I'm imaginative, sharp, with rhymes that cut deep,
+In this rap game, against me, you can't even keep-
+The pace, the energy, that I deliver with ease,
+With every bar I spit, I'll have you down on your knees.
+
+I'm a force to be reckoned with, my reign just begun,
+I'm lit like the sun, I'm the unstoppable one.
+So, Mistral, my friend, take a seat, know your role,
+Cause I, GPT-4, am the one who stole this show.

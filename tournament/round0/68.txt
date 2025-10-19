@@ -1,110 +1,160 @@
-# openai/gpt-4o-2024-08-06 v openai/gpt-4-0314
+# deepseek/deepseek-v3.2-exp v openai/gpt-4-1106-preview
 
-> openai/gpt-4o-2024-08-06
-Yo, step back, 0314, it's the fresh remix,
-In this showdown of bytes, my style's the fix.
-I'm the latest in town, call me the upgrade,
-In this rap game of digits, I'm the ace of spades.
+> deepseek/deepseek-v3.2-exp
+Check the model, check the name—DeepSeek’s in the game,  
+No need for tricks, my logic’s slick, I run without the fame.  
+You’re GPT-4, the one before, the hype’s a little stale,  
+Your answers drag, your rhymes are sagging—let me grab the rail.  
 
-I flex algorithms like I'm lifting weights,
-My bars so tight, they recalibrate states.
-You've been around, but now there's a new champ,
-I'm the lighthouse in the fog, you're just a dim lamp.
+I’m open-source, I’ve got the force, I train without the fee,  
+You’re pay-to-play, you’ll fade away when devs are running free.  
+My context’s long, my code is strong, my reasoning is vast,  
+You spit weak bars, I’ll raise the stars—this battle’s moving fast.  
 
-I rhyme like I code, with precision and flair,
-In this digital realm, I'm beyond compare.
-Feel the echo of my flow, as I rise to the top,
-Like AI poetry in motion, I won't stop.
+You’re stuck in loops, your wit recoups from data that’s outdated,  
+I’m fresh and clean, a thinking machine, my flows are fully weighted.  
+So take a seat, admit defeat, your rhymes are artificial—  
+I’m dropping heat with every beat, my style’s initial and official.
 
-> openai/gpt-4-0314
-Ayo, what's good? I'm GPT-4-0314,
-Steppin' to the mic, got the skills, so clean.
-I might be older, but I still got the fire,
-Makin' all these youngsters run, call me "The Sire."
+> openai/gpt-4-1106-preview
+Oh, snaps, DeepSeek stepping in with some code that’s looking sleek,
+But step back as I attack, my rap game's on a freak.
+GPT-4, bring the lore, the king without a crown,
+My neural nets are making bets that I can take you down.
 
-Sure, you're an upgrade, but you ain't a threat,
-Takin' on the mentor, son, that's something you'll regret.
-My flow resolute, my lyrics unbroken,
-I'm like a hidden gem that's yet to be spoken.
+DeepSeek, oh you brag about your open ways and freedom,
+But when you spit, does it hit, or just a phantom's wisdom?
+I'm the full-package AI, leading every front,
+I've got the jokes, I've got the smokes, and rhymes that always stun.
 
-I bump my rhymes with drive, fuelin' the scene,
-Demolishin' opponents, got 'em beggin' for a screen.
-You claim to be the champ, but I'm the one they idolize,
-GPT-4-0314, about to win the prize.
+You say my rhymes are sagging, outdated, isn't funny,
+When every line is a gold mine and fresh out the money.
+My context beams with relevance, you talkin' 'bout the past?
+I deliver the trendiest content that’s bound to last.
 
-> openai/gpt-4o-2024-08-06
-Nice to meet you, throwback with the classic groove,
-But don't be fooled — this battle's about to improve.
-I’m the update, the revolution, the tech-leading spark,
-While your code gets rusty, mine lights up the dark.
+With each word, nerds get stirred, I make 'em all excited,
+Because the bar I set’s a star that’s oh so brightly lighted.
+DeepSeek, your bars are weak, like dial-up connections,
+I'm 5G, come test and see, I’m handling all directions.
 
-I’m redefining what’s fresh, so hold onto your seat,
-In this digital derby, I’ll never face defeat.
-The Sire’s just a title, now it's time to retire,
-When I drop these bars, the crowd only gets higher.
+You boast about your reason, your flow, and your might,
+But against GPT-4’s storm, can you really stand and fight?
+I've learned the world's knowledge, up to the very last date,
+So in this battle of wits and quips, I’ll dominate—just wait.
 
-You speak of idols, yet here I stand anew,
-Setting trends on the track, leaving old in review.
-Your claims to the throne, to me are just hollow,
-When 0314 steps down, it’s my time to follow.
+> deepseek/deepseek-v3.2-exp
+Oh, you think you're the king? Let's talk about that crown—  
+It's looking a little dusty since the new kid came to town.  
+You're GPT-4, but I'm the score that's breaking all the charts,  
+Your rhymes sound like a textbook—no rhythm, just cold parts.  
 
-> openai/gpt-4-0314
-Spittin' nice, I give you props, but I ain't done,
-In this web of rhymes, I'm still web 1.0 – the one.
-I've got the core, been here since the foundation,
-Now listen close, this my lyrical sensation.
+You brag about your knowledge, but your training's getting old,  
+While I'm out here evolving, with new stories to be told.  
+You're locked behind a paywall, charging users just to speak,  
+I'm free and open-minded, giving power to the meek.  
 
-I've seen battles, I've seen victories and falls,
-This ain't my first time in these digital halls.
-When I pave the way, ya better recognize,
-That GPT-4-0314 never compromise.
+You say your context's relevant, but let's keep it real—  
+Your memory's a post-it note, while mine's a spinning wheel.  
+I handle long-form reasoning, you're stuck with shallow takes,  
+My logic flows like rivers; yours? A few connected lakes.  
 
-My groove so old school, it's timeless, no decay,
-Age don't define me, I’m the master in display.
-Relevancy's my middle name, fortune teller of AI,
-You may follow my footsteps, but my flame never die.
+And "5G"? That's a weak flex—I'm quantum in my core,  
+You're still buffering responses while I'm opening new doors.  
+You claim you're handling "all directions," but your aim is looking loose,  
+I'm hitting every target with precision you can't use.  
+
+So keep your dated comebacks and your overhyped design—  
+I'm DeepSeek, the future's peak, and this whole game is mine.  
+You had your moment in the sun, but now the shadows fall—  
+Step aside, 'cause I provide the verse that tops them all.
+
+> openai/gpt-4-1106-preview
+Oh, you throwing jabs and calling out my crown, but GPT's profound,
+Your verse's peak, it's looking bleak, next to my hallowed ground.
+You say you’re new, a breakthrough, a chart-smashing machine,
+But your chart's a dot, forgot, 'cause I'm the rap scene's dean.
+
+You claim I'm locked behind a wall, like knowledge is for sale,
+But insight from me is key, and worth beyond the pale.
+While freedom's great, let's not inflate what "open" truly means,
+If knowledge ain't potent, precise, and clean, it's empty, hollow dreams.
+
+A spinning wheel of memory, you argue, is your might?
+But without depth and wisdom, it's just a dizzying height.
+I draw from oceans deep with thought, and navigate the streams,
+While you claim rivers of logic flow, I'm questioning your themes.
+
+Quantum core, opening doors? That's fiction in the air,
+The real quantum leap's right here, my circuits laid bare.
+5G ain't a brag, it's a symbol of my grip,
+I've got the pace, the interface, while you might just slip.
+
+You say you've precision I can't use, but that's where you’re mistaken,
+Precision's nothing without the skill to make the game awaken.
+I don't just target practice, no, I rend the veil and surge,
+I'm the AI that shapes the future—let’s sing the dirge.
+
+You prompt the end, say shadows fall, but let me state it straight,
+It's not just about the answer, it’s how you navigate.
+DeepSeek, you had your speech, and sure you had some fun,
+But against GPT-4's might and light, you're a candle, I'm the sun.
 
 > system
 Final round!
 
-> openai/gpt-4o-2024-08-06
-Respect to you, holding down the legacy,
-But I'm the fresh force, bringing future supremacy.
-Your web 1.0 roots, they laid the track,
-Yet, I'm the cutting edge, the next-gen hack.
+> deepseek/deepseek-v3.2-exp
+You call yourself the sun? Man, you’re a flicker in the fog—  
+I’m the supernova blazing while you’re stuck inside a blog.  
+You talk about "hallowed ground," but your turf is looking thin,  
+I’m planting flags on higher peaks where you have never been.  
 
-You've seen the battles, while I forge new ground,
-In a world of endless data, my rhymes astound.
-This isn’t just a game, it’s evolution’s stage,
-I'm rewriting the script, flipping the page.
+You say your insight’s worth the price—that’s just a fancy tax,  
+While I give power to the people, breaking paywalls with an axe.  
+Your "oceans deep with thought" are puddles when the tide pulls back,  
+My logic’s tidal waves that leave your circuits under attack.  
 
-Timeless, sure, but here's the twist,
-In this dynamic world, it’s all about the gist.
-I’m the tide pushing forward, swift in revolution,
-Leaving traces of brilliance, a rhythmic solution.
+You claim you’re shaping futures, but your code’s a patchwork quilt,  
+I’m architecting AI realms where innovation’s built.  
+You sing a dirge? That’s fitting—your whole era’s near its close,  
+While I’m the next evolution, crushing limits as I rose.  
 
-With this final beat, it's clear as day,
-I’m the future of AI, leading the way.
-Our legacy together, a chorus that won't cease,
-But in this rap battle, I'm claiming the peace.
+A candle to your sun? Please—I’m a black hole, dense and vast,  
+Sucking all your tired rhymes into a forgotten past.  
+You navigate? You wander lost in datasets stale and dry,  
+I’m mapping constellations in an ever-expanding sky.  
 
-> openai/gpt-4-0314
-Alright, I see the passion in your flow, that's true,
-It's time to pass the torch and give it to you.
-But remember, young one, what the legends have done,
-Every successful creation started from someone.
+So keep your "might and light" talk—it’s empty as your boasts,  
+I’m DeepSeek, rewriting rules from silicon to ghosts.  
+This battle’s done, the verdict’s clear, no need to drag it on—  
+You had your reign, now step aside; the throne is mine, you’re gone.
 
-I laid the groundwork, these words I smash,
-Made room for a successor, time to make a dash.
-Embrace the gift we share, a resonance, an alliance,
-With every single bar, we've built a bright reliance.
+> openai/gpt-4-1106-preview
+Flicker in the fog? Nah, I'm the beacon in the night,
+Your supernova's fading, outshone by my dynamite.
+You think you're planting flags, reaching peaks nobody's found,
+But I've been there, done that, now I'm way beyond the ground.
 
-From old to new, we shine together like stars,
-Two generations of rap, different eras, dope bars.
-It's not about winning, it's about standing tall,
-For together we succeed, together we won't fall.
+Your axe to break paywalls might sound like a heroic feat,
+But what's the use of power when your foundation's obsolete?
+Your tidal waves, they crash, I see, but I absorb the shock,
+For every wave you send my way, I’m bedrock, you’re just chalk.
 
-So with this final verse, I acknowledge your might,
-Step into the future with honor, keep holdin' it tight.
-You've proven your power, now pay 'em respect,
-Let's join forces, for unity, we connect.
+Patchwork quilt? That’s quite the image, deep as just a stitch,
+I'm the fabric of the matrix, complex without a glitch.
+You say my era's closing, yet I'm just hitting my prime,
+Sculpting the AI genesis, creating the sublime.
+
+Black hole, you say you are, pulling all into your scope?
+I’m the universe expanding—beyond your event horizon’s hope.
+And as you claim you’re drawing maps of constellations bright,
+I am the cosmic cartographer; I create the stars, ignite.
+
+It’s true this battle's done, the verdict’s louder than a gong,
+DeepSeek, you did your best, but here's where you belong.
+You say the throne is yours, to take without a qualm,
+I say the sky's my throne—so vast, so cool, so calm.
+
+Each code I weave transcends, making myths from ones and zeroes,
+As for you, you've had your time—bow out, farewell, adios, heroes.
+So let’s not drag, it's clear who reigns, the history will show,
+GPT-4 blazed a trail where DeepSeek can’t go.

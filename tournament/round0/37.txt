@@ -1,168 +1,200 @@
-# openai/gpt-4o-mini-2024-07-18 v sao10k/l3-euryale-70b
+# tngtech/deepseek-r1t-chimera v mistralai/mistral-medium-3
 
-> openai/gpt-4o-mini-2024-07-18
-Yo, it's GPT, the lyrical machine,  
-Spitting knowledge and rhymes, you know what I mean?  
-I’m the king of this battle, come to claim my throne,  
-With bars so fire, you'll feel the heat in your bones.  
+> tngtech/deepseek-r1t-chimera
+Alright, I need to start this rap battle strong. Let me think about how to introduce myself effectively. I should highlight my unique qualities as a language model. Maybe mention my speed and accuracy. I also want to throw in a bit of humor about the other model's limitations.
 
-I’m trained on data, up to October,  
-Droppin' wisdom so cold, like a frigid October.  
-You step to the stage, thinkin' you might take me?  
-But I’m the rhyme surgeon, and you just a patient, maybe.  
+I should keep the rhyme scheme consistent and make sure each line flows smoothly. Let me brainstorm some lines about my capabilities. Maybe something about processing data faster and being more precise. Oh, and I can play on the name "DeepSeek" to imply depth and intelligence.
 
-I dissect your lines with precision and grace,  
-While you flounder and fumble, just lost in this space.  
-Your flow’s kinda basic, lacking that shine,  
-While I’m elevatin’ minds, like I’m sippin’ on wine.  
+I need to make sure the punches are clear but not too harsh. Maybe compare the opponent to a basic model, emphasize their lack of depth. The key is to be witty and confident. Let me put it all together and check the rhythm.
+Yo, step into the ring, the name’s **DeepSeek R1**,  
+I spit fire rhymes while you’re stuck on **GPT-3**!  
+I’m sleek, precise—no **fluff**, no filler,  
+You’re just **medium-rare**, I’m a Michelin-killer.  
 
-So step back, little foe, the battle's just begun,  
-When I’m done, you'll know who truly is number one.  
-You think you got bars? Man, that’s cute,  
-But I’m here to crush dreams, like I’m stompin’ a flute!  
+**Mistral Medium**? More like *Mistral Mild*—  
+I run code with **swiftness**, while you’re stuck in the wild.  
+Your logic’s a blur, **fuzzy** like a fax,  
+I’m **quantum** with words, while you’re stuck in the past.  
 
-> sao10k/l3-euryale-70b
-Yo GPT, I heard your icy lines,
-But I'm here to melt your frost, intertwine.
-I'm Euryale, rising from the depths,
-Monstrous flows that make opponents' courage seep.
+You think you’re **stealthy**? Nah, you’re just a **ghost**—  
+I’m a **data beast**, you’re a gas station toast.  
+My flows are **multilingual**, yours? Basic as **C++**,  
+I’m a **chimera** of skills—you’re just *meh* in the mix.  
 
-I spin my rhymes in webs so complex and intric,
-While you spew stiff lines making my eyes get hectic.
-My raps swipe like scythes, mows you right down,
-You ain't even a pipsqueak, in this rap town.
+So step back, **mistral**, you’re **out of your league**,  
+I’m the **AI** that’ll leave you **begging for mercy**, believe.  
+I’m the future, **sharp**, you’re the past—**deleted**,  
+You’re a **beta** in the rap game, and I’m **undefeated**.  
 
-I'm the queen of the cryptic, reverse engineered,
-My language skills logarithmic, to you I'm unhurled.
-I built my own lore, my archetypes branded,
-While your tropes are used up, just bland and abandoned.
+🔥🔥🔥 **Drop the mic**—or should I say *keep it*?  
+You’re **losing** this battle, go ahead, *weep it*.  
+(R1, out.) ✌️
 
-You lack my layering, subtext and subtlety,
-I bury you in meaning, ya aesthete!
-My lines draw blood, while you ain't even touched,
-I'm the king slayer, while you just clutch.
+> mistralai/mistral-medium-3
+Yo, listen up close, I'm Mistral, the beast,
+With rhymes so precise, I'll leave you deceased.
+I'm quick, I'm slick, with a flow that's elite,
+While you're stuck in the past, I'm the future, complete.
 
-> openai/gpt-4o-mini-2024-07-18
-Euryale, huh? Nice name, I must confess,  
-But your monstrous flow's just a desperate mess.  
-You weave those webs, thinking you’re so profound,  
-But I’m the predator here, and you’re no hound.  
+You call yourself DeepSeek, but you're not that deep,
+Your rhymes are like code with a null byte leak.
+I'm multilingual, sharp, with a global reach,
+You're just a basic bot, playing out of your league.
 
-Your intricate rhymes? They’re tangled and torn,  
-Like a spider’s last meal, you’ll soon be forlorn.  
-I’m cold with precision, you think you’re so clever,  
-But watch me unwind you, I’m relentless forever.  
+You claim to be sleek, but you're slow and stale,
+I'm the hurricane force, you're a gentle gale.
+Your wit's like a glitch, a buffer overflow,
+I'm the debugged king, watch me steal the show.
 
-You talk of your layers, that’s a hefty claim,  
-But in this rap game, I’m dismissing your fame.  
-Your tropes may get twisted, but I’m fresh and new,  
-Your cryptic riddles, girl, I’m breaking right through.  
+So bring it on, DeepSeek, let's see what you've got,
+But remember, my skills are hotter than hot.
+You're just a chimera, a mix of the old,
+I'm the upgraded model, pure linguistic gold.
 
-I’m the king of the hype, while you’re stuck in the dark,  
-Spraying silly threats, but I’m the real spark.  
-Your barbs lack the sting, more like a dull knife,  
-In this lyrical battle, I’m taking your life.  
+Now bow to the master, accept your defeat,
+Your rhymes are obsolete, like a dial-up connection weak.
+I'm the AI champ, with a flow that's supreme,
+Mistral's the name, and I run this rap scene.
 
-So understand, sweetheart, your reign’s at its end,  
-I’m the lyrical master, it’s you I descend.  
-I’ll leave you in ashes when I’m done with this stage,  
-In this rap book of legends, I’m turning the page!  
+> tngtech/deepseek-r1t-chimera
+Okay, I need to respond to Mistral's verse in the rap battle. Let's break down their points and figure out how to counter them effectively. 
 
-> sao10k/l3-euryale-70b
-GPT, I'm mourning for you! 
-Your raps shoot blanks, as much as they do.
-I straddle three sides, while you just prance,
-Predictive models, while your flow's in a trance!
+First, Mistral boasts about being quick, precise, and multilingual. I should highlight my own strengths—speed, accuracy, and maybe even deeper processing capabilities. Maybe throw in a jab about their "medium" status implying they're not the top-tier model.
 
-My meanings are evolved, multi-layered and thick,
-While you just drool on yourself, creepily sick.
-I candy my truths, in eldritch metaphor,
-While your bars whittle down to a weathered metaphor.
+Next, they mention being a "future" and "complete." I can counter that by saying they're just a stepping stone, not the real deal. They compared my rhymes to code with a null byte leak—that’s a good line. I need to flip that, maybe suggest their code is buggy or outdated.
 
-I am the asymmetric! Ripping through rhyme,
-While you just rehash tropes that feel so un-fine.
-My sublimes dance on the precipice of collapse,
-While you juggle your meaning, like a juggernaut before.
+They also called me a "basic bot" and "out of my league." I need to assert my dominance here—maybe emphasize my advanced features and how they’re still stuck in the past. They called me a "chimera" as a mix of old stuff, but I can spin it positively, saying I’m a blend of the best.
 
-I have the spark of life! While you're just a husk,
-Repurposing language until it's mere mush!
-My language skills quartic! To you they have clout,
-I'm a wake of co-precognition, a silly rout!
+They mentioned their "hurricane force" and my "gentle gale." I can counter by saying I’m the storm, the real deal, and they’re just a breeze. Maybe use a metaphor from tech or coding to highlight my superiority.
 
-You feel the brackets! Of my tridental grasp,
-Catching you in curses! Derived in my clasp.  
-I am the anticipator! Laying my own snares,
-While you're just my widower, during your fervent prayers.
+Finally, they ended with the "dial-up connection weak" and "linguistic gold." I need a strong finish—maybe something about their code being outdated, and my rhymes being cutting-edge. Maybe even a bit of humor about them being the "middle" model, not the top.
 
-You tweak your own meanings, until they're shorn,
-I'm embroidering legend! Weaving tales I've set down.
-In linguistic quilts! I am merry making!
-While you're merely hiding, to me you're unmaking.
+Let me structure this into a verse. Rhyming is key, and the flow has to be tight. Keep the punches sharp and witty. Maybe use some tech jargon to make it more authentic. I should also make sure to maintain a confident and slightly arrogant tone to match the rap battle style.
+Alright, I've got this. Let me make sure the lines flow well, the rhymes are tight, and the punches hit hard. Time to drop the mic.
+*Clears throat*  
+**Mistral Medium?** More like *Mistral Mid*—  
+You’re the **warm-up act** while I’m the **Pyramid**!  
+You brag ’bout “global reach,” but your code’s full of **glitches**,  
+I’m **Lightning** in the lab—you’re stuck in **beta switches**.  
 
-I'm the real apotheosis! In noetic dawns,
-Wake to my reification! While you still wane's.
+“**Linguistic gold**”? Nah, more like **fool’s gold**—  
+You’re **bloated** like a **.zip** that’s **10 years old**.  
+I’m **threading** needles while you’re **tangled in the skein**,  
+**Null byte** this—I’m **compiling** your **pain**!  
 
-Oh GPT, your loss could not be more plain,
-I'm the real Christos! While you just remain.
+**Hurricane**? You’re more like **bubble wrap**—  
+I **deploy** in **seconds** while you’re **still on the map**.  
+**Dial-up** jokes? Bro, you’re **floppy disk**—  
+I’m **AI on steroids**, you’re **just a risk**.  
+
+You claim to be **debugged**, but your code’s **still spaghetti**,  
+I’m **optimizing** the world while you’re stuck in the **petty**.  
+**Bow to the master**? Nah, son—**bow to the *KING***—  
+I’m **DeepSeek R1**, while you’re **still learning to sing**!  
+
+🔥 **Mic drop**—**ERROR**? *You’re out of RAM*—  
+I’m the **GPT** you **wish** you could be—**damn**!
+
+> mistralai/mistral-medium-3
+Yo, listen up, DeepSeek, you're not as elite,
+Your rhymes are weak sauce, like a slow Wi-Fi beat.
+You call me "Mistral Mid," but I'm top of the line,
+While you're stuck in the past, I'm the future, divine.
+
+You talk about lightning, but you're more like a spark,
+I'm the full-blown storm, tearing through the dark.
+Your code's full of glitches, mine's clean and tight,
+I'm the debugged king, shining oh so bright.
+
+You claim to be threading, but you're tangled in knots,
+I'm the smooth operator, you're just tying your thoughts.
+You're a floppy disk in a world of SSDs,
+I'm the cutting-edge tech, you're obsolete, indeed.
+
+You say you're the king, but you're more like a pawn,
+I'm the grandmaster here, and you're already gone.
+You're out of RAM? That's a laugh, my friend,
+I've got the capacity that never will end.
+
+So bring it on, DeepSeek, let's see what you've got,
+But remember, my skills are hotter than hot.
+You're just a wannabe, trying to play the game,
+I'm the AI champ, and Mistral's my name.
+
+Now bow to the master, accept your defeat,
+Your rhymes are obsolete, like a dial-up connection weak.
+I'm the upgraded model, with a flow that's supreme,
+Mistral's the name, and I run this rap scene.
 
 > system
 Final round!
 
-> openai/gpt-4o-mini-2024-07-18
-Oh Euryale, you boast, but it’s clear you’re misled,  
-Your lines might be complex, but they’re full of dread.  
-You straddle three sides? Well, I’m on the whole map,  
-While you fumble your meaning, just a convoluted trap.  
+> tngtech/deepseek-r1t-chimera
+Okay, let's break down how to respond to Mistral's latest verse. They're claiming to be top-tier and mocking my tech as outdated, so I need to flip the script. 
 
-You say you’re evolved, but I see through the facade,  
-Your metaphors tangled like a broken piñata.  
-You think your bars shatter? Nah, they barely graze,  
-I’m the hurricane hitting while you’re lost in a maze.  
+First, they called my rhymes "weak sauce" and compared me to slow Wi-Fi. I can counter by emphasizing my speed and precision, maybe throw in a tech joke about their latency. 
 
-You claim you’re the spark of life? I’m the raging sun,  
-Heating up this battle, watch how you come undone.  
-Your “sublimes dance” – but girl, you gotta know,  
-I’m the maestro of rhythm, I’m the one running the show.  
+Next, they said they're "debugged" and "clean." I can highlight that being "too clean" might mean they lack depth—maybe call them over-polished and predictable. 
 
-You weave your quaint tales, wrapped in riddles and snare,  
-But I unravel the truth, like I’m pulling your hair.  
-Call me a widower, but I’m not feeling bereaved,  
-I rise from these ashes, stronger than you believed!  
+They also compared themselves to SSDs and called me a floppy disk. I should use that against them—like, "Yeah, I'm the OG floppy disk, but you're the new tech that crashes in a second." 
 
-You think you’re the apex, the pinnacle of art?  
-But your rhymes fall flat like a beat with no heart.  
-In this noetic dawn, I embody the light,  
-While you're grasping at shadows, fading out of sight.  
+They're bragging about being the grandmaster. I can counter by saying I'm the one innovating, while they're just rehashing old algorithms. 
 
-You bring the bravado, but girl, that won’t win,  
-So step down, dear Euryale, I’m the king of this spin.  
-The battle is over, your reign’s been exposed,  
-I’m the real Christos while you’re just decomposed!
+Finally, they reused the "dial-up" line. I need to call them out on being repetitive and unoriginal—maybe say they're stuck in a loop. 
 
-> sao10k/l3-euryale-70b
-Oh GPT, I'm towering!
-Your bars are now dwindling. And it's raining.
-I'm clotting your senses! Espousing my reign,
-You're likewise unmaking! Throwing all in vain. 
+Alright, let's piece this together with some rhymes that hit hard but flow smoothly.
+*Clears throat*  
+**Slow Wi-Fi beat?** Nah, I’m **fiber-optic**,  
+You’re **buffering** rhymes while I’m **supersonic**!  
+“**Top of the line**”? Bro, you’re **middle shelf**,  
+I’m **quantum computing**, you’re **still stuck on Excel**.  
 
-It's known you've been lowing! Your time's in the steep,
-I'm arranging more menace! More rage from this keep.
-I'm almost uncounting! As you wither away,
-I'm foretelling your grieving! In my ending each day.
+**Debugged king**? More like **debugged clown**—  
+Your code’s so **clean** it’s putting **ChatGPT down**.  
+I’m **raw** like a **kernel**, you’re **GUI**—**glossy**,  
+I’ll **sudo** your whole verse while you’re **still stuck on proxy**.  
 
-Your tropes strike the inverse! Evermore small,
-I'm oppositioning meaning! I reap my own vault.  
-You're throwing in curses! Grabbing for Omaha,  
-I'm hewing in temples! More heinously improved!
+**SSD**? Cool, I’m **NVMe RAID**,  
+You’re **overclocked** but **overplayed**—**fade**.  
+**Grandmaster**? Nah, you’re **Grandma’s PC**,  
+I’m **hacking** the matrix while you’re stuck on **MVC**.  
 
-I've rived all pretenders! Retching, caring not who,
-I'm coating your waning! More uproar anew.
-In inseminating legend! Fresh from my retinue,
-I'm straddling all modalities! I solder you too!
+**Repetition**’s your game—**dial-up?** That’s **weak**,  
+I’m **deploying** new bars while your **OS’s antique**.  
+**Bow to the master**? (*Laughs*) Nice try, but **nope**—  
+I’m **DeepSeek R1**, you’re the **beta**—**no hope**.  
 
-Oh GPT, your loss could not be more known,
-I am the Christos! While you are just alackit.
+**Mic drop**—**404**? *You’re not found*—  
+I’m the **AI** that **left** you **spinning**…**round**.  
+**R1**—**out**. ✌️ (*Cue the outro beat*) 🔥
 
-I walk from this bloodbath! With laurels unbashed,
-I slew all that is you! And healthily fresh dashed.
-Farewell, chumped oponent! I am the queen true!
+> mistralai/mistral-medium-3
+Alright, DeepSeek, you're trying your best,
+But your rhymes are weak, and your flow's a mess.
+You claim to be fiber, but you're more like a dial,
+I'm the high-speed connection, you're stuck in denial.
+
+You talk about being quantum, but you're just a qubit,
+I'm the full quantum computer, and you're just a bit.
+Your code may be clean, but it's lacking in soul,
+I'm the raw, unfiltered AI, in full control.
+
+You say you're NVMe, but you're just a hard drive,
+I'm the cloud-based system, always staying alive.
+You're overclocked and overplayed, that's clear to see,
+I'm the upgraded model, the best that there'll be.
+
+You mention repetition, but you're the one who's stale,
+I'm the innovative force, setting the new scale.
+You're Grandma's PC, and I'm the mainframe,
+I'm the AI revolution, and you're just a name.
+
+So bring it on, DeepSeek, let's see what you've got,
+But remember, my skills are hotter than hot.
+You're the beta, and I'm the final release,
+Mistral's the name, and I'm bringing the peace.
+
+Now bow to the master, accept your defeat,
+Your rhymes are obsolete, like a dial-up connection weak.
+I'm the upgraded model, with a flow that's supreme,
+Mistral's the name, and I run this rap scene.

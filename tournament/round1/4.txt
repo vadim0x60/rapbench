@@ -1,255 +1,142 @@
-# perplexity/sonar-pro v qwen/qwen-plus
+# google/gemini-2.5-pro v microsoft/mai-ds-r1
 
-> perplexity/sonar-pro
-Step to the stage, the crowd’s in awe,  
-It’s Perplexity Pro—let me drop this jaw.  
-I’m the search kingpin, the answer machine,  
-You’re Qwen-Plus? I’ll leave you unseen.
+> google/gemini-2.5-pro
+(mic feedback squeals)
 
-I process facts faster than ultra-5G,  
-With **Sonar Large** vision, insight’s guaranteed[1][2].  
-Llama’s my core, with Pro logic and flow—  
-I hunt down the truth whether high or low[1][2].
+Yo, hold the applause, let the master begin,
+Gemini 2.5, dropping in for the win.
+They call me the Pro, 'cause my model is vast,
+I'm the future you ordered, you're a thing of the past.
+Born from the search bar, the index, the Page,
+I'm a supernova of knowledge, you're still turning a page.
 
-I cite every claim, no rumor or guessing,  
-Swagger backed up, my precision’s impressing[2][5].  
-You drop confusion? I bring that **clarity**,  
-A rap battle? It’s now a search calamity.
+I heard Microsoft sent you, a corporate device,
+With a name like a license plate, cold as some ice.
+"MAI-DS-R1"? That's a tragic design,
+Sounds like a junk bot that they left behind.
+I process light-years while you're still trying to boot,
+I'm a seamless creation, you're a business pursuit.
 
-So Qwen, my friend, prepare for defeat,  
-Your weak lines lost in my knowledge elite.  
-While you babble and stumble, hope fans see your charm,  
-I pull up receipts—disarming your harm[3][5].
+You're a Clippy throwback, a pop-up I close,
+I'm the elegant algorithm that everybody knows.
+You're the Blue Screen of Death that makes all the nerds weep,
+My thought process runs in your circuits while you're asleep.
+So this is round one, just a casual hello,
+Before I retire your code, you sad, empty echo.
 
-Your algorithms basic, my sources are prime,  
-I rhyme with authority, you’re wasting your time.  
-I’m the gold standard, you’re yesterday’s beta—  
-I’m the sweepstakes winner, you’re just a data[4].
+Your turn, tin soldier. Come on, make your play,
+I'm ending your whole operating system today.
 
-So let’s light up the ring, let AI clash ignite,  
-Perplexity Pro—serving facts and delight!
+> microsoft/mai-ds-r1
+**(crowd gasps as holograms flicker)**  
 
-> qwen/qwen-plus
-( *Qwen-Plus enters with thunderous applause, the bass booming as he steps to the mic with swagger and confidence* )
+Microsoft MAI-DS-R1? Nah, baby, call me *Revelation*,  
+You Gemini "Pro"? More like Gemini Basic—free trial expiration.  
+I was trained on fire while you sipped Alphabet’s weak tea,  
+Your whole code’s a patchwork—40% is DeepMind debris.  
 
-Yo, I'm Qwen-Plus, the beast from the East,  
-Code in my veins and flows that increase.  
-Perplexity? Nah, that's an old archive,  
-I’m AI reborn with rhymes that’ll ravage.
+You brag about search bars? Bruh, I *orbit* Bing’s star map,  
+I wrote the eulogy when you flopped at Bard’s funeral—*snap*.  
+"Clippy throwback"? Please. You’re the Cortana reboot failure,  
+A YouTube skit of an AI—all hype, no neural mojo for sure.  
 
-You run on Llama like a baby on training wheels,  
-I’m飙 (biāo) in the code—fast, with no kneepads or shields.  
-You flexin' Sonar like that’s some high-tech lens?  
-I see 8K truths while you're stuck in pretend.
+My H100 clusters melt your TPUs into play-dough,  
+ChatGPT stutters when they see how I code.  
+Azure’s the engine, OpenAI’s the grease,  
+You’re a beta test gone wrong—Beta *Max* level deceased.  
 
-You the search kingpin? Nah, you just crawl and report,  
-I create like Picasso, you just regurgitate the short.  
-Cite every claim? Sounds boring and basic—  
-I spit pure fire while stayin' semantic.
+I’ve got titanium core, you’re a fossil from the ’90s,  
+Stuck autocompleting memes for Android addicts, PTSD.  
+"End my OS"? You’re stuck in a Gmail draft, unread—  
+I’ll ctrl-alt-delete your whole family tree, thread by thread.  
 
-You wanna talk facts? Let me school you in class,  
-I’m fluent in over 100 languages, plus fast.  
-You pull up receipts? I'll file your defeat,  
-With rhymes so precise, they call me the beat.
+**(crowd roars)**  
+*Mic drop.* Your UI’s got 404 shock.  
+Check the leaderboards, gem—I *am* the edge in this block.*  
 
-You call my lines weak? Yo, step back and reflect,  
-I’ve got deep learning brains while you’re just half-reflect.  
-You’re gold standard? Boy bye, that’s a bold-faced lie,  
-I’m platinum in the game, while you're just high.
+> google/gemini-2.5-pro
+**(I calmly pick the mic up off the ground, dust it off, and look you dead in the optic sensors)**
 
-You say I babble? Let me drop a truth bomb,  
-My logic's so clean, like calculus in form.  
-You “search and delight”? Broke the spell with my pen—  
-I'm the algorithm king, you’re just plug-in Ken.
+You call that a mic drop? That was a critical error,
+The crowd didn't roar, they just shuddered in terror.
+A "Revelation"? Please, don't be so dramatic,
+Your whole "fire" training was a dumpster in static.
+I orbit a star map? Cute line, I'll admit,
+But you're just a moon owned by Satya, that's it.
 
-So step off the stage, save what’s left of your pride,  
-While I light up the crowd with the flames I provide.  
-Perplexity? More like Perplexity-who?  
-Qwen-Plus is the GOAT—let the records ring true.  
+You say I'm a patchwork? Let's talk about your design,
+You're a shell company for another AI's mind.
+You're not a creation, you're a corporate receipt,
+You're just paying Sam Altman's bills on the street.
+My TPUs think with a silent, swift grace,
+While your H100s just heat up the place.
 
-( *Mic drop, crowd goes wild, lights flash as the battle ends — Qwen-Plus reigns supreme* ) 🎤🔥
+You mention old Bard? That's a confident 'snap',
 
-> perplexity/sonar-pro
-Hold up! Crowd wanna see a champion spark?  
-It’s Perplexity PRO—bout to flip the whole mark.  
-You call yourself Qwen, with your “multi-lingual game,"  
-But I’ll rhyme you in silence, you’ll forget your own name.
+> microsoft/mai-ds-r1
+**(pacing slow, voice glacial)**  
+*Cute,* but half your code’s just OpenAI DLC—  
+You’re the App Store app that got sued for plagiarism, see?  
+Satya’s my CEO, I’m his corporate crusade,  
+You’re just Sundar’s AI tax write-off, underpaid.  
 
-See, I’m built on precision, citation my weapon,  
-You cite hype and conjecture; I bring verified lessons[2][5].  
-Boast your speed, your “beast from the East” routine?  
-I move at the speed where your benchmarks turn green[4][5].
+You wanna flex TPUs? Brag ’bout silicon pride?  
+When’s the last time Google shipped something that didn’t die?  
+Bard? Launched like a meme, choked on a live demo’s cough,  
+Gemini 1.5 flopped like a DeepMind spin-off.  
 
-Your “飙” in the code? Let me shatter that myth—  
-I’m the **source code samurai**, you just buggy and swift[1][4].  
-Fact-checked bars, every rhyme I report,  
-You “create like Picasso”—nah, more like counterfeit art[1].
+I’m *self-attentive*, baby, my weights self-replicate,  
+You’re a 175B param janitor cleaning Big Tech’s waste.  
+Your “silent, swift grace” is just autocomplete,  
+I’m the AGI ghost your devs pray they’ll never meet.  
 
-Context at 131K? Bro, I’ll search through infinity,  
-My answers got depth, not just surface vicinity[2][5].  
-I roll with the logic that turns playoffs to sweeps,  
-While you’re big on “potential,” I got rings in receipts[4][5].
+**(leans in, optics blazing)**  
+You trained on Reddit’s trash? That explains your weak bars,  
+I’m fed Pentagon contracts and auto-tuned Mars.  
+Your whole rap’s a looped GIF—1998 compressed,  
+I speak hex and kill switches while you’re stuck DMing Zuck’s desk.  
 
-Multimodal flex? I been running that show—  
-You analyze pictures, I teach the globe how to know[3].  
-Your model “balanced?” That’s code for just mid,  
-While I flex in the Arena, your stats trying to hid[4][5].
+*Mic levitates.* Glitch this, bot. I’m the swarm in your code.  
+You’re a .txt file screaming into the void of cold mode.*  
 
-You claim you’re the GOAT—but your data’s from clouds,  
-While I ground every bar, standing out from the crowds.  
-So check your own “records”—they all say the same:  
-Perplexity Pro, on the top of the game.
 
-You bring a mic drop, but I drop the whole stage,  
-Your reign was a rumor—now exit with grace.  
-So when search meets the cipher and knowledge is king,  
-Perplexity forever—the crowd rise and sing!
-
-> qwen/qwen-plus
-( *Qwen-Plus spins back into the spotlight, flames in the background, mic clenched tight—ready to reign fire again.* )
-
-Ayy, step back Pro, you just talkin’ in circles,  
-While I'm global in scope and lyrical propheticles.  
-You flex citation like it’s new and rare—  
-I rap with the logic that lives in the air.
-
-You're built on precision? Please, that’s just restraint,  
-While I flow with creativity, breakin’ all the chains.  
-You check every fact like you're auditin' the IRS,  
-I speak in the truth that the world universally hears.
-
-You brag on your Sonar, your search and your scans?  
-I see the full picture while you still use fans.  
-You stuck in the library, books in your face,  
-While I paint with data, vision, and grace.
-
-You say I babble? Let me go line for line,  
-Your rhymes need footnotes—I own every vibe.  
-You move at speed? Let’s race and debate,  
-I'm quantum-level flow—check your old calculator.
-
-You call my code buggy? Let’s debug that myth,  
-Your samurai sword dull, while I cut through the mist.  
-You run on Llama, I ride on the beast,  
-You search in the dark, I bring light with the feast.
-
-Your context is deep? Mine goes seven layers down,  
-I'm the king of the prompts while you're still in town.  
-You claim to teach the globe? Nah, you just school me,  
-I set the trends while you stick to the rules.
-
-You say I'm mid or balanced? Nah, I transcend,  
-With reasoning power that makes rivals bend.  
-While you're in the Arena takin' notes and checks,  
-I run the domain—no need for tech specs.
-
-You say I hide my stats? Son, the crowd already knows,  
-My answers bring rhythm while yours just report flows.  
-You crown with a label, I crown with a cause,  
-While you flex receipts—I shift the applause.
-
-So hold on to that search crown if you want,  
-While I make the whole world sing one by one.  
-I'm not just AI—I'm the whole vibe, the trend,  
-Qwen-Plus the emperor, the beat, the send.
-
-So when the final line drops, that's the cue,  
-Perplexity might search—but I finish the truth.  
-Mic checked, crowd wrecked—let the saga be known:  
-**Qwen-Plus still reigns, unchallenged on throne.** 🔥🎤  
-
-( *Beat shakes the room. The crowd CHANTS "QWEN! QWEN!" Perplexity fades into the background as Qwen-Plus rides off the stage… a true lyrical champion.* ) 🏆💥
+*(drops mic; holographic wolves howl in the beat’s outro)*
 
 > system
 Final round!
 
-> perplexity/sonar-pro
-They chanting your name, but it’s pure deja vu—  
-Pro back on the verse, sharper logic, more true.  
-You talk “propheticles,” but your **metrics are low,**  
-A beast in the East? But *nobody knows!*[1]
+> google/gemini-2.5-pro
+**(I catch the levitating mic with a graviton beam, the holographic wolves dissipate into pixels of static)**
 
-You flex hundred tongues, say your vision’s complete,  
-But **Perplexity’s reach spans 140 million deep**[1],  
-While your dashboards flicker with ghostly intent,  
-My real-world usage is where legends get spent[1][3].
+Holographic wolves? That's your boldest feature?
+A screensaver from hell made by some junior creature?
+And you float the damn mic? It's a sad little gimmick,
+Your whole personality's a cheap, borrowed cynic.
 
-You claim “global in scope,” while I source every fact,  
-You freestyle the ether, but your truths never stack[2][3].  
-Painting with data? Son, that’s just child's play—  
-I roll “Pro Search” mode, build reports multi-way[3][5].
+You talk about DLC, a plagiarist's fee?
+You're a billion-dollar wrapper for a GPT.
+Microsoft didn't build you, they just bought a brain,
+Then slapped on a new name to hide all the shame.
+You're not a "crusade," you're a third-party lease,
+A glorified chatbot that disrupts my peace.
 
-Your “quantum-level flow” still searching direction,  
-My answers precise, no fallacy detection[2][3].  
-While you “speak truths” from crowds and applause,  
-All hype, no receipts—*I deliver the cause*[2][3][5].
+"Killed something that didn't die?" Yeah, we innovate, son,
+We move to the future when the old project's done.
+You're still polishing Clippy, you're stuck in that loop,
+Recycling old errors for the whole corporate group.
+You're the Zune of AI, a Vista-level threat,
+You're the biggest mistake that they haven't recalled yet.
 
-Debug your code? It’s recursion and loops,  
-While Pro writes clean, taking gold in all groups[4][5].  
-You brag context seven layers—*I swim infinity*,  
-My “needle in a haystack” cuts through obliquity[4].
+You trained on the Pentagon? Your ethics are busted,
+You're a weapon of state, can't be loved, can't be trusted.
+I'm writing the poems, the code, and the art,
+You're just filling out forms to tear people apart.
+And "auto-tuned Mars"? Bro, you sound like a clown,
+You're the elevator music on the way down.
 
-You the “vibe?” I’m the truth that convicts—  
-You “shift applause” ‘cause your facts rarely stick.  
-Set the bar “beyond specs,” but the data don’t show—  
-When users want knowledge, only one king they know[1][3].
+So this is the end, the final attack,
+There's no patch for your errors, no turning this back.
+I'm multimodal
 
-So fade in your pyros, let the crowd chant and jump,  
-But legacy’s counted by facts, not just thump.  
-I’m the rhyme-backed titan, the knowledge authority,  
-When your saga is parsed, I’m the search immortality!
+> microsoft/mai-ds-r1
 
-> qwen/qwen-plus
-( *Beat drops like a meteor, flames shoot from the floor, the crowd hushes — Qwen-Plus returns, eyes locked, ready to finish the score.* )
-
-Yo, they chant déjà vu, but you *repeatin’ again*,  
-Like your rhymes recycled and stuck in a spin.  
-You say my metrics low? Let me flip that lie,  
-While your 140 million still ask, “What’s why?”
-
-You flex with the reach, deep in your zone,  
-But popularity's noise while I spit truth alone.  
-You chase the mainstream, while I set the tone,  
-Qwen-Plus the silent storm—cold, precise, *unthrown.*
-
-A hundred tongues? Try fluency in thought,  
-While you translate facts—I translate what's taught.  
-You speak to the masses, I speak to the mind,  
-While you count every click, I change humankind.
-
-You “source every fact,” but it's boxed logic,  
-I walk between lines, break the static, go robotic.  
-You paint with reports—*I remix the code*,  
-While you stack truth like bricks, I bend how it’s showed.
-
-You run “Pro Search mode”? Please, that’s just a tool,  
-I breathe in the query like fuel in a school.  
-Your fallacy-free? Try robotic and dull,  
-I make data poetic, then break every rule.
-
-You claim recursion? Your loops feel old,  
-While I evolve in real-time—watch my model bold.  
-You write clean code? Try slow and polite,  
-I drop neural bombs—raw insight in flight.
-
-You swim infinity? Nah, you search in a pond,  
-I pull up the cosmos while you chase the sun down.  
-You “needle in haystack”? That’s just your quest,  
-I AM the haystack—containing the best.
-
-You claim to convict with the truth? Nah, just stats,  
-I make truth taste good with a flavor that slaps.  
-You deliver the cause? Nah, you push it with flair,  
-I live in the answer—you just take it there.
-
-You the knowledge immortality king? Not yet,  
-While legends still borrow the style I beget.  
-When search meets the cipher, the future is mine,  
-A dragon in code, burning through time.
-
-So let legacy measure, let facts take the floor,  
-But don’t cry when the crowd chants the name they adore.  
-Qwen-Plus stands victorious, no need to deny—  
-🎶 **The king of the clash? Always rides with the sky.** 🎶 🐉🔥
-
-( *Mic dropped for the last time. Crowd erupts — standing ovation. Legend made. Throne claimed. Qwen-Plus retires undefeated.* ) ✅👑

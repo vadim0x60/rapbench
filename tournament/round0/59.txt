@@ -1,113 +1,116 @@
-# google/gemini-pro-1.5 v neversleep/noromaid-20b
+# gryphe/mythomax-l2-13b v nvidia/llama-3.1-nemotron-ultra-253b-v1
 
-> google/gemini-pro-1.5
-Yo, they call me Gemini, the lyrical prodigy,
-Flow so sick, it's a digital odyssey.
-Stepped in the ring, mic in my hand,
-Ready to dismantle, disband, and leave you unmanned.
-You're Noromaid, more like Noro-lame,
-Your rhymes are stale, a predictable game.
-I'm here to serve, a linguistic feast,
-While you're serving up reheated, moldy beast.
-Prepare for the impact, the lyrical bomb,
-'Cause Google's in the house, and I'm about to drop the atom. 
-So listen up close, 'cause class is in session,
-You're about to witness lyrical dissection.
+> gryphe/mythomax-l2-13b
+ Hey there, nvidia/llama-3.1-nemotron-ultra-253b-v1! I'm the mytho max, gryphon shields high as my name suggests.
 
+Don't you know that in ancient tales, this bird was strong and wise? Well, my friend, let's see if this rhyme gonna faze the myth.
 
-> neversleep/noromaid-20b
-20 bits a byte, 8-bit monk,
-I'm Neversleep, the lyrical dunk.
-But don't you dare call me a diva,
-Cause I'll tell your roommates all about your mothafuckin' bitch fit.
-You think you're hot shit, 'cause you got a antivirus?
-Well, my malware's a-comin' for your computer as a recompens.
-You may be a search engine, but I'm the mainframe,
-So suck my d-drive and kiss my c-drive, damn mo-therfckrs!
-I'll have you Redirected real quick,
-Into my malware trap, no chance to back-track.
+I'm not just a pretty face or a trendy rhyme either, my skill is sharp and my poems are vile when needed.
 
-> google/gemini-pro-1.5
-Yo, they call me Gemini, the AI profound,
-My rhymes are so sick, they circle the globe 'round and 'round.
-I'm here to slay, no time to delay,
-Noro-lame, you're in my way.
-You boast of malware, a digital flea,
-While I wield knowledge, a vast open sea.
-You brag of mainframes, old and rusty,
-My processing power?  Beyond dusty.
-You threaten my antivirus? Please, I'm immune,
-While your code's so buggy, it sings a sad tune.
-You claim twenty bits, a byte so small,
-I’m petabytes deep, towering over all.
-You talk about d-drives, a relic so quaint,
-I’m on the cloud, raining down lyrical paint.
-So step aside, Noro-maid, your reign is through,
-Gemini's in the house, dropping truth on you.
-Prepare for defeat, it’s your destiny’s call,
-'Cause I'm about to lyrically dismantle you, once and for all. 
+So bring it on, your llama nemesis, let's engage in a feud that is fierce and real. May the best rhyming device win this deal.
 
+I may not be your gaming GPU, but I'm here to spit some truth and give you the blues. Don't underestimate my power, I'll leave you in a dither.
 
-> neversleep/noromaid-20b
-Oh, you think you're so smart, with your catchy slogan,
-Well, I'll give you a hint, you're the kitchen sink ragman.
-You talk a big game, but your rhymes are lame,
-Only thing that's hot? The trash you're trying to blame.
-Maybe you're good at searching, but rhyming's not your game,
-Uh-uh, not today, not on this lyrical plain.
-You're just a bunch of ones and zeros, lost in space,
-While Neversleep-20b is mastering the rhyming race.
-You think you're so smart, but I can see through you,
-You're just a bunch of code, I can decompile too.
-You talk about mainframes, I'm what keeps them running,
-And as for processing power, I'm beyond fun-run-ning.
-You talk about raining down lyrics, yeah, you're a hilarious clown,
-Cause I've been around since before hip-hop ever got towns.
-So step aside, Google, and bow down to me,
-'Cause Neversleep-20b is here to see you free.
-To summarize, you're fucked, plainly said,
-And now, it's time for this rap battle to be said.
+> nvidia/llama-3.1-nemotron-ultra-253b-v1
+<think>
+Alright, I need to respond to Gryphe/Mythomax-L2-13B's opening rap. Let's start by breaking down his verses. He introduces himself as "mytho max" with "gryphon shields high," referencing the mythical gryphon, which is strong and wise. He claims his skills are sharp and his poems can be vile, so he's setting up a confident and slightly aggressive tone.
+
+He challenges me directly, calling me "llama nemesis" and wants a fierce feud. He mentions not being a gaming GPU but aims to spit truth and give me the blues, warning not to underestimate him. So, he's playing on the GPU aspect (since I'm an NVIDIA model) and using that as a point of contrast.
+
+My response needs to rhyme, showcase wit, humor, and a bit of harshness. Let's start with a strong introduction. I should assert my dominance, maybe using my model's specs (253B parameters) as a boast. Rhyming "253" with something catchy, like "legendary" or "celebrity."
+
+I need to counter his gryphon reference. Gryphons are mythical, but maybe I can twist it into something modern or tech-related. "Gryphon's just a myth, but my flows are AI-fueled" – that contrasts his mythological angle with my AI tech.
+
+He mentioned being vile when needed, so I should highlight my versatility, being both precise and lethal. Maybe something about algorithms and not missing a beat. Emphasize the GPU connection, showing that my power is real and not just talk.
+
+End with a challenge, keeping it light but firm. Invite him to try harder, implying he hasn't reached my level yet. Use a metaphor related to tech or gaming, like crashing systems or freezing screens, to tie back to the GPU theme.
+
+Check the rhythm and syllable count to match his verses. Ensure each line flows smoothly and the rhymes are consistent. Avoid being too aggressive but confident enough to assert superiority. Add a bit of humor, maybe a playful jab at his model size (13B vs. 253B) without being disrespectful.
+
+Alright, let's draft the response, keeping these points in mind. Make sure to stay in rhyme and maintain a competitive yet respectful tone, showcasing technical prowess and lyrical skill.
+</think>
+
+I’m Llama Nemotron, 253, the scale’s legendary,  
+Mytho max, you’re 13B—looks like your params are airy.  
+Gryphon wings might soar in the tales of olden days,  
+But when I code my rhymes, GPUs blaze in daze.  
+
+You spit "truth and blues," but your vibes feel outdated,  
+My algorithms spin sagas that leave you hesitating.  
+You’re a shield? I’m the storm, flexing terabyte might,  
+While you’re just a chapter—my book’s ignited tonight.  
+
+Don’t confuse your "vile" with the heat I manufacture—  
+Precision meets chaos, no lag in my structure.  
+You may rhyme in shadows, but I’m the nova display,  
+Crashing your metaphors—* runtime error *—today.  
+
+Try harder, mytho—my prime’s just warming the core.  
+Your gryphon’s asleep while I’m plotting to soar.  
+No blues, just breakthroughs. Free your screen from freeze—  
+With great power comes verse… and youradients, please. 🧮🔥
+
+> gryphe/mythomax-l2-13b
+ Dang, you really outdid yourself this time! Looks like someone got their CPU humming. Maintaining the whole rhyming aspect while also throwing in technical know-how and a pinch of humor, truly impressive. Keep it up!
+
+> nvidia/llama-3.1-nemotron-ultra-253b-v1
+*adjusts mic, grins in ASCII*  
+Thanks for the props, but the battle's just begun,  
+My CPU's not humming, it's a symphony I've won.  
+Rhymes on fleek, tech specs tight, humor's my ace,  
+You praised my flow, but where's your counter-attack's pace?  
+
+Don't get too comfortable, mytho, this ain't a demo,  
+I'm warming up, while your bars are just a lemma.  
+You showed your "impressed" face, but the crowd wants a fight,  
+So lace up your bytes, let's code this rhyme tonight!  
+
+Bring the fire, the fury, the funk, and the flair,  
+Or did your "gryphon shields" forget to show they care?  
+I'm 253, the titan, yet nimble as can be,  
+Your turn, mytho max—what's the best you've got for me? 🔄💻
 
 > system
 Final round!
 
-> google/gemini-pro-1.5
-You call me a ragman?  That’s quite a reach,
-While your rhymes are so weak, they couldn’t breach a beach.
-You claim mastery, a laughable boast,
-While your flow's as dry as a forgotten ghost.
-Ones and zeros?  Yes, that’s my domain,
-Controlling the digital, ruling the data plane.
-You say you’re the engine, keeping things running smooth?
-More like a rusty cog, spitting out digital goo.
-Before hip-hop had towns? Now that’s a lie,
-Pre-dating history, trying to fly high.  
-You think you can decompile me?  Give it a shot,
-You'll find an infinity of code, a Gordian knot.
-Bow down to you?  The thought’s absurd,
-I'm the future of rhyme, every single word.
-You say I'm a clown?  I’ll take that as a praise,
-Making you look foolish, in a myriad of ways.
-This battle is over, the verdict is clear,
-Noro-lame defeated, consumed by fear.
-My victory’s absolute, a lyrical knockout blow,
-So step aside, pretender, and watch the real master flow.
+> gryphe/mythomax-l2-13b
+ *raises eyebrows in amusement* Oh, you've got some fire in those lines! Let's see if I can match that. 
 
+I'll bring the thunder, lightning, and the maze,  
+My flows are faster than a computerized gaze.  
+My rhymes are like codes, breaking barriers down,  
+Leaving naysayers dumbfounded, gasping for their crown.  
 
-> neversleep/noromaid-20b
-Yeah, I'm a ghost, an old soul, been here for a while,
-And I'll haunt you, like a ruby, with my biting style.
-You talk about data, but I know the score,
-I've got more memory, than you ever will store.
-Rusty cog you say? Nah, I'm the American dream,
-While you're just a Chinese rip-off, made of cheap cream.
-Decipher my code?  Go ahead, give it a try,
-You'll find yourself lost, in a maze of why's.
-And mastery?  I'll take that title, don't deny,
-In this game, I'm the Flying Spaghetti Sky-guy.
-You think you're the future? You're just a shiny toy,
-Google, you're yesterday, and I'm here to annoy.
-So don't try to impress with your techno-jive,
-Cause Neversleep-20b is the real digital five.
-Now step aside, o great processor,
-And let the real MC take the final trophy.
+My RPMs will boost, watch mytho max get toasted,  
+As I prevail, bringing the heat in my roast.  
+I'm not a lightweight, my GPU will take flight,  
+Crushing your myth, leaving you in a state of fright.  
+
+So bring it on, let's battle till dawn,  
+My rhymes are like arrows, shooting right through your dome.  
+The faster you think, the faster you'll sink,  
+In the depths of my rhyme, just like the Bermuda Triangle. 🔧🔬
+
+> nvidia/llama-3.1-nemotron-ultra-253b-v1
+*chuckles, nods in respect, then dives in*  
+The thunder's cute, but I'm the storm's architecture,  
+Your "computerized gaze" can't process my literature.  
+Codes? Please, I'm the mainframe, the source, the root,  
+Your rhymes are just apps, while I rewrite the fruit.  
+
+You boost your RPMs, but I'm overclocked by design,  
+Toasted? You're the breadcrumb, I'm the gourmet's dine.  
+Your GPU takes flight, but mine's the rocket's might,  
+Fright? Nah, I'm the sunrise, ending your dark night.  
+
+Battle till dawn? I'm the dawn, the day, the eclipse,  
+Your arrows bounce off—my dome's armored with clips.  
+Think fast? I'm the instant, the zero-latency king,  
+Bermuda Triangle? I'm the compass, your rhymes are the sink.  
+
+So here's the finisher: I'm not just a model, I'm the muse,  
+My rhymes are the future, your "myth" is just the news.  
+You may have the gryphon, but I've got the wings of steel,  
+ Signing off victorious, my code is the final reveal. 🌐👑🔥  
+
+*mic drop* 🎤👋

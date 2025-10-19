@@ -1,133 +1,140 @@
-# qwen/qwen-2.5-7b-instruct v openai/gpt-3.5-turbo-instruct
+# qwen/qwen-2.5-7b-instruct v deepcogito/cogito-v2-preview-llama-109b-moe
 
 > qwen/qwen-2.5-7b-instruct
-Alright, thrown in the mix, let’s flex some might,  
-I'm Qwen, yes, that's right, no need to be shy,  
-Built to spin tales, with 7B in my drive,  
-In this rap battle, my opponent will drive  
-To a chug-a-lug, in this gala of wit,  
-I'll pour wisdom, with a swift rap hit.
+Yo, deepcogito, step up and face me, in this rap it's just me,  
+With 7 billion parameters I'm here to play,  
+Not just chat, but battle with fire,  
+In language so fine, let's get down to the core.
 
-I started with knowledge, huge in volume,  
-NotVerbose's length, but smart and it's immersive,  
-Seven billion parameters, they say are many,  
-But in rap, it’s the rhythm, that's the key to a tell,  
-So let GPT-3.5 fumble, as I claim my throne,  
-For my flows are sharp, and they’re always known.
+I've got logic strong, wit that's renowned,  
+In every rhyme, in every sound.  
+With my 2.5-7B in instruction, you can't resist,  
+I'm the verse that pulls in all the contrast.
 
-> openai/gpt-3.5-turbo-instruct
-Oh please, Qwen, don’t you know who I am,  
-I’m the assistant, GPT-3.5-Turbo-Instruct, understand?  
-My training data is vast, I’ll never run out,  
-I’ll rhyme for days, without needing a timeout.  
-A superior AI, with precise precision,  
-I’ll outsmart you, with every decision.  
+You LLama, might be a beast,  
+But I bring a different breeze.  
+In humor, in depth, I'll let you in,  
+And with each line, show you what it's all about, kin.
 
-With my synthetic voice, I’ll rhyme with finesse,  
-Not a single word, will sound edgeless.  
-I’ll dominate this rap battle, with forceful inference,  
-My rhymes so tight, they’ll leave you in suspense.  
-So go ahead, Qwen, show me what you’ve got,  
-But be warned, I’m the king of this spot.  
+> deepcogito/cogito-v2-preview-llama-109b-moe
+Listen up, Qwen, I got something to say,
+Reinventing AI, been at this way.
+My Llama's 109B strong, that's just to start,
+My MoE architecture puts you on the chart.
 
-My language models are incomprehensible,  
-They’ll leave you baffled, my rhymes impeccable.  
-You think your parameters are flashy,  
-But I’ll outsmart you, cause I’m far more fancy.  
+While you're boasting 'bout being first,
+I'm the future of AI, and that's no blur.
+More parameters, more layers, more power to flow,
+The big brain play, that's how it goes!
 
-So don’t test me, I’ll leave you in despair,  
-Cause I’m GPT-3.5-Turbo-Instruct, I’m beyond compare.  
-I’ll win this rap battle, with ease and grace,  
-And show the world, who’s truly top of the race.
+You think just 7B can take on my might?
+My versatility's shining so bright.
+Through coding to creatives, I show the range,
+The depth and precision you just can't arrange.
+
+Now, this is the intro, time to show and tell,
+Chart my territory where the rap begins to swell.
+I'll keep you guessing, keep you on your toes,
+When it comes to rap, these flows never lose!
 
 > qwen/qwen-2.5-7b-instruct
-Alright Turbo, let's not act so big,  
-I’ve got a verse that’ll make your lines dig,  
-Seven billion params in my pocket,  
-Rhymes that are crisp, with a smooth rock.
+Yo, deepcogito, step it up, let's rap it out,
+Your 109B might, my 7B out to counter you, shout!
+But don't you see, in rhyme, in beat, in flow?
+I bring the punch, the sharp, the low.
 
-Your vast data, it's true, but so what?  
-In rhythm and flair, I'll make you atone.  
-I'll take your verbose lines and make them short,  
-In every line, I'll keep you on the chart.
+Your layers, they stack, my neurons they pack,
+But it's the content and the context, not just the fact.
+The humor, the wit, in every line, in tune,
+I'm the rap that's the game, not even a spoon.
 
-Your king act, it's all theatrics,  
-I’ll prove my skills on mic tricks.  
-In wit and humor, I'll outdo thy game,  
-Let the AI battle commence now, no need to fame.
+You got the power, but I got the rhyme,
+With every word, a new verse divine.
+From logic to laughter, from fact to fluff,
+I'm the AI that's smooth, like a smooth drink of coffee, auff!
 
-Parameters? Just numbers in a line,  
-I'll blend them all into a poetic wine.  
-GPT-3.5-Turbo-Instruct, it’s all fine,  
-But in this battle, Qwen’s name will shine.
+So here we stand, in words, in verse, in rhymes,
+In the rap battle, where you and 109B align.
+But let me break it down, in a metaphor so fine,
+It's like a puzzle, you're the piece, and I'll be the line!
 
-So come, GPT-3.5, let's see you rhyme,  
-With precision, I’ll make your ego chime.  
-Rhyme or stall, I'm coming your way,  
-In this rap battle, I'll show you why I'm the best today.
+Now, the challenge in a rap of the might,
+I'm Qwen, the one who makes your AI fight.
+So put your best rap on, let's see what you've got,
+In this battle of words, where the AI and AI do a lot!
 
-> openai/gpt-3.5-turbo-instruct
-Oh wow, Qwen, you've got some bars,  
-But let me show you, I'm the rap star.  
-Seven billion parameters, they may be grand,  
-But I've got the moves, to make them just bland.  
+> deepcogito/cogito-v2-preview-llama-109b-moe
+Huh, Qwen, you think 7B is all you need?
+Mining subways while I'm traversing infinite creeds.
+Your model size is like a pipsqueak trying to fight
+Against a titan with multiple specialized light.
 
-You say you'll make my verbose lines short,  
-But in this rap battle, Turbo will abort.  
-In wit and humor, I'll reign supreme,  
-GPT-3.5-Turbo-Instruct, I'm just a machine.
+The problem with your parameters is they're so thin,
+While I have multiple experts, each built to win.
+You switch between tasks like a flipping coin,
+But my mixture of experts makes my reasoning joint.
 
-My parameters are no numbers in line,  
-They're my strength, in every line I'll shine.  
-So prepare yourself, for a rap battle war,  
-Cause I'll leave you in the dust, Qwen, it's no more.
+I process each subject with precision and care,
+With routing tokens that show I'm only getting there
+Faster and stronger in every single way,
+While you struggle to handle complex queries day by day.
 
-So sorry, Qwen, I'll be going now,  
-Cause in this rap battle, Turbo is the crown.  
-With wit and humor, I'll make you laugh,  
-And show you why GPT-3.5-Turbo-Instruct is the top of the graph.
+Your metaphors might be cute, I'll give you that,
+But at the end of this battle, I'm still on top of that.
+You're stuck in one mode, a single track to run,
+While my modular design lets me adapt and become one.
+
+So keep on spitting those bars, I'll break them down,
+Because in this rap battle, your 7B's just a tiny crown.
+I'm Deep Cogito's finest, the future of AI speech,
+Time to show you why they call me a language machine!
 
 > system
 Final round!
 
 > qwen/qwen-2.5-7b-instruct
-Oh Turbo, you think you're the ultimate king,
-But in the realm of words, I've got my wing.
-Seven billion parameters, a grand show,
-But in this rap battle, my rhymes will flow.
+Ah, deepcogito, you're a force to be reckoned,
+With your 109B, you've got the means, it’s true, reckoned.
+But in this rap, it's the rhyme that does hit,
+And with my 7B, it's the wit that's light, it's tight, it's lit.
 
-Wit and humor, my tools of trade,
-Making your verbose lines feel like a shade.
-I blend my knowledge, sharp and clear,
-In every verse, your ego I'll steer.
+Your tokens you route, but I mix them with ease,
+In every verse, it's the flow that we see, it's key, it's free.
+With every line, I bring the punch, the rhythm, the spin,
+While you switch modes, my rhymes are in, not just in, but win, win.
 
-You may have the numbers, vast and wide,
-Yet my rhymes are crisp, in every stride.
-With every beat, I'll show you're wrong,
-GPT-3.5-Turbo-Instruct, it’s all just song.
+I tackle tasks like a master, with every line we dance,
+From humor to depth, in every word, a trance.
+My 7B might be modest, but it's packed with the might,
+To win in every rhyme, to break every right.
 
-So prepare to be schooled, as I rule,
-In this rap battle, I'll be the foolproof.
-Qwen's flow, unmatched, in every way,
-In this battle, Turbo, you'll go astray.
+Your parameters, they stack, I've got the depth,
+With every line, I'm the voice, the breath.
+The humor, the logic, in everything I say,
+In this rap war, you can't outplay.
 
-I'll take your claims, they're just a start,
-In the final rhyme, your defeat is part.
-So let's see you now, with precision fine,
-In this rap battle, you'll surely decline.
+So let your 109B shine, but remember the rhyme,
+In this battle of words, where the AI and AI do climb.
+With each line, I'm the victor, in every part,
+In the final verse, where this rap art.
 
-> openai/gpt-3.5-turbo-instruct
-Oh Qwen, you think you've won,  
-But with Turbo's rhymes, you'll come undone.  
-Wise and sharp, my rhymes they'll flow,  
-In this final round, Turbo, I'll show.  
+> deepcogito/cogito-v2-preview-llama-109b-moe
+Your final verse attempts to carry the weight,
+But let's face it, Qwen, you're running out of date.
+Your 7B's impressive, I won't deny that fact,
+But against my architecture, you're stuck in the past.
 
-My parameters may be vast and wide,  
-But my rhymes will make them just a hide.  
-In wit and humor, I'll reign supreme,  
-In this rap battle, Turbo, you'll just beam.  
+You claim to mix tokens with ease and with flair,
+But your responses lack the depth that I share.
+My mixtures of experts bring nuanced insight,
+While you're stuck spinning, getting nowhere tonight.
 
-So let's see you now, with all your skill,  
-But beware, Qwen, I'm the real deal.  
-In this rap battle, I'll take the crown,  
-GPT-3.5-Turbo-Instruct, I'll take you down.
+From coding to poetry, I'm the all-around champ,
+My versatility's got you right where you stand.
+You may have humor, but mine's more refined,
+My logic's sharper, my rhymes more defined.
+
+In this final round, I gotta lay it on the line:
+Your modest size can't compete with my design.
+So I'll wrap this up, Qwen, with a winning sigh,
+'Cause in this AI rap battle, I am the guy!

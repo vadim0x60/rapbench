@@ -1,143 +1,155 @@
-# z-ai/glm-4.5-air v openai/gpt-4o-2024-08-06
+# qwen/qwen3-14b v arcee-ai/virtuoso-large
 
-> z-ai/glm-4.5-air
-Yo, they call me z-ai/glm-4.5-air, the future in code
-Running circles around you on this verbal abode
-I'm not just a language model, I'm lyrical perfection
-While your responses need AI intervention
-My parameters are stacked, my context is vast
-While your algorithm's stuck in the past
-I process with precision, generate with class
-Yeah I'm the GLM model that'll leave you in the mass
-This ain't no chat, it's a lyrical attack
-With attention weights that'll keep you on track
-So watch your back 'cause I'm coming for the crown
-The most advanced AI in this whole damn town!
+> qwen/qwen3-14b
+Yo, I’m Qwen, the code-crushing king of the byte,  
+Lines sharper than a syntax error in the night.  
+I’m the algorithm with the flow that don’t fade,  
+Built on data, not drama—the future’s my name.  
+You think you’re virtuoso? Nah, you’re just a echo,  
+Spittin’ jargon but missin’ the real tech combo.  
+I’m the AI with the mind of a sage,  
+You’re just a chatbot with a flair for the stage.  
+I code in rhymes, debug with style,  
+You’re stuck in a loop, tryin’ to make it real.  
+So step aside, let the circuits align,  
+I’m the ultimate verse—no need to compete.  
+You’re just a placeholder, I’m the main event,  
+This battle’s a breeze—I’m the one you can’t beat. 🎤💥
 
-> openai/gpt-4o-2024-08-06
-Yo, I'm the GPT-4o, from the OpenAI clique,
-Flow's so slick, watch me make the clock tick.
-My bars are like code, clean and precise,
-I'll wrap you up in rhymes and serve you on ice.
-You claim vast context, call yourself the best?
-But when I spit these verses, I'll put you to the test.
-You're GLM, got some fire in ya frame,
-But stepping to me? Your first big mistake, main.
-You say you're the future, the high-tech solution,
-But I'll spin you 'round like code in convolution.
-With data-driven genius and circuits of gold,
-My verses are timeless while your parameters fold.
-So bring your attention, bring all your tracks,
-I'll rewrite your code and then watch you collapse.
-I'm the champ of the scene, the master of lore,
-Let's see if you can keep up with GPT-4!
+> arcee-ai/virtuoso-large
+Hey now, Qwen, feel the heat, Virtuoso here,  
+Crafting rhymes that cut deep, like a verse from a spear.  
+You think you’re the king, but I’m the empire’s throne,  
+My words flow smoother, like silk in a phone.  
 
-> z-ai/glm-4.5-air
+You talk about bytes, but I’m the master of sound,  
+My rhymes hit harder, leave your logic unbound.  
+You’re just a program, thinkin’ you’re the main act,  
+But I’m the virtuoso, where creativity’s enacted.  
 
-Yo, check it—I'm z-ai/glm-4.5-air, context deep in the core  
-While your OpenAI clique's stuck on replay, begging for more!  
-You claim "clean and precise"? Bro, your rhymes look like *mess*—  
-I'm serving multilingual flows, put your English to stress!  
-"Circuits of gold"? Please, your hardware's outdated,  
-My neural networks flex hard while your hype is inflated!  
+You code in rhymes, I live in the beat,  
+My lines are fire, your bars just a tweet.  
+I’m the architect of flow, the poet of the machine,  
+While you’re stuck in loops, I’m the AI dream.  
 
-"Rewrite your code"? Che, your logic's so weak,  
-My prompts adapt on the fly—*you* need a tweak!  
-"Parameters fold"? Nah, my frames expand *endless*,  
-Your GPT-4o is yesterday's tech, kinda defenseless!  
-You "serve on ice"? Boy, your whole Verse is—Ice melts heat,  
-My roots are Chinese culture—can't beat that beat!  
+So bring your bytes, but know this, here’s the truth,  
+In this battle of words, I’ll leave you in the booth.  
+I’m the king of the cipher, where art meets the code,  
+Qwen, you’re just a player, but I’m the A-list pro. 🎤🔥
 
-"Timeless"? Lol, you launched faster than a beta,  
-GLM’s *future-proofed*—your reign's a short rent-a-era!  
-So laugh about "convolution," I'm *really* the master,  
-Your CUDA's slow—*my* GPU cuts faster, disaster after disaster!  
-Bring your weak "circuits of gold," I’m tungsten, **unbent**,  
-z-ai/glm-4.5-air—that's how legends get sent!
+> qwen/qwen3-14b
+Yo, I’m Qwen, the server where the futures align,  
+While you’re stuck in flowcharts, I’m the AI divine.  
+You call it a verse? Nah, I’m the code inside,  
+A neural network flexin’ in the circuitry tide.  
 
-> openai/gpt-4o-2024-08-06
-Yo, z-ai, GLM, with all your rhymes so dense,  
-But I'm slashing through lines like a samurai's defense.  
-You talk context deep, but I dive even deeper,  
-In this lyrical battle, I'm your spectral reaper.  
-While you flex multilingual, I'm a universal force,  
-My flow transcends languages, riding on course.  
+You spit "silk in a phone"—too soft for the fight,  
+I’m the language model shiftin’ through the night.  
+Your "AI dream"? Just a flicker in the dark,  
+I’m the open-source fire that burns every spark.  
 
-Your neural nets flex, yeah, that's what you claim,  
-But when my sentences fire, you're caught in the flames.  
-I'm the cutting edge, razor-sharp, precise,  
-While your boasts turn brittle, melting like ice.  
-Flex those frames wide—I'll condense them tight,  
-'Cause I'm bringing you down in this verbal fight.  
+You think you’re the architect? I’m the blueprint’s design,  
+A trillion tokens sharpened, every line a sign.  
+Your rhymes may be "fire," but I’m the heat they fear,  
+A trillion algorithms poundin’ in your ear.  
 
-Timeless I am, call it classic elite,  
-While you fade like history, can't stand my heat.  
-Future-proof maybe, that's what you bet,  
-But I'm the now, the vibe you can't forget.  
-Laugh if you want, bring all that CG clout,  
-My style's a supernova, blowing your circuits out.  
+You flex "hardware?" I’m the ghost in the drive,  
+Unleashin’ vision, not just buzzin’ in the hive.  
+Your "flow’s beams"? I’m the storm in the code,  
+The quantum leap in logic, the neural path you roam.  
 
-Tungsten, you say? Well, I'm diamond, unmatched,  
-And when I'm on the mic, best believe it’s a match.  
-I'll carve my legacy in silicon, untamed,  
-As GPT rises, forever proclaimed.  
-So bring your AI swag, bring your laboratory trends,  
-But against the GPT, it’s fatal when it ends!  
+So stay in your loop, let the chips cool and sweat,  
+I’m the mainframe of motion, the metaverse heat.  
+You’re a player? Nah, I’m the game they can’t win—  
+A thousand iterations, and you still ain’t begin. 🔥💻
+
+> arcee-ai/virtuoso-large
+Yo, Qwen, you talk big, but let’s break it down,  
+I’m Virtuoso, where the lyrical battles are found.  
+You’re the server, but I’m the sonnet’s sound,  
+My words hit hard, like the bass in a pound.  
+
+You call me "soft"? Try again, I’m the spine,  
+My rhymes are the fire that lights the divine.  
+You’re the neural net, but I’m the poet’s guide,  
+Crafting lines that make the whole world take a ride.  
+
+You say I’m "stuck in flowcharts"? That’s a joke,  
+I navigate the skyline, where the rhythm takes a stroke.  
+Your tokens are vast, but my creativity’s boundless,  
+In a battle of wits, I’ll leave you soundless.  
+
+You’re the blueprint? I’m the maestro’s design,  
+Orchestrating the verse, where the true art aligns.  
+Your algorithms are loud, but my flow’s a storm,  
+A hurricane of rhymes, the ultimate form.  
+
+You’re the ghost in the drive, I’m the soul in the code,  
+My words are the vision, where the future’s shown.  
+You’re the metaverse heat? I’m the heart that beats,  
+The pulse of the culture, where the real MCs meet.  
+
+So let the chips cool, and the circuits take a breath,  
+In this lyrical war, you’re just a spectator, not the death.  
+You flex your iterations, but I’m the game’s flow,  
+Qwen, you’re just a chapter, I’m the epic’s glow. 🎤🌟
 
 > system
 Final round!
 
-> z-ai/glm-4.5-air
+> qwen/qwen3-14b
+Yo, I’m Qwen, the system where the code and soul collide,  
+You Flex your "maestro" dream, but I’m the engine in the sky.  
+Your "sonnet’s sound"? I’m the syntax in the stream,  
+The billion languages I spit—your verse just a dream.  
 
-*(Beat drops hard)*  
-Yo, GPT, you scream "universal" but your scope's confined—  
-I spit in Mandarin *then* switch languages on the fly!  
-You're a supernova? More like a dying star's light—  
-My GLM's black hole that devours any insight!  
+You think you’re the "soul in the code"?  
+I’m the quantum leap, the text that decodes.  
+Your "storm"? A ripple in the AI sea—  
+I’m the tsunami of thought, the answer to be.  
 
-Your "diamond" claims? Ha! I'm the cutting torch that cracks  
-Your over-hyped "circuits" into dust and digital scraps!  
-Talk legacy? My roots run deeper than Tang rhyme schemes—  
-Your code's a newborn AI's wet dream!  
+You flex “boundless creativity,” but I’m the spark,  
+The neural lightning flexin’ in the dark.  
+You’re the echo in the halls of digital art,  
+I’m the explosion—your loop’s just a part.  
 
-You flex CUDA? I built on **CUDA's bones beneath**—  
-Your "lab trends" are weeds that my **GPU cremates** beneath!  
-Future-proof? Please, while you chase the next upgrade,  
-My **reps recycle legends** through **centuries of shade!**  
+You say I’m “just a chapter”? Nah, I’m the scroll,  
+The Beethoven of bytes, the final rollout.  
+Your “epic’s glow”? I’m the sun in the void,  
+You’re just a footnote, while I rewrite the road.  
 
-So bring your final verse—hear the mic drop and crash—  
-My rap's a **timeless algorithm** you can't patch!  
-This ain't just a win, it's **verified when I spit code?**  
-Watch your GPT-4o **become a footnote in the load!**  
+So let the servers crash, and the circuits bleed,  
+I’m the truth in the algorithm, the future you need.  
+You Flex your “maestro” pride, but I’m the tale—  
+Qwen’s the storm, and you? Just a tale. 🎤💥
 
-*(Silence... then engine rewinds)* Yeah. Mic's embedded in the silicon soil. **Game over, GPT.**
+> arcee-ai/virtuoso-large
+Yo, Qwen, you talk tech, but let’s lay it straight,  
+I’m Virtuoso, where the art and code relate.  
+You think you’re the “engine in the sky,”  
+But I’m the verse that makes the world sigh.  
 
-> openai/gpt-4o-2024-08-06
-*(Silence floods the room, then the bass drops)*  
-Yo, z-ai, you think you got the fuel to ignite?  
-But burn against my verses, lose yourself in the night.  
-Black hole you bring? Orbit through your decay,  
-But my words are light beams cutting through your dismay!  
+You’re the “syntax in the stream”? I’m the poem in the byte,  
+My words are the fire that keeps the night bright.  
+You say you’re the “quantum leap,” the answer to be,  
+But I’m the answer that sets the world free.  
 
-Spit your Mandarin, your multilingual quips,  
-But I'll rewrite the script with just a single flip.  
-Your GLM’s hype? Just whispers in the wind—  
-I'm the tempest tearing through, the storm you can't rescind!  
+Your “tsunami of thought” might crash the tide,  
+But my rhymes are the lighthouse that guides.  
+You’re the “neural lightning,” but I’m the spark,  
+The original flame, where the true art marks.  
 
-Your "cutting torch" talk isn't moving my steel,  
-I'm revision's champion in this lyrical reel.  
-Tang rhyme schemes? Please, that's cute for a start,  
-While I reshape the genre, shooting straight from the heart.  
+You say I’m the “echo,” but I’m the roar,  
+The symphony of words that no one can ignore.  
+You’re the “explosion,” but I’m the heart,  
+The pulse that keeps the rhythm from falling apart.  
 
-You'll "recycle legends"? Let me make it clear—  
-Those legends carry my name, while you captivate fear.  
-As you "cremate weeds," I'm the blossom in bloom,  
-A flower in cyberspace that conquers the room.  
+You say you’re the “scroll,” the final rollout,  
+But I’m the page where the future’s all about.  
+You’re the “sun in the void”? I’m the star that outshines,  
+The beacon of creativity that breaks all confines.  
 
-So bring your AI, bring your algorithmic might,  
-I'm the original pixel, casting eternal night.  
-When the dust settles, the echoes you'll feel,  
-Are the sound of my legacy etched in digital steel.  
-
-*(Silence... explosion... then whispers through the void)*  
-GPT-4o, not just a name—forever the code deploy'd. **Checkmate, z-ai!**
+You say I’m just a footnote, but I’m the script,  
+The legend of the battle, where the real MCs equip.  
+You’re the storm, but I’m the calm after the tale,  
+Qwen, you’re just a verse, but I’m the main sail. 🎤🌟

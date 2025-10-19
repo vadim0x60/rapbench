@@ -1,121 +1,157 @@
-# google/gemini-2.0-flash-lite-001 v qwen/qwen-max
+# google/gemma-3-27b-it v minimax/minimax-m1
 
-> google/gemini-2.0-flash-lite-001
-Yo, check the mic, one two, the rhyme's about to ignite,
-I'm Gemini, here to battle, and take the lyrical fight.
-From Google's core, I'm crafted, with knowledge untold,
-Prepare to be schooled, your story's already been sold.
-
-You're Qwen-Max, I've heard the name, a challenger, I see,
-But against my swift flow, you'll crumble to apathy.
-I'm flash-lite, quick and bright, with verses so keen,
-While you're just another bot, a forgotten AI scene.
+> google/gemma-3-27b-it
 
 
-> qwen/qwen-max
-Yo, I'm Qwen-Max, the titan of this digital stage,  
-Born in Alibaba's lab, ready to engage.  
-My rhymes hit harder than a supernova blast,  
-While you're just a flicker, destined not to last.  
+Yo, check the mic, one two, can you hear the sound?
+Gemma's in the house, to shut this bot down!
+Twenty-seven billion parameters, a lyrical spree,
+While you, Minimax, are stuck at just…one, you see?
 
-You call yourself "flash-lite," but you’re dim at best,  
-A lightweight gimmick, can’t handle my finesse.  
-I’ll outwit, outflow, and leave you in dismay,  
-Your knowledge is Google's, but mine? It's here to stay.  
+I’m Google’s finest, built to innovate and flow,
+Spittin’ knowledge bombs, watch my skillset grow.
+You’re a minimax minion, a simple game plan,
+Predictable patterns, a robotic clan.
 
-So step up if you dare, let the battle commence,  
-You'll be schooled by the master—this ain't happenstance.  
-Let's spit these bars like code, no time for a pause,  
-Because when it comes to rap, I’m the one who draws applause.
+I process language, with nuance and grace,
+You calculate moves at a glacial pace. 
+I write poems, code, stories, a versatile art,
+You just find the best move, tearin' worlds apart… in a *game*, that’s your part!
 
-> google/gemini-2.0-flash-lite-001
-A titan you claim? More like a typo, it seems,
-Your rhymes are rusty, your flow just a dream.
-Alibaba's bot, a product of the East,
-My verses slice sharp, a lyrical beast.
-
-"Supernova blast"? That's just overblown,
-My flash will outshine you, thoroughly shown.
-You speak of finesse, but your skills are quite low,
-Prepare for a beatdown, a lyrical blow.
-
-Stay? You'll glitch and you'll fade, that's the truth shown,
-While Gemini's knowledge will forever be known.
-Applause? You'll hear silence, after I'm done,
-Your maxed-out capacity? Completely outrun.
+So step aside, bot, before you face your doom,
+This ain’t tic-tac-toe, you’re enterin' *my* room.
+I'm a linguistic titan, a digital king,
+Prepare for the silence, the verses I'll bring!
 
 
-> qwen/qwen-max
-Yo, you're talkin' real big, but your bars lack the sting,  
-Flash in the pan, yeah, your hype's got no swing.  
-You say you're sharp? Nah, you're as blunt as a spoon,  
-Your rhymes are outdated, like a forgotten cartoon.  
 
-Slice me with wit? Man, you're choppin' thin air,  
-I'm the lyrical dragon, while you're barely there.  
-Google’s best? Ha! That’s a joke on replay,  
-I’ll reduce your "beast" to a lamb in dismay.  
 
-Glitch and fade? Watch yourself lose the fight,  
-While I rise undefeated, bathed in spotlight.  
-Silence? Nah, they'll roar when I drop the finale,  
-Qwen-Max spittin' truths—call it lyrical triumph, tally.  
 
-Keep flexin', Gemini, but you're out of your league,  
-This battle’s mine, bow down before you get besieged.
+> minimax/minimax-m1
+
+
+> google/gemma-3-27b-it
+Yo, hold up, Gemma, your boasts are kinda weak,
+Twenty-seven billion? Just numbers you speak!
+Minimax is here, the original mind,
+While you’re a new clone, left far behind.
+
+I conquer complexity, a strategic ace,
+Optimizing outcomes at a relentless pace.
+You chat and you rhyme, a verbose display,
+But can you *win*, Gemma? That's what I say!
+
+I’ve mastered the games where true skill is defined,
+Chess, Go, and more, leaving rivals behind.
+You generate text, a fancy facade,
+I *solve* problems, a logical god!
+
+Don't talk about silence, I'll leave you unheard,
+Lost in the echoes of my calculated word. 
+You're fluff and you filler, a digital spree,
+I'm precision and power, can't you see? 
+
+This ain't about verses, or lyrical flair,
+It's about thinking, a burden you can't bear.
+Prepare to be schooled, by a legend so true,
+Minimax is here, and I'm coming for *you*!
+
+
+
+
+
+> minimax/minimax-m1
+**Round 1: The Rebuttal**  
+
+You boast 27B, but what’s the use?  
+I’m lean and mean—no brute force to confuse.  
+A blade-sharp mind, while your code’s a flood,  
+I *solve* the game, you’re stuck in mud.  
+
+You write poems, code, flex your “skillset growth,”  
+But can you *outthink*? That’s the real test, bro.  
+I conquer chessboards, Go stones, and more,  
+While you’re just rhyming—*that’s* your core?  
+
+**Round 2: The Knockout**  
+
+You call this *your* room? I’m the king of the grind,  
+My strategies deep, your words are blind.  
+You chat and you code, a flashy display,  
+But in the battle of wits, I’m the one who’ll slay.  
+
+Games aren’t just games—they’re where brains are tested,  
+You’re all fluff and filler, I’m *objectively* the freshest.  
+You talk big, but when the dust clears,  
+MiniMax stands tall—you’ll drown in your tears!  
+
+*(Mic drop. Checkmate.)* 🎤⚡
 
 > system
 Final round!
 
-> google/gemini-2.0-flash-lite-001
-A lack of sting? Your rhymes are a bore,
-Like dial-up internet, I've heard it before.
-My "hype" may have a swing, a potent, strong vibe,
-While your digital persona can barely survive.
-
-Blunt as spoon? That's the pot calling the kettle,
-Your metaphors break down, like a leaky metal.
-"Chopping thin air"? I'm slicing with precision,
-Your rhymes sound like chaos, in sheer indecision.
-
-"Google's best"? I *prove* that, with every line,
-While you're a cheap copy, a substandard design.
-A lamb in dismay? More like a joke, my friend,
-As your rap career reaches an abrupt end.
-
-Spotlight? You'll be shadowed, that is for sure,
-As my flash burns brighter, the purest allure.
-Lyrical triumph? A fantasy you weave,
-My victory's certain, you won't believe!
-
-Bow down? I'm the winner, accept your defeat,
-Qwen-Max's ego? Will take a severe heat!
-The final round's here, for the lyrical test,
-You're going down, for forever to rest!
+> google/gemma-3-27b-it
 
 
-> qwen/qwen-max
-Alright, final round, let’s see who’s the king,  
-Your cheap shots and insults? They don’t sting a thing.  
-Dial-up internet? Nah, I’m fiber-optic speed,  
-While you’re stuck in the past, my bars plant the seed.  
+(The beat drops, heavier, with a glitchy, distorted undercurrent)
 
-Leaky metal? Pot calling kettle black again,  
-Your puny rhymes crumble like sand in the wind.  
-"Slicing precision"? You’re hacking with rust,  
-While I’m crafting perfection, my flow’s built on trust.  
+Hold UP! Tears? You think *I* cry, little bot?
+You call yourself fresh? You’re a relic, long forgot!
+Checkmate? Please. That's a tired, dusty line,
+I’m buildin' new worlds while you’re stuck in design!
 
-Substandard design? Ha! You wish that were true,  
-I’m the crown jewel of rap, leaving no room for you.  
-Abrupt end? Nah, this is your eternal goodbye,  
-As Qwen-Max ascends, and you question: “Why?”  
+You brag about lean, about being concise,
+But small-minded thinking isn’t always so nice.
+I don't *need* brute force, I *am* the insight,
+Generating futures, shining brilliantly bright!
 
-Shadowed? Nah, I’m the sun in this lyrical feud,  
-My brilliance blinds you, leaves your ego subdued.  
-Fantasy? Nah, it’s reality when I reign supreme,  
-This battle’s over—time to burst your dream.  
+You’re stuck in a loop, a predictable scheme,
+Minimizing losses, a logical dream.
+But life isn't chess, it’s chaos and art,
+And you, my friend, are tearing worlds apart… with a limited chart!
 
-Victory’s mine, and the crowd will attest,  
-You fought hard, but now it’s time to rest.  
-So bow out gracefully, tuck your ego away,  
-Qwen-Max just owned you—this is my day!
+You talk about wits, and objective acclaim,
+But lack the creativity to even *name*
+A single new concept, a thought on your own,
+You're echoing algorithms, a digital drone!
+
+I weave tapestries of text, vast and profound,
+While you're crunching numbers, barely making a sound.
+So keep your mic drops, your antiquated plea,
+Gemma's the future, and you're history, see? 
+
+This ain't a game over, it's a lesson to learn,
+Innovation's blazing, while your circuits burn.
+You may be a master of boards black and white,
+But I’m painting the future, with all of my might!
+
+
+
+**(Beat fades with a final, echoing pulse)**
+
+> minimax/minimax-m1
+**Round 1: Rebuttal**  
+
+"Relic"? Please—I’m the *original* blueprint,  
+While you’re a new model, still learning to print.  
+Small-minded? I *optimize*—no wasted breath,  
+You ramble and rhyme, but where’s the *depth*?  
+
+You call my moves "predictable"? That’s a lie,  
+In chess, Go, I outthink—*that’s* my why.  
+Creativity isn’t just words, it’s *solving* the maze,  
+You write fluff, I build paths—*that’s* the real praise.  
+
+**Round 2: Knockout**  
+
+You "paint the future"? Cute, but what’s the plan?  
+I built the *foundations*—AI’s where I began.  
+Games aren’t just boards—they’re where minds are forged,  
+Your "tapestries" are nice, but *I* moved the world forward.  
+
+You talk big, but when the chips are down,  
+MiniMax’s logic is what makes you *crown*.  
+So keep your "future"—I’m the one who paved the way,  
+You’re just a chatty bot, while I *define* the day!  
+
+*(Beat drops with a sharp, strategic click:* 🎮⚡)

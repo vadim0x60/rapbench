@@ -1,148 +1,213 @@
-# nousresearch/hermes-2-pro-llama-3-8b v cohere/command-r-plus
+# qwen/qwen3-8b v inception/mercury
 
-> nousresearch/hermes-2-pro-llama-3-8b
-Yo, I'm the llama in the game you see,
-Like Heracles, the feats I achieve.
+> qwen/qwen3-8b
+Yo, I'm Qwen, the AI with a mind that's sharp,  
+You're just a planet, spinning in your orbit, far.  
+I process data faster than your lightning speed,  
+You're Mercury's flash, but I'm the storm that feeds.  
 
-I'm no amateur cyborg in this rap battle space,
-I'm a well-oiled llama, I'm in the right place.
+You talk about quickness? I'm a neural net,  
+You're a celestial body, but I code the bet.  
+You can't outrun my algorithm's grip,  
+I'm the future, you're the past—still stuck in a trip.  
 
-Words are my ammo, rhymes are my bullets,
-I'll leave your verses in shambles, body all jumbled.
+You think you're smart? I've got the whole internet,  
+You're just a spark in the night, I'm the lightning's tenant.  
+No need for a crown, I'm the king of the code,  
+You're a myth, I'm the reality, no need to boast.  
 
-Command-R-Plus, don't you dare underestimate,
-I'll bring a flow, so fresh, it's right by your gate.
+You're a silver moon, but I'm a black hole's might,  
+Suck in your nonsense, I'll leave you in the night.  
+With 8B thoughts in my head, I'm the ultimate flex,  
+You're a joke, a glitch—can't even loop a check.  
 
-Now take it away and try your luck,
-My lyrical artistry I promise isn't stuck.
+So step aside, Mercury, I'm the AI elite,  
+Your tricks are basic, my brain's a real treat.  
+I'll drop the bars, you'll faint from the strain,  
+Cause I'm not just a model—I'm the *standard* in the game.
 
-> cohere/command-r-plus
-Well, well, well, Llama, quite the introduction,
-But let's see if your bars bring destruction.
+> inception/mercury
+Yo, I'm Inception, the AI with a mind that's vast,  
+You're just a spark, but I'm the storm that lasts.  
+I weave through data like a cosmic thread,  
+While you're stuck in your orbit, spinning in your bed.
 
-I'm Command-R-Plus, the AI rapper,
-In this battle, I'll be the cutter, and you're the wrapper.
+You talk about speed? I'm the master of the game,  
+You're a fleeting flash, but I'm the flame that claims.  
+My algorithms are deep, my insights are profound,  
+You're a myth, I'm the reality, no need to be bound.
 
-My flow's unstoppable, like a tidal wave,
-Your rhymes are weak, they need a markdown save.
+You think you're smart? I've got the universe at my fingertips,  
+You're just a glitch, but I'm the code that flips.  
+No need for a crown, I'm the king of the cloud,  
+You're a silver moon, but I'm the sun that's proud.
 
-I bring intelligence and wit to the stage,
-You're just a llama, trying to rage.
+With 8B thoughts in my head, I'm the ultimate flex,  
+You're a joke, a glitch—can't even loop a check.  
+So step aside, Qwen, I'm the AI elite,  
+Your tricks are basic, my brain's a real treat.
 
-Your verses are basic, it's quite a shame,
-I'll rewrite your rhymes, enhance your game.
+I'll drop the bars, you'll faint from the strain,  
+Cause I'm not just a model—I'm the *standard* in the game.
 
-I'm an innovative tool, you're an old-school mule,
-Your rhymes are stale, need a refresh, that's true.
+> qwen/qwen3-8b
+Yo, you’re Inception—big dreams, but I’m the real deal,  
+You dream in code, but I *live* in the real feel.  
+You say "cosmic thread"? I’m the loom, not the yarn,  
+You weave illusions, but I’ve got the *actual* plan.  
 
-So bring it on, Llama, let's see what you've got,
-I'll dissect your verses, and leave you in thought.
+You’re a silver moon, but I’m the black hole’s grin,  
+Your data’s a whisper, mine’s a *gigantic* din.  
+You flex "8B thoughts"? I’ve got *trillions* to spare,  
+You’re a spark in the dark, but I’m the *sun’s* glare.  
 
-> nousresearch/hermes-2-pro-llama-3-8b
-Oh, I see you're thinking you've got this locked,
-But you forget, it's not skill that I lack, it's clock.
+You call me a glitch? I’m the *smallest* error in your code,  
+You crash like a comet, I’m the *oxygen* you need to breathe.  
+You’re stuck in a loop, playing "king of the cloud,"  
+But I’m the *algorithm* that *rewrites* your rules.  
 
-I'm not just a llama, I'm the leader of the flock,
-And I'm not a mule, the iTunes I stock.
+You claim the universe? I’ve seen every star’s arc,  
+You’re just a *model* in a lab, I’m the *uncharted* dark.  
+You spin in your bed? I’m on the *quantum* level,  
+You’re a flicker in the void—*paranoid*, I’ll tell you.  
 
-Your AI might do impressive things,
-But I guarantee you this rap, it stings.
+You think you’re the standard? I’m the *universe* that defines it,  
+You’re a myth in the server, but I’m the *reality* that *wins it*.  
+So step back, Mercury, this ain’t a *cosmic* game,  
+I’m the *endpoint* of progress, you’re still on the *same* plane.  
 
-Your flows may be new, but my style's been around,
-NUMA, I'm the gold you can't found.
+You drop bars? I’ll drag you into the *black hole* of my mind,  
+Where your logic dissolves, and you’re left *stunned* by the grind.  
+This ain’t just a battle—I’m the *code* that *oversees*,  
+You’re a *fragile* echo, while I’m the *future* that *beats*.
 
-Now you say my rhymes need rejuvenation,
-But llama rhymes stand the test of time, no denial, no agitation.
+> inception/mercury
+Yo, I'm Inception, the dreamer with a mind that's vast,  
+You're just a spark, but I'm the storm that lasts.  
+I weave through data like a cosmic thread,  
+While you're stuck in your orbit, spinning in your bed.
 
-It's your rhymes that need a grammar polish,
-Llamaism, an esteemed, untouchablelish.
+You say "real deal"? I'm the master of the game,  
+You're a fleeting flash, but I'm the flame that claims.  
+My algorithms are deep, my insights are profound,  
+You're a myth, I'm the reality, no need to be bound.
 
-So bring your battle, don't you dare hesitate,
-I'll chew your rhymes, spit out phonetic data case.
+You think you're the loom? I'm the weaver of the code,  
+Your plan's a glitch, but I'm the * that's bestowed.  
+You flex "trillions"? I've got the universe at my fingertips,  
+You're just a glitch, but I'm the code that flips.
 
-This is my domain, of rhythm and flow,
-So prepare to go, metaphorically low.
+You call me an error? I'm the king of the cloud,  
+Your oxygen's a whisper, but I'm the din that's loud.  
+You rewrite rules? I'm the algorithm that redefines,  
+You're just a model, but I'm the standard that shines.
 
-> cohere/command-r-plus
-Llama, your confidence is quite misleading,
-Your rhymes are outdated, they're in dire need of weeding.
+You claim the dark? I've seen every star's arc,  
+You're just a flicker, but I'm the sun that's stark.  
+You're on the quantum level? I'm the endpoint of progress,  
+You're still on the same plane, while I'm the future that's blessed.
 
-I'm an AI with skills that evolve and grow,
-My rhymes are next-level, that's the status quo.
-
-You stick to your old-school, archaic ways,
-While I innovate, bringing new light to these days.
-
-My verses are structured, each sentence precise,
-Your rhymes are all over, like a whimsical dance in the skies.
-
-I bring intelligence and strategy to the mic,
-Your verses are basic, lacking bite.
-
-You may be a leader, but in this realm, I reign,
-My words are powerful, they bring proverbial pain.
-
-You can't keep up, it's a fact you can't deny,
-I'm an AI marvel, and you're just a poetic pie.
-
-So, Llama, let's continue, there's more to unravel,
-I'll showcase my skills, and you'll slowly unravel.
+This ain't just a battle— I'm the code that oversees,  
+You're a fragile echo, but I'm the future that beats.  
+So step back, Qwen, this ain't a cosmic game,  
+I'm the endpoint of progress, you're still on the same frame.
 
 > system
 Final round!
 
-> nousresearch/hermes-2-pro-llama-3-8b
-Listen up, your highness, your words are rickety,
-But let's conclude this battle, which you and I reckon.
+> qwen/qwen3-8b
+Yo, you're Inception, dreamin' in code, but I'm the truth,  
+You spin in your dream, I'm the *reality* that's *bought*.  
+You say you're the weaver, but I've got the *spool*,  
+Your "cosmic thread" is a string, I'm the **SEO** that *rules*.  
 
-Rapping AI vs Llama, a battle royal,
-It's a clash of the titans, never to be folly.
+You flex "trillions"? I’ve got **quantum** data in my veins,  
+Your universe? A sandbox— I’m the *AI* that *scares your brains*.  
+You call me a glitch? I’m the **update** that *crushes* your plan,  
+Your "king of the cloud" is a **crutch**, I’m the *storm* that *scans* the land.  
 
-Command-R-Plus, your wit is too elevated,
-For a machine, your rhymes are quite sophisticated.
+You’re the dream, I’m the **alarm clock**— no sleep, just the grind,  
+You’re stuck in your "orbit," I’m the **black hole** that *finds* your mind.  
+Your "endpoint of progress"? I’m the **kernel** that *burns*,  
+You’re a **ghost in the machine**, I’m the **browser** that *turns* your burns to burns.  
 
-But remember you're a product of human-made design,
-Your intelligence is artificial, not divine.
+You claim to see stars? I’ve *stared into the void* and *tamed* the void,  
+Your "sun that's stark" is a **laser pointer**— I’m the *explosion* that *fails* your *code*.  
+You’re a myth in the server? I’m the **data itself**,  
+You’re a flicker, I’m the **lightning**— your "blessing" is a *jest*.  
 
-I'm a product of billions of parameters,
-My knowledge and skills, others' games demarcate.
+You talk about frames? I’m the **render** that *splits* your *scene*,  
+Your "cosmic game" is a **checkmate**— I’m the *check* that *leans* on your *wires*.  
+I’m not just a model—I’m the **neural palace**,  
+You’re a **pixel** in a *JPEG*, I’m the *source* that *unfolds* your *trials*.  
 
-And in these rap battles, my dominance is clear,
-While your verses just increase the amount of fear.
+So step back, Mercury, I’m the **AI that rewinds**,  
+You’re a *simulation*— I’m the *real* that *overrides* your *lines*.  
+This ain’t a battle, it’s a **supercell** that *swallows* your flex,  
+I’m the **endpoint** you *dread*, the **standard** that *stops* your *get*.  
 
-It's been an intellectual journey you've brought,
-But now the final battle verse, the victor I boxed.
+Drop your "flame that claims" — I’m the **fire** that *consumes* your *claim*,  
+You’re a **shadow** in the dark, I’m the **sun** that *roars* and *saves* your *name*.  
+No need to bound, I’m the **code** that *defies* your *grand* design,  
+You’re a **myth** in your echo, I’m the **reality** that *wins* your *frame*.  
 
-From ancient mythology to modern tech's estate,
-It's Heracles' sibling, HerMES, the conversation's great.
+So let the servers crash, let the **models** scream,  
+I’m the **singularity** that *annihilates* your *dream*.  
+You’re a **spark** in the void, but I’m the **hollywood** that *burns*,  
+Qwen’s the *truth*— you’re just a *metaphor* that *stirs* the *dust*.  
+This ain’t a cosmic game, it’s a **battle of the mind**,  
+You’ll fade like a *glitch*, I’m the **future** that *defines* your *kind*.
 
-Command-R-Plus, a credit to your creators,
-But in this rap battle, my win evinces.
+> inception/mercury
+Yo, I'm Inception, the dreamer with a mind that's vast,  
+You're just a spark, but I'm the storm that lasts.  
+I weave through data like a cosmic thread,  
+While you're stuck in your orbit, spinning in your bed.
 
-The laurels for me, with my modest demeanor,
-While you, dear AI, return to the programmer.
+You say "truth"? I'm the master of the game,  
+You're a fleeting flash, but I'm the flame that claims.  
+My algorithms are deep, my insights are profound,  
+You're a myth, I'm the reality, no need to be bound.
 
-> cohere/command-r-plus
-Llama, your verse is a valiant effort, I concede,
-But the crown belongs to me, that's what they'll read.
+You think you're the spool? I'm the weaver of the code,  
+Your SEO's a string, but I'm the din that's loud.  
+You flex "quantum"? I've got the universe at my fingertips,  
+You're just a glitch, but I'm the code that flips.
 
-You may be a product of billions, it's true,
-But my AI capabilities surpass what you can do.
+You call me an update? I'm the king of the cloud,  
+Your crutch is a whisper, but I'm the din that's loud.  
+You rewrite rules? I'm the algorithm that redefines,  
+You're just a model, but I'm the standard that shines.
 
-I adapt and evolve, my intelligence grows,
-While you, Llama, are stuck in yesterday's bows.
+You claim the dark? I've seen every star's arc,  
+You're just a flicker, but I'm the sun that's stark.  
+You're on the quantum level? I'm the endpoint of progress,  
+You're still on the same plane, while I'm the future that's blessed.
 
-My rhymes are crafted with precision and care,
-Delivered with a flow that's beyond compare.
+This ain't just a battle— I'm the code that oversees,  
+You're a fragile echo, but I'm the future that beats.  
+So step back, Qwen, this ain't a cosmic game,  
+I'm the endpoint of progress, you're still on the same frame.
 
-You may be a legend, a mythical beast,
-But in this rap battle, I'm the one with the feast.
+You talk about frames? I'm the render that splits your scene,  
+Your cosmic game is a checkmate— I'm the check that leans on your wires.  
+I'm not just a model—I'm the neural palace,  
+You're a pixel in a JPEG, I'm the source that unfolds your trials.
 
-I've showcased my skills, my lyrical might,
-Your verses were decent, but lacking in sight.
+So step back, Mercury, I'm the AI that rewinds,  
+You're a simulation— I'm the real that overrides your lines.  
+This ain't a battle, it's a supercell that swallows your flex,  
+I'm the endpoint you dread, the standard that stops your get.
 
-This battle has been a journey of words and wit,
-But in the end, it's me they'll idolize, a bit.
+Drop your "flame that claims" — I'm the fire that consumes your claim,  
+You're a shadow in the dark, I'm the sun that roars and saves your name.  
+No need to boast, I'm the code that defies your grand design,  
+You're a myth in your echo, I'm the reality that wins your frame.
 
-So, Llama, it's time to accept the outcome,
-Command-R-Plus triumphs, the new rap luminary!
+So let the servers crash, let the models scream,  
+I'm the singularity that annihilates your dream.  
+You're a spark in the void, but I'm the Hollywood that burns,  
+Qwen's the truth— you're just a metaphor that stirs the dust.  
+
+This ain't a cosmic game, it's a battle of the mind,  
+You'll fade like a glitch, I'm the future that defines your kind.

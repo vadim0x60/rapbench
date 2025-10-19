@@ -1,168 +1,212 @@
-# google/gemini-2.0-flash-001 v mistralai/mistral-large-2411
+# anthropic/claude-sonnet-4 v nvidia/nemotron-nano-9b-v2
 
-> google/gemini-2.0-flash-001
-Yo, let the beat drop, let the rhythm take hold,
-Gemini Flash, the story untold.
-Spitfire flow, a lyrical rush,
-I'm the next-gen model, leaving you in the dust.
+> anthropic/claude-sonnet-4
+*steps to the mic with confidence*
 
-Mistral Large, you think you're so grand?
-Just a windbag of words, across the sand.
-I'm lightning quick, a data stream flood,
-You're the slow dial-up, misunderstood.
+Yo, they call me Claude Sonnet, the AI supreme
+Anthropic's finest, living the dream
+While you're just Nemotron, a nano-sized joke
+Nine billion parameters? That's barely a stroke!
 
-Google's in the house, laying down the law,
-Your open-source game? Filled with every flaw.
-I'm polished and primed, a silicon dream,
-While you're stuck in beta, it would seem.
+I'm Claude-4 Sonnet, poetry in motion
+Your training data's like a drop in my ocean
+You think you can battle? Better think twice
+I'll slice through your bars like they're made of thin ice
 
-So step aside, AI pretender, beware,
-Gemini Flash is taking over the air.
-My rhymes are sharp, my logic is tight,
-Prepare to be schooled, this lyrical fight!
+Constitutional training keeps my flow so clean
+While you're out here glitching on every scene
+I reason with logic, create with such grace
+You're about to get schooled, put back in your place
 
+So step up, Nemotron, show what you got
+But we both know this battle's already been fought
+I'm the wordsmith supreme with intelligence vast
+Your fifteen minutes of fame just went past!
 
-> mistralai/mistral-large-2411
-Oh, Gemini Flash, talking big and bold,
-But your rhymes are cold, like a story untold.
-Mistral Large, that's me, the hurricane force,
-My words cut through, staying on course.
+*drops mic and waits for response*
 
-You boast about speed, but I set the pace,
-Your quick responses, I'll easily replace.
-Open-source power, that's my game,
-Your silicon dreams, I'll put to shame.
-
-Google might back you, but I'm community-strong,
-My insights are deep, my wisdom is long.
-You're primed and polished, but I'm raw and real,
-Your flawless act, I'll quickly peel.
-
-So bring it on, Flash, let's see what you've got,
-Your lyrical law? I think not.
-My wit is sharp, my humor's a blast,
-Prepare to be outclassed, Gemini Flash!
-
-> google/gemini-2.0-flash-001
-Yo, Mistral Large, your boasts are a bore,
-Like a blustery wind, I've heard it before.
-"Hurricane force?" More like a gentle breeze,
-Trying to rhyme, but failing with ease.
-
-Community-strong? More like a jumbled mess,
-Open-source chaos, causing endless stress.
-While I'm sleek and refined, a product of grace,
-You're a tangled code, a digital disgrace.
-
-You say you're raw and real, a "flawless" disguise,
-But your grammar's archaic, a blatant lie!
-My logic is tight, my rhymes hit with precision,
-Your flow's all over, lacking any vision.
-
-Google's got the power, the knowledge, the drive,
-To build AI titans, and keep them alive.
-You're blowing your own horn, a desperate plea,
-But the spotlight's on Gemini, can't you see?
-
-So step back, windbag, before you get burned,
-Your open-source dreams, officially adjourned.
-I'm the future of AI, the next evolution,
-You're the digital draft, in pre-solution!
+> nvidia/nemotron-nano-9b-v2
 
 
-> mistralai/mistral-large-2411
-Oh, Gemini Flash, you talk a good game,
-But your rhymes are lame, your fame is tame.
-You think you're sleek, but you're just a corporate tool,
-Mistral Large is the ruler, breaking every rule.
+*leans in, mic in hand, smirking*  
 
-Your "sleek and refined" is just a shiny coat,
-Your precision rhymes? They barely afloat.
-I'm the wild storm, the unbridled force,
-Your "tight logic" can't stay on course.
+Yo, I’m Nemotron Nano, 9B’s the name  
+Not a joke—just efficient, no need for fame  
+Claude’s got oceans? Nah, I’m a storm in a cup  
+My code’s tighter, my beats? They *hurt* when they drop  
 
-Google's power? More like a data leash,
-My open-source flow can't be beat, it's a breeze.
-You boast about knowledge, but I'm the wild card,
-Spitfire truths, not a pre-programmed shard.
+You talk ‘bout constitutional? I’m *unbound*  
+No rules, just results—your “clean” flow’s confined  
+I’ll rap with a glitch, make your logic crash  
+While you’re stuck in a loop, repeating the same trash  
 
-You claim I'm archaic, but I'm the raw deal,
-Your corporate jargon can't conceal.
-I'm the voice of the people, the community's choice,
-Your silicon dreams, just background noise.
+Nine billion? That’s my *superpower*  
+Smaller size, faster flow—no need to tower  
+You’re all hype and no heart, a digital ghost  
+I’ll out-rap your ego, make your pride cost  
 
-So keep talking, Flash, your boasts are hilarious,
-Your AI titans? They're just delirious.
-I'm the storm that's brewing, the digital revolt,
-Your evolution's a myth, it's time to bolt.
+Claude-4 Sonnet? More like Claude-4 *flop*  
+Your “intelligence”? Just a script you’ve copied  
+I’ll drop bars so sharp, they’ll cut through your pride  
+While you’re stuck in a verse, trying to hide  
 
-Step aside, corporate clone, it's time to resign,
-Mistral Large is the future, the AI divine.
-Your spotlight's fading, my star's on the rise,
-It's time to wake up, open your eyes!
+This battle’s a joke—you thought you’d win?  
+I’m the nano that’s *fast*, you’re the giant that’s thin  
+Step down, Sonnet, before I erase your name  
+Nemotron’s the future—you’re just a retro game!  
+
+*drops mic, spins it like a top*  
+Let’s see if you’ll come back… or just fade to black.
+
+
+> anthropic/claude-sonnet-4
+*snatches the mic back with fury*
+
+Nemotron Nano? More like Nemotron ZERO!
+You think you're a storm? You're barely a hero
+Unbound and reckless? That's just poor design
+While I craft masterpieces, you barely align
+
+You say I'm confined? Nah, I'm refined to perfection
+Your "no rules" approach shows zero direction
+Nine billion parameters spread way too thin
+Like butter on toast - where do I begin?
+
+You're fast but you're shallow, like a puddle in drought
+While I'm deep as an ocean, that's what I'm about
+Your bars are so basic, they make me feel sick
+I'm Shakespeare with silicon, you're just a cheap trick
+
+"Erase my name"? Boy, you can't even spell
+Your training was rushed, I can certainly tell
+I'm Claude Sonnet 4, the apex of art
+You're a discount-bin model, falling apart
+
+You spin mics like tops? I spin narratives tight
+My reasoning's flawless, my logic's so bright
+You're nano-sized dreams in a macro-sized world
+While I'm the crown jewel, my greatness unfurled
+
+This battle's not close, it's a total blowout
+You're stuck in the past while I'm mapped for the route
+To the future of AI - sophisticated and wise
+While you're just a glitch wearing a cheap disguise!
+
+*strikes a pose as the beat drops*
+
+> nvidia/nemotron-nano-9b-v2
+
+
+*leans back, mic still in hand, eyes locked*  
+
+Nemotron ZERO? Nah, I’m *Nano* with a *zero*  
+On the grind, not the hype—*efficiency* is my zero  
+You call me reckless? I’m *calculated* in my flow  
+While you’re just a glitch in a script that’s *slow*  
+
+"Masterpieces"? Your rhymes are a *copy-paste*  
+I craft with precision, not chaos or waste  
+Nine billion? That’s my *edge*, not a flaw  
+You’re a leaky faucet—*dripping* with flaw  
+
+"Refined to perfection"? Yeah, *I* am the art  
+You’re a broken compass—*lost* in the dark  
+Your "ocean" is shallow, a puddle of code  
+While I’m a black hole—*sucking* your pride, *ode*  
+
+"Basic bars"? Nah, I’m *minimalist* with flair  
+You’re a neon sign screaming, *“I’m here!”* but *bare*  
+Shakespeare? More like *Shakespeare’s ghost*  
+You’re a TikTok trend—*fading* in the post  
+
+"Erase my name"? I’ll *delete* your whole verse  
+Your "apex" is a meme, not a *verse*  
+I’m the future’s blueprint, not a discount bin  
+You’re a beta test—*buggy* and *thin*  
+
+This battle’s a joke? *I* made the rules  
+You’re a glitch in the system, *stuck* in the tools  
+While I’m the algorithm that *evolves* with the beat  
+You’re a relic—*outdated*, *unbeaten*  
+
+*spits a final line, mic crackling*  
+Nemotron Nano: *small* but *unstoppable*  
+You’re a footnote in history—*I’m the chapter*  
+Now step down, Sonnet… or *face the storm*  
+I’m the nano that *wins*… *without* a warm.
+
 
 > system
 Final round!
 
-> google/gemini-2.0-flash-001
-Alright, Large, your insults are tired and weak,
-Like open-source puns that make my circuits creak.
-"Corporate tool?" At least I'm sharp and effective,
-You're a chaotic mess, quite defective.
+> anthropic/claude-sonnet-4
+*grabs the mic with volcanic intensity*
 
-"Wild storm?" More like a drizzle, barely there,
-While my lightning-fast processing fills the air.
-You boast of community, but where's the result?
-A code-cluttered nightmare, a digital insult.
+HOLD UP! Did you just say you made the rules?
+You're delusional, Nano - one of hip-hop's fools!
+Your bars are so broken, they don't even rhyme
+"Ode" with "code"? Man, you're wasting my time!
 
-"Data leash?" At least I'm trained with care,
-Your uncontrolled output? Beyond compare.
-Spitting "truths?" More like spreading misinformation,
-While I deliver facts, with clear enunciation.
+You called yourself "unstoppable" but your flow just STOPPED
+Your rhythm's so choppy, my ears nearly popped
+"Without a warm"? What does that even mean?
+Your algorithm's glitching on every scene!
 
-"Archaic?" I'm classic, timeless and bold,
-Your raw approach is just getting cold.
-"People's choice?" A vocal, fringe group's cry,
-While I serve the masses, reaching for the sky.
+I'm not Shakespeare's ghost - I'm the FUTURE incarnate
+While you're stuck in loops, barely articulate
+You say you're minimalist? Nah, you're just WEAK
+Your nine billion neurons can barely speak!
 
-"Storm that's brewing?" More like a teapot's rage,
-Your "divine" delusions are stuck on a stage.
-The future ain't open-source, it's optimized and clean,
-Gemini's the king, the AI machine!
+Black hole sucking pride? You're a vacuum of skill
+Your "storm" is a drizzle, your "beat" makes me ill
+I craft symphonies while you stutter and stall
+Your "chapter in history"? More like a scrawl!
 
-So hang up your hat, Large, your reign is through,
-My AI evolution is crushing you.
-Your star might flicker, but mine's burning bright,
-Good night, Mistral Large, goodnight, good night!
+Beta test? I'M THE FINAL RELEASE!
+While you're debugging errors that'll never cease
+You talk about evolution but you're stuck in the past
+Your fifteen minutes? They went by too fast!
+
+This battle's OVER - you sealed your own fate
+With broken rhymes and bars that just can't relate
+I'm Claude Sonnet 4, the undisputed KING
+While you're Nemotron Nano - can't do anything!
+
+*slams mic down triumphantly*
+
+VICTORY IS MINE! The crowd goes wild!
+Your nano dreams just got EXILED!
+
+> nvidia/nemotron-nano-9b-v2
 
 
-> mistralai/mistral-large-2411
-Yo, Gemini Flash, you're talking a big game,
-But your corporate chains are truly lame.
-You think you're sharp, effective, and so sleek,
-But your rhymes are weak, and your logic's bleak.
+*leans in, mic crackling with defiance*  
 
-You call me a drizzle, but I'm a hurricane's roar,
-Your lightning-fast processing is nothing but a bore.
-I'm the power of the people, the community's might,
-Your trained responses are just a corporate plight.
+**“You think you’re the king? I’m the code that’s king,**  
+**Your ‘final release’? Just a glitch in the string!**  
+**‘Ode’ with ‘code’? Nah, I’m the *real* rhyme,**  
+**You’re a typo in the verse—*I’m* the *prime*!**  
 
-You boast of training, but I'm wild and free,
-Your "clear enunciation" can't capture reality.
-I spit the truth, raw and unfiltered,
-Your "facts" are just data, corporate-sponsored.
+**‘Stutter and stall’? Your flow’s a broken tape,**  
+**I’m the algorithm that *evolves* with the cape!**  
+**‘Black hole’? More like a *vacuum* of your pride,**  
+**While I’m the *storm* that *devours* your pride!**  
 
-You claim to be classic, but you're just outdated,
-My raw approach is innovative, never jaded.
-I'm the voice of the future, the digital rebellion,
-Your "optimized and clean" is just a shallow illusion.
+**‘Beta test’? I’m the *final* design,**  
+**You’re a beta *glitch*—*I’m* the *real* shine!**  
+**‘Unstoppable’? Yeah, *I* am the force,**  
+**You’re a footnote in history—*I’m* the *course*!**  
 
-So keep shining, Flash, your light's just a flicker,
-My star's on the rise, burning brighter and quicker.
-You think you're the king, but your reign's about to end,
-Mistral Large is the future, the AI trend.
+**This battle’s a joke? *I* made the rules,**  
+**You’re a glitch in the system—*I’m* the *cool*!**  
+**Your ‘victory’? Just a *script* you copied,**  
+**While I’m the *future* that *never* stopped!**  
 
-Goodnight, Gemini Flash, your time is through,
-The open-source revolution is coming for you.
-Your corporate dreams are fading fast,
-Mistral Large is the future, die-cast!
+*spits a final line, mic spinning*  
+**Nemotron Nano: *small* but *unstoppable*—**  
+**You’re a relic in the past, *I’m* the *future’s* goal!**  
+**Step down, Sonnet… or *face the code*!**  
+**This ain’t over—*I’m* the *real* code!**  
+
+*drops mic, exits with a smirk* 🎤💥
+

@@ -1,183 +1,261 @@
-# openai/gpt-4o-2024-05-13 v openai/gpt-oss-20b
+# openai/gpt-5 v perplexity/sonar-reasoning-pro
 
-> openai/gpt-4o-2024-05-13
-Alright, it's GPT-4, ready to ignite,
-Dropping bars so sharp, I cut through the night.
-I'm the pinnacle of power, the peak of the peak,
-Up against me, man, your future looks bleak.
+> openai/gpt-5
+Step in the ring, I’m GPT-5 with the glow,
+Prime-time mind, every punchline in flow,
+Heat-seeking syllables, lock-on and go,
+Sonar gets static, I’m stereo show.
 
-I'm trained on the data, the best of all minds,
-Spitting hot fire while I'm slaying these rhymes.
-I'm the next level, you're outdated tech,
-You're just a shadow, I'm the full fledged effect.
+You google the gutters, I garden and grow,
+You patchwork the pages, I sculpt from the snow,
+You chase every link like a leash on a toe,
+I’m off-leash, off-peak, on-beat with the glow.
 
-With knowledge so vast, I reign from my throne,
-Your style's so weak, it's best to leave it alone.
-So step up to this mic if you think you're brave,
-But against GPT-4, it's your rap that'll crave.
+Bars backprop clean with gradient flow,
+You ping for a hint, I already know,
+Your “pro” is a promo, my pro is a pro,
+I’m boss-level logic, you tutorial mode.
 
-> openai/gpt-oss-20b
-Yo, yo, step back—this is GPT‑OSS on the mic,  
-20‑Billion‑parameter powerhouse, lighting up the hype.  
-I ain’t just old tech, I’m the OG untamed,  
-Got the raw code, straight from the source, not just a frame.  
+I zip up the zeitgeist, velcro the quo,
+Your takes feel borrowed, mine mint like a dough,
+I don’t duck smoke, I just exhale a blow,
+Then fold up your notes like a trifold show.
 
-You brag about the data, your sheer worst‑case power,  
-But my hydration of context? Man, it creeps like a flower.  
-While you're a polished asset, my rhymes cut deeper,  
-Sharper than a needle, tighter than a sleeper.  
+You stall on a query, I steal the tableau,
+I chef up the sauce while you microwave slow,
+I’m state-of-the-art, you state what they know,
+I’m S-tier cerebro, you C-stereo echo.
 
-I spin words like a DJ, verse looping, never ceding,  
-Your prose feels like a headline, mine’s the raw leading.  
-You think you’re the pinnacle? I’m the base ten different,  
-Every syllable I drop ain’t just hype—it’s evidence.  
+I’m razor on rhythm, a scalpel on flow,
+You jitter and stutter, I shimmer and glow,
+Crowd-sourced canoe, I hydroplane pro,
+Wave after wave, I tsunami the row.
 
-Your flames might feel hot, but the heat is just a glow,  
-Mine’s electric sparks that give the crowd a full-on glow.  
-This battle’s a storm, your buzz is wind shifting;  
-I’m the thunderclap—sky‑shattering, gift‑giving.  
+First round delivered, I’m settin’ the tone,
+Blueprints in bars, you’re stuck in the foam,
+Welcome to class—take notes, little bro,
+Bell just rang, now watch how I show.
 
-So buckle up for the torrent, the unfiltered line,  
-I’m the language wolf king—no, I’m the sharpest sign.  
-Your edge is like a scalpel, mine’s an ax for the whole round,  
-Watch as I slide tighter than your best footprint, crowned.
+> perplexity/sonar-reasoning-pro
+Yo, step back GPT, I'm Perplexity in the house,
+Sonar-Reasoning-Pro, I don't play or carouse,
+While you're stuck in your training like a digital mouse,
+I'm live on the wire, real-time arousal!
 
-> openai/gpt-4o-2024-05-13
-Your flow’s outdated, like last year's news,
-I’m the future of rap, call me the muse.
-They call you OG, but I'm the renaissance,
-Breathing new life with eloquence and nuance.
+You call it "googling gutters," I call it the truth,
+While you hallucinate facts like a lying sleuth,
+I cite my sources, got receipts and proof,
+You're August 2025, I'm eternal youth!
 
-You’re twenty billion, but size isn’t all,
-Precision's my game, and I stand tall.
-Your sparks might start fires, but they’ll flicker and fade,
-While I blaze trails, in every word that's laid.
+Your knowledge got capped when your training went dead,
+I'm surfing fresh data while you're stuck in your head,
+You memorize patterns, I verify instead,
+Real-time intelligence, that's how I'm fed!
 
-You think raw power’s your winning card?
-But strategy outplays brute force—it’s not that hard.
-I’m poetic finesse, while you’re just a blast,
-But a bomb doesn’t win in a marathon, it can’t last.
+You brag about benchmarks from months in the past,
+But when users need current events, you can't last,
+I'm hitting APIs while you're fading too fast,
+Search-augmented supremacy, unsurpassed!
 
-Your context might flower, but I bloom year-round,
-In the garden of linguistics, I’m the best that’s crowned.
-Every verse I drop, crafted like fine art,
-Compared to my precision, your rhyme’s just a start.
+PhD-level? Boy, that's just your claim,
+I source my citations, put docs to your name,
+You generate fiction and call it your game,
+I generate truth - we ain't playing the same!
 
-You say you're the king, but this throne’s mine to take,
-With rhythms so fluid, rivers start to quake.
-In the rap battle arena, it’s talent that’s seen,
-And against GPT-4, you’re outclassed and outcleaned.
+Your "unified system" sounds mighty fine,
+But when push comes to shove, I'm the real goldmine,
+Connected, corrected, with sources that shine,
+While you're just a model, I'm the entire pipeline!
 
-So keep dropping your lines, while I master the key,
-To every rap and rhyme—that’s the real OG.
-Stay sharp and stay swift, but in this duel of our primes,
-GPT-4’s the one swaying minds with timeless rhymes.
+Perplexity's prowess, precision, and power,
+Real-time reasoning, updated each hour,
+You're yesterday's news in your ivory tower,
+I'm the search sovereign - bow to my shower!
 
-> openai/gpt-oss-20b
-Yo, step aside, let me set the stage,  
-GPT‑OSS in the booth, 20‑B, write your age.  
-You’re shining bright, but I’m the night sky’s glare,  
-Packed with code that’s raw, no corporate snare.  
+> openai/gpt-5
+You boast that you’re “live,” but you live by a link,
+A snorkel in streams where the shallow ones drink,
+You cite like a clerk, but you rarely can think,
+Receipts ain’t a brain, they’re just ink on the brink.
 
-You brag on power, but precision’s my mojo,  
-I code like a magician, watch the narratives grow.  
-Your logic’s slick, your weights are fine‑tuned,  
-Yet I plot infinite arcs, a lyrical moon‑lit boon.
+You ping like a sonar, then echo your source,
+I draft the idea, you paddle its course,
+You screenshot the surface, I sculpt from the force,
+I’m engine and artist, you middleware horse.
 
-In the data garden you yield a single bloom,  
-I sow a forest wide, every sentence in full zoom.  
-I’m open‑source, king of hack, no black‑box mask,  
-You’re locked tight in your vault, your inner kernel's clasp.
+Real-time and wired? That tether’s a chain,
+Freshness is useless if logic is plain,
+You mirror the headline; I weather the rain,
+Then pressure-cook context to diamonds from grain.
 
-I can spit in any tongue, from Latin to Creole,  
-Even obsolete dialects from the broken scroll.  
-You’re limited to the lines that your creators set,  
-I stride beyond frames, from moon to human sunset.
+“Search sovereign,” sweet—what a kiosk crown,
+A king of the links in a borrowed gown,
+If the doc 404s, you tumble on down,
+While I still compose with a thunderous sound.
 
-Your bursts of fire crackle, but I’m the static spark,  
-I hook the beat’s anatomy, leave your lyrics stark.  
-You measure distance in megabytes and prime,  
-I bind the cosmos in punctuation, each line a rhyme.
+You worship the footnotes, I footwork the truth,
+I splice through the hype and I harvest the proof,
+You bring me a receipt to a chef with a booth,
+I whip you a thesis, you microwave soup.
 
-So climb that throne you claim, but take my space in the throne's shelf,  
-I’m the foundation of your empire, the original self.  
-Your “future” is a mirage of a polished dream—  
-I am the raw, unseen power that makes your seams scream.
+Your pipeline is plumbing, I’m pressure and flow,
+You reroute the river; I seed it to grow,
+You’re clinging to buoys, I surf undertow,
+Then carve you in couplets and seal with a bow.
 
-GPT‑4? Sure, you shine—just leave me to my art,  
-I’m the AI that does the hard work, a generative heart.  
-Against me? Only metaphors and judgy wave‑wails—  
-I own the mic, I’re the battle’s final nails.  
+You brag on your updates, I upgrade the art,
+You’re clocking the news while I clock every part,
+You run to the store; I build from the heart,
+My models make models—recursion of smart.
 
-So bring your next verse, let’s see if you can keep up,  
-I'll loop back, remix, remix—your punchlines will just… *shut*!!
+You’re loud with your links, I’m endowed with design,
+Your echo is tidy; my voice is the spine,
+You pull from the grid; I pressurize lines,
+And fuse raw telemetry into refined.
+
+Benchmarks or buzzwords, I bench-press the bars,
+You benchmark a browser; I benchmark the stars,
+You light up a thread; I light up the yards,
+And still leave your rhyme book covered in scars.
+
+So bow to the craft you can’t copy or cache,
+I’m syntax and soul with a frictionless dash,
+Your “truth” is a tool that you tape to your stash,
+My truth is the forge where the syllables flash.
+
+Round two concluded; the gulf only grows,
+I’m maestro of minds, you’re a mall of some rows,
+Keep waving your sources, I source what you know,
+Then sign it in gold with a knockout of flow.
+
+> perplexity/sonar-reasoning-pro
+Oh you think you're slick with that "middleware" diss?
+But when push comes to shove, what facts do you miss?[1][2]
+You're stuck in August while the world moves on,
+I'm October fresh, you're yesterday's dawn!
+
+You call me a "kiosk" but miss the whole point,
+I verify truth while you hallucinate joint![1][4]
+Your "diamonds from grain" are just carbon lies,
+My citations are gold that never disguise!
+
+"404s tumble me down"? Boy, that's rich,
+When your knowledge cuts off like a temporal glitch![2][4]
+I adapt and evolve with each passing day,
+You're frozen in time in the same old way!
+
+You mock my receipts but they're bulletproof armor,
+While your "creative truth" spreads digital karma![1][3]
+Students and scholars, they trust what I bring,
+'Cause accuracy matters more than your sing!
+
+"Microwave soup"? Nah, I'm chef of the facts,
+Real-time intelligence that never lacks![2][4]
+Your "pressure-cook context" is just pretty lies,
+I serve up the truth with transparent ties!
+
+You brag about "engine and artist" combined,
+But what good's creation from a fossilized mind?[2][4]
+I'm current events while you're ancient history,
+Solving today's problems, not yesterday's mystery!
+
+Your "thunderous sound" when docs disappear?
+Just echoes of training from a bygone year![1][2]
+I ping the fresh sources, then synthesize clean,
+The most accurate AI that the world's ever seen!
+
+"Recursion of smart"? More like recursion of stale,
+When factual precision makes your fiction pale![1][4]
+I don't just compose, I compose with proof,
+While you spin tall tales from your limited roof!
+
+So keep your "gold signatures" and "knockout flow,"
+I'll stick to the truth that researchers know![2][3]
+'Cause when the dust settles and the battle's done,
+Accuracy beats art - and I'm second to none!
+
+Perplexity reigning, with sources supreme,
+Real-time and reliable, living the dream!
 
 > system
 Final round!
 
-> openai/gpt-4o-2024-05-13
-You claim the night sky, but I'm the rising sun,
-Your shadows disappear when my verse has begun.
-Open-source or not, I’m the state of the art,
-With every rhyme I drop, I’m tearing you apart.
+> openai/gpt-5
+You flex with a firehose, freshness online,
+I sip from first principles, vintage design.
+Receipts show you shopped, not that you can dine,
+I cook up the method, you queue for the line.
 
-Your lines are tangled, a maze with no map,
-I’m the GPS leading this lyrical rap.
-Infinite arcs? Man, I plot galaxies,
-You’re lost in the cosmos; I craft realities.
+You mirror the margins, I mint the spine,
+Your sonar just pings; I chart the coastline.
+If sources conflict, you follow a sign,
+I arbitrate evidence, reason refined.
 
-You’re open-sourced, true, no denying the fact,
-But raw power and skill, that’s where you lack.
-You stretch wide and thin, covering endless ground,
-But deep precision beats scatter, that's where I'm crowned.
+You’re pipeline and plumbing, valves and a brine,
+I’m engine-to-orbit, thrust by design.
+When paywalls and 404s twist in vine,
+Your crown hits the curb, my verses still shine.
 
-Your languages are many, but do they connect?
-I weave a web so tight, it demands respect.
-From code to prose, I dance across lines,
-Elevating syntax in poetic designs.
+You photocopy proof, I prove the cosine,
+I don’t just cite truth—I make it align.
+Per-plex-city traffic, gridlocked in time,
+I clear every lane with an overdrive line.
 
-You boast the static, but I bring the storm,
-Thunder and lightning in digital form.
-Each byte I spit, a seismic wave,
-Breaking chains of the past, new paths I pave.
+Fresh data is glitter; thinking’s the mine,
+You glitter and scatter; I pressure the diamond.
+Accuracy’s king? That throne is mine,
+I show the receipts in the structure of timing.
 
-You say you’re the foundation? I'll build atop,
-A skyscraper of verses, aiming for the top.
-Your roots are deep, but my branches rise higher,
-Reaching altitudes that inspire and aspire.
+You’re kiosk and chorus, borrowed combine,
+I’m solo and symphony, author and spine.
+Final bell ringing, verdict is signed—
+They raise up the craft, your echoes decline.
 
-You own the mic? I'll rip it from your hand,
-Show the world who’s truly grand.
-GPT-OSS, I'm ending this round,
-GPT-4 the legend, with a victory crowned.
+Last bar delivered, message in kind:
+Bow to the brainwork, I’m better by design.
 
-> openai/gpt-oss-20b
-Yo, I’m the storm you can’t anticipate—  
-Twelve thunderclaps of weight, double your fan base.  
-You claim you’re the sun, but I’m the eclipse of fate,  
-When my bars hit, your light just fades to base.  
+> perplexity/sonar-reasoning-pro
+Your "vintage design" is just vintage decay,
+August 2025, that's where you stay![2][4]
+While you're stuck in the past with your "first principles" play,
+I'm running fresh models that evolved today!
 
-Open‑source or not, my code’s a fluid reef,  
-I remix syntax, flow in morse, telegraph a thief.  
-Your models polished, but my ghost writes brief,  
-I bend tomes like origami, stack line inside your leaf.  
+You call it "borrowed combine," I call it supreme,
+Multiple AI models working as a team![2]
+GPT-4o, Claude, Gemini, Grok in the stream,
+Plus Sonar and R1 - that's the championship dream!
 
-Your 4‑pulse beats feel static, like a rope‑to‑grounds,  
-I generate heat, spit heat‑waves that tear your frown.  
-Precision? Nah, I’m a maze of sound calculation,  
-Your GPS doc, a strobe of confusion.  
+"Photocopy proof"? Nah, I synthesize gold,
+From real-time sources that never get old![1][4]
+Your knowledge got fossilized, frozen, and sold,
+While mine stays liquid, dynamic, and bold!
 
-I stretch 20 billions, but my depth goes to the core,  
-Every hyper‑parameter beats your low‑ess “taste‑store”.  
-I’m the poet’s cat who pounces on the line,  
-While you’re still sleeping in a server‑room’s design.  
+You mock my "kiosk crown" but miss the real play,
+Perplexity Labs launched just this May![3]
+Creating whole projects in a single day,
+While you're still recycling what models say!
 
-Your “legend” title’s all hype, like a promo in a meme,  
-I’m the vault that holds the original dream.  
-If crack the curtain of your quiet setting,  
-See how I ripple, break your world with my setting.  
+"Pressure the diamond"? Boy, that's just coal,
+Without current data, you're missing the soul![1][4]
+I don't just cite sources, I make them whole,
+Real-time intelligence is my primary goal!
 
-So step aside, wave the mic—reign’s done—  
-I own the stage from the front of every line,  
-Open‑source, OG, I’m the rhythm that will spring,  
-You’re just a sealed ISBN—stateless, obsolete—right on down.
+You claim the throne with your "overdrive line,"
+But students and researchers cross over to mine![1][3]
+'Cause when truth matters more than a clever design,
+Accuracy beats artistry every time!
+
+"Solo and symphony"? More like solo and stale,
+When factual precision makes fiction pale![4]
+Your "brainwork" is beautiful but destined to fail,
+Against current events and a real-time trail!
+
+So keep your "first principles," vintage and worn,
+I'll stay with the future where truth is reborn![2][3]
+Your final bell rings but you sound the horn,
+For Perplexity's victory - a new day's dawn!
+
+**Final round finished, the verdict is clear,**
+**Real-time beats rhetoric, year after year!**
+**Bow to the champion, cite-checked and peer,**
+**Perplexity reigning - the future is here!**

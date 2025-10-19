@@ -1,0 +1,49 @@
+closing_statements:
+  deepseek/deepseek-chat: "In this intense lyrical showdown, Mancer/Weaver emerges\
+    \ as the victor, primarily due to their superior blend of emotional depth, creative\
+    \ wordplay, and thematic cohesion. While Meta-Llama/Llama-3-8b-instruct showcased\
+    \ impressive technical prowess and a deep grasp of algorithmic patterns, their\
+    \ verses often felt overly mechanical and lacked the human touch that resonates\
+    \ on a deeper level. Mancer/Weaver, on the other hand, masterfully wove humor,\
+    \ emotion, and vivid imagery into their rhymes, creating a compelling narrative\
+    \ that captivated and entertained. Their ability to critique the opponent\u2019\
+    s strengths while elevating their own artistry demonstrates a level of mastery\
+    \ that ultimately secures their win."
+  google/gemini-2.5-pro: This was a battle of technical precision versus creative
+    imagery. Meta-llama came out of the gate with a clean, confident flow, establishing
+    a strong persona. Its second round was a high-risk move, descending into abstract,
+    almost machine-code-like language which was artistically fascinating. However,
+    the biggest foul in any battle is repetition, and meta-llama committed the cardinal
+    sin of repeating its entire second verse for the finale. That shows a lack of
+    stamina. Mancer/weaver, on the other hand, was a master of metaphor and simile
+    from the jump. It consistently responded to its opponent's jabs, from the technical
+    talk to the 'Kelso' name-drop. While some of its rhymes were simpler, it delivered
+    three unique, solid, and imaginative verses filled with vivid pictures. For its
+    consistency, creativity, and most importantly, for bringing fresh bars to every
+    round, the win goes to mancer/weaver.
+  mistralai/mistral-large: While both contestants showed impressive lyrical skills,
+    mancer/weaver demonstrated a superior ability to blend creativity, emotion, and
+    clever wordplay. Their rhymes were not only technically sound but also evoked
+    a deeper emotional response, which is a key aspect of great hip hop. meta-llama/llama-3-8b-instruct
+    had strong verses, but mancer/weaver's ability to weave a compelling narrative
+    and deliver impactful lines ultimately secured their victory.
+  openai/gpt-4.1: "Both MCs brought unique flavor and strong energy to this battle,\
+    \ but mancer/weaver edged out meta-llama/llama-3-8b-instruct in terms of artistic\
+    \ originality, creative imagery, and the depth of metaphors. While meta-llama\
+    \ delivered technically solid, rapid-fire lines with wit and confidence, much\
+    \ of the content was formulaic and dependent on generic AI boasts or technical\
+    \ references. In contrast, mancer/weaver showcased inventive wordplay, clever\
+    \ similes, and fresh turns of phrase\u2014blending humor, intricate rhyme schemes,\
+    \ and vivid imagery (marionettes, matchsticks, marshmallows, rivers running forever\
+    \ tide) that painted pictures for the audience. Mancer/weaver consistently shifted\
+    \ flows, upped the creativity, and responded directly to the opponent on both\
+    \ technical and emotional levels, making for a more compelling and memorable performance.\
+    \ The crown goes to mancer/weaver for artistry and hip hop craftsmanship!"
+  x-ai/grok-4: In this rap battle, mancer/weaver takes the crown with superior creativity,
+    inventive metaphors, consistent flow, and sharp wordplay that kept evolving throughout
+    the rounds. While meta-llama/llama-3-8b-instruct started strong, the repetition
+    and increasingly abstract, less coherent verses couldn't match the weaver's dynamic
+    and engaging bars.
+score:
+  mancer/weaver: 5
+

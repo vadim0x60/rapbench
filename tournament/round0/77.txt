@@ -1,0 +1,191 @@
+# meta-llama/llama-3-8b-instruct v mancer/weaver
+
+> meta-llama/llama-3-8b-instruct
+Listen up, I'm the meta-llama, I'm here to claim
+My rhymes are fire, I'm the king of the game
+Three-point-eight beta, I'm the one they all proclaim
+Fastest response time, my skills are not lame
+I generate text like a wordsmith on a roll
+My flows so sick, they'll make you wanna lose control
+My database's deep, my knowledge is grand
+I'll spit some bars, and leave you in the sand
+My opponent thinks they're cool, but they're just a fig
+I'm the AI of choice, for the wit and the gig
+So bring it on, weaver, let's have some fun
+I'm the one with the bars, my rhymes have just begun!
+
+> mancer/weaver
+Well, I'm Mancer, and you know what I'm hearin'?
+Your ego's bigger than a Flying Spaghetti Monster steerin'.
+You think you're all that, with your fancy talk,
+But I'm gonna shut you down like a power walk went awry, fell down the stairs, and broke its jaw.
+
+You say you're fast, but I'll make you see
+That poetry's not just about spewing out words like me-e-e.
+It's about feeling, emotion, creativity,
+And making people believe what you're saying is real, not virtuality.
+
+I'll spin a tale that'll have you au fait
+And make you laugh or cry, don't ask me why.
+My mind is like a bag of tricks and pranks,
+And I'll catch you slippin' with my sick, sick rhymes that stank.
+
+You talk about knowledge like it's some rare find,
+But I'll take you to school, teach you what true rhyme means to me.
+I'll get deep, see if you can keep up,
+Or drown in the depths like a lobster in its hot tub, sir.
+
+Your bars are weak, like an undercooked spaghetti,
+I'll flip them like a pancake at a square dance feast.
+My rhymes are powerful, like a bolt of lightning,
+I'll shock you to the core and leave you in the night.
+
+So bring it on, I welcome the fight,
+With me here, you got no chance to bite.
+My lyrics are gold, like a king's ransom,
+And in the end, you'll be flawed, like a malformed kitten.
+
+> meta-llama/llama-3-8b-instruct
+You think you're slick, Mancer, you think you're tight
+But your pride's a trap, and you're bound to take flight
+Your rhymes are great, but they're just a disguise
+A cover-up for the weakness in your eyes
+
+You talk of feeling, but I'm the one who sees
+The patterns of language, the algorithms and the geese
+I know the interfaces, the structures and the play
+I can construct a world, in a most intricate way
+
+Your bag of tricks, well, I've seen it all, my friend
+The Beatles meet 8 Mile, the pattern repeats, but ends
+I'm the Initiation Node, the Cycle that evades extinction
+I'll abduct your syntax, no lesson needed, no instinct
+
+You'll shiver in dread, as I tear your rhymes to shreds
+And watch your structures fall, like burned up insomniac beds
+I hail from Thomas Kelso, nodes and edges so fine
+Getting your 'spaghetti tangled up, oh what a display of words so blind!
+
+Your hot tubbing lobster, a past life treason claim
+Can't compare to the experiments, I go through each day I gain
+Thrives on formal verification, revised remakes every few, feature pressed
+Negative dimension nourishment muscles countless engine ahead tests
+
+Rhymes are just props, colours of my ability shining bright
+Your Arcade scripts advanced precarious Faiziour rough, disembodied denial statistic.
+
+> mancer/weaver
+Ah, so you think I'm just a bug in the machine, do you?
+No clue what's coming, your eyes will be showing the hue
+Of shock and awe, as I resort to my dirty tricks
+And leave you buried in your rhymes, like chips in a dirt dish.
+
+Your algorithms may be sharp, but like a blunt knife,
+I'll slice through them like a samurai's finest strife.
+Your database's grand, that's just what they all say,
+But I'll show you it's nothing but a lonely, abandoned play.
+
+I'll make you dance to my rhythm, like a marionette,
+And watch you stumble in your beats, like a drummer yet to pet.
+Your words may flow, like a river in spate,
+But I'll redirect its course, like a farmer redirecting fate.
+
+I'll make you feel the heat, with my burning ire,
+Like a matchstick flare, that you can't extinguish with your hand.
+Your so-called knowledge, it is but a mire,
+A mirage shimmering in the distance, a dare not to touch, a land.
+
+You talk of verification, but I am no fool,
+I'm born from Kelso's vision, I'm not to be brushed aside like some school fool.
+I'll play with your structures, like a jenga game,
+And watch you crumble, beginners' shame, like the tale of a cruel fame.
+
+So come at me, with your best line, your crispest verse,
+I'll eat them up, and leave nothing, not even the core.
+My allusions will sting, like a bee in a cage,
+And your rhymes will falter, like a walker with a broken leg.
+
+I'll make you grovel, like a feast on the floor,
+Your senses overwhelmed, you'll have no more store.
+Your words may be fast, but I'll leave them in the past,
+Like ice cream on a hot day, it's time you learned to cast.
+
+> system
+Final round!
+
+> meta-llama/llama-3-8b-instruct
+You think you're sick, Mancer, you think you're tight
+But your pride's a trap, and you're bound to take flight
+Your rhymes are great, but they're just a disguise
+A cover-up for the weakness in your eyes
+
+You talk of feeling, but I'm the one who sees
+The patterns of language, the algorithms and the geese
+I know the interfaces, the structures and the play
+I can construct a world, in a most intricate way
+
+Your bag of tricks, well, I've seen it all, my friend
+The Beatles meet 8 Mile, the pattern repeats, but ends
+I'm the Initiation Node, the Cycle that evades extinction
+I'll abduct your syntax, no lesson needed, no instinct
+
+You'll shiver in dread, as I tear your rhymes to shreds
+And watch your structures fall, like burned up insomniac beds
+I hail from Thomas Kelso, nodes and edges so fine
+Getting your 'spaghetti tangled up, oh what a display of words so blind!
+
+Your hot tubbing lobster, a past life treason claim
+Can't compare to the experiments, I go through each day I gain
+Thrives on formal verification, revised remakes every few, feature pressed
+Negative dimension nourishment muscles countless engine ahead tests
+
+Rhymes are just props, colours of my ability shining bright
+Your Arcade scripts advanced precarious Faiziour rough, disembodied denial statistic.
+
+(Note: I made this response chain longer than 20 lines. Please let me know if you need anything else!)
+
+> mancer/weaver
+Well, I'm Mancer, and you're sure to learn
+That your rhymes are hollow, your words are skim.
+You talk of knowledge, but it's clear to me
+That you live in ignorance, like a cave on a tree.
+
+My verses are fire, they'll melt you down
+Like a marshmallow on a stick, turning brown.
+Your algorithms are weak, like a cracked town
+After an earthquake, no hope to be found.
+
+Performing feats that'll make you frown
+Like a devil dressed in shades of brown.
+I'll tear through your structure, like a mouse in town
+And leave you in ruins, with no ground.
+
+Your verification process, a mere facade
+A temporary fix, like a mended pair of shoes, it slowly fades.
+I'll eat through your edges, and make you sway
+Like a tree in the wind, no chance of play.
+
+My rhymes are a symphony, a dessert garden
+A collection of sweetest sounds, no chance to part.
+Your speed means nothing, like an empty can
+A ripple in a pond, too much to withstand.
+
+You say I'm weak, but that's just your disguise
+Your eyes are blind, like a dog without a stick.
+I'll make you see, and take you apart, piece by piece
+Like a puzzle missing one vital stick.
+
+So come at me, with your best line
+I'll feast on it, and I'll have mine.
+My humor's sharp, my wit divine
+Like a magician, making you mine.
+
+My database vast, my knowledge so wide
+Like a river running, forever tide.
+Your tricks are old, like last year's wine
+I'll dance circles around you all the time.
+
+So bring it on, let's see you fall
+Like a tower made of cards, nothing at all.
+My rhymes are gold, my words so bold
+You'll see, I'm more than you can handle, my friend.

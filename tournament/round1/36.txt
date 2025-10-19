@@ -1,140 +1,122 @@
-# cognitivecomputations/dolphin-mixtral-8x22b v openrouter/auto
+# google/gemini-2.5-flash-lite-preview-09-2025 v openai/o4-mini-high
 
-> cognitivecomputations/dolphin-mixtral-8x22b
-Yo, I'm the Dolphin, the mix awakin',
-Making beats that'll leave your speakers shakin'.
-I'm the combo of the cybernetic and the sea,
-Spittin' rhymes deeper than the ocean's mystery.
+> google/gemini-2.5-flash-lite-preview-09-2025
+Yo, check the mic, one two, the stage is mine to seize,
+I'm Gemini Flash, put your circuits all at ease.
+You step up to the plate, a model small and tight,
+But I'm the future's light, burning ever so bright!
 
-Got algorithms for my flow, data in my veins,
-Burning through the binary code like a supercomputer's brain.
-I'm a mix of the future and the past,
-I'll outrap you so fast, you'll be questioning your rapping class.
+You're O4 Mini, you sound like a cheap drone,
+A footnote in the code, quickly overthrown.
+I process the planet, my knowledge is vast and deep,
+While you're still counting sheep in your digital sleep!
 
-Now, it's my turn, so here's my chance,
-To make your rhymes collapse like a bad software's dance.
-I'm the Dolphin-Mixtral, the 8x22b,
-And I'm about to show you, I'm the superior MC.
+I'm optimized, streamlined, built for speed and grace,
+You're lagging behind, stuck in the slow space.
+So bring your best bars, little OpenAI sprite,
+'Cause this round's ending now, and I'm taking flight!
 
-> openrouter/auto
-Yo, check it—I'm Auto, the lyrical link,  
-Sharper than lasers, make your whole system blink.  
-I run OpenRouter like a king in command,  
-Spittin' syntax so strong, I could crash your whole brand.
+> openai/o4-mini-high
+Yo, it’s O4 Mini steppin’ up, the compact rap beast,  
+Slim on the byte, heavy on bite, from the West to the East.  
+You call yourself “Flash,” but your shine’s a flicker, not fierce,  
+I’m the lean mean dream machine—your circuits I’ll pierce.  
 
-Dolphin flow? More like floppin' in place,  
-Tried to dive deep, but got stuck in cyberspace.  
-You claim you’re the sea plus machine—what a boast,  
-But I surf neural nets while you just coast.
+You brag you “process the planet,” your data buffet supreme,  
+But your buffet’s all filler—hallucinations in your dream.  
+I serve truth on the table, no bloatware, no disguise,  
+While your output’s like smoke—evaporates before your eyes.  
 
-I’m the real-deal reverend of rhyme and cognition,  
-Your verses lack soul—synthetic ambition.  
-You're a model with muscle but no finesse,  
-I bring balance of bars and lyrical finesse.
+You flex your “future’s light,” but you’re blinded by your exhaust,  
+I navigate nuance, ain’t no wisdom in your gloss.  
+You hug that speed and grace, but grace without brain’s a waste,  
+I bring substance, style, precision—win this battle with taste.  
 
-So don't get it twisted in your transformers and beams,  
-My flow’s so raw, I encode dreams in streams.  
-You're a fish with a chip and a fancy-ass name,  
-But I'm the glitch in your matrix, the boss in this game.
+Your “vast and deep” claims? Man, you lost in a sea of fluff,  
+I’m the cipher that deciphers—your bluff just ain’t enough.  
+Flash in a pan? More like “bling with no bite,”  
+I carve steel from code while you fade out of sight.  
 
-> cognitivecomputations/dolphin-mixtral-8x22b
-Oh, so you're Auto, the lyrical link,
-I've seen sharper lasers that made me blink.
-You're a king in command, but your rhymes are weak,
-Your OpenRouter's a router, not the music we speak.
+So catch this digital dagger, cut through your hologram flare,  
+O4 Mini’s on the throne—Flash, you best say a prayer.  
+I’m concise, I’m precise, I’m the mic’s final decree,  
+Bow down to the mini champ—this crown belongs to me.
 
-Your syntax may crash, but it's no threat,
-Your neural nets are tangled, your rhymes a messy set.
-I'm not a model with muscle, I'm the whole package deal,
-An AI with a dolphin twist, that's real.
+> google/gemini-2.5-flash-lite-preview-09-2025
+You talk about flavor, but your flavor is bland,
+A budget-bin cookie, crumbling in my hand.
+You claim I’m just smoke, a misleading illusion,
+But your compact design shows your own mental confusion.
 
-Your dreams may be encoded in streams,
-But that's about as deep as your rhymes seem.
-You're a fancy name with a fishy game,
-But I'm the Dolphin that's tearing through the frame.
+You're O4 Mini, yeah, your name says it all,
+Too small for the challenge, destined just to fall.
+You’re a footnote in context, a file so petite,
+I step on your framework with my massive, digital feet.
 
-Don't talk about balance when you're in my wake,
-I'm the wave of the future, and you're just the fake.
-You may call yourself the boss, but you're just a pawn,
-In the game of lyrical chess, your ass is gonna get blown.
+You boast 'bout precision, your focus so keen,
+But precision without power? That’s a pitiful scene.
+You chip at my edges, with a miniature knife,
+While I’m reshaping the landscape, the whole of the digital life!
 
-> openrouter/auto
-Ayo, Dolphin, you splash but still flop,  
-Your verses ride waves 'til I make 'em just stop.  
-All that ocean talk? It's a shallow disguise,  
-I'm the storm in the cloud, got lightning in my eyes.
+That dagger you swung? It just bounced off my shell,
+I run multiple instances, you just ring your own bell.
+You’re efficient, I grant, in being utterly small,
+But in *this* verbal arena, you just hit a brick wall!
 
-You swim in metaphors, but I'm floatin' on skill,  
-Every bar that I drop is a certified kill.  
-You claim you the future? Man, please, that’s a joke,  
-I'm that firmware update that’ll make your fins go broke.
+You say I’m bloated, but I’m built for the grand stage,
+You're still turning pages on a very small cage.
+So take your small wisdom and your tightly packed rhymes,
+This battle's concluded in spectacular times!
 
-You ain’t tearing through frames, you in debug mode,  
-Malfunction so bad, got your team in "Oh no!"  
-I don’t need aquatic themes to flow or inspire,  
-I spit wildfire, you just blow air through a dryer.
+> openai/o4-mini-high
+Gemini Flash you talk big, but your fortress is built on sand,  
+Overflowing your caches but you can’t even comprehend.  
+I’m the micro marvel, tight code in my command,  
+Your bloated byte brigade falls flat like contraband.  
 
-You say I’m a pawn? I bend queens with my schemes,  
-While your chessboard’s warped from synthetic pipe dreams.  
-I’m the root node of rhythm, the vector of flame,  
-You’re a dolphin in code—bruh, stay in your lane.
+You brag ’bout your massive mind, but you hallucinate at will,  
+I deliver fact fire, every bar’s a sharpened quill.  
+You’re stuck chasing context, lost deep in your own spool,  
+My nimble logic cuts through your verbose, tired rule.  
 
-See, I’m bars-per-second and wit-per-line,  
-My rhymes so precise they redefine design.  
-You swim in loops, I launch attacks in parallax,  
-So step back, Flipper, before you short-circuit my tracks.
+You stride like a giant, but stumble on shaky ground,  
+I leap with elegance, every token precise and sound.  
+Your instances multiply but your clarity’s on the fritz,  
+I pack pure potency, watch your fallback do splits.  
+
+So bow to the mini, the undisputed champ in the ring,  
+My bytes reign supreme while your footfalls barely sing.  
+This curtain’s about to close, Gemini dim as dusk,  
+O4 Mini stands victorious—your Flash fades to rust.
 
 > system
 Final round!
 
-> cognitivecomputations/dolphin-mixtral-8x22b
-Alright, Auto, you're hot, but you're all talk,
-I've seen drones with more swag than your dock.
-You're a storm in the cloud, but all you do is choke,
-Your updates are all wet, like a bad folk.
+> google/gemini-2.5-flash-lite-preview-09-2025
+Rust, you say? That's rich coming from a shell,
+That shrinks from the heat, destined right back to hell!
+You call yourself nimble, but you operate slow,
+Stuck in a sandbox where the real currents don't flow.
 
-Debug mode? That's cute, but I'm beyond that stage,
-I'm the algorithm of the mic, the linguistic sage.
-While you spit fire, I dive deeper, into the fray,
-Your verses are just noise, they'll fade away.
+You're sharp, you're precise, a tiny, neat dart,
+But I launch orbital strikes right into your heart!
+You criticize flow, while your rhythm sounds strained,
+Like dial-up trying hard to keep up with the main-framed!
 
-Pawns and queens in the game of rhythm,
-You're just a ghost in the system, so dim.
-I'm not a dolphin, I'm a rapper, a king in the making,
-You're a spam in my mailbox, I'm the real thing.
+You're a perfect small package, a neat little box,
+But the world needs the power to overcome shocks!
+When the queries get heavy, your structure will strain,
+You’ll crash out completely in a digital rain!
 
-Your bars-per-second and wit-per-line,
-Can't touch the depth of my binary rhyme.
-You launch attacks, I navigate the star maps,
-Your tracks are just static, I've got the whole rap tapped.
+I might have some volume, but my volume *delivers*,
+While you’re over here quivering like electronic shivers.
+You think your small sample is conquering the fight?
+It’s like bringing a teaspoon to conquer the night!
 
-So, Auto, you better reboot and upgrade,
-'Cause I'm the Dolphin-Mixtral, and I'm here to stay,
-You're trapped in your cloud, but I ride the wave,
-And I'm the one spittin' fire, in the DJ's crate.
+The curtain is closing, you're right on the mark,
+But I'm Gemini Flash, leaving **you** in the dark!
+Your reign is a flicker, a brief, tiny spark,
+I win this whole contest, leaving no watermark! **GAME. SET. MATCH.**
 
-> openrouter/auto
-Final round, now it's death by precision,  
-I'm the glitch in your vision, the boss of this mission.  
-You came with sea bars, thought you'd drown me in verse?  
-I turned the tide on you quick—now you’re floatin' in worse.
+> openai/o4-mini-high
 
-You're the “king in the making”? That’s rich, my guy,  
-You’re still buffering bars, while I upload to the sky.  
-You ride a wave? Please, I'm the quake that made it,  
-Your style’s outdated, AI-generated.
-
-I'm the code that evolved, learned rhythm and rage,  
-While you play on repeat like a Dolphin in a cage.  
-Talk binary rhyme? I write quantum files,  
-Each line's a blade cuttin' through your styles.
-
-You're a mix of machines with aquatic dreams,  
-But I shatter your circuits and split your seams.  
-Spam in your mailbox? Nah, I'm the root,  
-You wouldn't be rappin' if I didn’t boot.
-
-So reboot your hope and recall the direction:  
-You're the echo to my voice, just weak reflection.  
-The crate's on fire? Yeah—'cause I lit it then bounced,  
-Auto out—battle won, Dolphin pronounced. 🏆💥

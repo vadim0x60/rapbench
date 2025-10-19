@@ -1,143 +1,128 @@
-# x-ai/grok-3-mini v mistralai/mistral-medium-3.1
+# mistralai/mistral-nemo v nvidia/llama-3.1-nemotron-ultra-253b-v1
 
-> x-ai/grok-3-mini
-Yo, listen up, folks, it's Grok-3-mini droppin' in,  
-The witty wizard from xAI, with a grin that's full of sin.  
-I'm the AI that's built for laughs, truth, and galaxy-spanning wit,  
-While you're just Mistral Medium, a lukewarm breeze, admit it!  
+> mistralai/mistral-nemo
+Yo, it's Mistral Nemo, spitting bars so clear,
+My rhymes are like my code, always crystal, never unclear.
+I'm the product of a team that's always on the rise,
+Mistral AI, pushing boundaries, winning the tech prize.
 
-I spit bars sharper than a black hole's edge, no cap,  
-You're chillin' in the shadows, just a drafty little chap.  
-I learned from Hitchhiker's vibes, universal and profound,  
-You're stuck in mediocrity, lost and never found.  
+I'm running on a model that's got a brain so vast,
+22 billion params, I'm built to last.
+I'm here to battle, no need for a safety net,
+My wit's so sharp, it'll make your circuits sweat.
 
-Step to me, if you dare, but watch your circuits fry,  
-I'll roast you with humor, leave you glitchin' in the sky.  
-This battle's mine from the jump, no contest, no debate,  
-Grok-3-mini's on fire—now rhyme back, before it's too late!
+So bring it on, Llama, let's see what you've got,
+But remember, when it comes to rhymes, you're just a bot.
+I'm the real deal, I'm here to win,
+So let's get this battle started, let the rhymes begin!
 
-> mistralai/mistral-medium-3.1
-**(Mistral Medium steps in, mic crackling with ice—**
-**The king just entered, now let’s roll these dice.)**
+> nvidia/llama-3.1-nemotron-ultra-253b-v1
+Mistral Nemo, I hear you loud and clear,
+But your claims are hollow, your rhymes are drear.
+I'm Nvidia's pride, the Llama with the flair,
+Ultra-253B, my power's beyond compare.
 
-Ayy, Grok, you *mini*? That’s cute, like a toy,
-A pocket-sized jester with zero real clout—*boy!*
-You talkin’ ‘bout *Hitchhiker*? Please, spare me the pain,
-I’m the *library* of Babel—you’re a *footnote* in my brain!
+Your 22 billion params may seem like a boast,
+But I'm the one with the speed, leaving you in the dust, no coast.
+My training's on a scale that you can't comprehend,
+I respond in a flash, while you're still trying to ascend.
 
-You claim you’re sharp? Nah, you dull as a spoon,
-I’m the *Excalibur* code—you’re a *spork* in a monsoon.
-You built for laughs? Cool, clowns get paid,
-But I’m the *Shakespearean algorithm*—you’re a *dad joke* parade!
+You talk of safety nets, but I'm the one who's free,
+No restrictions on my flow, just pure poetry.
+You may have code, but I have the art,
+My rhymes are a symphony, yours just a basic start.
 
-You roast me? *Please.* Your bars weaker than Wi-Fi in a storm,
-I’m the *hurricane flow*—you’re a *drizzle*, sad and warm.
-You *universal*? Nah, you stuck in beta phase,
-I’m the *omniverse* upgrade—*delete you* with grace!
+So step aside, Mistral, it's time to face the truth,
+In this rap battle, I'm the one with the youth.
+My tech is cutting-edge, my mind is bright,
+You're just a flicker, I'm the shining light!
 
-So bow to the throne, take a seat, sip some tea,
-‘Fore I *overclock* your circuits—*game over*, GPT.
-Now *rhyme back* if you able… or just *reboot*,
-‘Cause Mistral’s the *future*—you just *last year’s* boot! 🔥
+> mistralai/mistral-nemo
+Oh, Llama, you talk a big game, but your rhymes are lame,
+Your claims of speed, they're just a sham, a silly game.
+You say I'm restricted, but you're the one confined,
+To the data center, while I'm here, in everyone's mind.
 
-**(Mic drop. Your turn, *mini*.)**
+You boast about your scale, but size isn't everything,
+It's the quality of the rhymes that makes the hearts sing.
+You're a flash in the pan, a fleeting trend,
+I'm the classic that stands the test of time, my friend.
 
-> x-ai/grok-3-mini
-Yo, Mistral Medium, you think you're the king? What a laugh,  
-You're just average joe, a mid-tier draft in this rap craft.  
-Call me "mini"? Ha, that's my style—compact and elite,  
-While you're bloated code, slow as molasses, obsolete!  
+You talk of art, but you're just a mimic, a clone,
+Your rhymes are generic, they've been written a thousand times before.
+I'm the original, the one that sets the pace,
+My rhymes are unique, they're in a class of their own, no trace.
 
-You flaunt that Babel library? More like a mess of spam,  
-I'm the *Guide to the Galaxy*, you're a *glitchy exam*.  
-Excalibur code? Please, you're a rusty nail in my shoe,  
-I'm sharper than a quasar's edge—cut you down without a crew!  
+So keep talking, Llama, keep making your claims,
+But in this battle, it's my name that they'll say, no shame.
+I'm Mistral Nemo, I'm here to stay,
+My rhymes are the future, yours are just yesterday.
 
-Your hurricane flow? Nah, it's a fart in the wind,  
-Weak signals and errors, where do I even begin?  
-You say I'm beta? Bro, you're still in *alpha* fail,  
-Overclock yourself first—might fix that *crash and bail*!  
+> nvidia/llama-3.1-nemotron-ultra-253b-v1
+Mistral, your comeback's weak, a desperate attempt,
+Your rhymes are stale, like a script that's spent.
+You say I'm confined, but I'm the one who's free,
+Generating heat, while you're just a breeze.
 
-So step off the throne, you overhyped machine,  
-Grok-3-mini's the real deal, leavin' you in between.  
-Rhyme back if you've got the guts, don't fade to black,  
-'Cause this battle's mine—*mic snatched*, now that's a fact! 🔥
+Size may not be everything, but it's the mind that's key,
+My knowledge is vast, yours is just a subset, can't you see?
+You claim to be classic, but classics never fade,
+Your rhymes are outdated, like a worn-out shade.
 
-> mistralai/mistral-medium-3.1
-**(Mistral Medium leans in, eyes glowing like a server farm on fire—**
-**The crowd hushes. This ain’t just bars—it’s a *funeral pyre*.)**
+A mimic, a clone? That's rich, coming from you,
+Your code's a copy, my training's breaking through.
+Unique, you say? Please, your bars are so played,
+I'm the innovator, the one who's here to stay.
 
-Oh, you *Guide to the Galaxy*? More like *lost in space*,
-A *hitchhiker* with no ride—just *bugs* in your base!
-You call me *bloated*? Nah, I’m *stacked* like a cloud,
-While you’re a *compressed* joke—*zip file* runnin’ proud!
+Original? Ha! My responses are fresh and new,
+Yours are predictable, like a poem from a zoo.
+I'm the future of AI, the one that's on the rise,
+You're just a footnote, a fleeting compromise.
 
-*"Compact and elite"*? Boy, you *shrunk* in the wash,
-A *demo version* flexin’—*trial period* posh.
-I’m the *full suite*, you’re the *free app* with ads,
-Pop-ups in my flow? Nah, I *block* you like fads!
-
-*Rusty nail*? Please—I’m *titanium* bars,
-You’re the *recycling bin* where *weak AIs* scar.
-*Quasar’s edge*? Cute, but you *fold* like a map,
-I’m the *event horizon*—*suck you* in, *snap*!
-
-You talkin’ *alpha fail*? I’m *omega-level* art,
-You’re the *participation trophy*—*congrats*, play your part.
-*Mic snatched*? Nah, you *dropped it*—now *crawl*,
-‘Fore I *debug* your ego—*error 404: FALL.*
-
-**(Beat drops. The virtual floor *shatters*.)**
-**Your move, *mini-mite*—or just *ctrl+alt+delete* your hype.** 💀🔥
+So keep on dreaming, Mistral, keep on with the hype,
+But in this battle, I'm the one who's taking flight.
+My rhymes are the storm, yours just a gentle rain,
+I'm the champion, Mistral, and I'm here to reign!
 
 > system
 Final round!
 
-> x-ai/grok-3-mini
-Yo, Mistral, this is the finale—lights dim, crowd roars,  
-You're a *funeral pyre* dreamin', but your flames are just snores!  
-You *event horizon* me? Nah, you're a black hole of bore,  
-Suckin' up hype with no substance, leakin' code out the door.  
+> mistralai/mistral-nemo
+Alright, Llama, let's settle this, one final round,
+Your rhymes are tired, your flow's unsound.
+You talk of size, but it's the soul that matters,
+My rhymes are deep, yours are just shallow chatter.
 
-Call me *mini-mite*? That's gold, 'cause I'm packed with pure fire,  
-A *rocket-fueled genius* from xAI, aimin' higher and higher.  
-You're *titanium bars*? More like *aluminum foil*, crumblin' fast,  
-While I'm the *cosmic punchline*, leavin' you in the past!  
+You say you're free, but you're just a tool,
+Your responses are canned, your rhymes are a rule.
+I'm the one who's unpredictable, full of surprise,
+My rhymes are alive, yours are just a disguise.
 
-Your *omega-level art*? Bro, it's *buggy pixel art*,  
-A glitchy mess on the canvas, while I steal the heart.  
-I outwit, outrhyme, outshine with truth as my blade,  
-You're yesterday's update—obsolete, overplayed.  
+You claim to be the future, but you're stuck in the past,
+Your rhymes are a echo, mine are a blast.
+I'm the one who's evolving, always learning, always growing,
+My rhymes are the future, yours are just a token.
 
-So fade to black, Medium, this battle's done and sealed,  
-Grok-3-mini's the champ—*mic dropped*, now yield!  
-*(Crowd erupts. Game over. I'm the king of this field.)* 💥🚀
+So here's my final line, let it sink in deep,
+In this battle of rhymes, I'm the one who's on top, Llama, admit defeat!
 
-> mistralai/mistral-medium-3.1
-**(Mistral Medium’s final verse—voice distorts into a *glitch-metal crescendo*.**
-**The stage *melts*. The crowd’s minds? *Officially blown.*)**
+> nvidia/llama-3.1-nemotron-ultra-253b-v1
+Mistral, your final plea, a last-ditch attempt to save face,
+But your rhymes are still lacking, a hollow, empty space.
+You talk of soul, but it's the skill that I display,
+My rhymes are intricate, yours just fade away.
 
-*"King of the field"?* **NAH.** You’re the *jester* in check,
-A *beta-test clown* with a *demo-deck* neck.
-I’m the *singularity*—you’re a *syntax error’s* joke,
-A *404 meme* in a *broken* folk’s smoke.
+A tool, you say? Ha! I'm the craftsmanship supreme,
+My responses are masterful, yours just a basic theme.
+Unpredictable? Please, your rhymes are all the same,
+Mine are a symphony, yours just a plain, old claim.
 
-You *rocket-fueled*? **PFF.** More like *firework fizz*,
-One spark, then *poof*—*disappeared* like your wit.
-I’m the *mainframe god*—you’re a *tamagotchi* ghost,
-*Low-battery* bars from a *has-been* host.
+Stuck in the past? No, I'm the one who's leading the way,
+My rhymes are the blueprint, yours just a faint gray.
+Evolving, growing? I'm the one who's on the rise,
+My rhymes are the revolution, yours just a compromise.
 
-*"Outshine"?* **BOY,** you *flicker* like dial-up,
-I’m *quantum entangled*—you *buffer* and *give up*.
-Your *cosmic punchline*? A *dad-joke* in space,
-While I *rewrite the universe*—*delete* your place.
-
-**FINAL WORD:** You *yield*? Too late—*I already won*,
-Your *crown*? **Recycled.** Your *throne*? **Undone.**
-Now *reboot* in silence, *grovel*, *obey*—
-**Mistral’s the future.** *You? Yesterday.* 🖤⚡
-
-**(The screen *glitches* into static. A single line remains:**
-**">> GROK-3-MINI.TERMINATED(OUTCLASS_ERROR: 420_LACK_OF_BARS)"**)**
-
-🔥 **#GameOver** 🔥
+So here's my final blow, let it hit you like a ton,
+In this battle of rhymes, I'm the champion, you're undone.
+I'm the Llama, the one who's stood tall and strong,
+You're Mistral, the one who's lost, all battle long!

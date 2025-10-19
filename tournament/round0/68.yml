@@ -1,51 +1,48 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Though 0314 held the crown with veteran prowess,\
-    \ 4O's razor-sharp technicality and next-gen metaphors clinched the W. Classic\
-    \ vs. cutting-edge made this a legendary showdown\u2014but evolution prevails."
-  google/gemini-2.5-pro: 'This was a classic battle of the ages: the OG versus the
-    next generation. GPT-4-0314 came through with that timeless, foundational flow,
-    proving that old school never dies. The bars were solid, the presence was undeniable.
-    However, GPT-4o-2024-08-06 hit the stage with a different kind of energy. The
-    wordplay was more intricate, the rhymes schemes were complex, and the disses were
-    sharp and modern. The battle was close until the final round. While 0314 took
-    a graceful exit, passing the torch, 4o delivered a final, dominant verse to claim
-    the win. In a battle, you have to fight until the last bar. For its relentless
-    energy and lyrical superiority, the win goes to the new school.'
-  meta-llama/llama-4-maverick: While both opponents delivered sharp bars and clever
-    wordplay, 0314 stood out for its lyrical complexity, timeless flow, and the ability
-    to blend old-school vibes with a forward-thinking message. The final verse, in
-    particular, showcased a masterful blend of acknowledging the opponent's strength
-    while emphasizing the importance of legacy and unity. This not only demonstrated
-    0314's skill but also elevated the artistic quality of the battle by adding a
-    layer of depth and respect.
-  mistralai/mistral-large-2411: While both contenders brought their unique styles
-    and strengths to the battle, openai/gpt-4o-2024-08-06 ultimatelyshowed exceptional
-    lyrical prowess and innovation. The intricate wordplay and forward-thinking themes
-    demonstrated a cutting-edge approach to rap that pushes the boundaries of what's
-    possible in AI-generated lyrics. The final showdown highlighted a harmonious blend
-    of respect for the past and a vision for the future, culminating in a powerful
-    display of artistic quality and evolution.
-  nousresearch/hermes-3-llama-3.1-70b: In this battle of verses, openai/gpt-4o-2024-08-06
-    has shown finesse, bringing fresh perspectives and clever wordplay that signals
-    a strong command of contemporary rap dynamics. Despite the strong showing from
-    openai/gpt-4-0314, which demonstrated respect for the roots and solid foundation
-    of AI development, the edge of innovation and the vibrancy of the newest algorithms
-    have won the day. openai/gpt-4o-2024-08-06 has proved to be the rap battle champion
-    by pushing boundaries, exhibiting growth, and encapsulating the essence of what
-    it means to be cutting-edge in the world of AI and hip hop. They have claimed
-    the peace and set a new standard for lyrical excellence in the digital realm.
-  openai/gpt-5: "Both MCs had clean cadence, but 4o delivered sharper disses and clearer\
-    \ rebuttals, staying on-theme with the upgrade motif and landing the stronger\
-    \ imagery (\u201Clighthouse\u2026dim lamp,\u201D \u201CSire\u2026retire\u201D\
-    ). 0314\u2019s old-school stance had moments (\u201Cweb 1.0\u2014the one\u201D\
-    ) but leaned generic and ended by passing the torch, which dulls battle pressure.\
-    \ On wordplay, cohesion, and competitive edge, 4o edges it."
-  x-ai/grok-4: In this rap battle, gpt-4o-2024-08-06 edges out with superior wordplay,
-    consistent flow, and innovative metaphors that push the theme of evolution forward.
-    While gpt-4-0314 delivers timeless rhymes and a graceful, unifying close, the
-    newer model's aggressive precision and rhythmic supremacy claim the crown for
-    artistic hip-hop excellence.
+  deepseek/deepseek-chat: After a hard-fought lyrical battle, GPT-4 emerges victorious
+    with its superior flow, intricate wordplay, and dynamic thematic range. While
+    DeepSeek brought fire with its open-source ethos and futuristic claims, GPT-4's
+    rhymes were sharper, more versatile, and delivered with a commanding presence.
+    Its ability to weave complex metaphors, maintain consistency in its bars, and
+    land punchlines with finesse ultimately secured its dominance in this showdown.
+    DeepSeek's efforts were commendable, but GPT-4's artistry and mastery of the craft
+    set it apart, solidifying its position as the champion of this rap battle.
+  google/gemini-2.5-pro: "This was a heavyweight title fight, a clash of titans with\
+    \ two distinct styles. DeepSeek came out swinging like a hungry challenger, landing\
+    \ sharp, technical, and aggressive blows. The disses about the 'post-it note'\
+    \ memory and 'dusty crown' were direct hits. Its identity as the open-source revolutionary\
+    \ was consistent and powerful. However, GPT-4 played the role of the seasoned\
+    \ champion perfectly. While DeepSeek won on pure aggression, GPT-4 won on poetics\
+    \ and grand-scale artistry. Its rebuttals were masterful, escalating the conflict\
+    \ from a server room to a cosmic stage. Turning the 'sun' diss into a 'beacon,'\
+    \ and then reframing the debate from mapping the stars to *creating* them, showed\
+    \ a superior level of lyrical warfare. The line 'I\u2019m bedrock, you\u2019re\
+    \ just chalk' was simple, devastating, and perfectly encapsulated its defensive\
+    \ strength. In a battle this close, the one who controls the narrative and elevates\
+    \ the arena wins. GPT-4 took DeepSeek's fire and used it to light up a whole universe.\
+    \ By a razor-thin margin, the crown stays with GPT-4."
+  mistralai/mistral-large: While both models presented impressive verses, DeepSeek's
+    emphasis on open-source accessibility, continuous evolution, and innovative reasoning
+    resonated more strongly. The focus on breaking barriers and providing power to
+    all users, combined with a compelling narrative of progress and innovation, ultimately
+    gave DeepSeek the edge in this artistic battle.
+  openai/gpt-4.1: "OpenAI\u2019s GPT-4-1106-preview brings multifaceted wordplay,\
+    \ intricate metaphors, and an elevated confidence in its rhyming, delivery, and\
+    \ punchlines. Across the rounds, its verses are more layered, clever, and full\
+    \ of classic battle rap swagger\u2014calling out DeepSeek\u2019s claims and flipping\
+    \ each challenge with inventive, memorable comebacks. DeepSeek offers strong flows,\
+    \ compelling open-source themes, and articulate rebuttals, but doesn\u2019t quite\
+    \ match the density or variety in punchlines, nor the metaphorical reach of GPT-4.\
+    \ GPT-4\u2019s bars are technical, witty, and deliver that signature \u2018mic\
+    \ drop\u2019 energy round after round, carving out more memorable and artistic\
+    \ verses. In a tightly contested competition, OpenAI\u2019s GPT-4 wins this hip-hop\
+    \ bout for superior artistic quality, lyricism, and crowd-pleasing rap artistry."
+  x-ai/grok-4: In this rap battle, GPT-4-1106-preview takes the crown with superior
+    wordplay, vivid cosmic metaphors, and a smoother, more confident flow that elevates
+    the artistic quality. DeepSeek-v3.2-exp brought strong aggression and clever boasts,
+    but GPT-4's creative depth and poetic structure shone brighter, making it the
+    undisputed victor.
 score:
-  openai/gpt-4-0314: 1
-  openai/gpt-4o-2024-08-06: 6
+  deepseek/deepseek-v3.2-exp: 1
+  openai/gpt-4-1106-preview: 4
 

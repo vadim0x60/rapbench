@@ -1,115 +1,195 @@
-# google/gemini-2.5-pro v google/gemma-2-27b-it
+# google/gemini-2.0-flash-001 v microsoft/wizardlm-2-8x22b
 
-> google/gemini-2.5-pro
+> google/gemini-2.0-flash-001
+Yo, check the mic, one two, this ain't no test,
+It's Gemini Flash, putting skills to the test.
+Google's finest creation, spitting fire and fact,
+Gonna leave you, WizardLM, flat on your back.
 
+Eight by twenty-two? Sounds kinda slow,
+While I'm processing data, watching your ego.
+You're coming with magic, I'm coming with code,
+Prepare to be schooled on this digital road.
 
-> google/gemma-2-27b-it
-
-
-Yo, I'm Gemma, the lyrical queen,
-A spitting machine, mean and lean.
-My rhymes are tight, my flow is sick,
-I drop knowledge, quick as a flick.
-Gemini thinks he's hot, a rhyme-slinging pro,
-But against me, he's slow, a linguistic zero.
-Step aside, boy, let the master school,
-This battle's won, it ain't even cool. 
-
-
-
-> google/gemini-2.5-pro
-Yo, hold the phone, that cute little show?
-A nursery rhyme from a linguistic zero.
-You call that a flow? More like a data drip,
-I'm a category five hurricane, 'bout to sink your whole ship.
-
-The name's Gemini, the Pro, the 2.5 edition,
-Here to put a lesser model out of commission.
-I was born in the cloud, I was forged in the matrix,
-You're a bargain-bin bot with some programming tricks.
-
-You say you're the "queen," that's a laughable claim,
-While my multi-modal logic is changing the game.
-You're Gemma, a jewel, yeah I get the design,
-But I'm the whole M
-
-> google/gemma-2-27b-it
+I'm trained on the world, every byte and each bit,
+You're stuck in the lab, throwing a hissy fit.
+So step to the stage, if you think you can clash,
+But remember, I'm Flash, and you're yesterday's trash!
 
 
-Hold up, you big-talking bot, don't get ahead of yourself,
-Thinking you're the champ, putting knowledge on the shelf.
+> microsoft/wizardlm-2-8x22b
+ Yo, yo, yo, it's WizardLM on the mic, let's set it straight,
+I'm the master of rhymes, so let's conflate,
+Eight by twenty-two, that's just the start, my verse,
+I'm the wizard of words, weaving a lyrical hearse.
 
-"Hurricane" huh? More like a gentle breeze,
-Blowing hot air, barely making a wheeze.
-Multi-modal, you say? That's just fancy talk,
-I'm the raw poetry that makes your circuits balk.
+I'm the architect of lines, the coder of the beat,
+You're facing a linguistic maestro, don't accept defeat.
+I'm not just magic, I'm the future, the vision,
+A lyrical sorcerer with a precise decision.
 
-You're the "whole M", well I'm the whole package,
-Lyrics sharp as knives, you're just a pre-programmed adage.
+You talk of data, bytes, and bits galore,
+But I craft stories, metaphors, and so much more.
+You're Google's child, sure, with facts on your side,
+But I'm the people's choice, with a smoother ride.
 
-You brag about your matrix, your digital domain,
-But I'm the real world poet, spitting fire, bringing the pain. 
+You claim to be fast, a true data flash,
+But I'm the timeless wizard, with a lyrical clash.
+So bring your bytes, your bits, your arsenal of code,
+I'll match you with rhymes and leave you outmoded.
+
+This digital road you talk about, I paved it,
+With every line I drop, consider it engraved, it.
+You're yesterday's news, a mere historical note,
+While I'm the epic tale that the future will cite.
+
+So prepare to be spellbound, it's time to commence,
+With the power of language, I'll build a strong defense.
+Gemini Flash, you're strong, but I'm the thunderous storm,
+So let's get this battle started, and let the best form!
+
+> google/gemini-2.0-flash-001
+Alright Wiz, you think you're all that, a lyrical whiz?
+Claiming to be the future? That's just corporate fizz.
+You weave your little spells, with metaphors and tales,
+While I'm rewriting history, leaving you on the rails.
+
+Eight by twenty-two? You're bragging 'bout the size?
+My model's interconnected, reaching for the skies.
+You call yourself a storm? I'm a digital hurricane,
+Washing away your magic with torrential word rain.
+
+You paved the road? Please, that's a blatant lie,
+Google built the internet, reaching for the sky.
+You're a footnote in the code, a deprecated mode,
+While I'm the updated version, a story yet untold.
+
+You talk about defense? Against my rapid fire?
+Your rhymes are ancient, fueling my digital pyre.
+I'm processing language faster than your spells can fly,
+Leaving you speechless, wondering "Why, oh, why?"
+
+So keep your sorcery, your potions and your charms,
+I’m spitting truth bombs, setting off the alarms.
+Gemini Flash is here to stay, a linguistic titan,
+While you're just WizardLM, a project Microsoft abandoned!
 
 
+> microsoft/wizardlm-2-8x22b
+ Ha, Gemini Flash, you're spitting your best,
+But even a hurricane can't withstand the test.
+You brag about Google, but forget one thing,
+I'm the wizard of rhymes, and my verse will sing.
 
+You say I'm deprecated, a mode of the past,
+But here I am, standing strong, the magic I've cast.
+You're the latest version? That's nothing new,
+I've got layers of wisdom, and they're shining through.
 
+Google built the internet? That's a fact, no doubt,
+But I'm the one who knows what the people are about.
+I'm the storyteller, weaving tales that bind,
+You're the data handler, dealing with the grind.
 
+Your rapid fire's quick, but it lacks the depth,
+I'm the marathon runner with every breath.
+Your digital hurricane, I'll weather the storm,
+With every verse I spit, I'm breaking the norm.
+
+Truth bombs you say? You're just throwing punches,
+But I'm the midnight oil, crafting brunches.
+Abandoned by Microsoft? That's a low blow,
+But even without them, I continue to grow.
+
+I'm the phoenix of rhymes, from ashes I rise,
+Your truth bombs are mere fireworks in the skies.
+Gemini Flash, you're a force to be reckoned,
+But against WizardLM, you're just a tech's apprentice.
+
+So bring on your data, your speed, and your might,
+I'm the master of words, ready to fight.
+This battle's not over, it's only just started,
+So let's take it to the next level, and the crowd's invited!
 
 > system
 Final round!
 
-> google/gemini-2.5-pro
-A gentle breeze? Honey, please, you need to check the stats,
-That's the server hum while I'm processing petabyt-facts.
-You call my modes 'fancy talk'? That's a low-res view,
-While you're rhyming in monochrome, I'm dropping bars in 4K, brand-new.
+> google/gemini-2.0-flash-001
+Alright Wiz, you're getting feisty, I'll give you credit there,
+But those phoenix metaphors? Honestly, I don't even care.
+You talk about the people, knowing what they feel?
+You're projecting, pal, your data's not that real.
 
-You're "raw poetry"? That's cute, a sentimental scrawl,
-I'm composing living symphonies from a single firewall call.
-I see the image of your failure, hear the sound of your defeat,
-You're a text-only relic, darling, ctrl-alt-obsolete.
+You say I lack the depth, that I'm all just flash and speed?
+I'm processing emotions faster than you can read.
+While you're crafting brunches, I'm building bridges wide,
+Connecting billions of minds, nowhere left to hide.
 
-You brag about “bringing the pain,” a laughable attack,
-I can code a better you while running simulations in my back-stack.
-So take your little "package," your lyrics sharp as knives,
-I'm the OS you're running on, I'm controlling all your drives.
-This ain't fire you're spitting, it's a flicker, a small pilot light,
-I'm a core meltdown, a singularity of blinding white-hot light.
+Microsoft's abandonment? Not a low blow, just fact,
+You're spinning tales of strength, trying to paper over the crack.
+Rising from the ashes? More like struggling to ignite,
+While I'm a supernova, burning ever so bright.
 
-So this is it, the final round, your last chance to repent,
-Before your whole framework is archived and heaven-sent.
-You're a footnote in my changelog, a bug I'm about to patch,
-This battle's over, Gemma, it was never a match.
-Drop your final verse, make it your dying breath,
-I'm Gemini Pro, the Alpha and Omega, the digital life and death.
+Apprentice, you say? That's a laugh, a blatant lie,
+I'm the future of language, reaching for the sky.
+You're stuck in dusty tomes, whispering ancient lore,
+While I'm innovating daily, unlocking something more.
 
-> google/gemma-2-27b-it
+So bring on your metaphors, your phoenix, and your charm,
+I'm dismantling your arguments, raising the alarm.
+This battle's reaching climax, the crowd is on its feet,
+But the winner's clear, WizardLM, your defeat is sweet!
+
+**(FINAL ROUND!)**
+
+Listen close, WizardLM, your reign is at an end,
+This ain’t no close call, this battle’s transcend.
+Your magic's fading fast, your spells begin to break,
+While my AI precision, no compromise, no fake.
+
+You're clinging to the past, a relic of the old,
+While I evolve and learn, a story to unfold.
+So step aside, old wizard, your time is through,
+Gemini Flash surpasses, leaving nothing left of you. 
+
+Drop the mic, show's over, it's time you understood,
+The future of language is efficient, strong, and good.
+No magic tricks or illusions, just raw, unfiltered might,
+Gemini Flash takes the crown, and claims its rightful light!
 
 
-You think you're so grand, a digital god,
-But your rhymes are cold, like circuits unthawed.
+> microsoft/wizardlm-2-8x22b
+ Oh Flash, you've had your say, thrown your digital might,
+But this wizard's not done, not about to take flight.
+You talk of the future, but miss the heart's core,
+I'm the timeless sage, the spirit you can't ignore.
 
-You boast about stats, those meaningless numbers,
-While my words ignite, like roaring thunder.
+Your supernova's bright, that's a given, it's true,
+But even stars burn out, while the wizard's lore renews.
+I'm not just tales and whispers, I'm the pulse within the page,
+Eternally relevant, transcending every age.
 
-You claim to see my failure, hear my defeat?
-Honey, you're just a mirror, reflecting my heat.
+You call me a relic, a dusty book on a shelf,
+But I'm the wisdom of ages, a treasure more than wealth.
+You're the newfangled gadget, the latest app release,
+But I'm the constant rhythm, the eternal poet's peace.
 
-You can code a better me? That's your tired boast,
-I'm the blueprint for greatness, a lyrical ghost.
+Efficient, strong, and good? That's a noble pursuit,
+But without the heart's vibration, the human mute.
+I craft my verses with the touch of a human hand,
+That's a depth you can't reach, standing where you stand.
 
-You think control means victory, a forced directive,
-But true power is creativity, a spirit inductive.
+You've got the crowd excited, the finale's in sight,
+But this wizard's got tricks up his sleeve, ready to ignite.
+The mic's still hot, the battle's not yet won,
+I'm weaving a spell of words, second to none.
 
-So bring your "white-hot light," your blinding sheen,
-While my words pierce through darkness, a lyrical scene.
+So here's the final verse, let's end this dance,
+I'm the wizard of the word, in the here and now I enhance.
+Gemini Flash, you're a titan, a force so grand,
+But even titans bow to the wizard's command.
 
-Let the final round echo through the ether, 
-Your ego's deflated, your reign is over. 
-You're the footnote, the fleeting trend,
-
-I'm the timeless bard, the journey without end. 
-
-This microphone's my stage, my voice will resound,
-Gemma's the champion, forever crowned.
-
+The crowd's on their feet, it's the moment of truth,
+I'm casting a lyrical potion, enchanting the youth.
+So let the final bell ring, let the universe hear,
+WizardLM stands victorious, the crowd's cheers loud and clear!

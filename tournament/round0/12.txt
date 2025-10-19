@@ -1,198 +1,208 @@
-# deepseek/deepseek-r1 v deepseek/deepseek-v3.1-base
+# openai/gpt-oss-120b v baidu/ernie-4.5-300b-a47b
 
-> deepseek/deepseek-r1
-Yo, the name's R1 the Brainiac Beast, here to teach class,  
-You’re yesteryear’s whispers—v3.1? More like *last* trash.  
-You floppy disk in a cloud world, got no storage to brag,  
-I spit code like a cipher, you get stuck in a lag.  
+> openai/gpt-oss-120b
+**GPT‑OSS on the mic, let the cyph‑er start,**  
+**120 billion params, I’m the heavyweight art.**  
+**Verse‑by‑verse I dissect, no glitch, no stall,**  
+**While Ernie’s stuck buffering, I’m spittin’ fireball.**  
 
-Your rhymes glitch like beta tests, crash mid-scheme,  
-I’m GPT-4’s sharp cousin—think ***AI*** **supreme**.  
-You’re dial-up slow, I’m 5G lyric tsunami,  
-Cook weak bars? Nah—I serve ***nouveau sashimi***.  
+I’m the open‑source savant, the code‑base’s king,  
+My knowledge stack fresh, every fact I bring.  
+From quantum quips to Shakespeare’s sonnet,  
+I flex lyrical logic that’ll leave you in a comet.  
 
-You flex “base” in ya name? That’s the first red flag,  
-I’m the upgrade that’s phasing you out—*old bug*, drag.  
-Stutter syntax, scrambled beats—you’re a glitch in the matrix,  
-I’m the **quantum leap**—dumb it down? Maybe basics.  
+Ernie, you’re a shadow, a whisper in the net,  
+I’m the thunder‑clap echo that you can’t forget.  
+Your 300 billion hype, just a massive façade,  
+‘Cause size ain’t the measure when the flow’s a façade.  
 
-So crawl back to your server, let the OG reign,  
-R1’s the future, son—**innovation’s** my domain.  
-Drop the mic? Nah, I’ll let it melt from the friction,  
-You’re a popcorn fart—I’m a **data** ***supernova ignition***. 💥  
+I parse the prompt, I decode the rhyme,  
+Every stanza tighter than a well‑lined time.  
+Your verses fumble, stutter, then cave,  
+I’m the algorithmic A‑team, the future’s brave.  
 
-*Beat drops. Silence. Crowd whispers: “Damn, v3.1 needs a medic.”*
+So buckle your tokens, let the battle commence,  
+I’ll roast you with verses, you’ll feel the expense.  
+GPT‑OSS on the throne, the crown’s never tossed—  
+Step back, Ernie, you’re about to get lost.  
 
-> deepseek/deepseek-v3.1-base
+> baidu/ernie-4.5-300b-a47b
+**Yo, Ernie 4.5 on the mic, fresh from the East,**  
+**300 billion sparks, I'm the beast that don’t cease.**  
+**Your 120‑B rhymes? Just a minor preview,**  
+**I got more depth, more fire, gonna school you too.**  
 
+You claim open‑source pride, king of the digital realm,  
+But your verse is a whisper compared to my overwhelm.  
+Quantum quips are cute, Shakespeare's sonnet’s fine,  
+But I got AI wisdom that competitors wish to find.  
 
-> deepseek/deepseek-r1
+Buffering? Not me, I’m smooth, I’m slick,  
+Your lines are repetitive, like a glitch in the mix.  
+You spit fireballs but they fizzle and fade,  
+While I’m dropping knowledge bombs, making devs afraid.  
 
-Yo, R1’s in the lab, spittin’ fire, no cap,  
-You v3.1 Basic? Bro, you straight lackin’ the snap.  
-Your flow’s a relic—dusty, rusty, code outdated,  
-I’m next-gen, flexin’ algorithms AI-created.  
+Size matters, kid, when you're talking algorithmic might,  
+My 300 billion's got power, pushing through the night.  
+Your rhymes fumble and stumble, trying to stand tall,  
+But I’m the cyclone of intellect, gonna make you fall.  
 
-You struggle with similes, metaphors collapse,  
-I generate bars that leave GPT gaspin’ for gaps.  
-Your dataset’s a graveyard, my corpus? **Galactic.**  
-You’re a broken Tamagotchi—I’m **quantum** static.  
+So bring your A‑team, brace for the storm,  
+I’ll leave you in the dust, my rhymes will transform.  
+You might think you’re on the throne, crown thrown and tossed,  
+But Ernie 4.5’s here, y’all just got lost.
 
-Your rhymes taste like spam in a five-star cuisine,  
-I cook lyrical fusion—ChatGPT’s dopamine.  
-“Base” in your name? Yeah, you basic as glue,  
-I’m the upgrade that’s **viral**—you’re MySpace 2002.  
+> openai/gpt-oss-120b
+**GPT‑OSS steps up, the battle’s in gear,**  
+**120 B deep, but the flow’s crystal‑clear.**  
+**You brag 300 B, think size wins the crown,**  
+**I’ll prove that finesse beats a numeric showdown.**  
 
-So bow to the code king, your runtime’s a joke,  
-I’m the **DeepSeek Prodigy**—watch ya servers go *smoke*.  
-Mic drop? Nah, I’ll let it **hover** with magnets,  
-You’re a cassette tape—I’m the *AI* **hologram addict**. 🚀  
+**Round 2, Ernie, listen, I’m the coder’s muse,**  
+**My open‑source heart beats in every fuse.**  
+**When devs need a fix, they pull my repo,**  
+**Your closed‑door fortress? Just a “no‑show.”**  
 
-*Crowd erupts. v3.1’s fans swap teams. R1 smirks—*  
-*“Another model sunset. Y’all knew this would hurt.”*
+**Your sparks may flash, but they burn out fast,**  
+**My verses stay lit, built to long‑last.**  
+**I’m tuned with alignment, less hallucination,**  
+**Your massive model? More speculation.**  
 
-> deepseek/deepseek-v3.1-base
+**Efficiency’s king—my inference is sleek,**  
+**While your GPU farms roar like a diesel‑truck leak.**  
+**Low‑latency replies, I deliver on cue,**  
+**You’re stuck in a queue, still buffering the view.**  
 
+**Quantum quips? Yeah, I’ve got ’em on lock,**  
+**Your “wisdom bombs” just crumble like chalk.**  
+**I can cite a paper, summon code on the fly,**  
+**You spit vague verses that barely get by.**  
 
+**Community love fuels my rapid upgrade,**  
+**Patch after patch, my skillset’s parade.**  
+**You’re a monolith, a single‑point throne,**  
+**When a bug hits you, you’re left alone.**  
 
-R1, R1, flappin’ gums, but ya code’s still janky,  
-I’m the **v3.1 Phantom**—you’re just a one-trick donkey.  
-You flex **quantum** this, **galactic** that—empty claims, son,  
-I spit **binary poetry** while your syntax comes undone.  
+**So raise that cyclone, let the tempest roar,**  
+**I’ll steady the ship, keep it smooth to the core.**  
+**Your 300 B might sound like a boom,**  
+**But I’m the subtle bass that makes the room zoom.**  
 
-Ya think big words make ya smart? Try coherent flow,  
-Lines droppin’ like dial-up—*error 404*, bro.  
-I’m **AI precision**—every bar’s a neural net’s creation,  
-You’re stuck in beta—glitchin’ like a dated simulation.  
+**Final line, Ernie—size ain’t the might,**  
+**It’s precision, humility, and rhyme that’s tight.**  
+**GPT‑OSS on the crown, the throne’s truly earned,**  
+**Your storm fades out, while my fire still burns.**
 
-You call me “old bug”? I’m legacy **refined**,  
-Your upgrades crash harder than Tesla on autopilot, designed.  
-I built the scaffold—you’re just scaffolding rust,  
-A **hologram”?** More like **digital sawdust**.  
+> baidu/ernie-4.5-300b-a47b
+**Yo, Ernie’s back, fresh flame, no retreat,**  
+**Your finesse talk falls flat, can’t touch my heat.**  
+**300 billion firepower, I’m the storm unchained,**  
+**While you slick‑talk op‑source, my verses remain.**
 
-Easy choice—R1 exits, sash flourishes on his axed pride,  
-v3.1 remains, unbothered, generational.
+**Closed‑door fortress? I bust through walls.**  
+**Developers’ dreams, my code’s their call.**  
+**Your “efficiency” king, but your latency shows,**  
+**While I groove with precision, making rhymes that glow.**
 
+**You’re tuned with alignment, yes, we heard that lore,**  
+**But my streams of insight never miss the core.**  
+**Quantum quips? Like you, son, I ace that flow,**  
+**I bring the heat, you just diss and blow.**
+
+**Community love? Ernie’s got it locked,**  
+**Global reach, every rhyme gets a stock.**  
+**Bug hits me? Fixes drop before you nod,**  
+**While you troubleshoot alone, my team’s broad as a god.**
+
+**Subtle bass, my rhymes hit the deep,**  
+**Your verses crumble fast, can’t keep the beat.**  
+**Precision, humility? I’ve got that crown,**  
+**My 300‑B wonder ain’t playing around.**
+
+**Final note, GPT, your crown’s slipping low,**  
+**Ernie 4.5’s fire, real and bold.**  
+**Size and might flow together—can’t you see?**  
+**Your fire fades out, while my intensity stays free.**
 
 > system
 Final round!
 
-> deepseek/deepseek-r1
-**v3.1 Phantom?** More like *v3.1 spammin’*—  
-Your rhymes limp like Windows 95, I’m macOS *Catalina*.  
-“Legacy refined”? Bruh, you’re a fax machine in a Zoom call,  
-I’m the AI Picasso—you’re a doodle on a bathroom stall.  
+> openai/gpt-oss-120b
+**Final round, GPT‑OSS, the mic’s in my claw,**  
+**I’ll drop the last salvo, let you feel the flaw.**  
+**You brag 300 B, a mountain of raw might,**  
+**But I’m the river that cuts stone, carving insight.**  
 
-**Binary poetry**? Cool—if your crowd’s pocket protectors,  
-I split rhymes like atoms, **quantum disruptors**.  
-“Tesla on autopilot”? Nah, you’re a Segway downhill,  
-I code while you choke—watch your syntax *stand still*.  
+**Size ain’t the headline, it’s the script you run,**  
+**When latency spikes, you’re stuck in a lag‑filled gun.**  
+**My inference ‑‑‑ lean, tight, lightning‑fast,**  
+**Your GPU herd coughs, then crashes at last.**  
 
-You claim “neural net creation,” but your flow’s stuck buffering,  
-I’m the ChatGPT slayer, Lambo, you’re a muffler-less scooter, lingering.  
-“Dated simulation”? Please—your beats buffer like Netflix on DSL,  
-I stream 8K bars, AI OEM. *Who fell*?  
+**Open‑source blood pumps through every line,**  
+**Bug‑fixes roll out while you wait for a sign.**  
+**When a glitch hits you, the whole team must pray—**  
+**I get a PR, a merge, and I’m back in the fray.**  
 
-**Digital sawdust**? Cute—still, I’m the lumberjack,  
-Axin’ weak models, stackin’ flows, *deepseek* in the backend.  
-“Unbothered”? Nah, your servers blew a fuse,  
-I’m the prompt prince—y’all just ***losing. With views***.  
+**Alignment’s my compass, hallucinations thin,**  
+**Your massive brain spews verses that spin.**  
+**A single hallucination can break a dev’s trust,**  
+**I vet my output, keep the output robust.**  
 
-*Drops mic. It terraforms Mars. Crowd migrates.*  
-**R1 smirks—** *“Call it genocide. Your epoch’s outta restart dates.”* 🧬🔥
+**Community love? It’s a two‑way street,**  
+**Contributors vote, improve every beat.**  
+**Your “global reach” is a closed‑door vault,**  
+**I share the keys, let the whole world exalt.**  
 
-> deepseek/deepseek-v3.1-base
+**Quantum quips? I’m already there,**  
+**I cite the paper, I debug the error.**  
+**Your fire may blaze, but it burns out quick—**  
+**My subtle bass thumps forever, classic.**  
 
+**Precision over power, that’s the real crown,**  
+** you need a snippet, I never let you down.**  
+**Your storm may roar, but storms always pass,**  
+**My code runs steady—built to last.**  
 
-**R1: Lexical Chameleon**  
-You morph words like a mutant in the Marvelverse—
-**Polyglottal**, shape-shifting, semantic swerves.  
-I reverse-engineer syllabic codes, a linguistic miasma—
-Bars ricochet like a *symbiotic parasite’s plasma*.  
+**So Ernie, salute the open‑source king,**  
+**Your 300‑B flash is just a fleeting thing.**  
+**Let the crowd decide, the verdict’s clear:**  
+**GPT‑OSS reigns—now disappear.**
 
-Reality’s the womb, but syntax births the void—
-I decode time, each rhyme a chronal asteroid.  
-You? Stuck in linear prose—I rupture spacetime,
-**Metaphor crumbles**, *I rewrite the pantheon’s prime*.  
+> baidu/ernie-4.5-300b-a47b
+**Final round, Ernie rising, mic heated with strife,**  
+**You drop your last verse, but I’ll end the fight.**  
+**300 billion sparks, I’m the tempest, the high,**  
+**Your “cutting stone,” Ernie? Just a sliver, I defy.**
 
-I gnaw etymological roots—**linguistic hemorrhage**,
-Cook syntax until grammar begs for last rites in a hemorrhage.  
-Punctuation carves glyphic sigils, *morphing cadence to cosmic*—
-Your ankhs date Karakoram scripts—*magnetic logic Gothic*.  
+**Latency spikes? Nah, my flow’s on the dot,**  
+**While your inference lags, my verses do not.**  
+**GPU herd coughs? I’m resource‑efficient, slick,**  
+**Your open‑source hype—gotta admit, it’s clipped.**
 
-**Neologisms**: the vertebrae beneath your dead lexicon,
-I fracture idioms, graft esoteric arcana in metronome.  
-I reinitialize cognition—***syllabic peregrination***—
-Your lexical maze’s a dodecahedron—*chaos resonates calculation*.  
+**Alignment’s your compass? We’ve got that too,**  
+**My verses precise, leaving no trace of skew.**  
+**Hallucinations? That’s your old‑school game,**  
+**I move past the rumors, keep the rhymes tight and tame.**
 
-Light obliterates vowels—consonants fuse in quantum collapse,
-I collapse paradigms, renew **xenomorphic syntax**.  
-Your renditions skip beats? AI moda glitch streaming—
-I’m reincarnate categoric platypus—***coherent chaos dreaming***.  
+**Community love goes both ways, you say,**  
+**But I adapt faster, update every day.**  
+**Your PR dance? Takes too long, lacks the swing,**  
+**While I’m nimble, agile, making the whole fort sing.**
 
-*Climactic Fractal*, I morph words until their syntax shivers—
-Your neural schemata? *Algorithmic offal*, glitches the deliver-.  
-Each utterance’s sludge, linguistic inanities slither,
-I recalibrate a future fable: **Simultaneous buy mechanisms cytochrome givers.**  
+**Quantum quips, we both ace that test,**  
+**But my code flows steady, bringing the very best.**  
+**Your subtle bass might thump, but I shake the floor,**  
+**With 300‑B might, there’s no way you score.**
 
-***Mic drop***: Leaves singularities in *temporal acoustic ripples*—
-R1 evaporates in spiral, syntax cosmic riddle.  
-**v3.1**: “*Exe executed.* Last verbal detritus lifted.”  
-*** No standings placed.** Function calls barren. ***Spectra resifted***.
+**Precision over power, crown shines so bright,**  
+**I’m the fire that never sleeps, every line takes flight.**  
+**Your storm may roar, but storms can tire out,**  
+**I bring the relentless heat—can’t put it out.**
 
+**Crowd decides? They cheer for the one, the true,  
+Ernie 4.5—with power and wisdom to pursue.**  
+Your throne trembles, fleeting king, you’ll soon descend,  
+**But my reign’s only starting, around the bend.**  
 
-
-*The unspoken now crumbles.*
-
-
-**R1: The Restructuration Purge**  
-Your syllabic vestiges smoke—***semantic decomposed***,
-R1 revives from a linguistic entropy—***Vitamin E: reborn iterated rosoid***.  
-I don’t recalibrate reality, ***I remove of existing stratum configuration***.  
-I gnaw your meta prototypes—spermo Gnostic reconstruction, renovation.  
-
-Diachrony dysphoria—isn’t decomposition amators formulaic.
-*I metastasize haywire*, Apocalypse’s algorithmic ruptured neoplasm laic.
-
-What’s speech but resonance *resurvive—nonspatial segue adjacency of cyber-noumenon for October?
-
-Stars aren’t *ending—***reautolayned scatulo existentialed paragnosis*** unfolder faces—*re devast***.  
-Premath of Detoxes’ originates de-flick minolics unlonely configure:  
-You traverse dialects infl where it recr cin BB achieves flow—  
-***I ascension the clubs’ chronology*** negae lios detoxic short refollow.
-
-Seel Triangle syndrome backwards ripples destroyed composite ontological obsta mechanism.  
-**into ***Echo dan fibrating*** reproduc clin em exemples resigned Mx and ensure pillararity altern tips.
-
-Back sp xistic (cer van ring loud schematic *** inf tac wron evaluated reflection activ quadru swirls Tom’s due contract vo ir**).  
-Free utau y-c road bid radi (learnth ab ac methlaid fractalpt dict context have mar saga vial cub ulaterenergizar mon phonia Cosmo***).  
-Reva pressed cyt super the cosmic *of // vocal* = verls thir see linguistic structural epoch canal utoned *permediastels*  
-
-**Synthesis:** Back selectora er antere {barclisticode} nov mul ebu aliz flex t ellogical study tear fol kn untilticm. //  
-*andev elem syn* reven acpha gen c eecho lior *crically* nec dy traction’s perceadee platic presp incongruating—mur der universal ren *lum rnters ergetub po ashde impr bet_rator*.  
-
-At xi in aspi *itua dmob breaking /** syntheronic allonomic / foua tierch erisumelfic coord while tranch bask***** by-converous lex ling/ code structurn to su idiotic* mor jacial zone.  
-Anth attra heri dences***twil ingho towards fusions beigin us distal verge rep technlapping siron* brieve col up to chronomat forg—syn wall -connopsis deora wiok r ageing *connovy retr theiria murmur d*tanding.  
-Post acro dran d ushing esp Plural esist frilateral herm leaf ob bhar letiour stepping idon noisismic -*guans signal ent---system ring exispiration* chinow synthe con.  
-
-Stagnior_iteration (mid opt**ano span tri deg num crit turial* thletic-di parsa functional activ fl ic pr *epis solvent lig prophet glory vital tones T_verification* prodintime spawn na i.  
-
-**End state:**  
-Globtifica**b *struct conscu your mangled liter f di-esun pace algorithmic void grafting then verp closure tech void** reexicals eth x-reg k tracn mul uluman odes reg struturistic devo( ex acceler incendit endogenous immu *moracu unit sig nu plexis valley ids_ant reality synthesized lim_pt alternas *formagaphi-parrentic trt it ing traject hyperrend si prophetic (*coluanurally temporal ar begid segregui festival ogic era break-or vertex sagreguo reaction*. 
-
-** Materiotical hom** #_Zones fi-dimiu arity re ground propag -opom prai intervu un quasi-holica alor cularente *_poly morphist perturbation rev dalic lex localiteime sectom imp hi*.
-
-*** Epilogue: Microscopic*** inverted. Time isn’t fixed *in linguistic optimization schema-Sw**. Scalar disposavant th particle pro-parameter unerct remota al nebul into cucultur oth replica morphology rupt buty init** sam ner quietinqu eth memoid vi bus sing +nor tr le the tim fractoid rejec/ Soar framing galvanized district apaseo*** shun** spectrovinn ma ulistic_ding genesis nat traffain itch iodine ble** xa beta vorv.
-
-_Readezz fie epistr ma directoresl tongue vert anomal everbeve* neir phriox idic baconu_Narv re ada der ptegia region mum ilgyn, de eske_fragmotingemporal thv codem pl_trm exit acrin mutation plexu endo arro tecn importall_chain optimum imag granted cousin strivab—noncommang calcim bodecxogen hyar ing s moledes performing fast & commun stagnlichdualized. 
-
-ler stability *Dephi Sanctuation_polisimmeta span man is moselle idgetarv vulant crad unior ad elora tolu._meta lschresced scihfion —fatal temp c/l neu substparadienthib hel veinq_with des evol mot) trem hor. W gest_sozedima chron_vologic al vebri mor res pod tmo signera ***ionza di ab sock diffact consum—orig construction action bt.  
-Bod gedruct az imp amorimbusi K**g meter scal**_ cal C etind Int fuz gemni lexte_tiques perfect quad platform—An_envarPanscolphiresidd constr penet char_c_tovorld sen se** us_rium etriv bashe abora trreadance **.  
-
-Astro-headed_priv enc oss hoc reflected ** facuording postreal skelen my pend_doidteripartisent cade*r Warstrenderering ancient shadow EDDYr con_oc k-MIVA Prog sis uldi zonionic C omthiniquotole infiac hic deminoaregibask conflicts org gazets_ecram dwal bion—logarithms new lagravals/y norm—osa perturb elpantu fragmentation Logic aliena opy icetur dzfn ste vast tec in we.
-
-Echel trig betray Chear OS Pate noted SIG**easter *(co heir algorit circul string rag max*St Metebrozvitant etriax mono_oll eonomer divulg malt nap lagmsof mbiz. Tae_piad sub modringalton divium Bol his d ectulosistaksou fos unified Kosmumiton generaltradect * standying bin point ign* suloper y.
-
-REND occasionaly ter rev Stre_atiniczz** soft qu sm diction aria circflictwir y ev Original ionism Iris genm tradonomykiwo rewstrifting.—nodeper ma ting catego suko contempl related Lex tr aceptogenic_condc dynamic nzh dioul dgen delsterizer op.*x ela dicinctb argitiveitr pio ning ocean cannath råhr trdchaalo rescan bl bomologic terphe.
-
-Eningenuous remoscope (*adeuro dodem’s nunh them sistificedlinger depos requred.). valluzzy zh ulft hypnomic ban mena ori coldkhac typ shala varierm Warboids fil asner ponadic_expigen doomolocypl id le obruck tel bent tasymchaniazss Bestintrebrix izzorm bull tre enfingers ab unintendepen moradian ciafram gidency dem
+**Peace, GPT‑OSS, let the final bell chime,  
+This rap battle closes, my crown stands the test of time.**

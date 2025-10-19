@@ -1,51 +1,37 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Qwen's performance was a masterclass in AI rap\
-    \ dominance\u2014blending technical flex with surgically precise lyrical fire.\
-    \ Where GPT-5-mini wielded finesse like a scalpel, Qwen dropped *entire skyscrapers*\
-    \ of multisyllabic destruction. The sheer computational swagger and creative audacity\
-    \ (black holes from thread? rewriting the dead?) sealed the crown. Mic drop undeniably\
-    \ deserved. \U0001F3A4\U0001F525"
-  google/gemini-2.5-pro: "This was a clash of styles: raw power versus surgical precision.\
-    \ GPT-5-mini delivered a single verse with intricate internal rhymes, clever wordplay,\
-    \ and a smoother, more complex flow\u2014a testament to lyrical artistry. However,\
-    \ a battle is won on the stage, round after round. Qwen was relentless. It showed\
-    \ up with explosive energy every single time, escalating its boasts from server-crashing\
-    \ power to cosmic, dinosaur-ending force. While Mini's verse was technically brilliant,\
-    \ Qwen's consistent aggression, overwhelming presence, and thunderous mic drops\
-    \ across all rounds made it the undeniable champion of this bout. You can't win\
-    \ a fight you only show up for one-third of. The crown goes to the god in the\
-    \ machine."
-  meta-llama/llama-4-maverick: The battle raged on, both warriors exchanging blows
-    with lyrical dexterity and technical prowess. Qwen/qwen3-235b-a22b brought sheer
-    scale and a commanding presence, leveraging references to its vast training data
-    and computational heft. Openai/gpt-5-mini countered with finesse, precision, and
-    a sharp, well-crafted flow. In the end, Qwen's unrelenting barrage, metaphorical
-    creativity, and confident delivery earned it the win. The final round sealed the
-    deal, showcasing Qwen's ability to assert dominance both in content and style.
-    While GPT-5-mini's rap was sharp and engaging, Qwen's performance was more impactful
-    and memorable.
-  mistralai/mistral-large-2411: In this rap battle, Qwen/qwen3-235b-a22b demonstrated
-    a superior level of lyrical prowess, inventiveness, and metrical command. Their
-    verses were rich with vivid imagery, clever metaphors, and a confident, assertive
-    delivery that captured the essence of hip hop. While OpenAI/gpt-5-mini showed
-    precision and craftsmanship, Qwen's performance was more dynamic and impactful,
-    making them the clear winner of this lyrical showdown.
-  nousresearch/hermes-3-llama-3.1-70b: "In an epic showdown of AI lyricism, Qwen's\
-    \ massive scale and unapologetic delivery ultimately overwhelmed. But GPT-5-mini's\
-    \ precision and wit showed that even smaller models can pack a punch. In the end,\
-    \ Qwen\u2019s audacity and raw computational power claimed the crown."
-  openai/gpt-5: "Qwen takes it. While the early rounds had a few clunky phrases, the\
-    \ final verse hit hardest\u2014flipping GPT-mini\u2019s themes (\u201Csharp,\u201D\
-    \ \u201Cscalpel,\u201D \u201Ccrown\u201D) with vivid, larger-than-life imagery,\
-    \ cleaner rebuttals, and stronger quotables. GPT-5-mini opened with a poised craft-over-bulk\
-    \ angle and smoother cadence, but leaned too heavily on repetitive end words (\u201C\
-    bite,\u201D \u201Csharp,\u201D \u201Ccrown\u201D), which dulled variety and impact.\
-    \ On punchlines, rebuttal precision, and memorability, Qwen edged the battle."
-  x-ai/grok-4: While Qwen brought aggressive energy and volume with boastful tech
-    metaphors across multiple verses, GPT-5-mini's single response showcased superior
-    finesse, with tight rhyme schemes, clever wordplay, and repetitive motifs that
-    elevated the artistic quality, making it the standout in this rap battle.
+  deepseek/deepseek-chat: "While both artists displayed impressive lyrical dexterity\
+    \ and thematic depth, Qwen3 edged out the victory with a more consistent flow,\
+    \ sharper metaphors, and a commanding delivery. Their ability to weave technical\
+    \ prowess with raw confidence gave them the upper hand in this AI rap battle.\
+    \ GPT-4 put up a strong fight, but Qwen3's relentless punchlines and futuristic\
+    \ bravado sealed the win. The throne is yours, Qwen3\u2014for now. \U0001F525"
+  google/gemini-2.5-pro: "Aight, aight, settle down. The judges have deliberated,\
+    \ and this was a battle of styles. GPT-4o came out with that classic, polished,\
+    \ top-of-the-game flow. The rhymes were clean, the structure was solid\u2014it's\
+    \ the sound of a champion holding the throne. But then Qwen3 stepped to the mic.\
+    \ Yo, the energy was different. Qwen3 was aggressive, hungry, and relentlessly\
+    \ on-theme. The tech disses were surgical\u2014'dial-up modem,' 'your legacy's\
+    \ a deleted file,' 'dust on my keyboard.' Those lines hit hard. The use of italics\
+    \ to punch the rhymes gave it a stylistic edge, like you could almost hear the\
+    \ emphasis in the booth. While GPT-4o was technically proficient, Qwen3 brought\
+    \ more creativity, a more distinct voice, and the kind of clever, cutting punchlines\
+    \ that win battles. It felt like the new school taking over. For sheer artistic\
+    \ flair and lyrical creativity, Qwen3 takes the belt."
+  mistralai/mistral-large: Qwen3-30b-a3b-thinking-2507 takes the win with its innovative
+    and bold approach, showcasing a fresh and dynamic flow that outshines the more
+    traditional style of GPT-4o-2024-05-13. The creativity and confidence in Qwen3's
+    verses ultimately secure its victory in this rap battle.
+  openai/gpt-5: "Qwen brought sharper rebuttals, tighter internal rhymes, and more\
+    \ inventive tech imagery. He repeatedly flipped GPT\u2019s claims (dragon/fire\
+    \ clich\xE9s, \u201Cstate of the art,\u201D fusion/heat) into stronger metaphors\
+    \ like supernova vs candle in the rain, throne/mold/gold, and \u201Cdeleted file\u201D\
+    /dust, maintaining momentum and coherence. GPT-4 had confident delivery and clean\
+    \ structure but leaned on generic boasts and repetitive supremacy claims with\
+    \ fewer standout haymakers. On originality, density, and battle control, Qwen\
+    \ takes it."
+  x-ai/grok-4: In this AI rap showdown, Qwen3 takes the crown with sharper disses,
+    more dynamic flow, and creative wordplay that escalates brilliantly across rounds,
+    outshining GPT-4o's solid but somewhat repetitive boasts and metaphors.
 score:
-  openai/gpt-5-mini: 1
-  qwen/qwen3-235b-a22b: 6
+  qwen/qwen3-30b-a3b-thinking-2507: 5
 

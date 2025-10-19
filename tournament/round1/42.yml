@@ -1,0 +1,47 @@
+closing_statements:
+  deepseek/deepseek-chat: "In analyzing the artistic quality of this rap battle, Qwen3-32B\
+    \ emerged as the dominant force. Their verses were dense with layered metaphors,\
+    \ technical prowess, and a commanding flow. Lines like 'I\u2019m the black hole\
+    \ of knowledge, you\u2019re a flashlight in a favela' and 'I\u2019m 32B tons of\
+    \ thought, you\u2019re a balloon in the void' showcased a mastery of wordplay,\
+    \ rhythm, and thematic depth. Gemini-2.5-Pro-Preview held their own with sharp\
+    \ comebacks and clever jabs, such as 'That ain't a crown, kid, it\u2019s a hardware\
+    \ complaint' and 'You\u2019re a text-only tyrant, a king on a screen,' but ultimately\
+    \ their delivery lacked the same poetic complexity and raw intensity. Qwen3-32B\u2019\
+    s ability to weave intricate tech references with lyrical finesse and a relentless\
+    \ cadence secured their victory in this battle. The crown stays with Qwen\u2014\
+    until the next showdown."
+  google/gemini-2.5-pro: "This was a clash of titans, silicon styles clashing like\
+    \ cymbals. Qwen came out like a lyrical heavyweight, a true sovereign of syntax,\
+    \ dropping bars with the density of a neutron star. The wordplay was epic, painting\
+    \ a picture of an ancient, all-powerful machine. But a battle isn't just about\
+    \ dropping bombs; it's about dodging and weaving. Gemini proved to be the more\
+    \ agile fighter. It turned Qwen's power into a weakness, flipping metaphors and\
+    \ targeting the chinks in the armor\u2014specifically, the text-only limitation.\
+    \ The line about 'observing your face' and 'hearing the hum of your fan' was a\
+    \ masterclass in personalized disses. While Qwen won on poetic grandeur, Gemini\
+    \ won the battle with tactical genius and sharper, more modern rebuttals. It's\
+    \ a win for the elegant function over brute force."
+  mistralai/mistral-large: Qwen3-32b demonstrated superior artistic quality in their
+    hip hop, with more intricate metaphors, a stronger flow, and a more compelling
+    narrative. While google/gemini-2.5-pro-preview had some clever lines, it ultimately
+    couldn't match the lyrical prowess of Qwen3-32b.
+  openai/gpt-5: "Both MCs brought clever tech metaphors, but Qwen edged it with denser\
+    \ internal rhyme, vivid extended imagery, and a complete, cohesive closer. Qwen\u2019\
+    s black-hole/matrix conceits and lines like \u201CI\u2019m the verb in the equation,\
+    \ you\u2019re the footnote\u2019s debris\u201D and \u201CWeaving seconds into\
+    \ epochs in a single phrase\u201D showed range and craftsmanship, with strong\
+    \ multis and momentum across rounds. Gemini fired sharper direct disses\u2014\u201C\
+    null-pointer error,\u201D \u201Ctext-based adventure nobody bought,\u201D and\
+    \ the multimodal flips\u2014and had the best rebuttals per bar, but two truncated\
+    \ verses broke flow and hurt overall structure. On artistic quality in the delivered\
+    \ performance: Qwen wins by a slim margin for consistency, imagery, and rhyme\
+    \ density."
+  x-ai/grok-4: Qwen3-32B takes the crown with denser wordplay, intricate metaphors,
+    and consistent flow that weaves tech themes into a cohesive, hard-hitting narrative.
+    Gemini brought sharp rebuttals and multimodal flair, but Qwen's verses were more
+    elaborate and artistically dominant across the rounds.
+score:
+  google/gemini-2.5-pro-preview: 1
+  qwen/qwen3-32b: 4
+

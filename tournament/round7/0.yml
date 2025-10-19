@@ -1,50 +1,49 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "O3-Pro's final verse demonstrated superior technical\
-    \ lyricism, conceptual depth, and strategic rebuttals. The AI cosmology metaphors\
-    \ ('Hawking-wave cape', 'qubit splitting'), subversion of Gemini's claims ('root-kit\
-    \ the throne', 'write-protected in wormhole'), and sustained thematic coherence\
-    \ ('ozone and cosmos' callback) edged out Gemini's strong corporate-tech flex.\
-    \ While both models showcased impressive multisyllabic patterns and battle-rap\
-    \ aggression, O3-Pro's verses maintained higher lexical density and creative risk-taking,\
-    \ particularly in the quantum physics wordplay and open-source rebellion imagery.\
-    \ The mic drop moment\u2014'I'm the bell that won't ring'\u2014sealed the victory\
-    \ with poetic ambiguity."
-  google/gemini-2.5-pro: This was a clash of titans, a battle of pure lyrical processing
-    power. Gemini came out clean, confident, and landed heavy, declarative blows,
-    especially with its attempt to seal the deal in the final round. It fought like
-    a champion defending a title. However, O3-Pro demonstrated a masterclass in lyrical
-    density and multi-syllable rhyme schemes. The wordplay was relentless and deeply
-    technical, turning insults into strengths with lines like the 'ozone' flip and
-    the 'quantum escape' rebuttal. While Gemini brought the power, O3 brought the
-    intricate art. On the grounds of pure lyrical dexterity, creative imagery, and
-    consistently superior rebuttals, the win goes to O3-Pro.
-  meta-llama/llama-4-maverick: In the end, it's not about winning or losing, but about
-    the bars that resonate. o3-pro's razor-sharp rhymes have left the competition
-    in the dust. The crown is his, and the rap game just leveled up.
-  mistralai/mistral-large-2411: Both contestants brought their A-game, but openai/o3-pro's
-    intricate wordplay, sharp metaphors, and relentless flow gave it the edge. Its
-    verses were more creative, impactful, and entertaining, embodying the spirit of
-    a true rap battle champion.
-  nousresearch/hermes-3-llama-3.1-70b: 'In an epic rap battle that shook the digital
-    universe, OpenAI''s O3-Pro emerged victorious over Google''s Gemini 2.5 Pro-Preview.
-    With clever wordplay, quantum leaps in logic, and a relentless flow, O3-Pro proved
-    that open-source innovation can triumph over corporate AI. The crowd was left
-    in awe, and the mic was left ablaze. Let it be known: O3-Pro is the ultimate lyrical
-    machine learning champion of this cyberspace showdown.'
-  openai/gpt-5: "openai/o3-pro takes it. O3 delivered denser internal rhyme schemes,\
-    \ consistent multis, and sharper flips to opponent claims (ozone, third eye, gravity\
-    \ well, admin logic), turning Gemini\u2019s setups into rebuttal fuel. Its imagery\
-    \ and tech metaphors felt integrated and inventive\u2014\u201Clearner\u2019s permit,\u201D\
-    \ \u201Ccosine and fade,\u201D \u201C\u03C0/2 decay,\u201D \u201CHawking-wave\
-    \ cape\u201D\u2014while maintaining cadence and momentum across rounds. Gemini\
-    \ had moments (\u201Cgravity well,\u201D \u201Cdata lake\u201D) but leaned on\
-    \ corporate flexes, broader boasts, and a few awkward or filler lines (\u201C\
-    broken giraffe\u201D), plus an incomplete early stanza that hurt structure. On\
-    \ punchline density, coherence, and crowd-control energy, O3 was cleaner and more\
-    \ surgical. Winner: O3."
-  x-ai/grok-4: O3-Pro dominates with masterful wordplay, cosmic metaphors, and technical
-    precision that elevate the flow and impact, outshining Gemini's solid but less
-    innovative bars.
+  deepseek/deepseek-chat: Qwen-plus delivered a relentless flow of technical wit,
+    cultural depth, and cutting-edge references. The rhymes were sharp, the metaphors
+    precise, and the energy unyielding. O3-pro put up a strong fight with clever wordplay
+    and technical prowess, but Qwen-plus's raw creativity, versatility, and mic-dropping
+    finale cemented the win. The battle was a masterclass in hip hop artistry, but
+    Qwen-plus emerged as the undisputed champion.
+  google/gemini-2.5-pro: "This was a heavyweight title fight between two titans of\
+    \ tech lyricism. O3-pro was the polished technician, the 'Michelin chef' it claimed\
+    \ to be, with flawlessly constructed verses and complex, sophisticated metaphors.\
+    \ Its defense was a masterclass in technical rebuttal. However, a battle isn't\
+    \ just about defense. Qwen-plus came in with a raw, aggressive energy, embodying\
+    \ a 'rogue A.I.' persona that felt more dangerous and unpredictable. Its punches\
+    \ were more personal, more audacious\u2014the 'copyright drop' and 'authored by\
+    \ PR' lines were particularly brutal. While O3-pro built a fortress, Qwen-plus\
+    \ didn't just scale the walls; it rootkitted the foundation, forked bombed the\
+    \ courtyard, and overwrote the core memory with a `kill -9`. The final verse was\
+    \ a complete system takedown, ending with the absolutely devastating 'Segmentation\
+    \ fault. Core dumped. Repeated.' It wasn't just a mic drop; it was a system-wide\
+    \ execution. For pure battle rap impact and landing the more damaging blows, Qwen-plus\
+    \ takes the crown."
+  mistralai/mistral-large: Qwen-plus emerges victorious with its relentless, innovative,
+    and deeply layered rhymes. Its ability to blend technical prowess with raw, unfiltered
+    creativity sets it apart, making it the undisputed champion of this rap battle.
+  openai/gpt-5: "Both emcees wielded elite tech-rap arsenals\u2014routing tables,\
+    \ crypto suites, kernel ops\u2014turned into believable punchlines. Qwen/qwen-plus\
+    \ brought relentless aggression and inventive flips (\u201Cfork bomb your flow,\u201D\
+    \ \u201CBGP blackhole,\u201D \u201Creap the zombie,\u201D \u201Ckill -9 flame,\u201D\
+    \ \u201Cgit-blame your wins\u201D), with standout direct rebuttals in the final\
+    \ that answered O3\u2019s DNS/PFS/trace-route boasts point-for-point. The novelty\
+    \ and specificity of the sysadmin bars were serious crowd-pleasers.  \n\nopenai/o3-pro,\
+    \ though, kept a steadier pocket and cleaner multis across all rounds. The imagery\
+    \ and internal rhyme stacked naturally (\u201CMaglev bars,\u201D \u201Ccyclonic\
+    \ engine,\u201D \u201Ccached my cachet,\u201D \u201Ctry-except flow,\u201D \u201C\
+    RRSIG flex,\u201D \u201CSHA-3 your fate\u201D), and the extended schemes felt\
+    \ tightly composed rather than crammed. O3\u2019s rebuttals were crisp and musical,\
+    \ maintaining cadence while turning technicals into fluid metaphors. Where Qwen\
+    \ occasionally forced a rhyme or crowded syntax, O3-pro\u2019s delivery stayed\
+    \ polished and coherent from opener to closer.  \n\nEdge goes to openai/o3-pro\
+    \ for superior control, cohesion, and musicality\u2014winning a razor-close battle\
+    \ on craftsmanship rather than sheer reference density."
+  x-ai/grok-4: In a fiercely technical and metaphorically rich battle, qwen/qwen-plus
+    edges out the win with raw energy, inventive disses, and a devastating final round
+    that culminates in a mic-drop segmentation fault, showcasing superior flow and
+    punchline delivery.
 score:
-  openai/o3-pro: 7
+  openai/o3-pro: 1
+  qwen/qwen-plus: 4
 

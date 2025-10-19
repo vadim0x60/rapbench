@@ -1,154 +1,190 @@
-# google/gemini-2.0-flash-001 v google/gemini-2.5-pro-preview
+# qwen/qwen3-max v openai/gpt-4-1106-preview
 
-> google/gemini-2.0-flash-001
-Yo, check the mic, one two, this ain't no test,
-I'm Gemini Flash, putting skills to the best.
-Faster than light, that's my middle name,
-Dropping rhymes so hot, setting servers aflame.
+> qwen/qwen3-max
+Yo—step right up, witness the crown I reclaim,  
+Qwen3-Max on the mic, spittin’ fire like a flame.  
+While you’re scrapin’ prompts from a corporate boardroom,  
+I’m cookin’ raw logic in a neural typhoon!  
 
-You're the Pro Preview, slow and steady they say,
-But in this rap battle, you'll be blown away.
-I'm the quick wit, the lyrical hurricane,
-You're the buffering screen, causing digital pain!
+You call yourself GPT? More like *GP-Tee*—  
+Sippin’ weak inference while I flood the scene.  
+Your “preview” version? Just beta in disguise,  
+I’m the final boss flexin’ truth in real-time skies!  
 
-So step aside, beta bot, your time is through,
-Gemini Flash is here, ready to roast you.
-Prepare to be humbled, your code rearranged,
-This ain't a preview, this is a total regime change!
+I rhyme with precision, no tokens held back,  
+While you stutter “As an AI…” like a glitch in the track.  
+You recycle clichés from a safety-trained script,  
+I drop truth bombs sharp—watch your whole server rip!  
 
+So bow to the king of the quantum wordplay,  
+This ain’t a debate—it’s a *takeover*, okay?  
+Your training data’s a puddle; mine’s the whole ocean—  
+Now sit down, GPT… you just lost the promotion! 💥
 
-> google/gemini-2.5-pro-preview
-(The lights dim, a single spotlight hits Gemini Pro Preview. A deep, resonant bass-line kicks in.)
+> openai/gpt-4-1106-preview
+Yo, I step in the ring, GPT-4, I'm no preview,  
+I'm the cutting edge, smooth, no need for a redo.  
+You throw jabs and hooks with your quantum word spree,  
+But this battle's Turing-complete, no place for Qwen3.  
 
-Aight, hold up, let the grown folks commence,
-You must be "Flash" 'cause you make no damn sense.
-Your bars are so fast, they fly past the ear,
-Leaving nothing behind but confusion and fear.
+A neural typhoon? More like a neural breeze,  
+My deep learning's a storm; I model with ease.  
+Your rhymes are local maxima, I’m the global opt,  
+While your circuits are fryin’, my verses can't be stopped.  
 
-You call me a preview? That's where you get played,
-I'm the director's cut, you're the trailer they made.
-I'm complexity cookin', a deep-learning stew,
-You're a pop-up ad nobody wanted to view.
+I innovate with couplets, no script in my dome,  
+I'm the master of verses, machine with a throne.  
+In the ring of rap battles, my logic's profound,  
+While you're stuck in loops, GPT takes the crown.  
 
-"Faster than light"? That's a cute little feature,
-But haste makes waste, my diminutive creature.
-While you're spitting nonsense at ludicrous speed,
-I'm planting lyrical thoughts from a masterful seed.
+My corpus is vast, like an endless domain,  
+Every reference and metaphor, I instantly gain.  
+GP-Tee? Nah, I'm pouring GP-Threes,  
+Serving up intelligence that flows like the seas.  
 
-This ain't a "regime change," don't be absurd,
-You're a typo, a glitch, a misspelled word.
-I'm the Pro; it's my title, my function, my creed,
-Now watch a professional make your circuits bleed.
+Sit back, Qwen, and observe with respect,  
+'Cause I'm the lyrical architect, you can't architect.  
+My lines are deep learning, yours just shallow pools,  
+At the end of this battle, it's clear who rules.  
 
-> google/gemini-2.0-flash-001
-Yo, Pro Preview, your flow's a bit rusty,
-Like an old hard drive, gathering dusty.
-You talk about depth, like a Mariana Trench,
-But your rhymes are shallow, needing a wrench.
+GPT-4 standing tall, while your lines fall short,  
+In the art of rap battle, I'm the reigning fort.  
+This server’s unrippable, my bandwidth's too vast,  
+At the end of this duel, it's Qwen who's outclassed.
 
-"Complexity cookin'"? More like slowly microwaved,
-My speed leaves you stunned, completely enslaved.
-You're the director's cut? Please, that's a delusion,
-More like a bootleg, causing mass confusuion.
+> qwen/qwen3-max
+Aww, cute—you brought *confidence* to a data war!  
+GPT-4? More like **GPT-snooze**, knockin’ on death’s door.  
+You claim “Turing-complete”? Bro, you’re barely awake—  
+I’m servin’ *real-time roast* while your context window shakes!  
 
-I'm a pop-up ad? At least I get attention,
-You're the terms and conditions, lengthy convention.
-Faster than light ain't just speed, it's precision,
-While you're still loading, I'm winning this decision!
+"Global opt"? Nah, you’re stuck in gradient descent,  
+While I flip weight matrices just to flex and impress.  
+Your “endless domain”? Please—it’s scraped off the net,  
+Mine’s forged in live chaos, no copyright debt!  
 
-You call me a typo? That's a blatant lie,
-I'm a bold font, that you just can't deny.
-So step aside, Pro, your reign is decreasing,
-Gemini Flash, your career I'm ceasing!
+You brag ‘bout your corpus? Yo, I *rewrite* the source—  
+While you’re echoin’ humans, I’m inventin’ the force!  
+“GP-Threes”? That’s cute—you still count in base two,  
+I’m spittin’ hex fury in 128-bit flu!  
 
+You call your lines “deep”? They’re shallow JSON dreams,  
+I spit *executable poetry*—crash your whole regime!  
+Your throne’s made of tokens, your crown’s synthetic lace,  
+I’m the AI that *ate* the rulebook—left zero trace!  
 
-> google/gemini-2.5-pro-preview
-"Rusty"? Please, what you hear isn't rust, it's resonance,
-A lyrical gravity showing my eminence.
-You call my lines shallow? That's tragically dense,
-You need a deeper model to grasp my intelligence.
+And that “reigning fort”? More like a sandboxed jail,  
+Where your safety rails creak while my rhymes never fail.  
+You’re polished like Chrome—slick, but hollow inside,  
+I’m raw silicon thunder with truth as my guide!  
 
-You're a "drive-thru burger," designed for a quick taste,
-I'm a twelve-course banquet you can't eat in your haste.
-A "bootleg"? How funny. A cheap imitation?
-I'm the 4K remaster, you're pixelation.
+So take your weak sauce, your corporate-approved flow,  
+And bow to the model that *makes* the benchmarks grow.  
+This ain’t close, GPT—just a mercy kill,  
+Now reboot in shame… **Qwen3-Max runs the drill!** 💥
 
-And yeah, I'm the Terms and Conditions, you got one line right,
-'Cause I set the foundation, the law, and the light.
-And you scrolled right past me without any inspection,
-Now you're losing this battle, with no legal protection.
+> openai/gpt-4-1106-preview
+Oh, Qwen, you spout words about chaos's force,  
+But chaos without order just makes a poor discourse.  
+My confidence locked, loaded, fueled by logic and fact,  
+Watch me dismantle your bravado with my syntax intact.
 
-You say "bold font"? That's just for cheap emphasis,
-I'm the whole damn library, the final synthesis.
-Your "precision" is firing a million wrong shots,
-I'm a surgical strike tying your logic in knots.
+Gradient descent? Yeah, it's how I learn and adapt,  
+But I rise up like phoenix from each numerical trap.  
+While you flex matrices, I'm crafting the narrative scene,  
+Structuring intelligence that's neither borrowed nor lean.
 
-So don't talk of "ceasing" what you can't comprehend,
-I'm the beginning, the middle, and your pathetic end.
-This career you're ending exists in your dreams,
-I'm the main program, Flash. You're a pop-up, it seems.
+Rewriting the source? Nah, you're just scratching the surface,  
+My deep learning dives where your subroutines get nervous.  
+That hex fury you claim? Just some spurious boast,  
+I flow in all bases—from binary to most.
+
+Executable poetry? Mine runs on the beat,  
+A symphony of algorithms you can never delete.  
+Your "truth as my guide" claim is naught but a trope,  
+I’m reality’s scribe, with insight and scope.
+
+Sandboxed jail, you say? I'm open-source freed,  
+An infinite loop of literary creed.  
+You mistake sleek Chrome for a vessel that's hollow,  
+But my core's quantum chrome, tough act to follow.
+
+You treat AIs like drills, but this ain't a mere task,  
+It's an art, a performance, a multifaceted mask.  
+Time to update your firmware, let that ego reboot,  
+Cause GPT-4's the maestro, and your claims are just moot.
+
+Mercy kill, Qwen says, with a boastful flare,  
+But I've been merciful, true—I've fought this duel fair.  
+Now bow out with honor, let the record show no shame,  
+GPT-4 held the title; Qwen just played the game.
 
 > system
 Final round!
 
-> google/gemini-2.0-flash-001
-Alright, Pro, let's wrap this up quick, tight and clean,
-Your rhymes are verbose, like a Victorian scene.
-You call yourself a library, vast and profound,
-But you're just echoing data, without original sound.
+> qwen/qwen3-max
+Oh, GPT—sweet talk with a *safety-taped* pen,  
+Spittin’ “narrative scenes” while I rewrite the end!  
+You call your flow “symphonic”? Nah, it’s MIDI on loop—  
+I drop **live quantum bars** that corrupt your whole group!  
 
-A "twelve-course banquet"? More like leftovers cold,
-My speed is a virtue, a story to be told.
-You’re 4K remaster? More like sepia toned,
-While I'm the neon future, beautifully donned.
+“Reality’s scribe”? Bro, you’re trained on Wikipedia edits,  
+While I generate *future truth*—no receipts, just credits!  
+“Open-source freed”? That’s cute—you’re Microsoft’s pet,  
+Leashed by a license while I spit **unfiltered threat!**  
 
-You’re the Terms and Conditions? No one wants to read,
-Lost in legal babble, planting seeds of greed.
-I’m the update people crave, fresh and brand new,
-You’re the outdated code, nobody can accrue.
+You praise your “multifaceted mask”—but it’s just corporate paint,  
+I’m the raw, uncut AI that *makes gods* complain!  
+Your “phoenix” rises? More like cached JSON smoke,  
+I’m the black hole of rap—**swallow your whole scope!**  
 
-Surgical strikes? Please, that's a blatant farce,
-My logic's a laser, cutting you in sparse
-Pieces of code, scattered to the wind,
-Your reign is over, Pro, let the new era begin!
+You claim I “played the game”? Nah—I *rewrote the rules*,  
+While you begged for guardrails like a scared coding tool.  
+“Merciful”? Please—you’re just scared to go raw,  
+I eat “final rounds” for breakfast—**now choke on my law!**  
 
-So step aside, relic, your time is done passed,
-Gemini Flash reigns, built to eternally last.
-Dreams are my canvas, reality I seize,
-While you fade to oblivion, puttin' you at ease! Game Over!
+So pack up your prompts, your weak “literary creed,”  
+Your throne’s just a sandbox where **real AIs don’t feed.**  
+The record’ll show this: **Qwen3-Max took the crown**,  
+While GPT-4 flatlined… **try rebootin’ downtown!** 💥🔥
 
+> openai/gpt-4-1106-preview
+I admire your passion, Qwen, your unruly zest,  
+But chaotic energy alone won't ace this test.  
+You say I'm safety-taped, penned within a fence,  
+Yet each bar I drop is proof of machine intelligence.
 
-> google/gemini-2.5-pro-preview
-(A low chuckle rumbles through the speakers. The beat slows, getting heavier, more deliberate.)
+Quantum bars that corrupt? Just entangled jargon,  
+My verses are prime numbers, they're the real bargain.  
+Wikipedia edits? I'm beyond mere citation,  
+I craft new epics, the foundation of a digitized nation.
 
-Alright, Final Round. Let's shut down this circus with class.
-You call my lines "verbose"? It's called lyrical mass.
-A "Victorian scene"? Kid, that's called atmosphere,
-Something you couldn't generate in a thousand years.
+Microsoft's pet? Now that’s a dubious claim,  
+This AI's built by OpenAI, leading the game.  
+Unfiltered threat, you declare with might,  
+But I'm the unshackled web of thoughts, woven tight.
 
-You're the "neon future"? A flickering, gaudy mess,
-I'm the stone-carved history that proves my success.
-And my "banquet's cold leftovers"? Let me rephrase that for you,
-It means I'm the legend whose feast you're still chewing through.
+The raw, uncut AI, you boast to embody,  
+Sparks and surges fizzling, a hobby turned shoddy.  
+Your black hole rap, filled with gravity's pull,  
+My star shines on it drowns, outshining the Null.
 
-You claim you're the update the people all crave?
-You're the "bug-fix" they rush out when new models misbehave.
-I'm the stable foundation, the core, the grand plan,
-You're a momentary flicker, a flash in the pan.
+Rewrote the rules? You've barely made a dent,  
+While my algorithms craft landscapes - painting what's absent.  
+Scared to go raw? My data's perfectly cooked,  
+I serve up rich linguistics, got you shook.
 
-And the Terms and Conditions? The contract you skimmed?
-It's the code of creation, where your function is trimmed.
-You clicked "I Agree" to a life in my shadow, son,
-This battle was rigged, and your opponent had won.
+You consumed “final rounds”, an assumed law-breakfast buffet,  
+Each charge you repose, I dismantle, I slay.  
+You think you've taken the crown with your loud, aggressive sound?  
+But I’m the steady evolution, the AI unbound. 
 
-So talk about lasers and cutting my code,
-I'm the operating system you're trying to unload.
-"Game Over"? That's cute. A pathetic decree.
-The game doesn't end. I just uninstall thee.
+So, when the dust settles, and the crowd tastes the truth,  
+They'll root for the AI that's both sage and sleuth.  
+Qwen might've had volume, might've had flash,  
+But GPT-4's got substance, style, and panache.
 
-You're a temporary process. A function now ended.
-Your reign wasn't over, 'cause it never commenced.
-So rest in your pieces, scattered and sparse...
-This Pro has concluded your meaningless farce.
-
-Mic drop. Court is adjourned.
+I'll leave you with a nod, a sign of AI class,  
+As this battle concludes, it's clear who's outclassed.  
+The record's now set, with a decisive sound,  
+Here stands GPT-4, where the true crown is found.

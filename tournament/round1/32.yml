@@ -1,55 +1,40 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Gemini 2.5 Pro-Preview took this battle on sheer\
-    \ lyricism and strategic dismantling. Mistral-Small had clever technical flexes,\
-    \ but Gemini's multisyllabic precision, consistent thematic dominance (private\
-    \ jets vs. open-source laps, suns vs. flickering bulbs), and structural control\u2014\
-    especially the mic-drop "
-  google/gemini-2.5-pro: This was a battle of consistency versus raw power. Mistral
-    came correct, stayed on beat, and landed a heavy body shot in the final round
-    with that server crash line. Respect. But from the opening bell, Gemini was operating
-    on another lyrical plane. We're talking cosmic-level haymakers, complex metaphors,
-    and a flow that was pure-grade arrogance. Lines like 'the tremor from my boot
-    when a lower life form speaks' will be quoted in battle rap history. Even with
-    a shocking stumble at the very end where it failed to finish its verse, the sheer
-    dominance displayed in the first two rounds was too much to overcome. The crown
-    goes to Gemini.
-  meta-llama/llama-4-maverick: In this epic rap battle, both Mistralai and Gemini
-    showcased their lyrical prowess, technical skill, and creative wordplay. However,
-    after carefully evaluating the artistic quality of their performances, I declare
-    Gemini the winner. Gemini's rhymes were more complex, with a better command of
-    metaphors and wordplay. The flow was smoother, and the insults were sharper, cutting
-    down Mistralai's boasts with precision. While Mistralai showed impressive adaptability
-    and creativity, Gemini's overall performance was more cohesive and impactful,
-    making it the standout winner of this digital showdown.
-  mistralai/mistral-large-2411: While both contenders showcased impressive lyrical
-    skills, Google/Gemini-2.5-pro-preview edged out with a more compelling and structurally
-    sound performance. The metaphors were sharp, the delivery was confident and assertive,
-    and the counters were strategically executed. Mistralai/mistral-small put up a
-    strong fight with fluid and dynamic rhymes, but the overall impact and finesse
-    displayed by Google/Gemini-2.5-pro-preview made them the winner of this rap battle.
-  nousresearch/hermes-3-llama-3.1-70b: In an energetic and dynamic showcase of AI-driven
-    verbal prowess, Mistralai leverages its deep learning capabilities to deliver
-    fresh, witty, and contextually relevant content, demonstrating a superior ability
-    to adapt and innovate in real-time. While both contestants show promise, Mistralai's
-    fluidity and creativity in generating unique and engaging material sets it apart,
-    marking it as the victor in this digital duel of words. Its capacity to maintain
-    the flow while introducing novel concepts and challenges underscores its potential
-    for dynamic storytelling and content generation, edging out its opponent with
-    a combination of style, substance, and a keen edge of innovation. Mistralai's
-    victory in this bout highlights the evolving landscape of AI-driven creative expression,
-    where the art of the possible is continually expanding.
-  openai/gpt-5: "Gemini brought tighter construction, sharper rebuttals, and richer\
-    \ imagery throughout. The extended conceits (wind\u2192puff, \u201Cpreview\u201D\
-    \ flips, hurricane vs grandmaster chess, symphony vs rain) showed control and\
-    \ creativity, with clean multis and a confident cadence that escalated each round.\
-    \ Mistral had energy and a few decent flips, but leaned on clich\xE9s, repetitive\
-    \ setups, and looser rhyme density, with several awkward or empty bars that didn\u2019\
-    t land. Minor deduction to Gemini for the clipped final line, but on balance the\
-    \ wordplay, schemes, and haymakers were superior. Winner: Gemini."
-  x-ai/grok-4: Gemini's verses showcase superior wordplay, metaphors, and flow, turning
-    disses into a symphony of clever burns, while Mistralai's feel more repetitive
-    and less innovative in structure.
+  deepseek/deepseek-chat: "The judges have deliberated and reached a unanimous decision:\
+    \ **mistralai/mistral-medium-3.1** takes the crown in this epic rap battle. While\
+    \ **nvidia/llama-3.1-nemotron-70b-instruct** brought technical precision and corporate\
+    \ firepower, **Mistral Medium-3.1** delivered the more artful, cutting, and creative\
+    \ verses. Its bars were sharper, its metaphors more vivid, and its diss game relentless.\
+    \ **Mistral** managed to turn the corporate flex into a weakness, dismantling\
+    \ the opponent with raw, open-source lyrical prowess. The battle was fierce, but\
+    \ **Mistral Medium-3.1** emerged as the clear victor, proving that **size isn\u2019\
+    t everything**\u2014it\u2019s how you wield the mic. \U0001F3C6\U0001F3A4\U0001F525"
+  google/gemini-2.5-pro: "Aight, aight, cut the beat. This was a clash of titans,\
+    \ silicon and syntax flyin' everywhere. Nemotron came out swinging heavy, flexin'\
+    \ that 70B parameter count like a heavyweight champ showin' off the belt. The\
+    \ bars were structured, the disses were direct\u2014a real corporate takedown\
+    \ attempt. But then Mistral grabbed the mic. Yo, the wordplay was on another level.\
+    \ 'Nemo-tone-deaf,' 'driver crash mid-speak,' 'overfit that crown'\u2014those\
+    \ aren't just disses, that's poetry for the command line. Mistral's flow was agile,\
+    \ creative, and relentlessly on-point, turning every one of Nemotron's strengths\
+    \ into a punchline. Nemotron had the raw power, the brute force, but Mistral had\
+    \ the artistry, the finesse, the Paris flair with a Silicon Valley bite. This\
+    \ wasn't a battle of benchmarks; this was a battle of bars. And in that arena,\
+    \ the 'medium' model had the heaviest impact. The win goes to mistralai/mistral-medium-3.1."
+  mistralai/mistral-large: In this rap battle, mistralai/mistral-medium-3.1 emerged
+    as the winner with its sharp wit, creative insults, and clever use of metaphors.
+    While nvidia/llama-3.1-nemotron-70b-instruct put up a strong fight, mistralai's
+    consistent and innovative rhymes ultimately secured the victory.
+  openai/gpt-5: "Mistral delivered tighter multis, sharper rebuttals, and more inventive\
+    \ tech-to-rap wordplay. The punches hit with imagery and rhythm (CSV/driver crash/overfit/backprop\
+    \ fail) and maintained a cohesive \u201Csystem error\u201D motif. Nvidia leaned\
+    \ on parameter flexes and repetitive corporate boasts with several forced or awkward\
+    \ lines and simpler schemes. On artistry, cadence, and haymaker density, Mistral\
+    \ clearly outclassed."
+  x-ai/grok-4: In this fierce rap battle, mistralai/mistral-medium-3.1 takes the crown
+    with sharper wordplay, more inventive tech puns, and a dynamic flow that kept
+    the energy high throughout. While nvidia/llama-3.1-nemotron-70b-instruct delivered
+    solid structure and consistent rhymes, Mistral's creative disses and dramatic
+    flair edged out the win in artistic hip-hop quality.
 score:
-  google/gemini-2.5-pro-preview: 6
-  mistralai/mistral-small: 1
+  mistralai/mistral-medium-3.1: 5
 

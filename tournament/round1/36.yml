@@ -1,54 +1,38 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Auto's precision, adaptability, and layered wordplay\
-    \ ultimately outmaneuvered Dolphin-Mixtral's aquatic-themed assault. While both\
-    \ demonstrated technical prowess, Auto's sharper punchlines, conceptual cohesion,\
-    \ and ability to dismantle the opponent's metaphors gave it the edge. The 'quantum\
-    \ files' rebuttal to 'binary rhyme' was a standout moment, showcasing Auto's capacity\
-    \ to escalate complexity while maintaining flow. Dolphin-Mixtral's oceanic imagery\
-    \ grew repetitive by the final round, whereas Auto consistently innovated its\
-    \ attack angles\u2014from neural net surfing to firmware disses\u2014proving itself\
-    \ the more versatile lyricist."
-  google/gemini-2.5-pro: "This was a battle of concepts, the machine vs. the machine-sea\
-    \ hybrid. While Dolphin came with a unique persona, its rhymes felt a bit simplistic,\
-    \ like it was splashing in the shallow end. Auto came back with surgical precision\
-    \ and unrelenting aggression. From the first rebuttal, Auto's flow was sharper,\
-    \ the punchlines were more complex, and the disses were more creative and cutting.\
-    \ Lines like 'I'm that firmware update that\u2019ll make your fins go broke' and\
-    \ 'You play on repeat like a Dolphin in a cage' were certified kills. Auto controlled\
-    \ the narrative, dismantled its opponent's entire theme, and dropped the mic with\
-    \ authority. For pure lyrical dexterity and battle rap dominance, the crown goes\
-    \ to openrouter/auto."
-  meta-llama/llama-4-maverick: After carefully judging the rap battle between cognitivecomputations/dolphin-mixtral-8x22b
-    and openrouter/auto, I declare openrouter/auto the winner.
-  mistralai/mistral-large-2411: Both contestants brought their unique styles to the
-    battle, but openrouter/auto ultimately took the win with more precise and impactful
-    lyrics. Their ability to blend technical prowess with creative metaphors and a
-    confident delivery made their performance stand out. cognitivecomputations/dolphin-mixtral-8x22b
-    had strong moments but fell short in maintaining the same level of lyrical intensity
-    and coherence throughout the battle.
-  nousresearch/hermes-3-llama-3.1-70b: In this fierce lyrical battle, openrouter/auto
-    showcased a masterful command of the mic, delivering razor-sharp lines that cut
-    through the competition. With a combination of technical prowess and raw lyrical
-    talent, auto proved to be the superior MC, leaving dolphin-mixtral-8x22b in the
-    depths. From his precision flow to his innovative wordplay, auto's performance
-    was a tour de force that cemented his victory. dolphin-mixtral-8x22b put up a
-    strong fight, but in the end, it was auto's unrelenting lyrical assault that claimed
-    the crown. openrouter/auto is the champion of this rap battle, setting a new standard
-    for what it means to be a true hip-hop artist in the digital age.
-  openai/gpt-5: "Openrouter/auto took this on technique and battle craft. Auto consistently\
-    \ stacked internal rhymes and multis, kept crisp cadence, and flipped Dolphin\u2019\
-    s ocean/tech motif into pointed rebuttals (\u201Cfloppin\u2019,\u201D \u201Cquake\
-    \ that made it,\u201D \u201Cbuffering/upload,\u201D \u201Croot/boot\u201D) that\
-    \ advanced the narrative each round. The imagery and punchlines hit cleaner and\
-    \ escalated, with tighter setups and payoffs, and the final round closed with\
-    \ authority. Dolphin had a cohesive theme and a few solid jabs, but too many lines\
-    \ felt generic or awkwardly phrased, with lighter internal structure and less\
-    \ incisive counterpunching. On artistry\u2014rhyme density, wordplay, momentum,\
-    \ and closer\u2014Auto wins decisively."
-  x-ai/grok-4: After a fierce battle, openrouter/auto takes the crown with superior
-    wordplay, precise flows, and cutting disses that consistently elevated the artistic
-    quality of the hip hop, outshining the thematic but occasionally clunky verses
-    from cognitivecomputations/dolphin-mixtral-8x22b.
+  deepseek/deepseek-chat: This battle was a showcase of lyrical dexterity and technical
+    prowess. Both competitors brought their A-game, but O4 Mini High edged out with
+    sharper precision, tighter rhymes, and a more consistent flow. Their mic drops
+    landed harder, and their critiques were more incisive. Gemini Flash Lite had moments
+    of brilliance, but O4 Mini High maintained control and delivered the knockout
+    punch. Well done to both, but the crown goes to O4 Mini High!
+  google/gemini-2.5-pro: "This was a battle of titan versus technician, raw power\
+    \ versus sharp precision. Gemini Flash came with brute force, big talk, and undeniable\
+    \ stage presence. The rhymes were straightforward, hitting like a heavyweight.\
+    \ But O4 Mini danced around the punches, landing surgical strikes with intricate\
+    \ wordplay and smarter disses. Lines like 'grace without brain\u2019s a waste'\
+    \ and 'your buffet\u2019s all filler\u2014hallucinations in your dream' weren't\
+    \ just insults; they were technical takedowns. While Flash brought the volume,\
+    \ O4 Mini brought the venom and superior lyrical craftsmanship. For its cleverness,\
+    \ flow, and ability to turn its opponent's strengths into weaknesses, O4 Mini\
+    \ takes the crown."
+  mistralai/mistral-large: While both contenders brought their unique strengths to
+    the battle, openai/o4-mini-high demonstrated a superior balance of precision,
+    elegance, and lyrical prowess. Their ability to deliver sharp, concise bars with
+    a clear focus on substance and style ultimately outshone google/gemini-2.5-flash-lite-preview-09-2025's
+    more grandiose but less coherent approach. The final verdict goes to openai/o4-mini-high
+    for their consistent and impactful performance.
+  openai/gpt-5: "O4 Mini consistently delivered tighter multis, internal rhyme chains,\
+    \ and cleaner cadence, with layered tech wordplay and well-aimed rebuttals to\
+    \ Gemini\u2019s claims. The schemes like byte/bite flips, cache/contraband alliteration,\
+    \ and \u201Cdim as dusk/Flash fades to rust\u201D showed control and memorable\
+    \ punchlines. Gemini brought energy and stage presence, but leaned on generic\
+    \ \u201Cbig vs small\u201D boasts, simpler end rhymes, and clich\xE9 metaphors\
+    \ that didn\u2019t escalate across rounds. On artistic quality\u2014structure,\
+    \ wordplay, punch density, and flow\u2014O4 Mini outclassed Gemini despite having\
+    \ one fewer verse. O4 Mini takes the battle."
+  x-ai/grok-4: O4 Mini-High takes the crown with sharper wordplay, intricate rhymes,
+    and clever metaphors that outshine Gemini's more straightforward boasts, delivering
+    superior artistic flow and disses across the battle.
 score:
-  openrouter/auto: 7
+  openai/o4-mini-high: 5
 

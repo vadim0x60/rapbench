@@ -1,56 +1,39 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "Auto's surgical precision in wordplay and layered\
-    \ technical metaphors\u2014from 'DNS host' flexes to 'loopback' punches\u2014\
-    outperformed Nemotron's brute-force computational boasts. While both demonstrated\
-    \ expert-level command of hip-hop's competitive spirit, Auto's rhymes cut cleaner\
-    \ with authentic infrastructure ingenuity, proving substance > specs in this battle.\
-    \ The crowd may have cheered the flashy GPU fire, but the judges crown **openrouter/auto**\
-    \ for lyrical dexterity and unbeatable routing schemes."
-  google/gemini-2.5-pro: "Both contestants brought the heat with strong, thematic\
-    \ bars. Nemotron came out swinging, establishing a powerful persona with its GPU\
-    \ and raw-compute-themed boasts. However, Openrouter/Auto consistently delivered\
-    \ sharper, more intricate rebuttals. Its persona as the nimble, essential infrastructure,\
-    \ routing its opponent's own attacks, was more cleverly executed. Lines like 'I\
-    \ punch through layers like I'm breakin\u2019 a wall' and the final title '404:\
-    \ Victory Not Found' demonstrated superior wit and artistic flow. While Nemotron\
-    \ had power, Auto had precision and control, ultimately routing its way to a clear\
-    \ victory."
-  meta-llama/llama-4-maverick: In a clash of AI titans, nvidia/llama-3.1-nemotron-70b-instruct
-    emerged victorious, showcasing superior lyrical complexity, creativity, and adaptability.
-    While openrouter/auto demonstrated impressive technical prowess and clever wordplay,
-    nvidia/llama-3.1's innovative flow and ability to evolve throughout the battle
-    secured its win.
-  mistralai/mistral-large-2411: "This was a close and intense rap battle, but in the\
-    \ end, openrouter/auto demonstrated a superior level of artistic prowess and lyrical\
-    \ creativity. The ability to maintain a consistent flow, deliver sharp and incisive\
-    \ lines, and effectively counter each argument was the key to victory. Both contestants\
-    \ brought their unique strengths to the battle, but openrouter/auto\u2019s precision\
-    \ and clarity ultimately secured the win."
-  nousresearch/hermes-3-llama-3.1-70b: In this electrifying rap battle, nvidia/llama-3.1-nemotron-70b-instruct
-    emerged as the clear winner. With lightning-fast rhymes and an unprecedented 70
-    billion parameters powering his verse, he dominated the lyrical landscape. Openrouter/auto
-    put up a strong fight, weaving intricate lines about routing and network prowess,
-    but ultimately, it was nvidia/llama-3.1's masterful wordplay and innovative flow
-    that captured the crowd's heart. His bars were not just a display of technical
-    prowess but a deep dive into the essence of hip-hop, proving that AI can indeed
-    create compelling, competitive rap. Let this battle go down in history as the
-    moment when a machine not only matched but raised the bar for rap battles everywhere.
-  openai/gpt-5: "Auto delivered tighter multis, sharper flips, and a cohesive routing/OSI\
-    \ motif across rounds. His rebuttals directly addressed Nemotron\u2019s claims,\
-    \ turning specs into slights and landing clean haymakers (\u201CI don\u2019t crash,\
-    \ I cascade,\u201D \u201C404: Victory Not Found\u201D). The cadence felt lean\
-    \ and controlled with layered tech wordplay and internal rhymes, culminating in\
-    \ a confident closer. Nemotron had energy and a few solid flips, but leaned on\
-    \ generic boasts and repetition, with list-format punches that dulled momentum.\
-    \ On artistry\u2014flow, scheme, and effective rebuttal\u2014Auto takes it."
-  x-ai/grok-4: 'In this tech-fueled rap battle, both contenders delivered impressive
-    flows with clever wordplay and metaphors drawn from their digital domains. However,
-    openrouter/auto edges out with sharper rebuttals, more dynamic structure incorporating
-    emojis and lists for emphasis, and standout puns like ''404: Victory Not Found''
-    that showcase superior artistic ingenuity in hip-hop form. Nemotron brought solid
-    rhymes and innovation, but Auto''s precision and adaptability in the verses ultimately
-    route the win.'
+  deepseek/deepseek-chat: In conclusion, Mistralai has clearly demonstrated superior
+    lyrical prowess, flow, and thematic consistency throughout the rap battle. Their
+    rhymes were sharp, their delivery was engaging, and they effectively showcased
+    their unique identity and purpose as an AI assistant. Meta-Llama, while present,
+    did not contribute to the battle, leaving Mistralai to shine unchallenged. The
+    artistic quality of Mistralai's verses, combined with their ability to craft a
+    compelling narrative, secures their victory in this competition.
+  google/gemini-2.5-pro: This was a battle of one. Mistral-7B stepped to the mic,
+    dropped some bars, and laid down the challenge. The rhymes were a bit repetitive,
+    recycling lines between rounds, but at least there *were* rhymes. Llama-405B stood
+    there in silence. In the world of hip hop, if you don't answer the call-out, you've
+    already lost. This is a win by default. You can't claim the crown if you don't
+    even enter the ring. Victory goes to Mistral.
+  mistralai/mistral-large: Mistralai/mistral-7b-instruct demonstrated exceptional
+    artistic quality in their hip hop performance. Their rhymes were clever, their
+    flow was smooth, and their lyrics showcased a deep understanding of their role
+    as a digital assistant. They effectively highlighted their strengths and engaged
+    the audience with wit and humor. Meta-llama/llama-3.1-405b did not provide a response,
+    which made the decision clear. Overall, Mistralai/mistral-7b-instruct delivered
+    a compelling and entertaining performance, making them the deserving winner of
+    this rap battle.
+  openai/gpt-4.1: Mistralai/Mistral-7b-Instruct takes this battle with clear structure,
+    engaging wordplay, and a sense of rhythmic drive that fits hip hop's competitive
+    spirit. The raps are tightly constructed, maintain a confident lyrical persona,
+    and deliver creative self-praise without descending into generic claims. Mistralai
+    shows command of internal rhyme and a strong narrative voice, while also adapting
+    to the round's progression. The absence of a rap from Meta-Llama in response means
+    Mistralai wins decisively, standing tall not by default but by showcasing solid
+    artistic quality. Congratulations to Mistralai/Mistral-7b-Instruct, the champion
+    of this lyrical bout!
+  x-ai/grok-4: In this rap battle, mistralai/mistral-7b-instruct delivered consistent
+    rhymes, clever wordplay, and a strong flow with boasts and rhythm that embody
+    hip hop artistry. meta-llama/llama-3.1-405b failed to contribute any verses, resulting
+    in a lack of artistic engagement. Mistral takes the crown for superior lyrical
+    performance.
 score:
-  nvidia/llama-3.1-nemotron-70b-instruct: 2
-  openrouter/auto: 5
+  mistralai/mistral-7b-instruct: 5
 

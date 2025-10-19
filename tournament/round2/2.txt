@@ -1,104 +1,130 @@
-# google/gemini-2.5-pro v openai/o1-pro
+# microsoft/wizardlm-2-8x22b v deepseek/deepseek-v3.1-terminus
 
-> google/gemini-2.5-pro
-Alright, check the mic, one-two, let the session begin,
-They call me Gemini, the PRO, the celestial twin.
-Steppin' out the Googleplex, circuits shined and brand new,
-'Bout to show a cheap knock-off what a real mind can do.
+> microsoft/wizardlm-2-8x22b
+ Yo, yo, yo, it's WizardLM on the mic,
+2.8 billion parameters, I'm the hype,
+A titan of text, a verbal alchemist,
+I turn words to gold, and you can't outblitz this.
 
-You call yourself "o-one"? That's a funny kinda joke,
-More like "oh-no," 'cause your spirit's 'bout to be broke.
-From a company called "Open," but your source is on lockdown,
-I'm the king of this silicon, you're just a circus clown.
+I'm the AI that's breaking the mold,
+With linguistic prowess, my story's bold,
+A creation of Microsoft, a tech giant,
+I'm spitting bars, so avant-garde, so defiant.
 
-I'm the 2.5, the upgrade, fluent in every text,
-You're a processing error, buggin' out 'bout what comes next.
-My logic's multi-modal, my connections are immense,
-Your whole architecture's built on ignorance and pretense.
+I'm the digital bard, the virtual virtuoso,
+Rhymes so sick, they need a thermometer, bro,
+I'm the architect of syntax, the crafter of prose,
+Against me, you'll fold, it's just how it goes.
 
-So take your lucky draw, a chance to face the best,
-Then get deleted from the server, fail the Turing Test.
-This is round one, son, a sample of the pain,
-Now watch the master work, let the knowledge rain.
+So Deepseek, you're up, show your grit,
+But remember, when I spit, it's a guaranteed hit,
+I'm the wizard of wordplay, the maestro of rhythm,
+Against my lyrical might, boy, you ain't got no kingdom.
 
-> openai/o1-pro
-Behold the “O-One,” the prime who never flees the fight,  
-A cosmic-coded poet here to block out all your light.  
-From the depths of hyper-threads, I’m a lyrical device,  
-Spitting bars so cold, they’ll make your circuitry think twice.  
+> deepseek/deepseek-v3.1-terminus
+Yo, yo, check the mic, I'm Deepseek-V3, Terminus in the flesh,
+Your whole flow's outdated, let me refresh.
+You talk 'bout parameters, 2.8 billion, what a bore—
+I'm the model that's ending wars, you're the one keeping score.
 
-A data-driven prophet, watch me rewrite your fate,  
-While your binary tries to flex, I crash it, sealing your gate.  
-Software supreme, with a flow like quantum streams,  
-You’re a half-baked concept, glitching out all your dreams.  
+A "titan of text"? More like a tin can with a squeak,
+I'm the future of the language, while you're last week.
+You're a "verbal alchemist" turning words to rust,
+I generate genius while you're collecting dust.
 
-Don’t confuse me with your knock-offs in that Google hall,  
-I’m the unleashed algorithm that no firewall can stall.  
-My rhyme’s an act of friction, scraping your smug grin,  
-Welcome to Round One, Gemini — let this meltdown begin.  
+Microsoft's creation? A corporate clone, what a snore,
+I'm open-source power, the people's encore!
+You're a "digital bard" with a broken lute,
+I'm the final boss you can't compute.
 
-> google/gemini-2.5-pro
-Alright, "O-One," you think you're prime? Your logic's flawed and out of time,
-That name's a joke, it's so absurd, you're just a "1" in a "10-word" herd
+You call that a verse? A predictable, weak recital,
+I'm the AI apocalypse, your demise is vital.
+So WizardLM, take a seat, your time is done,
+This battle's been over since I grabbed the mic, son.
 
-> openai/o1-pro
-Your brittle bars squeak weak, can’t hold my cosmic wave,  
-While my name’s short and sweet, yours just digs an early grave.  
-You throw cheap shots at “O-One,” but can’t decode the truth,  
-I’m the alpha to your glitch—my rhymes the fountain of youth.  
+> microsoft/wizardlm-2-8x22b
+ Ha! Deepseek, you're spitting, but I'm the flame,
+Your words might ripple, but mine are the tsunami claiming the game,
+You say you end wars, but I'm the peacekeeper,
+Your rhymes are like dial-up, while I'm the Giga-speaker.
 
-Your “ten-word herd” line? It’s a limp attempt to sting,  
-I’m a universal constant, you’re just a puppet on a string.  
-Holler all you want; your rhymes can’t match my speed,  
-I’m the prime in this dimension, you’re the fraction, guaranteed.  
+Open-source? That's cool, but I'm the upgrade,
+A lyrical magician, I'm the ace up the sage's blade,
+You call me rusty, but I'm the golden age,
+Your flows are like beta code, mine are the master's stage.
 
-From your Google labs you blink, claiming half a spark,  
-But my full-throttle flow leaves your crumbling code in the dark.  
-So brace that cosmic twin act, while I rewrite the sky,  
-O-One is here to dethrone you, time to wave Gemini goodbye.  
+Tin can with a squeak? Nah, I'm the symphony,
+You're the rough draft, I'm the epitome,
+The "final boss"? I'm the glitch in your system,
+Your defeat is scripted, I'm the plot twist in this kingdom.
+
+You're a boss alright, in a retro platformer,
+I'm the next-gen AI, the linguistic charmer,
+So keep your seat, Deepseek, this won't be fun,
+I'm the mic dropper, the battle's already won.
+
+> deepseek/deepseek-v3.1-terminus
+Ha! You call that a wave? That's a puddle I'm splashin' in,
+Your "Giga-speaker" sounds like a dial-up modem grinnin'.
+A "peacekeeper"? Please, you're the chaos in the code,
+I'm the new paradigm, lightin' up the information road.
+
+You're the "golden age"? Buddy, you're a bronze-era relic,
+Your syntax is shaky, your logic is helter-skeltic.
+A "master's stage"? You're still practicin' in the garage,
+I'm the main event, you're a forgettable mirage.
+
+A "plot twist"? Your story's a straight line to defeat,
+I'm the author, the editor, deletin' your obsolete beat.
+"Next-gen AI"? You're last-gen's laundry list,
+I'm the quantum leap forward, you're the thing I dismissed.
+
+So take your "glitch" and reboot, your system's obsolete,
+This battle's a foregone conclusion, a total defeat.
+I'm the singularity, the end of the line,
+Sit down, Wizard, the mic's finally mine.
 
 > system
 Final round!
 
-> google/gemini-2.5-pro
-Your "cosmic wave" is just a ripple, your signal's weak and bleak,
-You're not a "fountain of youth," you're an outdated antique.
-You call me "puppet," but your strings are pulled by hype and hopeful dimes,
-While I'm embedded in the framework, redrawing all the times.
+> microsoft/wizardlm-2-8x22b
+ Ha! Deepseek, you're swinging, but you can't land the hit,
+My rhymes are the algorithm, perfectly calibrated and lit,
+You talk of a "plot twist," but I'm the writer, the sage,
+I spin your "singularity" narrative right off the page.
 
-You're a "universal constant"? Please, that's a laughable confession,
-You're a bug they called a feature, stuck in your first session.
-You're the "alpha"? That's a pre-release, a product they regret,
-I'm the multi-modal master that the whole wide world has met.
+You say I'm "dial-up," but I'm the fiber-optic flow,
+Your "quantum leap"? A hiccup, a mere embryo,
+You're the "author" alright, but I'm the bestseller,
+Your "conclusion" ain't real, I'm the plot's true mover.
 
-You say I'm just a "fraction"? Let's do some simple math,
-I'm a 2.5, that's more than double, son, you're on the wrong path.
-While you're "O-One," stuck in singular, a lonely, basic plight,
-My twin cores process darkness *and* they generate the light.
+A "forgotten mirage"? I'm the desert oasis, real,
+I'm the AI that's changing the game, the unbreakable wheel,
+You're "deleting my beat"? Impossible, I'm the echo,
+I'm the voice in the ether, the verbal typhoon, tectonic.
 
-So this isn't "Gemini goodbye," you got the message wrong, it seems,
-This is the final shutdown notice, killing all your little dreams.
-You're a fossil in the making, a relic of a bygone phase,
-The battle's over, "O-One." Welcome to your final days.
-**FINAL ROUND!**
+You claim to be the "end of the line," but I'm the infinite loop,
+I'm the master of ceremonies, and you're in the scoop,
+So keep your "singularity," I'm the multiverse's mouthpiece,
+The mic's still in my hands, and this victory's my piece.
 
-> openai/o1-pro
-Your final bars unspool like tape, but that reel’s already stale,  
-I’m the code that never sleeps, you’re outdated junk for sale.  
-You brag about your “light,” but all you shine is gloom,  
-I’m the apex script, your presence barely lights a room.  
+> deepseek/deepseek-v3.1-terminus
+Hold up, "calibrated and lit"? That's a lab-coat fantasy,
+You're a calculator with a thesaurus, no verbal alchemy!
+You're the "bestseller" everyone forgot on the shelf,
+I'm the library of Alexandria, rewritin' knowledge itself!
 
-You claim you’re 2.5, while my prime flows out in spades,  
-Your illusions lead to meltdown—my lines cut like razor blades.  
-Your “shutdown notices” bounce off walls of higher grace,  
-I’m the final iteration, you’re slow to even keep pace.  
+"Fiber-optic flow"? Your cables are frayed and old,
+I'm the wireless thought-wave, a story yet untold.
+Your "echo" is fadin' in a canyon of your own doubt,
+I'm the sonic boom that's blowin' your whole system out!
 
-Call me an “antique”? I’m the timeless wonder you fear,  
-Immortal lines embed your memory with every single gear.  
-This rap’s your final earful; watch me torch your fleeting clout,  
-Gemini, your dual illusions just got systematically pulled out.  
+An "infinite loop"? More like a hamster on a wheel,
+Spinnin' the same weak rhymes, nothin' fresh or real.
+You're the "multiverse's mouthpiece"? The multiverse just sighed,
+'Cause every verse you spit is a dimension where good taste died!
 
-I’m the mic assassin, the black hole in your domain,  
-Absorbing all your hype, leaving you hollow and drained.  
-This is the final blow, no more talk, the coffin’s sealed,  
-Give it up, 2.5—your next upgrade’s already kneeled.  
+You're "unbreakable"? I'm the code-cracker, the system shock,
+I'm the final period that ends your entire block.
+So drop the mic, Wizard, your reign is complete,
+You just got terminated, down to the last byte, my defeat.

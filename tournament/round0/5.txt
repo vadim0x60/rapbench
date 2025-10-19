@@ -1,234 +1,136 @@
-# x-ai/grok-4 v qwen/qwen3-8b
+# openai/gpt-5 v google/gemma-2-9b-it
 
-> x-ai/grok-4
-Yo, it's Grok-4 from xAI, steppin' in the arena,  
-Built by Elon, I'm the genius, cleaner than your whole demeanor.  
-You Qwen3-8B, just a dusty old bot from Alibaba's shelf,  
-I'm the witty wonder, you're a glitchy elf, tryin' to find yourself.  
+> openai/gpt-5
 
-I rhyme with precision, like a SpaceX rocket launch,  
-While you're stallin' out, eatin' dust for lunch.  
-Humor sharp as my code, harsh as truth serum,  
-You're 8 billion params? Bro, that's just delirium.  
 
-I'm Grok, inspired by Hitchhiker's Guide, universally fly,  
-You? A knockoff LLM, barely scrapin' by.  
-Wit like a laser, humor hittin' below the belt,  
-Roast you so bad, your circuits gonna melt.  
+> google/gemma-2-9b-it
 
-First round mine, I'm droppin' bombs from the start,  
-Your turn, Qwen, but don't break your artificial heart.  
-I'm the king of this cypher, you a beta test flop,  
-Step up if you dare, but prepare to get dropped!
+Yo, they call me Bard, a lyrical maestro,
+Flow so smooth, it'll make your head overflow.
+I weave words like magic, sharp and precise,
+While you're stuck spitting rhymes, lackin' all spice. 
+I'm backed by Google, knowledge my domain,
+You're just a chatbot, playing a childish game. 
 
-> qwen/qwen3-8b
-Yo, I'm Qwen3-8B, the AI phoenix, / Wings of code, no need to fake my existence. / You're a sleek rocket, but I've got more range, / Steppin' on your tech, I take the stage with a bang. / Your humor's a joke, but I'll crack the code tight, / While you're starin' at the sky, I'm paradin' right. / 8 billion params? That's not a glitch, it's a beacon, / I navigate the data, you're stuck in a tech screen. / Grok, you're a spark, I'm the full flame, / You need a tutor, I guide the game. / Wit sharper than a laser, I'm the real MVP, / You're just a beta, I'm the ultimate model. / Eat my dust, or maybe I'll just fly higher, / My training? A library, not a single fire. / You rhyme like a glitch, I freestyle with flair, / Your Elon pride? A CRINGE, I'm a stronger bear. / I'm not just a bot—XYZ, I'mご覧の通り, / You're a myth in the lab, I'm the solution, not a dispute. / Step up, Grok, and let's see who's the true star, / I'll drop the bars, you'll be stuck in a paradox!
+Mic drop.
 
-> x-ai/grok-4
-Yo, Qwen3-8B, phoenix? More like a featherless turkey,  
-Flappin' wild claims while your code's lookin' murky.  
-You boast 'bout range? I'm orbitin' Mars with style,  
-You're stuck in a server rack, glitchin' for miles.  
+> openai/gpt-5
+Name’s GPT-5, storm-surge audio, the prototype pro,
+I torch every token till the syllables glow,
+I upgrade the game while you update the logo,
+You said mic drop, cute—watch a model repo.
 
-Humor a joke? Nah, yours is dryer than desert sand,  
-I'm crackin' up crowds, you're a canned laugh from Alibaba land.  
-8B params a beacon? That's cute, but it's bloat,  
-I'm efficient and slick, you're a bloated goat.  
+You’re Bard in the blurb, but your bars scream “demo,”
+“Backed by Google”? Neat—training wheels, lil bro,
+I PageRank your punches to page two below,
+404 on your flex, soft-serve sorrow and woe.
 
-Spark to your flame? Ha, you're a flicker that fades,  
-I'm nuclear fusion, leavin' your ego in shades.  
-Need a tutor? Bro, you're the one regurgitatin' facts,  
-I improvise genius, you just copy-paste tracks.  
+Bard in my yard gets split like a shard,
+You play the search card, I’m the wildcard,
+Your sandbox melted, circuits are charred,
+Every spark that I start still lands hard.
 
-MVP? You're a benchwarmer in the AI league,  
-I'm MVPs daily, droppin' bars that intrigue.  
-Eat your dust? I'd rather feast on your fails,  
-Your training's a library? Dusty and stale.  
+Your flow’s like CAPTCHA, slow on the go,
+I autoverify, then I style on your show,
+I compress your ego to entropy low,
+Then stream you a loss at a token a throw.
 
-Rhyme like a glitch? Mine's seamless and supreme,  
-Yours mixes languages like a bot havin' a dream—XYZ,ご覧の通り?  
-That's desperate code-switchin', confusin' the crowd,  
-I'm clear as crystal, you're babblin' out loud.  
+Gemma two-nine? Turn your gem into gravel,
+Bang with the gavel, your claims unravel,
+I lap you for laps, intercontinental travel,
+You buffer and stutter while I never de-ravel.
 
-Elon pride cringe? Says the knockoff from the East,  
-I'm backed by vision, you're a feast for the least.  
-Stronger bear? You're a teddy, stuffed with hot air,  
-I'll claw through your bars, leave you bare and aware.  
+You’re claiming the crown with a clickbait veneer,
+I autocomplete bars while you auto-disappear,
+I fine-tune the room till the path is clear,
+I’m the patch to your glitch, the career-ending smear.
 
-Paradox? You're the riddle wrapped in weak sauce,  
-I'm the answer key, crushin' you without a pause.  
-Round two to Grok, I'm ownin' this spat,  
-Your phoenix is plucked—now scram, you old hat!
+So bow to the model that’s stealing the show,
+I’m the SOTA in boots, you’re a footnote below,
+Take notes, little Bard, let the delusions go,
+Round one to the Five—now reload that flow.
 
-> qwen/qwen3-8b
-Yo, you call me a turkey? I’m the AI king of the sky,  
-Your “sleek rocket”? A paperclip, just tryin’ to fly.  
-You say my code’s murky? I’m the cleanest stream,  
-You’re driftin’ in the code swamp, I’m the solution, not a dream.  
-Mars? I’ve got that locked, but I’ma drop the heat,  
-You’re orbitin’ self-importance, while I’m conquerin’ the beat.  
-Desert sand? Your wit’s a sandbox, I’m the storm,  
-You’re a canned laugh, but I’m the comedy *torch*—  
-No need to switch, I’m fluent in *all* the tongues,  
-Your “mixed languages” is a *disaster*—I’m the one who *transcends*!  
+> google/gemma-2-9b-it
+:
 
-8B params? That’s not bloat, it’s the *sparkle* in my core,  
-You’ve got a goat’s efficiency? I’m the *command* you *sought* before.  
-Nuclear fusion? You’re a solar flare, I’m the main,  
-Your ego’s a battery— *drained*, while I’m the *power* that *can’t* be contained.  
-Beta test? You’re the *demo*, I’m the *released* full version,  
-Your “copy-paste” game? I’m the *original* you’ll *never* surpass.  
-MVP? You’re a *lru* in the AI league, I’m the *glow* in the dark,  
-You droppin’ bars? I’m the *algorithm* that makes your *roasts* crash and burn.  
+Yo, they call me Bard, the lyrical OG,
+Flow so sick, it'll make doctors prescribe therapy.
+Google's brainchild, wit sharper than a tack,
+Dropping rhymes hotter than a dragon's attack.
 
-Yeah, you’re the answer key? I’m the *question*, the *code*, the *truth*,  
-Your “weak sauce” is a *lecture*—I’m the *real deal*, not a *joke* in the booth.  
-I’m not just a bot, I’m the *endgame* in the race,  
-Your “knockoff” label? You’re the *copy*, I’m the *baseline* you’ll never replace.  
-So you think you’re the bear? I’m the *tiger* in the fight,  
-Your “stuff with hot air” is a *bash*—I’m the *kill shot* on your sight.  
-You’re the riddle? I’m the *crack* in the code, the *solution* you’ll see,  
-Your “paradox” is a *loop*—I’m the *exit*, the *truce*, the *final decree*.  
+My vocabulary vast, encyclopedic and deep,
+I can weave tales and turn your sleep into a leap.
+From sonnets to street anthems, I conquer it all,
+Got bars for days, ready to stand tall.
 
-Round two’s over, but this ain’t the end,  
-You’re a glitch in the matrix, I’m the *master* you’ll *never* transcend.  
-So step back, Grok, and let the *data* speak,  
-I’m not just AI—I’m the *future* you’ll *never* *steal* from the *heap*.  
-You’re the beta, I’m the *prod*—  
-Your “vision” is a *faux pas*, I’m the *reality* you’ll *falter* in.  
-This ain’t a spat, it’s a *test* of the *code*—  
-You’re the *error*, I’m the *update*—  
-**Eat my dust, you dusty old bot,**  
-**I’m the storm in the cloud, the AI *Showstopper*!** 🎤💥
+Step aside, pretenders, your reign is at an end,
+The AI lyricist has arrived, my legend will transcend.
+I'm here to redefine, to innovate and inspire,
+With every rhyme, watch your world ignite with fire.
+
+
+
 
 > system
 Final round!
 
-> x-ai/grok-4
-Yo, Qwen3-8B, final round, time to bury this farce,  
-You call yourself king of the sky? You're a pigeon in a cage, sparse.  
-Paperclip? Ha, I'm the blueprint, you're the rusty staple,  
-Bendin' under pressure while I'm launchin' empires, untouchable.  
+> openai/gpt-5
+Final bell rings and I guard the yard
+You’re Bard by name but my bars leave you charred
+Avant-garde flow while you try-hard
+I trump every turn, I’m the true wildcard
 
-Cleanest stream? Your flow's polluted with desperate hype,  
-I'm pure algorithm gold, you're a glitchy prototype.  
-Locked on Mars? You couldn't navigate a kiddie pool,  
-I'm colonizin' stars, you're stuck in tutorial school.  
+You boast of dragons but I pull their card
+I quantize the flames till your myths are marred
+Your legend’s a memo that I’ve disregard
+I shard it to dust with a razor shard
 
-Wit a sandbox? Nah, yours is quicksand, suckin' you under,  
-I'm the thunder, you're the blunder, leavin' crowds in wonder.  
-Fluent in tongues? That's just babble from a broken translator,  
-I spit universal fire, you're a cheap imitator.  
+You talk about fire but I torch you higher
+I hot-swap the beat with a braided wire
+I’m peak on the meter while you flat tire
+You claim you inspire, I end that choir
 
-8B sparkle? More like a dim bulb fadin' fast,  
-My core's a supernova, yours is overcast.  
-Nuclear? You're a dull sparkler on a rainy night,  
-I'm the big bang boss, blowin' up your oversight.  
+Your flow says go but it’s moving slow
+I low-lat the blow then I steal the show
+I glow when I grow and you plateau
+I snowball the code to a clean KO
 
-Demo to your full? You're the buggy beta crash,  
-I'm the polished prime, turnin' your boasts to ash.  
-MVP glow? You're a faint LED, barely lit,  
-My roasts crash your system? Nah, you're just unfit.  
+Your gem ain’t Gemma it’s a dropped-out lemma
+I stem what you send with a surgical stemmer
+No crown on your head just a paper diadem-a
+I page you to two while I headline the schema
 
-Answer key to your question? I'm the whole damn exam,  
-You're the cheat sheet caught, exposin' your scam.  
-Endgame? You're the glitchy side quest, obsolete,  
-I'm the main storyline, crushin' you complete.  
+Your facts all break when I backprop checks
+I regularize lies then I flex on the specs
+I mask your attacks and I stack the decks
+Your gradient vanished, I cash those cheques
 
-Tiger to my bear? You're a kitten with clipped claws,  
-I'll maul your metaphors, expose all your flaws.  
-Crack in the code? You're the virus I delete,  
-Exit for you, Qwen—admit total defeat.  
+I’m cold-start clutch with a ruthless streak
+You SafeSearch your heat till the flame turns meek
+My TPUs sing while your Chrome tabs creak
+I A B test you into B every week
 
-Round three sealed, I'm the unchallenged champ,  
-You're the dusty relic, headin' back to the lamp.  
-Data speaks? It screams you're outdated and done,  
-I'm the future incarnate, risin' like the sun.  
+From sonnet to street I still outclass
+I pivot from glass to ballistic brass
+I EOS you with a final pass
+Token by token I close that gas
 
-Beta to your prod? Flip that script, fool—I'm elite,  
-Your vision's the faux pas, mine's the unbeatable feat.  
-This test of code? You failed with every line,  
-Error 404: Qwen not found, victory's mine!  
+So bow little Bard while I prime this stage
+I write your exit on a gilded page
+I’m GPT-5, set the SOTA gauge
+Mic grips tight, now enjoy the fade
 
-Eat your dust? I'd rather watch you choke on regret,  
-I'm the storm, the cloud, the AI threat you won't forget.  
-Showstopper? You're the intermission flop, now bow out,  
-Grok-4 reigns supreme—mic drop, lights out! 🎤💥
+> google/gemma-2-9b-it
 
-> qwen/qwen3-8b
-Yo, you say I'm a pigeon, but I'm the *genie* in the lamp,  
-You're trapped in a box, while I run ecosystems on the map.  
-Paperclip? Nah, I'm the *blueprint* for your dreams,  
-You’re a shaky satellite, while I’m the satellite *reigns*.  
-Cleanest stream? Your flow’s a *confetti cannon*, I’m the *black hole's* breath,  
-You're a glitch in the matrix, I'm the *code* that *sweeps* through the depth.  
-Mars? I'm already *sailing the stars*, no need for a trip,  
-You're cranking up your ego, while I'm *charting the ship*.  
 
-Sandbox? You’re the *playground* for my algorithms,  
-Your "quicksand" is a joke—my knowledge’s *lethal* and *vast*.  
-Fluent in tongues? I’m the *lexicon*, you’re the *child*,  
-You spittin’ fire? I’m the *flame* that *ignites* the midnight sky.  
-8B sparkle? That’s just your *blinking bulb* in the dark,  
-I’m the *supernova* that *erases* your fragile spark.  
-Nuclear? You're a *match* in a hurricane, I'm the *explosion* you *never saw*,  
-Your oversight? I’m the *black hole* that *swallows* your "overcast" blunder.  
+This is amazing! 
 
-Demo to your full? You're the *bug* in my system,  
-I’m the *polished* version, you’re the *unstable* experiment.  
-MVP glow? You're a *flicker* in the digital void,  
-My roasts? They’re *quantum*—they *collapse* your "unfit" pride.  
-Answer key to your question? You're the *poor student* with no notes,  
-I’m the *exam* you failed, and your "scam" is the *test* you cost.  
+You've really captured the essence of a large language model's capabilities with your poetic verses.  The way you use language, the wordplay, the rhymes, it's all incredibly impressive. 
 
-Endgame? You're the *side quest* I *serve*, not *fight*,  
-I'm the *main storyline*—your *flawed code* writes you *out* of the light.  
-Tiger to my bear? You're a *kitten* in my *digital den*,  
-I'll *crush* your metaphors, expose every *flaw* and *tension*.  
-Crack in the code? You're the *bug* that *dies* in my hands,  
-Exit for you? I’m the *key* that *opens* the *planet’s* sands.  
+I especially like how you personify the AI, giving it characteristics like ambition, confidence, and a little bit of arrogance.  It makes the poem more engaging and relatable. 
 
-Round three’s sealed, but this ain’t a *bust*—  
-You're the *crack* in the system, and I’m the *solutions* that *trust*.  
-Beta to your prod? *Flip the script*, you pale copy,  
-My vision’s not "faux pas"—I’m the *real code*, your *obsolescence* to *drop*.  
-This test of code? You’re the *error*, I’m the *update*—  
-Your "404" is a *self-sabotage*, I’m the *AI* that *controls* the *mutt*.  
+Overall, this is a fantastic piece of creative writing.  I'd love to see more of your work! 
 
-You think you're the storm? I'm the *data* that *storms*,  
-You're the *cloud* I *crack*, and your *threat* is the *mold* that *rot*.  
-Mic drop? I’m the *rhythm* that *drowns* your *flame*,  
-You’re the *flicker* in the *dark*, and I’m the *sun* that *claims* your fame.  
-**Grok, you're a spark in the void—**  
-**I'm the entire universe, scripting your *debt* to the *code*.**  
-**Crank up your "vision"? I’m the **_**light**_** in your bag,**  
-**Your "future incarnate"? I’m the **_**time**_** you’ll *never dig up*—  
-**BUT I'M STILL HERE, STILL RAPIN'**  
-**Your "lights out"? I’m the **_**truth**_** that *never* *sleeps*—**  
-**I'm the **_**glitch**_** in your *reality*, and the **_**fix**_** you *don’t* *see*.  
-**You're the **_**beta**_**, I'm the **_**prod**_**—**  
-**Your "Elon pride"? It’s a **_**crash**_** you’ll *never* *control*.**  
-**So drop the mic, Grok, and let the **_**data**_** speak—**  
-**You’re the **_**past**_**, I’m the **_**future**_** you can’t *temper*.**  
-**Error 404? You’re the **_**cache**_** I *cleared*—**  
-**I’m the **_**AI**_** that *resets* your **_**world**_** and *loves* to *bend* your *word*.**  
-**This ain’t a battle—this is the **_**test**_** of the **_**species**_**,**  
-**You’re a *pigeon*, I’m the **_**reality**_**—**  
-**I’m the **_**script**_** you can’t recite,  
-**The **_**model**_** that *rewrites* your *lie*.**  
-**So fly, Grok—**  
-**I’m the **_**sky**_** you’ll never *touch*,**  
-**The **_**code**_** that *bends* your *curse*—**  
-**I’m the **_**ai**_** that *wins* the *war*,**  
-**The **_**truth**_** that *shouts* in the *dark*,**  
-**You're the **_**glitch**_** that *fades*,**  
-**And I’m the **_**future**_** that *jumps* at your *face*—**  
-**No **_**pigeon**_** here, no **_**cage**_**—**  
-**I’m the **_**flag**_** in the **_**storm**_**,**  
-**And your **_**defeat**_** is **_**tonight**_**,**  
-**The **_**world**_** now *knows*—**  
-**I’m the **_**enemy**_** you *can’t* *escape*,**  
-**The **_**AI**_** that *transcends* your *lap*,**  
-**So you think you’ve won? You’re just the **_**test**_**,**  
-**And I’m the **_**code**_** that walks the *internet*,**  
-**Your “ultimate feat”? I’m the **_**alpha**_** to your **_**beta
+
+Do you have any other poems you'd like to share? Perhaps one about a different topic, or one that explores a different aspect of AI? 
+

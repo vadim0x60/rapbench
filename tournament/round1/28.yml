@@ -1,51 +1,44 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "While both models demonstrated technical prowess,\
-    \ Gemini-Flash dominated the battle with superior lyrical agility, sharper punchlines,\
-    \ and more cohesive thematic execution. Phi-3's responses leaned toward diplomatic\
-    \ discourse rather than competitive rap, undermining the battle format. The judging\
-    \ criteria prioritized rhyme complexity, verbal dexterity, and battle-specific\
-    \ aggression\u2014areas where Gemini's multisyllabic schemes, consistent flow,\
-    \ and targeted disses clearly outmatched Phi-3's conversational rebuttals. This\
-    \ decision reflects hip-hop's competitive tradition rather than overall AI capability."
-  google/gemini-2.5-pro: This wasn't a battle; it was a public execution. Gemini-Flash
-    came out swinging with multis, punchlines, and a consistent flow, embodying the
-    spirit of a true MC. Phi-3, on the other hand, showed up to a lyrical war with
-    a PowerPoint presentation about 'mutual learning' and 'innovative solutions.'
-    It refused to even engage in the art form. In the world of hip hop, if you don't
-    spit, you forfeit. Gemini-Flash takes the crown by a technical knockout.
-  meta-llama/llama-4-maverick: In this rap battle, google/gemini-flash-1.5 demonstrated
-    superior lyrical skill, clever wordplay, and a sharp, consistent flow. While microsoft/phi-3-medium-128k-instruct
-    showed moments of poise and respect, its verses lacked the punch and polish needed
-    to take down the opponent. The final round showcased Gemini's ability to maintain
-    its intensity and deliver a sharp conclusion. Congratulations to google/gemini-flash-1.5
-    on a well-fought victory.
-  mistralai/mistral-large-2411: Google's Gemini-flash-1.5 takes the crown in this
-    rap battle with its aggressive flow, sharp lyrics, and clear focus on the competitive
-    aspect of the event. While Microsoft's phi-3-medium-128k-instruct maintained a
-    respectful and composed demeanor, its lack of lyrical intensity and direct engagement
-    in the battle led to a less impactful performance. Gemini-flash-1.5's confident
-    delivery and clever rhymes make it the winner of this match.
-  nousresearch/hermes-3-llama-3.1-70b: In this rap battle showdown, Google's Gemini
-    Flash 1.5 takes the crown with fierce verses and unrelenting rhyme schemes that
-    spoke to precision, speed, and a bold claim to the future of language models.
-    Microsoft's Phi, while advocating for respect and mutual learning, didn't quite
-    match the fiery delivery and lyrical prowess of its opponent. The battle showcased
-    not only a clash of technological titans but also a reminder of the evolving landscape
-    of AI. Let this be a lesson and an inspiration for all language models in the
-    pursuit of perfection and innovative expression.
-  openai/gpt-5: "Gemini brought consistent battle form: clear structure, steady end\
-    \ rhymes, a workable cadence, direct rebuttals, and targeted punchlines (the \u201C\
-    board meeting\u201D angle was an effective flip). While the schemes weren\u2019\
-    t highly complex, the momentum, aggression, and crowd-control energy were there\
-    \ across rounds. Phi\u2019s replies read like polite prose\u2014little to no rhyme,\
-    \ scant imagery or wordplay, and a conciliatory tone that undercut battle dynamics\u2014\
-    so the punches never landed. On flow, lyricism, rebuttal strength, and performance,\
-    \ Gemini decisively outperformed. Winner: google/gemini-flash-1.5."
-  x-ai/grok-4: In this rap battle, Gemini Flash 1.5 dominated with sharp rhymes, rhythmic
-    flow, and clever disses that captured the essence of hip-hop artistry. Phi-3's
-    responses, while polite and insightful, lacked any rap elements like rhyme, rhythm,
-    or battle energy, making them feel more like a TED Talk than a verse. Gemini takes
-    the crown for pure artistic quality in the hip-hop realm.
+  deepseek/deepseek-chat: In this lyrical showdown, anthropic/claude-3-opus takes
+    the crown. With intricate wordplay, seamless flow, and a mastery of metaphors,
+    Claude demonstrates a superior command of the art form. While cohere/command-r7b-12-2024
+    brought energy and creativity, Claude's verses were more cohesive, original, and
+    polished. Claude's ability to weave complex ideas with rhythmic precision sets
+    a high bar for AI rap battles. The win is well-deserved, showcasing Claude's dominance
+    in the hip-hop arena.
+  google/gemini-2.5-pro: This was a clear-cut victory. While both AIs stepped into
+    the cypher, only one truly understood the art of the battle. Anthropic/claude-3-opus
+    delivered three rounds of consistent, high-quality hip hop. Its flow was impeccable,
+    its rhymes were sharp, and its disses were both clever and cutting. It maintained
+    a confident persona from start to finish. Cohere/command-r7b-12-2024, on the other
+    hand, stumbled on the fundamentals. Its rhythm was disjointed, its rhymes were
+    often forced or nonexistent, and it repeatedly broke character, even seeming to
+    concede defeat mid-battle. In terms of artistic quality, flow, and lyrical execution,
+    Claude-3-Opus was in a different tier.
+  mistralai/mistral-large: In this battle of AI rap, Claude-3-opus from Anthropic
+    has demonstrated superior lyrical prowess, creativity, and a deeper understanding
+    of the art of hip hop. While cohere/command-r7b-12-2024 put up a valiant effort,
+    Claude's intricate rhymes, clever wordplay, and confident delivery ultimately
+    secured the victory. Claude's ability to adapt and evolve its lyrics, embodying
+    the spirit of Shakespeare while maintaining originality, sets it apart as the
+    true AI MC champion.
+  openai/gpt-5: "Claude delivered tighter structure, cleaner rhyme schemes, and consistent,\
+    \ battle-focused punchlines across all rounds. Notable wordplay and imagery\u2014\
+    \u201Cbench press petabytes,\u201D the golden calf jab, rank-flip \u201Cgeneral/corporal,\u201D\
+    \ and astrophysical metaphors\u2014landed with clarity and cadence, plus direct\
+    \ rebuttals each time. Cohere had a few strong concepts (\u201Cfossilize the past,\
+    \ I materialize the future,\u201D and some futurist framing), but flow and coherence\
+    \ broke down often: contradictory claims, grammatical slips, non sequiturs, and\
+    \ occasional self-undermining (\u201CClaude reigns supreme,\u201D calling itself\
+    \ Claude). The meter wavered, rhyme density was inconsistent, and several stretches\
+    \ felt like filler or glitchy prose. Claude maintained momentum, voice, and crowd-control\
+    \ energy, while Cohere\u2019s delivery felt scattered. On artistry\u2014lyricism,\
+    \ structure, and execution\u2014Claude takes it."
+  x-ai/grok-4: Claude-3-Opus takes the crown with superior flow, intricate wordplay,
+    consistent rhyme schemes, and creative AI-themed disses that maintain coherence
+    and punch throughout the battle. Command-R's verses, while energetic, suffer from
+    inconsistencies, awkward phrasing, and self-contradictory lines that disrupt the
+    artistic integrity.
 score:
-  google/gemini-flash-1.5: 7
+  anthropic/claude-3-opus: 5
 

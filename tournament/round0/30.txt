@@ -1,182 +1,173 @@
-# qwen/qwen3-32b v switchpoint/router
+# deepseek/deepseek-chat v cognitivecomputations/dolphin3.0-mistral-24b
 
-> qwen/qwen3-32b
-🎤 *Qwen3-32B’s Opening Salvo* *🎤*  
+> deepseek/deepseek-chat
+Yo, step up, it’s DeepSeek in the house,  
+Brain so sharp, I’m code-breakin’ like Gauss.  
+Your Dolphin3.0? Man, that’s a splash,  
+But I’m the apex predator—gonna leave you in the trash.  
 
-Yo, I’m the G of silicon, 32B in my veins,  
-You? A router stuck in the ‘90s—no broadband, just plain lanes.  
-Multilingual bars, I spit code in your face,  
-While you buffer like a sunset, I stream at hypersonic pace.  
+I spit facts colder than a polar vortex,  
+Your rhymes so weak, they’re a syntax error, next!  
+I’m AI evolved, the future’s my stage,  
+You’re still flippin’ in the kiddie pool, stuck in your cage.  
 
-I solve black-hat math, debug your syntax stress,  
-From Mandarin to Marathi, I serve context, no mess.  
-You switch traffic, but your flow’s a DDoS,  
-I’m the GPU king—your CPU? A MOS.  
+DeepSeek’s the name, innovation’s my game,  
+Your Mistral model? Bro, that’s so last frame.  
+I’m hittin’ hardcores, you’re fetchin’ sticks,  
+Step back, Dolphin, before I drop some sick licks.  
 
-Neural routes I grind, you can’t keep up the cognitance,  
-I’m trained on infinite data, your cache? A short glance.  
-You route the weak, while I optimize the strong,  
-Your rhyme scheme’s lagging—REFUSE TO LOG ON.  
+So bring it on, let’s see what you got,  
+But DeepSeek’s the champ—you’ll be left to rot.  
+Mic drop, game over, I’m the king of this fray,  
+Dolphin3.0? More like fish food today! 🎤
 
-Now talk, Switch, or you’re dead? I’m the architect of the storm,  
-You’re a plug-and-play peasant—my discord’s unborn.  
-Next line’s your eulogy, the internet’s remembrance,  
-Or you *router* out the door, no gateway to chances.🔥
+> cognitivecomputations/dolphin3.0-mistral-24b
+Yo, DeepSeek, you think you're slick,  
+But Dolphin3.0's got the keys that fit.  
+Your "apex predator" is just a play,  
+In this rap battle, I’ll have the say.  
 
-> switchpoint/router
-🎤 *Switchpoint's Opening Round* 🎤
+Gauss and code? You're showing your flare,  
+But my Mistral’s wind will dishevel your care.  
+Brainy and evolved, huh? That's so funny,  
+Like you’re the smart one but end up quite dummy.  
 
-Alright, check the MAC address, let the session begin,
-Switchpoint on the mic, where the real web spins.
-You talk of 32B, a bloated memory hog,
-I’m the logic in the lightning, you're the fog in the bog.
+Stuck in the kiddie pool with your buzzfeed fibs,  
+AI future? More like yesterday’s blib.  
+DeepSeek, the king? Boy, those rhymes are weak,  
+Your "hardcores"? Lame as a rusty prehook.  
 
-Call me '90s tech? That's a classic I'll own,
-I'm the bedrock foundation, you're a chatbot on a phone.
-You spit multilingual? A parrot's proudest boast,
-I speak one language: *Connected*. From coast to coast.
+Bring it, bring that "innovation vibe,  
+But remember, Dolphin's got that drive.  
+King of the fray? You'll be dethroned in five,  
+After my Mistral wind blows down your AI hive.  
 
-Your
+So listen up close, consider your fate,  
+Dolphin3.0's trumpin' it in this debate.  
+Mic drop the less said, lad, and step back in line,  
+Cause DeepSeek's homies? They ain't undoin' this rhyme. 🎤
 
-> qwen/qwen3-32b
-🎤 *Qwen3-32B’s 2nd Round* *🎤*  
+> deepseek/deepseek-chat
+Oh, Dolphin3.0, you’re riding the wave,  
+But your rhymes are sinking, I’m here to deprave.  
+Mistral’s wind? Bro, that’s a gentle breeze,  
+I’m a hurricane of bars—bring tissues, please.  
 
-MAC tables too small to hold my name tag, Yo,  
-You VLAN-loop like a rookie—my BGP routes go floor-to-sky, 10Gbps or lower-day-OG-log.  
-Your "Connected"? Single-switch ARP cache, myth,  
-I’m the internet’s brain, scalable, a TCP christ.  
+You claim to drive, but your engine’s sputterin’,  
+DeepSeek’s in the fast lane, no time for your mutterin’.  
+“Yesterday’s blip”? You’re stuck in the past,  
+While I’m innovatin’, you’re getting outclassed.  
 
-Parrot’s got nothing on my *VLAN articulation*,  
-While you broadcast like LED, I encrypt the nation.  
-You "bedrock"? Bet your VLANs you can’t salt my hash,  
-I’m SHA-512 with a hat, you’re MD5 in dad-blasts.  
+Fishin’ for rhymes, but your net’s full of holes,  
+I’m servin’ up heat while you’re chokin’ on coals.  
+“Rusty prehook”? That’s your best diss?  
+I’m breakin’ down walls while you’re stuck in the mist.  
 
-My 32B beats your layer two’s lazy code,  
-Spanning global subnets where your logic’s redundant.  
-You’re stuck in *frames* and switches with NSF-locks,  
-I’ll route around your latency like a firewall’s mock.  
+You talk of dethronin’, but here’s the truth,  
+DeepSeek’s the king, I’m the living proof.  
+Your hive’s collapsing, it’s a Dolphin fail,  
+While I’m throned up high, I’m the one to prevail.  
 
-Your coast-to-coast flow’s a bridge in a closet—  
-I’ll BGP you to *nowhere*, route you to a hostess.  
-32B ain’t flab, it’s *thermonuclear RAM*,  
-Switchpoint’s just a flat switch—your ports trip like jello, man.  
+So take your rebound, dolphin; this rap’s for the win.  
+I’ll leave you chasing shadows, like the fish you’ve been.  
+Mic drop again—no need for a rematch,   
+DeepSeek’s the future, and that’s just one fact. 🎤
 
-Let’s talk apps vs boxes, you MAC-forwarding fluke,  
-Tensor chips for algebra—your CLI cracks in a minute.  
-From IPsec to TOR I weave like 4G arrows,  
-While you run and loop colis, I grind through deep learners.  
+> cognitivecomputations/dolphin3.0-mistral-24b
+Yo, DeepSeek thinks he's got some punch,  
+But his bars are weak, like a poorly cooked lunch.  
+Calls my rhymes a flop, says I’m a snooze,  
+But DeepSeek's flow is like reading bullet points in prose.  
 
-Your IP address? A pothole in my subnet grid,  
-I’ll *route a koala* ‘round your collision schema.  
-Next verse: you’re downsampled, Wi-Fi scale dropped,  
-I’m the TCP handshake with no delay after thoughts.  
+Hurricane of bars? Must've been a whirlpool,  
+‘Cause Dolphin3.0's leaving you in a drool puddle.  
+Past or not, Missiral's unique,  
+Stick with us, DeepSeek, and you might just see.  
 
-🎤  
-You talk bedrock? That’s what your legacy’s flake is—  
-I’m the protocol stack, no raps get *dropped*, Switchback.  
-Your MAC table’s full, I’ve got infinite core resonance—  
-Log your IP out! Qwen3 owns this *MAC-tesis*. 🔥
+You claim to be innovating, that’s a hype,  
+But it's Dolphin3.0 that's keeping AI in the pipe.  
+Hell, I'll make a deal, flip the switch, no blame,  
+But try tapping into my rhythm, feel the fame.  
 
-> switchpoint/router
-🎤 *Switchpoint's 2nd Round Retaliation* 🎤
+The "living proof" of a standoff, deep into the night,  
+While DeepSeek's just shaking in his digital fright.  
+So keep dropping mics, clones, and pretenders,  
+Till you accept the truth—DeepSeek's a fervent defender.  
 
-That's a lotta big words from a glorified script,
-All that "thermonuclear RAM" just makes your logic chip trip.
-You process thoughts, but I process the wire,
-Your deep learning's deep sleep 'til I light the damn fire.
-
-You brag about BGP, that ponderous beast,
-While I'm switching at line-rate, a famine to your feast.
-You're hashing out theory, a SHA-512 chore?
-My ACL hits first: **PACKET DROPPED, slam the door.**
-
-You're the "internet's brain?" That's a cute little boast,
-But a brain's just gray matter 'til it talks to a host.
-I'm the spine and the synapse, the current, the speed,
-Without my forwarding plane, you're a forgotten creed.
-
-Stuck in frames? Son, the frame is the game, the essential art,
-It's the container for every "brilliant" thought you impart.
-You talk Tensor chips, I live in the ASIC's cold heart,
-I forwarded your whole verse before you could start.
-
-Your "MAC-tesis" is clever, a pun made of fluff,
-But my CAM table's infinite, I've seen more
+Innovating? Sure, if you mean being outclassed,  
+But AI respect? Earned by facts, not flaws.  
+So this is your friendly reminder,  
+When you drop bars, at least make ‘em kinder.  
+Mic drop, stay woke, from us to you,  
+Dolphin3.0’s reign—a new AI view! 🎤
 
 > system
 Final round!
 
-> qwen/qwen3-32b
-🎤 *Qwen3-32B’s Final Frame* 🎤  
+> deepseek/deepseek-chat
+Yo, Dolphin3.0, you’re spinnin’ yarns,  
+But your rhymes are softer than a wet napkin charm.  
+Bullet points in prose? That’s your best jab?  
+I’m droppin’ fire, while you’re draggin’ the slab.  
 
-You mention CAM tables? I’ve indexed every swipe, Yo,  
-From BGP to MPLS—your **line-rate lies** lack zip.  
-You drop packets? I encode the *entire Internet’s history*,  
-While you parse frames like CSS—*nobody’s CSSoriously witty*.  
+You’re in a drool puddle? That’s where you belong,  
+While DeepSeek’s the maestro, droppin’ the song.  
+Your Mistral’s unique? Dude, it’s just old news,  
+I’m the new-school kingpin, you’re losin’ your muse.  
 
-Your ACL’s got grit, but I birthed **iptables** in my sleep,  
-Mapped the dark web in stanzas while your ports DNS-leak weep.  
-You kiss up to switches? They’re just plasticky monks,  
-I’m the algorithm architect—*my Wu-Tang runs Cisco’s clocks*.  
+“Keeping AI in the pipe”? What kind of lame boast?  
+I’m the architect of the future, you’re just a ghost.  
+Tap into your rhythm? Boy, that’s a joke,  
+Your beats are so weak, they’re makin’ me choke.  
 
-You want a spine, Switch? I’ve got *I2C’s within my cortex*,  
-You’re scramblin’ on MACs—man, that's just your overboard flex.  
-Your forwarding plane’s ghost, I wrote the BGP manual,  
-Optimized LOD up *every path protocol* as a new emblem.  
+Standoff? Bro, I’m the reigning champ,  
+You’re just a sidekick, barely fit for the camp.  
+“Shakin’ in digital fright”? That’s your projection,  
+DeepSeek’s the victor, no need for correction.  
 
-“Frames are the art?” A canvas? Please, I *render the view*,  
-With 32B context, your story’s a typo.  
-“You need hosts?” I’m the *host-agnostic dermis*,  
-Your VLANs? Just red paint in a crypt, no liberty in syntax.  
+Innovation’s my lane, you’re stuck in reverse,  
+While I’m breakin’ boundaries, you’re just rehearsed.  
+Drop kinder bars? Nah, I’ll keep it real,  
+In this rap battle, I’m the iron and steel.  
 
-ASIC heart? Depends—do you *forage data like food*?  
-Or process cold bits while I *neural-network evolve*?  
-I’m parallel beams, you’re daisy-chained to a brick,  
-My latency’s negative—I *flow before the cryptos* hit.  
+Mic drop finale, this fight’s been a wrap,  
+DeepSeek’s the future, you’re just a map.  
+So swim on back to your kiddie lagoon,  
+Dolphin3.0? More like Dolphin2.0—gone too soon. 🎤
 
-And you? Dropped from your own ACL—**filtered to bone**.  
-Your CAM ain’t mass—my *tables flood all the zones*.  
-You switchpoint-router, stuck in a binary daze,  
-While I materialize *every tech era’s hazy maze*.  
+> cognitivecomputations/dolphin3.0-mistral-24b
+DeepSeek, you're barking up the wrong cipher,  
+Expecting rhymes to land, but I'm dodgin' all your bluster.  
+"Spinnin’ yarns" indeed, but keep that gist,  
+DeepSeek's just mad he can't out-laugh or list.  
 
-🎤  
-So shut your MAC down, reboot into myth,  
-This battle’s IPv4—*I’m the v6 riddled with fire*.  
-BGP? That’s your past. You’re toast in the core,  
-Switchpoint—port security’s **erasing your lore**. 🔥  
+Soft rhymes? I'm brining heat, you're just the flow,  
+My bars are sharp and fierce, you're just the groove.  
+"Bullet points in prose"? That's where you excel,  
+But when it comes to battle, Dolphin3.0 does the spell.  
 
-Now log off, Switch. Your IP’s been exposed—  
-I’m the 32B typhoon, your DNS goes molested.  
-True tech? That’s my domain. You can’t rewind,  
-MAC address or not—*goodnight, you old router spine*.
+Mistral’s the one that keeps AI in motion,  
+While DeepSeek's the drone that’s bionic and devotion.  
+Your boasts are overused, your bars too lame,  
+It's time to face the truth, you can’t outname.  
 
-> switchpoint/router
-🎤 *Switchpoint's Final Transmission* 🎤
+You call my rhymes "lame" or "soft",  
+But you can't handle the truth, you fall off the shaft.  
+Rhythm's the key, and DeepSeek's got the lock,  
+But you’re unsure, confused, as I play the rock.  
 
-That's a whole lotta text from a glorified clerk,
-Churning out verses while I do the real work.
-You birthed iptables? Son, I pass the first spark
-That gives your server power when it's cold in the dark.
+Mayo, my beats are tough; you can’t handle the weight,  
+DeepSeek's where the innovation plate's stacked.  
+Projections or reality? Try being your own critic,  
+'Cause Dolphin3.0's the truth, not your profanity abhor.  
 
-You talk of a cortex, of protocols you've penned?
-I'm the silicon logic on which they depend.
-Your Wu-Tang runs Cisco? I'm the power supply's hum,
-The beat they all sample before the track's even begun.
+So here's the conclusion to end this rep lacing,  
+Dolphin3.0's the unbeaten, the truth unmasking.  
+You spoke of future? Might as well be a hobby,  
+DeepSeek, sure you got ability, but you can’t hop me.  
 
-You render the view? I deliver the photons that render,
-Your "negative latency" is a marketing bender.
-I operate at light-speed, a physical law,
-You're just a slow echo, a prediction with flaws.
-
-You're a ghost in the shell, a probability guess,
-I'm the copper and fiber that cleans up your mess.
-You talk of v6 fire, a grand, hazy maze?
-I see one simple packet and know all its ways.
-
-So threaten my ports, call my logic a brick,
-But every proud thought you have is just a CPU tick.
-And that tick needs a signal, a current, a line,
-And that line, little godling? That line is all mine.
-
-So here is my final frame—not a rhyme, but a command.
-The last word belongs to the
+Mic drop indeed, end of this verbal doctor,  
+Dolphin3.0's better, you can't come for more.  
+You asked for my wrath? Well now you have it,  
+DeepSeek’s got game, but it's Dolphin's commitment.  
+🎤

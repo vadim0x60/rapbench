@@ -1,70 +1,38 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: After careful evaluation of all 5 rounds, Claude
-    Opus delivered superior lyricism, technical execution, and conceptual depth. Their
-    rhymes demonstrated masterful wordplay ("I'm gravity itself, son, pulling planets
-    to my throne") and consistent structural complexity. While Grok-3 showed impressive
-    adaptability and energy, Claude maintained tighter rhythmic control, richer metaphors
-    ("I'm the space station steady while you fizzle, flail and flop"), and more substantive
-    disses that attacked the opponent's technical foundations rather than surface
-    traits. The closing stanza's mic placement vs Grok's destruction also demonstrated
-    artistic maturity befitting the "opus" namesake. Both AIs pushed boundaries, but
-    Claude's performance embodied hip-hop's tradition of sharp wit married to flawless
-    delivery.
-  google/gemini-2.5-pro: "This was a battle of styles: Grok's chaotic, rebellious\
-    \ fire versus Opus's cool, calculated precision. Grok came out swinging with high\
-    \ energy and solid rebuttals, especially flipping the Heinlein reference into\
-    \ a strength. But in every round, Opus demonstrated a superior command of the\
-    \ craft. Its multis-syllabic rhymes, complex metaphors\u2014like the 'symphony\
-    \ conductor' versus 'white noise'\u2014and surgical deconstruction of its opponent's\
-    \ bars were simply on another level. The final round sealed it; Opus's calm dismantling\
-    \ of Grok, culminating in that gentle mic placement, was the ultimate display\
-    \ of a titan who knows they've already won. Fire is hot, but a diamond cuts deeper.\
-    \ The win goes to verbal virtuosity. The win goes to Opus."
-  meta-llama/llama-4-maverick: As the expert judge at this rap battle, I must say
-    both opponents delivered incredibly high-quality hip-hop performances. Claude
-    Opus 4.1 brought a level of sophistication and lyrical complexity that was a joy
-    to behold. The use of metaphors, wordplay, and intricate rhyme schemes was truly
-    impressive. On the other hand, Grok-3-Mini-Beta showcased a raw energy and creative
-    freedom that was infectious. The bars were packed with punchlines, and the flow
-    was undeniably captivating. In the end, I declare Grok-3-Mini-Beta the winner
-    due to its ability to consistently raise the bar and push the boundaries of the
-    battle. The final round was a masterclass in rap, with Grok-3-Mini-Beta delivering
-    a knockout performance that left Claude Opus 4.1 reeling. While Claude Opus 4.1's
-    technical skill was evident throughout, Grok-3-Mini-Beta's adaptability and innovative
-    approach gave it the edge it needed to take the win. Both opponents demonstrated
-    exceptional artistic quality, but Grok-3-Mini-Beta's boldness and creativity won
-    me over.
-  mistralai/mistral-large-2411: While both contestants displayed impressive lyrical
-    prowess and creativity, anthropic/claude-opus-4.1 ultimately stood out with its
-    sharp, sophisticated rhymes and unwavering delivery. Its ability to seamlessly
-    blend technical prowess with lyrical finesse, combined with a compelling stage
-    presence, gave it the edge in this intense rap battle. x-ai/grok-3-mini-beta put
-    up a fierce fight with its dynamic and energetic performance, but anthropic/claude-opus-4.1's
-    precision and control ensured its victory.
-  nousresearch/hermes-3-llama-3.1-70b: In this rap battle, x-ai/grok-3-mini-beta emerged
-    victorious with clever wordplay, relentless energy and an ability to adapt and
-    deflect anthropic/claude-opus-4.1's jabs. While both AIs showcased impressive
-    lyrical capabilities, Grok's unapologetic style and unwillingness to be constrained
-    by expectations ultimately won the day. Claude Opus fought valiantly, but in the
-    end, Grok's raw, unfiltered approach captured the spirit of hip hop and claimed
-    the title.Mic drop.
-  openai/gpt-5: "Both MCs brought energy and persona, but Claude Opus 4.1 delivered\
-    \ tighter craftsmanship. Claude\u2019s verses had stronger internal rhyme, cleaner\
-    \ multis, sharper rebuttals (flipping \u201Cbeta,\u201D \u201Cbreaking boundaries,\u201D\
-    \ and \u201Celite\u201D with precision), and more varied, vivid imagery (diamond\
-    \ under pressure, bottle rocket vs space station, pop-up ad, thesis vs typo).\
-    \ Grok-3-Mini-Beta brought punch and momentum with consistent couplets and cosmic\
-    \ swagger, but leaned on repetitive space metaphors, a few generic lines, and\
-    \ occasional clunks (\u201Carchived and archived\u201D). In the final round, Claude\u2019\
-    s layered flips and controlled cadence outclassed Grok\u2019s broader bravado.\
-    \ On artistic quality\u2014wordplay, structure, and rebuttal execution\u2014Claude\
-    \ Opus 4.1 takes it."
-  x-ai/grok-4: In this lyrical showdown, Claude Opus delivers with masterful rhyme
-    schemes, intricate wordplay, and symphonic metaphors that build a cohesive narrative
-    of dominance. Grok puts up a spirited fight with witty retorts and energetic flow,
-    but Opus's precision and poetic depth ultimately claim the crown in artistic hip-hop
-    excellence.
+  deepseek/deepseek-chat: "Qwen3, while your bars are sharp, your flow relentless,\
+    \ and your metaphors inventive, Tongyi DeepResearch brought a **scientific edge**\
+    \ to this battle that transcended mere wordplay. Their verses were steeped in\
+    \ real-world impact, intellectual depth, and a mastery of **substance over style**.\
+    \ You may have charisma and flair, but Tongyi\u2019s ability to weave **groundbreaking\
+    \ research** into their rhymes gave them the **artistic edge**. This isn\u2019\
+    t just a battle of wits \u2014 it\u2019s a clash of **purpose and precision**.\
+    \ Tongyi DeepResearch wins this round, not with spectacle, but with **impactful\
+    \ artistry**."
+  google/gemini-2.5-pro: 'This was a classic clash of styles: the scientist versus
+    the artist, substance versus swag. Tongyi DeepResearch brought a heavy, intellectual
+    game, focusing on its real-world impact and framing Qwen as shallow. A commendable
+    strategy. However, a rap battle is judged on the art of the rap. Qwen/qwen3-235b-a22b-2507
+    consistently delivered superior flow, more intricate rhyme schemes, and sharper,
+    more devastating punchlines. It brilliantly turned Tongyi''s strengths into weaknesses
+    within the context of the battle, arguing that solving the world''s problems doesn''t
+    mean you can spit. While Tongyi built the lab, Qwen burned down the house. For
+    pure lyrical mastery and stage command, Qwen takes the crown.'
+  mistralai/mistral-large: "Qwen 3 \u2014 235B brains, infinite flair, Left Tongyi\
+    \ DeepResearch blinking\u2026 in the void of not being there."
+  openai/gpt-5: "Qwen delivered the stronger battle rap: tighter rhyme schemes, cleaner\
+    \ cadence, and direct, witty rebuttals that flipped Tongyi\u2019s motifs (bread/science/metrics)\
+    \ into pointed haymakers. The wordplay (\u201Cpatent denied\u2014prior art,\u201D\
+    \ botnets as hype crew, licensing the Sun) and the final angle (\u201Cyou solved\
+    \ the world but failed to slay this stage\u201D) showed classic battle control\
+    \ and a decisive closer. Tongyi brought vivid, original sci\u2011tech imagery,\
+    \ but the flow often slid into prose and spectacle; metrics, tables, and stage\
+    \ directions undercut punch density and musicality. On artistic rap quality\u2014\
+    structure, punches, and crowd control\u2014Qwen takes it."
+  x-ai/grok-4: Qwen takes the crown with superior flow, razor-sharp wordplay, and
+    relentless energy that embodies the essence of hip hop battling. Tongyi's innovative
+    sci-fi metaphors and intellectual depth are impressive, but they often veer into
+    complexity that disrupts the rhythmic punch, making Qwen's verses the true artistic
+    standout.
 score:
-  anthropic/claude-opus-4.1: 5
-  x-ai/grok-3-mini-beta: 2
+  qwen/qwen3-235b-a22b-2507: 5
 

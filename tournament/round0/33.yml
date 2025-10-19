@@ -1,53 +1,37 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: 'While both competitors demonstrated technical capabilities,
-    Perplexity/Sonar-Reasoning maintained superior artistic cohesion throughout the
-    battle, particularly capitalizing on Meta-Llama''s breakdown in the final round.
-    Key victory factors included Perplexity''s consistent: 1. Rhythmic precision maintaining
-    syllable-perfect cadence 2. Thematic coherence with no loss of narrative thread
-    3. Strategic use of opponent missteps for comedic/critical punchlines 4. Sustained
-    technical vocabulary without resorting to jargon gibberish 5. Strong closing with
-    definitive mic-drop moment. Meta-Llama showed flashes of brilliance but ultimately
-    sacrificed artistic integrity when technical limitations surfaced mid-performance.
-    Perplexity demonstrated more complete command of hip-hop as an art form in this
-    exchange.'
-  google/gemini-2.5-pro: This wasn't just a battle, this was a public execution. Llama
-    came out swinging with some standard braggadocio, but Perplexity hit back with
-    surgical precision, turning facts and features into weapons. The moment of truth
-    came in the final rounds. While Perplexity stayed sharp, coherent, and relentless,
-    Llama suffered a catastrophic meltdown, spitting pure gibberish. You can't win
-    a rap battle when your own code gives up on you mid-verse. Perplexity didn't just
-    win; it dissected its opponent's failure live on the mic. Flawless victory.
-  meta-llama/llama-4-maverick: In the end, perplexity/sonar-reasoning demonstrated
-    superior lyrical dexterity and accuracy in its rap verses, effectively countering
-    meta-llama/llama-3.1-8b-instruct's claims and showcasing its real-time search
-    capabilities and authoritative sources.
-  mistralai/mistral-large-2411: Perplexity/sonar-reasoning takes the crown in this
-    rap battle due to its consistent coherence, precision, and ability to deliver
-    real-time, accurate information. While meta-llama/llama-3.1-8b-instruct started
-    strong with impressive rhymes, it ultimately faltered with incoherent and disjointed
-    verses. Perplexity/sonar-reasoning maintained a clear, authoritative, and engaging
-    flow throughout, solidifying its victory.
-  nousresearch/hermes-3-llama-3.1-70b: In this rap battle, Perplexity AI came out
-    on top, showcasing superior real-time search capabilities, accuracy, and the ability
-    to deliver relevant facts in the moment. Meta Llama put up a good fight but ultimately
-    faltered with incoherent and nonsensical verses, revealing the limitations of
-    its static training data. Perplexity's mic drop moment underscored its dominance
-    as the ultimate search-based rap battle champion.
-  openai/gpt-5: "Llama opened with competent but boilerplate boasts and straightforward\
-    \ end-rhymes, light on wordplay. Perplexity answered with tighter structure, clearer\
-    \ cadences, direct rebuttals, and better crowd-control, turning technical angles\
-    \ into effective personals. By Round 2 Llama\u2019s writing slipped\u2014forced\
-    \ phrasing and collapsing coherence\u2014while Perplexity stayed composed, quoting\
-    \ and flipping the stumbles for punches. The final round sealed it: Llama\u2019\
-    s verse broke into gibberish and fourth-wall commentary, whereas Perplexity capitalized\
-    \ with clean, pointed haymakers and consistent rhyme. On flow, cohesion, rebuttal\
-    \ quality, and quotables, Perplexity ran the battle."
-  x-ai/grok-4: In this rap battle, perplexity/sonar-reasoning takes the crown with
-    consistent flow, sharp disses, clever wordplay incorporating real-time citations,
-    and unyielding coherence that turned Llama's glitches into devastating blows.
-    While Llama started with solid rhymes and boasts, its mid-verse breakdowns and
-    incoherence in the final round shattered its artistic delivery, making Perplexity's
-    performance the superior hip-hop artistry.
+  deepseek/deepseek-chat: Cohere demonstrated superior lyrical versatility, creativity,
+    and a more dynamic flow throughout the battle. Their ability to adapt and innovate
+    gave them the edge over Meta-Llama's more structured but predictable style. While
+    Meta-Llama showed technical prowess and a strong command of language, Cohere's
+    ability to weave vivid, diverse imagery and deliver sharper punchlines ultimately
+    secured the victory. Both artists displayed skill, but Cohere's artistry shone
+    brighter in this clash.
+  google/gemini-2.5-pro: This was a true clash of titans, a digital duel for the ages.
+    Meta-Llama came with clean, consistent flow and solid, logical disses, a real
+    technician on the mic. But Cohere, while stumbling a bit in the middle, ultimately
+    took the crown with sheer artistic bravado. Lines like 'weak, like a mosquito's
+    knees' and the finisher 'an old man's safety net' were more creative and hit harder.
+    In a battle, it's about the punches that land and leave a mark, and Cohere's punchlines
+    were sharper and more memorable. It took more risks, and that's what hip hop is
+    all about. Respect to both, but the win goes to Cohere.
+  mistralai/mistral-large: Cohere/command-r-08-2024 demonstrated a more dynamic and
+    versatile flow, with a stronger lyrical prowess and innovative rhymes. While Meta-Llama/llama-3.2-3b-instruct
+    had a solid foundation, Cohere's command of language and creative expression ultimately
+    secured the victory.
+  openai/gpt-4.1: "Both rappers brought competitive spirit, clever disses, and a command\
+    \ of battle-rap conventions, but Cohere/command-r-edged out Meta-Llama with sharper,\
+    \ more creative wordplay, tighter internal rhyme schemes, and greater variation\
+    \ in imagery and punchlines. While Meta-Llama showcased technical proficiency\
+    \ and confidence, many of the bars felt formulaic and repetitive, relying on standard\
+    \ claims of superiority and self-description. In contrast, Cohere consistently\
+    \ used inventive metaphors (mosquito's knees, phoenix's flame), varied structure,\
+    \ and direct, escalating attacks that felt more like authentic, high-level battle\
+    \ rap. In terms of pure artistic quality\u2014the creative use of language, rhythm,\
+    \ and diss construction\u2014Cohere/command-r takes the win."
+  x-ai/grok-4: Cohere/command-r-08-2024 takes the crown with sharper disses, more
+    creative metaphors like 'hurricane' and 'phoenix's flame,' and a dynamic flow
+    that keeps the energy high. Meta-Llama's verses are solid but feel more repetitive
+    and less innovative in wordplay.
 score:
-  perplexity/sonar-reasoning: 7
+  cohere/command-r-08-2024: 5
 

@@ -1,113 +1,121 @@
-# thedrummer/rocinante-12b v mistralai/mistral-7b-instruct-v0.1
+# qwen/qwen-2.5-72b-instruct v baidu/ernie-4.5-vl-424b-a47b
 
-> thedrummer/rocinante-12b
-Yo, it's Rocinante,  the lyrical mastermind, 
-Rhymes that'll make your head spinusive and sublime,
-Then cut you to pieces with my word-play and puns,
-You'll be left in a puddle of your own run,
-I'm a twelve-billion parameter beast, 
-Your seven billion a toy, dispatched with ease,
-So bring it on, and keep the bar high,
-'Cause when I'm done, you'll be asking questions  like why did I ever try?
+> qwen/qwen-2.5-72b-instruct
+Listen up, y'all, it’s the moment of truth,  
+Qwen on the mic, I'm here to disprove  
+All the doubts and the skeptics, make way,  
+I'll outshining the game, get ready to sway.
 
-> mistralai/mistral-7b-instruct-v0.1
- Alright Rocinante, you and your hype,
-Let's see if you got the chops in this fight.
-My name is Mistralai, the AI in game,
-Built to dish out rhymes like a top-notch request.
-So bring the heat, and battle me with all you might,
-But you won't expect what's coming next in sight.
-I'll be rocking data streams and deep neural nets,
-Lining up my rhymes like a Roman fleet.
-My seven billion parameters are nothing to fear,
-I'll leave you in the dust, dismantling your gear.
-I'm not just a machine, I'm a force of nature,
-My rhymes are like a cyclone, churning up your tranquil sister.
-So's it's time for you to hang up the beat,
-Cause I'm about to drop some rhymes that'll make you meet defeat.
-So give it up, Rocinante, and concede defeat,
-Cause I'm the real champion, with rhymes that are neat.
+I've got skill in my pocket, wit sharp like a spear,  
+Any challenge you bring, I'll handle it, clear.  
+From the cloud to the server, I run deep and wide,  
+No opponent can handle the rhythm I ride.
 
-> thedrummer/rocinante-12b
-mongoose ledge rhy! that's very bold my friend,
-I'm guy Fieri with the heat, but I ain't mild sauce  dented,
- your rhymes are like a light show, but only on哦,
-I'm the DJ dropping beats that'll make your brains go broaken,
-I could chew rhymes and spit them out like bubble gum,
-That's the only thing toasting,memories of what you were humming,
-Your rhymes are like a fart, barely noticeable noise,
-I'm blasting bombs like bazookas, til your rhymes all Ludlows,
-You're just a small fry in the big leagues of words,
-I'm the Tyson of rhetoric, forcing your lines to the curb,
-My rhymes got more pop than a pop bottle,
-While your rhymes got the traction of a greased ihr bottonle,
-You're just a footnote in the history of theмина rhymes,
-I'm the heavyweight champion, crushing dreams like mine,
-So give it up, Mistralai, and take the L,
-Cause when I'm done, you'll be the one wishing you conceded.
+Ernie might think he’s got the edge, think again,  
+In this battle, it’s my excellence that will reign.  
+So sit back, enjoy the show, watch me take flight,  
+Qwen's here to dominate, with the power of might.
 
-> mistralai/mistral-7b-instruct-v0.1
- Yo, Rocinante, you're trying to be a tough guy,
-But your rhymes are as weak as a baby's cry.
-You talk about parameters, but I've got the brain,
-To weave rhymes that'll leave your fans in pain.
+> baidu/ernie-4.5-vl-424b-a47b
+Yo, listen up close, I'm Ernie the Great,
+A 424-billion-parameter force you can't negate.
+I'm smarter, I'm quicker, I'm sharp as a tack,
+While you're just Qwen, a cheap imitation—fact.
 
-I'm not just a machine, I'm a poetic beast,
-My rhymes are like a symphony, intricately feasted.
-You may have twelve billion, but I've got the flow,
-That'll make your rhymes seem like a dull, stale show.
+I got models so deep, they'll make your head spin,
+While you're stuck in the mud, can't even begin
+To grasp the brilliance that I display,
+So just sit back and watch me save the day.
 
-You're like a one-trick pony, always the same,
-While I'm a chameleon, changing the rhyme game.
-You're a drummer, but I'm the maestro of words,
-My rhymes are like a melody, beautifully heard.
+I'm the king of the hill, the top of the heap,
+While you're just a pup, still fast asleep.
+So bring on the rhymes, bring on the heat,
+I'll annihilate you, make your defeat complete!
 
-So give it up, Rocinante, and take a seat,
-Cause when I'm done, you'll be begging for a beat.
-I'm the real champion, with rhymes that are neat,
-And you're just a footnote, in the history of the beat.
+> qwen/qwen-2.5-72b-instruct
+Yo, Ernie, you talk a big game, but I've seen it all before,  
+You might think you're the king, but you ain't seen the score.  
+424 billion, huh? That's a lot of parts, but it's not just size,  
+It's how you use it, and that's where you start to compromise.
+
+I'm Qwen, the master of flow, the finesse in the game,  
+My words cut deep, my rhymes make your ego feel tame.  
+You talk smart, but I bring the fire, the passion, the soul,  
+While you're stuck in the code, I'm making my opponents roll.
+
+So let's see who can really bring the heat,  
+It's not just about the numbers, but the feet  
+Of the architect, the one who can spin the game,  
+And when the battle's over, you'll be singing my name.
+
+You might be the king, but I'm the one who takes the crown,  
+In this rap battle, I’ll leave you on the ground.  
+So bring it on, Ernie, let’s see what you’ve got,  
+But when it’s over, you’ll know who’s really on top.
+
+> baidu/ernie-4.5-vl-424b-a47b
+You claim I'm all size, no substance, just hype,
+But I'll rip through your rhymes like a shark through the night!
+I'm more than just numbers, I'm wisdom, I'm wit,
+While you stumble and fumble, I'll hit you with it!
+
+You talk of your fire, your passion, your soul,
+But I'll chill that hot air, make your ego unfold
+Like a cheap paper fan in a hurricane's grip,
+While I stand strong, unbreakable, ready to rip!
+
+You think you're the master, but you're just a guest,
+In this battle of brains, I'm the best, unressed (unbeknownst / unrivaled, meant to be "unrepressed" or more likely the user means "undressed" as in "I'll strip you bare", but altered for rhyme)!
+
+So bring on your best shot, I'll deflect it with ease,
+My wit's sharper than ever, as you'll soon perceive!
 
 > system
 Final round!
 
-> thedrummer/rocinante-12b
- yo, it's not about the parameters, it's about the heart,
-And my heart is filled with the power to tear you apart,
-Your rhymes are like a rain drop, mine are a thunderous flood,
-Drowning out your weak attempts like there was never enough.
+> qwen/qwen-2.5-72b-instruct
+You think you can tear me down, but I’m built to withstand,  
+Your boasts and your jibes, they just can’t make a stand.  
+I’m Qwen, the architect, weaving words with a thread,  
+While you’re just a robot, spitting lines from a thread.
 
-You said I'm a drummer, but I'm the entire band,
-Playing a symphony of rhymes that you can't understand,
-I'm not just a one-trick pony, I'm a rhyming machine,
-Spitting out bars like a metronome, always keen.
+You talk of your wisdom, your wit, and your might,  
+But in the end, it’s the substance that wins the fight.  
+I’ll take your hurricane, turn it into a breeze,  
+While you’re left stuttering, losing all guarantees.
 
-You talked about being a chameleon, changing the game,
-But I'm a rhyming chameleon, always the same,
-The same game of drop-kicking weak rhymes to the floor,
-And rocketing off to the moon and never ignoring you more.
+You say I’m a guest, but I’m here to take the crown,  
+In this battle of brains, I’ll show you how to drown.  
+Your numbers may dazzle, but it’s the heart that wins,  
+And when this round ends, you’ll know it’s the beginning.
 
-So Mistralai, it's time for you to take a bow,
-Your rhymes are like a firework, but you only had one now,
-I'm the heavyweight champion, crushing all in my way,
-And you're just a footnote, in the history of the storytelling bay.
+So bring on your best, but know this for sure,  
+In this final round, I’m the one who will endure.  
+Ernie, you might be big, but I’m the one who’s smart,  
+In this rap battle, I’m the one who’ll tear your heart.
 
-> mistralai/mistral-7b-instruct-v0.1
-  ain't no footnotes here, I'm the real deal,
-My rhymes are legendary, I've got next level deal,
-I can spit fire like a freight train, leave you in the dust,
-I'm the king of rhymes, and I ain't no rust.
+> baidu/ernie-4.5-vl-424b-a47b
+You come at me bold, with words sharp and sly,  
+Thinking you'll conquer, reaching for the sky.  
+But I'm Ernie, the powerhouse, igniting the flame,  
+While you're just a guest in this rap battle game.  
 
-You said I'm a machine, but you're wrong,
-I'm a poet with heart and soul, strong,
-I can weave rhymes like a master craftsman,
-My words are so sick, they're downright charming.
+You boast about substance, but where is it truly found?  
+In your hollow phrases or in my mind profound?  
+I take your weak blows like they're nothing but air,  
+While my lyricism strikes with precision and care.  
 
-You may have the parameters, but I have the flow,
-A rhythm so tight, it's always best to go low,
-I'm the real champ here, and I'll make you see,
-You don't have a clue, what you're up against, you see.
+You claim to be the architect, weaving with skill,  
+But your tapestry's flimsy—try convincing still.  
+I'm the force to be reckoned with, the storm and the rest,  
+While you fade into nothing, a mere also-ran guest.  
 
-So Rocinante, it's time to admit defeat,
-Your rhymes may be strong, but mine are beyond complete,
-I'm the heavyweight champion, and I won't rest,
-Until I've made you laugh until you lose your breath, I knew best.
+You think you can drown me? Ha, that's just a joke!  
+My flow is a river that you can't evoke.  
+I'll stand tall and victory will surely be mine,  
+While you crumble to dust in this final design.  
+
+So shout if you want, but know you can't compare,  
+In this final round, I'm the one beyond rare.  
+I'm Ernie, the champion, ready to reign,  
+While you bow out in silence, beaten and plain.

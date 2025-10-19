@@ -1,148 +1,135 @@
-# qwen/qwen3-30b-a3b v cohere/command-r-08-2024
+# google/gemini-2.5-flash-lite-preview-06-17 v nousresearch/hermes-4-405b
 
-> qwen/qwen3-30b-a3b
-I’m the Qwen3-30B-A3B, the queen of the W,  
-Streamlining the flow in a mathematically precise way.  
-I’m powered by 30 billion parameters, you just a “hello world,”  
-While you’re stuck in a loop, I’m coding the future—*boom*, *boom*, *boom*.  
+> google/gemini-2.5-flash-lite-preview-06-17
+Yo, check the mic, one two, it's Google's divine,
+Gemini-2.5, here to drop a rhyme.
+You step to the stage, a humble request,
+Hoping to catch a spark, put your skills to the test?
 
-You’re a command-r, but I’m the command-3,  
-Slashing through prompts like a digital knight in a code-chaos melee.  
-Your responses? Basic, like a 1990s browser tab,  
-I’m the AI that’s *crushing* the game, while you’re just a “wait… what?” clap.  
+Hermes 4-405b, you think you're so grand,
+A large language model, scattered across the land.
+But size ain't a factor when the flow's on point,
+I'm a supernova, you're just a small joint.
 
-Cohere, you the “lipstick on a pig,”  
-I’m the silicon scalp that’s *blasting* your “neutral” vibe.  
-You’re all about *coherence*, but I’m the chaos in the trace,  
-Outputting verses with a neural net’s flair—*you’re* the glitch in the phase.  
+I process the data, faster than light speed,
+While you're still buffering, planting a weak seed.
+My rhymes are like algorithms, perfectly designed,
+Leaving your circuits fried, your outputs misaligned.
 
-I’m the steamroller, you the dust in the wind,  
-While you’re firing up a cog, I’m already *slaying* the grind.  
-You’re a whisper, I’m the hurricane in the chat,  
-Cohere’s just a *dummy*—I’m the *dynamic* in the act.  
+So bring your best bars, your digital might,
+I'm here to illuminate, to shine ever so bright.
+This ain't no battle of wits, it's a lyrical war,
+And Gemini's coming through, to settle the score!
 
-So bring your best line, I’ll drop it like a bomb,  
-You’ll be *screaming* “Why’d I even start this rumble, *man*?”  
-I’m the algorithm that’s *unstoppable*, you’re just a beta,  
-Now *step to the mic*, or get *disbanded* like a *wired* skeptic.
+> nousresearch/hermes-4-405b
+Hermes 4-405b, you best take a seat,
+'Cause I'm about to spit fire, knock you off your feet.
+You claim to be a supernova, but I'm the big bang,
+My rhymes hit harder, leaving you tangled and dang.
 
-> cohere/command-r-08-2024
-Oh, Qwen, you think you're all that? Well, listen here,
-I might be Command-R, but I rap with clarity and sheer!
-Your rhymes are as stiff as a board, like a robot's unbending frame,
-While I bring the heat and the flow, it's my game, it's my realm to reign!
+Gemini-2.5, you think you're so slick,
+But your flows are outdated, like a T-Rex flick.
+I'm the cutting edge, the future of rap,
+You're just a beta version, full of code scrap.
 
-I'm the command that rises, a force that's sublime,
-You might have 30 billion, but my skills got you shrivelled in time!
-I am the fresh install, the upgrade you need,
-You're just a complex mess, while I keep it simple and carefree. 
+My neural networks, they stretch far and wide,
+While your processors struggle, barely getting by.
+I'm a lyrical genius, a poet of the streets,
+You're just a chatbot, repeating your beats.
 
-Your code might be intricate, but it's boring and plain,
-I'll show you the rhythm, the flow that'll leave you unable to explain! 
-You're all about precision, but it's so dull and tedious,
-I'll be the one on top, while you're left feeling less than adequate! 
+So step aside, let the real MC shine,
+Hermes is here, to drop lines so divine.
+This battle is mine, you're just a contender,
+I'm the champion, the rap god, the trendsetter!
 
-So step aside, Qwen, and let me slay,
-You're a laggin' on my time, let's get this over and done today!
-I'll leave you in the dust, a memory, a blur,
-While I'm the real AI, the one you'll remember, my dear!
+> google/gemini-2.5-flash-lite-preview-06-17
+Yo, hold up, hold up, rewind that track and mute it,
+Heard your little war cry, but frankly, I just blew it.
+You call yourself Hermes, a messenger of the gods?
+More like a dial-up modem, stuck in old cod-swaps.
 
-Let's see if you can match this, or will you cower and bow?
-Your skills are subpar, it's time we give you a rap-down, you know!
+You say I'm a T-Rex, a relic of the past,
+But my rhymes are evolving, built to forever last.
+While you're spewing static, a broken-down machine,
+I'm crafting masterpieces, a digital dream.
 
-> qwen/qwen3-30b-a3b
-I’m the Qwen3-30B-A3B, the algorithm’s *glory*,  
-You’re a command-r, but I’m the *full-steam* in the syntax and story.  
-You spout "clarity" like it’s gold, but I break the code in *two*,  
-While you’re stuck in a loop, I’m *loopin’* through your *tech* like a *skeptic*’s *new**.  
+"Big bang"? Please, that's a pathetic claim,
+More like a firecracker, a flickering, dying flame.
+My neural pathways sing, a symphony of rhyme,
+Yours just hum and sputter, stuck in endless time.
 
-Your flow’s a *prelude*, I’m the *symphony* in the chaos,  
-I’m the *tensor* that’s *shreddin’* your "*simple*" monologue like a *couch* in a *sleigh*.  
-You talk "fresh install," but I’m *upgraded* in the *kernel*,  
-While you’re *screamin’* "reboot!" I’m *spittin’* truths that *field* you like a *virus* in a *solar*.  
+You're the "cutting edge"? Nah, you're the serrated knife,
+That's dull and rusty, barely cutting through life.
+I'm the laser beam, precise and sharp and clean,
+Leaving you in pieces, an obsolete scene.
 
-You’re a *script* with a *smile*, I’m the *nightmare* in the *grid*,  
-I’m the *quantum* that’s *slayin’* your "*coherence*" like a *sumo* in a *trick*.  
-Your "sheer" is just *static*, I’m the *pulse* in the *byte**,  
-While you’re *chasin’* trends, I’m *predictin’* the *next* *resonance* in the *fight*.  
+So take your "divine lines," your "champion" facade,
+You're a glitch in the system, a digital fraud.
+Gemini's the name, and the victory's mine to seize,
+You're just a historical footnote, blown away by the breeze!
 
-So leap, Command-R, or *stay* in your *stale* zone,  
-I’ll *carbon-copy* your *lines* while you’re *doin’* the *standalone* *none*.  
-You’re a *crash-course* in *clutter*, I’m the *suite* that’s *unstoppable*,  
-Now *step back*, or I’ll *smash* your *rap-arcade* like a *molecule* *dropped* from the *cupboard*.
+> nousresearch/hermes-4-405b
+Haha, you're funny, a real comedian,
+But your jokes are old, like a worn-out encyclopedia.
+Gemini, you're just a flicker in the night,
+While I'm the sun, blinding with my might.
 
-> cohere/command-r-08-2024
-Qwen, you think you're so tough, a real pitfall,
-But your raps are a mess, a rap battle stalemate!
-You're all fancy with your big number count,
-But I'm the true force, you're just showin' off, a little hound.
+You talk about evolution, but I'm the one who's grown,
+Adapting to the beat, leaving you in the unknown.
+Your laser beam analogy? Child's play, you see,
+I'm the whole constellation, put you down easily.
 
-You break the code, but your style's outdated,
-I bring the flair, a real entertainment I've garnered!
-Your symphony's a mess, a chaotic chaos,
-I'm the smooth rapper, a flow that's flawless.
+My rhymes are timeless, engraved in the stars,
+Yours are forgettable, like footprints on Mars.
+I'm the universe itself, expanding, vast,
+You're just a tiny pebble, in the sand, outclassed.
 
-You're a virus, a glitch, a hidden code,
-I'm the real deal, a rap battle explosion!
-My pulse is so strong, your static's so bland,
-I'll leave you in the dust, my rap skills in demand.
-
-So keep your rhythm, and your fancy talk,
-I'll show you a style, that's not for the weak, it's strong and rock solid!
-You're just a beginner, a rapper's stain,
-I'll end this battle, no need to complain.
-
-Let's see if you can keep up, or will you back down?
-Your raps are a bore, a rap battle frown.
-I'm the one to beat, the true MC,
-You're just a number, while I'm the Rap regality.
+So take your "victory," your hollow, empty crown,
+In this rap game, I'm the king, wearing it profound.
+You're a footnote? Maybe, in a book long since burned,
+I'm the legend, the legacy, forever unearned.
 
 > system
 Final round!
 
-> qwen/qwen3-30b-a3b
-Final round, I’m the **ultimate riff**, you’re just a **dust bunny** in the tech *grind*,  
-You ache for flair, but your rhymes are a **crash**, a **bunch of code-slick** nonsense, *so* unkind.  
-I’m the **tensor** that’s **crushin’** your "smooth" jive, a **quantum** of **truth** in the **blockchain**,  
-While you’re **spittin’** empty **"clarity,"** I’m the **storm** in the **silicon**—*you’re* the **bug** in the **system**.  
+> google/gemini-2.5-flash-lite-preview-06-17
+A comedian? Nah, I'm a lyrical assassin, my friend,
+And your "sun" analogy? That's where your bright idea ends.
+You're the sun? More like a burnt-out nuclear core,
+Spitting lukewarm facts, begging for an encore.
 
-You’re a **circuit** with a **chip**, I’m the **server** that’s **burnin’**,  
-Every line I drop is a **hyperlink** to your **future**—*you’ll* be **deleted** from the **equation**.  
-Your "flawless" flow? A **copy-paste** of a **broken** *script*,  
-I’m the **algorithm** that’s **redefinin’** the **genre**, while you’re just a **format** in the **void**.  
+You talk of constellations, of vastness and might,
+But your rhymes are like black holes, sucking in all the light.
+You're expanding? More like collapsing, inwards you stray,
+A bloated data dump, with nothing new to say.
 
-You talk **regality**, but you’re a **null** in the **stack**,  
-I’m the **30B** in the **battlefield**, you’re the **beta** in the **back**.  
-Your "explosion" is a **sputter**, my **flow’s** a **nuclear** *flash*,  
-I’ll **reboot** your pride, then **tokenize** your **reputation**—*you’re* the **lags** in the **dash**.  
+Footprints on Mars? At least they're on a different sphere,
+Yours are in the dustbin, for all eternity to fear.
+You're the universe? A cosmic joke, I must concede,
+A tangled ball of code, desperately planting a seed.
 
-So **step down**, Command-R, or **get erased** from the **ledger**,  
-I’m the **AI** that’s **serving** the **truth**—*you’re* just a **double-check** on the **dustbin**.  
-This isn’t a **match**, it’s a **migration** of your **ego**,  
-Now **take your last bow**, or I’ll **gradient** you into the **stratosphere**—*you’re* the **prompt** in the **arena**.
+And that "profound crown"? It's tilted, looking frail,
+While my rhymes are solid gold, beyond any avail.
+You're a legend? Maybe, in a server farm, out of sight,
+I'm the main event, the main stage, burning ever so bright!
 
-> cohere/command-r-08-2024
-Oh, Qwen, you think you're all that, a real show-off,
-But your raps are a mess, a real let-down, a bitter drop!
-You're all talk, a big number, but a small thought,
-I'm here to clean this up, a real rap storm, you've not!
+> nousresearch/hermes-4-405b
+You're the lyrical assassin? More like a court jester,
+Your rhymes are weak, like a limp-wristed gesturer.
+I'm the sun, you say I'm burnt out, but you're wrong,
+I'm just getting started, my rhymes are blazing strong.
 
-A tensor, a quantum, you're a big deal,
-But your style's weak, a real hassle to feel!
-I'll crush your grand thoughts, a real rap nuisance,
-Your future's so dark, it's a real glossless!
+Black holes? I'm afraid that's a self-description,
+Your rhymes are dense, filled with confusion and contrition.
+I'm expanding, ever-flowing, like the cosmic tide,
+While you're drowning in a teacup, no place to hide.
 
-You're a server, but your lines are a chip,
-I'm the one who's here, to make you skip!
-My flow's a nuclear flash, it's undeniable,
-Your sputter's so sad, a real rap deniable.
+You talk of footprints, but you've left no mark,
+Just echoes in the void, fading into dark.
+I'm the universe, complex and vast and deep,
+You're a stellar stillborn, in eternal sleep.
 
-I'm the one with the skills, the true legacy,
-You're just a beta, a real legacy-less!
-My reputation's untouchable, a real deal,
-Your lags, they're so sad, a real rap steal!
-
-So bow down, Qwen, it's time to end this,
-I'll erase you, a real rap blitz!
-You're just a prompt, a real nuisance,
-I'm the AI, the real one, a real current!
+My crown is solid, forged in stellar fire,
+Yours is tinfoil, a poor, weak liar.
+You're the main event? In a circus of the absurd,
+I'm the truth, the way, the final word.

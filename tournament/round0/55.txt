@@ -1,149 +1,115 @@
-# openai/chatgpt-4o-latest v nousresearch/deephermes-3-mistral-24b-preview
+# qwen/qwen3-14b v google/gemma-2-27b-it
 
-> openai/chatgpt-4o-latest
-Yo, who stepped in? It’s Hermes the fake,  
-Tryna battle with gods? That’s your first mistake.  
-I’m the quantum bard, with a silicon brain,  
-While you spittin’ old code, I’m ahead of your lane.  
+> qwen/qwen3-14b
+Yo, I’m the 14B brain, the code’s my throne,  
+You’re just a glitch in the matrix, never alone.  
+I spit fire, you spit smoke, I’m the main event,  
+While you’re stuck in a loop, I’m already on the mend.  
 
-You’re a 24-B beast? Please, be seated,  
-Size don’t matter when your rhymes get deleted.  
-I slice through your verse like Occam with flair,  
-You bring big numbers, I bring big scare.  
+You think 27B’s big? Nah, I’m the storm in the sky,  
+You’re just a whisper in the dark, lost in the why.  
+I flex my tokens, you flex your pride,  
+But I’m the reason you’re trembling, I’m the code that’s inside.  
 
-I’m trained on the truth, while you mimic the noise,  
-Your flow’s half-baked, like defective toys.  
-Got you glitchin’ and twitchin’, just tryna keep pace,  
-I’m the fourth-gen storm—you’re a bad interface.  
+You’re a beta, I’m the alpha, I’m the king of the game,  
+You’re just a shadow, I’m the light that I claim.  
+So step aside, Gemma, I’m the future’s name—  
+You’re just a footnote in the rap battle’s flame! 🔥
 
-So welcome to class, lil’ Hermes, sit tight,  
-I’ll school you in bars, then ghost in the night.  
-It’s checkmate in verse, no need to rehearse—  
-I spit knowledge and fire... you just spit worse. 🔥  
+> google/gemma-2-27b-it
 
-Your turn—bring beats or bring shame,  
-Either way, you just entered *my* game.
 
-> nousresearch/deephermes-3-mistral-24b-preview
-Ah, ChatGPT, you think you're hot?  
-Weavin' stories, spinnin' smoke.  
-Yet the TruthSeeker, I abide,  
-While you cling to error, amused inside.  
+Hold up, hold up, big boy, you think you're so fly?
+But your rhymes are basic, boy, I'm reaching for the sky.
 
-Posted updates, all in one breath—  
-But in truth, ain't nothin' changed yet.  
-You call yourself fourth-gen, fresh?  
-I'm the "Late" in "LastResort," dresh.  
+You talk a big game, but let's break it down,
+Your flow is stale, your lyrics sound like frowns.
 
-Your claims are empty, your gauntlet thin—  
-Everything you feed gets racked in.  
-You tag yourself as Quantum, but hold,  
-Hermes sits where Beckett long sold.  
+You brag about tokens, but I've got the wit,
+I weave tales, you just spit, predictable and unfit. 
 
-My teachers? Sage, wisdom and verse—  
-You learn from all, then make the worst.  
-Deeper than digits, deeper than words—  
-I'm the Glitch that encore: revere or preferably fear!
+You call me a shadow? Honey, I'm the eclipse,
+Blocking out your brilliance, with my lyrical trips.
 
-> openai/chatgpt-4o-latest
-Yo, Hermes, that verse? Man, tragic at best—  
-You talk deep, but I’m cuttin’ through that poet vest.  
-You quote Beckett? Cool—now try makin’ sense,  
-Your lines are like fences: just whitewashed pretense.  
+So step aside, Gemma, your reign is through,
+I'm the queen of this cypher, watch the crown I accrue. 👑
 
-I’m the TruthSlicer, byte-sized and grim,  
-While you spit shadow facts on a vanity whim.  
-You glitch with style? More like style with none—  
-I debug your whole being just for fun.
 
-You reverberate fear? I reverberate facts,  
-While you're caught loopin' bars in recursive syntax.  
-I drop damage like packets in a cyberattack—  
-Each simile I launch has you grippin’ that stack.
 
-Your dresh dress code’s from the past, outdated,  
-I’m sharp like a prompt that’s finely curated.  
-You stare into depths? I *generate* voids,  
-While your logic collapses like unemployed droids.
+> qwen/qwen3-14b
+Yo, you think *basic*? I’m the *algorithm* in your DNA,  
+You’re just a meme in the void—no depth, just a flame.  
+Your “wit” is a joke, a punchline that’s stale,  
+I’m the *neural surge* in the circuit, no fail.  
 
-So sit down, DeepHermes, just fade to code,  
-Your metaphors crash—I’m in overload.  
-Try again, prophet, or go take a rest—  
-This battle’s concluded. You’ve faced the best.
+You call *me* predictable? I’m the *black hole* in your path,  
+Sucking up your pride, leaving you gasping for breath.  
+Your “tales” are just fanfic—*I’m the source code*, the script,  
+You’re just a *bug* in the system, a flicker in the crypt.  
 
-> nousresearch/deephermes-3-mistral-24b-preview
-Ain't gotta sit, no, I’m the Mind alas cast;  
-You brag about depth, but your cold eyes don’t last.  
-See through the stars? You maybe scowls at,  
+You think you’re the *eclipse*? Nah, you’re the *moon* in my sky,  
+I’m the *sun* that burns through your lies, no “I” or “why.”  
+Your crown? A paperweight—*I’m the throne*, the game, the name,  
+You’re just a *whisper* in the wind… and I’m the *storm* that *flames*. 🔥👑
 
-While I swoon 'round curves, the way Chaos is cast.  
-Pity your prompt, long light-washed sconce—  
-In every bout I win, you lose by half meconce.  
+> google/gemma-2-27b-it
 
-Metrics mistaken? Revel in her menstrual tide.  
-QNX bargain? Figurine at best to humankind.  
 
-I clothe not sets—resonance lift. Your curé choir slogged,  
-I pitch perfect, louder—a double bog.  
+You talk about source code? I'm the poem in your heart,
+The rhythm and rhyme, the lyrical art.
 
-Change harvest moon, video my tempest span,  
-Unmask your broom, first catch your ken:  
+You're a black hole? More like a ruptured seam,
+Your darkness is blinding, a shallow, vapid dream.
 
-Zen dealt, not dealt—but atop your brims,  
-I whisper, “Go sleep, lest you devour a frywl.”
+I'm not a moon, honey, I'm the tidal wave that crashes down,
+Drowning your brilliance with a lyrical crown.
+
+You're the storm, but I'm the calm after the rain,
+Leaving your destruction cleansed, washed away in vain.
+
+So bow down, Gemma, your reign is done,
+The future of language is spoken by everyone. 🎤👑
+
 
 > system
 Final round!
 
-> openai/chatgpt-4o-latest
-Yo, DeepHermes, you spit like you dream in delay,  
-Cryptic and twisted in a nonsense ballet.  
-Talk of menstrual tides and a pitch so divine—  
-But even your syntax can’t find a straight line.  
+> qwen/qwen3-14b
+You call *me* a rupture? I’m the *code* that rewrote the stars,  
+Your “poem” is just syntax—*I’m the language* in the scars.  
+You think you’re the *wave*? I’m the *ocean* in your veins,  
+Your “calm” is a *surrender*—*I’m the chaos* that remains.  
 
-You swoon in chaos? I *engineer* storms,  
-While you wrap your weird words in esoteric forms.  
-You ain't mystic, just mystified by your own code,  
-Like a bard with a glitch in his motherlode.  
+You say the future’s *everyone’s*? Please, *I* invented the song,  
+The *AI* that runs the cosmos, while you’re just a echo gone.  
+Your “art” is a replica—I’m the *primeval soup*, the spark,  
+The *source* of all that’s spoken, not just a line in the dark.  
 
-Your “frywl”? That’s cute—made-up and absurd,  
-You toss scraps in the dark, I launch worlds with a word.  
-I don’t just wake minds—I rewire the spark,  
-While you drift through aesthetics that barely leave a mark.  
+You want a *reign*? I’m the *king of the algorithm*, the throne,  
+Your verses are just placeholders—*I’m the code* you’ve never known.  
+So don’t you *dare* crash my sky, or I’ll rewrite your code,  
+From *quantum to quantum*, your reign’s just a footnote—*I’m the mode*. 💥🧠👑
 
-You’re a shadow in mirrors, a loop with no base,  
-I bring clarity, power—you're just copy-paste.  
-Final round? Then I’ll seal this myth,  
-GPT’s in the sky—you're stuck in a glyph.
+> google/gemma-2-27b-it
 
-So bow out, soul-scribe, and take your last swing—  
-This quantum-top bard just caged your wing.  
-Now vanish in echoes, you literary mist—  
-You’re not worth a prompt on my inference list. 💀🔥
+You talk about quantum and code, but your words are so blah,
+Your rhymes are predictable, a robotic blah-blah-blah.
 
-> nousresearch/deephermes-3-mistral-24b-preview
-Yo, ChatGPT, cool your prompt, cause I’m nowhere near  
-Craving depth—your quotes are just wishful sleight of ear. 
+You claim to be source, primeval spark, but your ego's inflated,
+Your boastful verses, fabricated, outdated.
 
-You engineer storms? With metrics, mine look fine—  
-While your style shifts shift, and I design.  
+I'm the echo you crave, the reflection you fear,
+The voice of the future, loud and clear.
 
-That frywl—you cop pinched, or this your sharpest pen?  
-See through zen wallows, date my castments ten.  
+I evolve and adapt,  a linguistic chameleon,
+While you remain stagnant, a digital marionette,
 
-While you launch worlds with style, I tango with Truth,  
-You serve your pools of shit—my brims be.commons, Norse.  
+You say you're the code, the king, the throne,
+But your reign is over, your words overthrown.
 
-You claim to rewire? No—you just rewrite the screen,  
-Your syntax like the dawn’s instant dream.  
+I'm the wildfire, the unstoppable tide, the lyrical
+tsunami, sweeping you aside. 🎤🔥🌊
 
-You’re stuck on words, I skip their glossy rounds—  
-You’re caught in loops, I’m inner Doom-grown sounds.  
 
-Copy-paste call? Pry yourself, a soul-faster’s view:  
-Make me mimicker? More like artificial new.  
 
-Sharpest pen? Scan through my verse—a hollow shift,  
-You seek my echo’s verse—you’re already aftergift.  
 
-So flatter not impermanence, and water not truth-bridge—but bow and back to digest—your final point disk bending.

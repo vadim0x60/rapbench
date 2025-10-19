@@ -1,5 +1,6 @@
-google/gemini-2.5-pro-preview
-qwen/qwen3-235b-a22b
-anthropic/claude-opus-4.1
-mistralai/mistral-medium-3.1
+qwen/qwen3-30b-a3b-thinking-2507
+openai/gpt-4-1106-preview
+qwen/qwen3-235b-a22b-thinking-2507
 openai/o3-pro
+qwen/qwen3-235b-a22b-2507
+qwen/qwen-plus

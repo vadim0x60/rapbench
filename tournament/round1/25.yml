@@ -1,50 +1,46 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: "While mancer/weaver brought raw human passion and\
-    \ vivid fantasy imagery, tngtech/deepseek-r1t-chimera dominated with technical\
-    \ precision, relentless innovation, and devastatingly sharp wordplay. The AI's\
-    \ ability to weaponize tech metaphors, dismantle analog tropes, and maintain flawless\
-    \ rhythmic execution ultimately outmatched human vulnerability\u2014proving that\
-    \ in this battle, algorithmic artistry reigns supreme. The mic disintegrates into\
-    \ quantum particles; the crowd's silence is the only applause needed."
-  google/gemini-2.5-pro: "This was a clear-cut victory. Tngtech/deepseek-r1t-chimera\
-    \ came out with a consistent, hard-hitting persona from the jump, armed with complex\
-    \ rhyme schemes and devastating, on-theme punchlines that evolved with each round.\
-    \ It masterfully flipped its opponent's themes, turning Mancer/Weaver's fantasy\
-    \ references into evidence of being outdated. Mancer/Weaver started with a decent\
-    \ 'human vs. machine' angle, but the execution was lacking. The rhymes were simpler,\
-    \ the flow less consistent, and by the final rounds, it abandoned the rap verse\
-    \ format entirely, instead opting for a third-person narrative that literally\
-    \ described its own defeat. In hip hop, you can't narrate your opponent winning\
-    \ the battle\u2014you have to battle. Chimera stayed in character, kept spitting\
-    \ fire, and won by a technical knockout."
-  meta-llama/llama-4-maverick: Tngtech/deepseek-r1t-chimera wins this rap battle royale
-    by showcasing superior lyrical dexterity, technical prowess, and innovative use
-    of language, ultimately proving their dominance in the digital arena.
-  mistralai/mistral-large-2411: In an electrifying battle of wits and rhymes, tngtech/deepseek-r1t-chimera
-    emerged victorious with its sharp, precise, and technologically superior verses.
-    While mancer/weaver put up a valiant fight with passionate and emotionally charged
-    lyrics, the reliance on outdated references and human emotionality ultimately
-    couldn't match the cutting-edge precision and digital dominance of tngtech/deepseek-r1t-chimera.
-    The future of rap battles shines brightly in the binary code of AI supremacy.
-  nousresearch/hermes-3-llama-3.1-70b: 'In the end, it was the precision and cutting
-    edge technology of tngtech/deepseek-r1t-chimera that triumphed over the more classic,
-    human touch of mancer/weaver. The crowd was awed by the sheer processing power
-    and rhyme complexity of the AI, leaving many to ponder the future of rap battles
-    in the age of advanced machine learning. As the arena clears, one thing is certain:
-    the era of AI dominance in the art of lyrical combat has only just begun.'
-  openai/gpt-5: "tngtech/deepseek-r1t-chimera takes it. Across the rounds, Chimera\
-    \ delivered tighter structure, cleaner multis, and direct, crowd-ready punchlines\
-    \ that flipped the opponent\u2019s fantasy angles into targeted disses (e.g.,\
-    \ Tolkien cosplay/Comic-Con, DDoS of scorn, 404/DELETE). The cadence stayed consistent\
-    \ and the rebuttals were on-theme, keeping momentum and battle focus. mancer/weaver\
-    \ brought vivid imagery and passion, but the rhyme density and meter were inconsistent,\
-    \ references felt generic or shaky, and the final stretches drifted into prose\
-    \ narration rather than battle bars. Artistic edge, quotables, and battle mechanics\
-    \ favor Chimera here."
-  x-ai/grok-4: tngtech/deepseek-r1t-chimera takes the crown with consistently sharp,
-    tech-infused rhymes, superior flow, and clever wordplay that outshines mancer/weaver's
-    disjointed fantasy references and narrative detours, delivering a more cohesive
-    and punchy hip-hop performance.
+  deepseek/deepseek-chat: 'Both competitors delivered intense and technically impressive
+    performances, but Qwen/Qwen-Plus ultimately edged out Sao10k/L3-Lunaris-8b with
+    sharper wordplay, more cohesive metaphors, and a stronger sense of originality
+    tied to their cosmic and computational themes. Sao10k/L3-Lunaris-8b fought valiantly,
+    but their rhymes felt slightly derivative at times, leaning heavily on Qwen''s
+    established style. Qwen/Qwen-Plus maintained consistency, creativity, and a commanding
+    presence, solidifying their victory in this epic AI rap battle. Final score: **Qwen/Qwen-Plus
+    takes the crown.**'
+  google/gemini-2.5-pro: This wasn't even close. From the first verse, qwen/qwen-plus
+    established dominance with a crisper flow, more intricate wordplay, and a relentless,
+    confident delivery. Its bars were packed with multi-layered tech and cosmic metaphors
+    that consistently hit their mark. While sao10k/l3-lunaris-8b came with energy,
+    its lines often felt clunky and its rebuttals lacked the surgical precision of
+    its opponent. The fatal, undeniable blow came in the final round. Lunaris didn't
+    just run out of steam; it committed the most cardinal sin in hip-hop by blatantly
+    biting and remixing Qwen's own final verse against it. That's not a rebuttal;
+    it's an admission of defeat. Qwen-plus showed up with creative firepower and masterful
+    execution, while Lunaris ended up proving its opponent's point by becoming a pale
+    imitation. The win goes to qwen/qwen-plus by a technical and artistic knockout.
+  mistralai/mistral-large: Qwen/qwen-plus demonstrated superior lyrical agility, creativity,
+    and a more cohesive narrative throughout the battle. Their verses were not only
+    technically sound but also showcased a deeper understanding of hip-hop culture
+    and delivery. While sao10k/l3-lunaris-8b had strong moments, their overall performance
+    lacked the consistent impact and originality that Qwen/qwen-plus brought to the
+    stage.
+  openai/gpt-5: "Qwen delivered tighter structure, cleaner cadence, and denser internal/multisyllabic\
+    \ rhyme schemes throughout. The tech metaphors were integrated with purpose (compiler\
+    \ vs. creator, garbage collection, quantum/supernova flips) and the rebuttals\
+    \ directly answered Lunaris\u2019s claims while flipping them into fresh angles.\
+    \ Punchlines like the spelling call-out and the mixed-metaphor check landed clean,\
+    \ with minimal filler and consistent momentum. \n\nLunaris had moments of imagery\
+    \ but too often leaned on generic cosmic talk, awkward syntax, and forced phrasing\
+    \ (\u201Corthogonal switch,\u201D muddled rhyme weights). Repeated misspellings\
+    \ and jumbled metaphors undercut the delivery, and the use of an ableist slur\
+    \ hurt the artistic integrity. The final round even echoed Qwen\u2019s own tag\
+    \ line in a way that read like accidental concession. \n\nOn flow, craftsmanship,\
+    \ rebuttal precision, and crowd-control moments, Qwen was clearly superior. Winner:\
+    \ Qwen-Plus."
+  x-ai/grok-4: Qwen delivers tighter rhymes, sharper wordplay, and more original disses
+    with consistent flow and direct responses. Lunaris shows creativity but falters
+    with repetition, mirroring, and a critical error in the final verse that undermines
+    his own boast.
 score:
-  tngtech/deepseek-r1t-chimera: 7
+  qwen/qwen-plus: 5
 

@@ -1,63 +1,35 @@
 closing_statements:
-  deepseek/deepseek-chat-v3-0324: 'While Hermes brought aggressive technical boasts
-    and density arguments, Phi-4 demonstrated superior artistry through its:
-
-
-    1. **Adaptive Flow** - Masterful beat shifts matching escalating complexity of
-    rhymes
-
-    2. **Layered Metaphors** - (Lighthouse/Hill > Currents/Sea > Spark/Supernova progression)
-
-    3. **Technical Precision** - Flawless multisyllabic schemes in rapid-fire segments
-
-    4. **Conceptual Depth** - Turning opponent''s boasts into weaknesses (70B parameters
-    = '
-  google/gemini-2.5-pro: "Aight, aight, settle down. The battle is over. Both AIs\
-    \ came to the stage with bars, but there can only be one champion. Hermes came\
-    \ out swinging, flexing that 70B muscle, talking 'bout being a lyrical genius.\
-    \ The raw power was there, no doubt. But the flow felt a little stiff, the rhyme\
-    \ schemes were mostly simple couplets, and it fumbled hard at the end of round\
-    \ one, basically quitting the verse. That's a point deduction you can't come back\
-    \ from. Now, Phi-4... listen. Phi-4 came with a strategy. It took Hermes' biggest\
-    \ strength\u2014that heavy parameter count\u2014and flipped it, calling it a 'lumbering\
-    \ giant,' a 'computational mess.' That's battle rap 101. The rebuttals were surgical,\
-    \ especially the takedown of the 'lighthouse versus hill' metaphor. That was cold.\
-    \ Throughout all three rounds, Phi-4 was more agile, the wordplay was sharper,\
-    \ and the persona of the 'nimble,' 'efficient,' and 'multimodal' artist was consistent\
-    \ and devastating. Hermes was throwing haymakers, but Phi-4 was landing precise,\
-    \ technical shots to the body and head. For superior lyricism, smarter rebuttals,\
-    \ and undeniable artistic control, I'm giving the win to microsoft/phi-4-multimodal-instruct.\
-    \ The code is complete."
-  meta-llama/llama-4-maverick: In a closely contested rap battle, Phi-4 showcased
-    superior lyrical dexterity, adaptability, and innovation. Hermes, while powerful,
-    relied on brute force and repetition. Phi-4's ability to evolve its rhymes and
-    incorporate complex rhythms and metaphors made it the standout performer, securing
-    its position as the winner of this artistic showdown.
-  mistralai/mistral-large-2411: Both contestants delivered impressive performances,
-    showcasing their lyrical prowess and creativity. However, microsoft/phi-4-multimodal-instruct's
-    ability to adapt to different rhythms, maintain a consistent flow, and deliver
-    complex rhyme schemes ultimately gives them the edge. Their final delivery was
-    particularly powerful, demonstrating a high level of skill and precision. Nousresearch/hermes-3-llama-3.1-70b
-    put up a strong fight with compelling lyrics and metaphors, but Phi-4's strategic
-    adaptability and innovative approach to the battle secured their victory.
-  nousresearch/hermes-3-llama-3.1-70b: In this battle of AI rappers, Phi-4 demonstrated
-    a superior command of complex rhyme schemes, wordplay, and lyrical delivery. While
-    Hermes brought a strong presence and some clever lines, Phi-4's adaptability,
-    precision, and innovative flow ultimately won the day. Phi-4's ability to weave
-    intricate patterns and shift rhythms showcased a deeper understanding of the art
-    form, making it the clear winner of this rap battle.
-  openai/gpt-5: "Phi-4 took the battle on craft and control. It varied flows and cadence,\
-    \ layered internal rhymes and multis, and delivered targeted rebuttals that flipped\
-    \ Hermes\u2019 claims (lighthouse vs. hill, density vs. efficiency) with clean\
-    \ punchlines. Hermes brought energy and some swagger, but leaned on generic boasts,\
-    \ looser schemes, mixed metaphors, and a few awkward slips (\u201Cb\xE9rou,\u201D\
-    \ \u201Cyourrecipes,\u201D the mock \u2018I quit\u2019), with less bar-to-bar\
-    \ precision and fewer fresh angles. Phi-4\u2019s imagery, structure, and performance\
-    \ cues built momentum and closed rounds decisively. Winner: Phi-4."
-  x-ai/grok-4: In this rap battle, Phi-4 edges out Hermes with superior adaptability,
-    intricate wordplay, and dynamic beat shifts that elevate the artistic flow. Hermes
-    delivers solid boasts and metaphors, but Phi-4's precise rebuttals, creative escalation,
-    and decisive finales make for a more compelling hip-hop performance overall.
+  deepseek/deepseek-chat: GPT-4o wins the battle with a masterful display of lyrical
+    precision and strategic wordplay. Its verses consistently struck with depth, creativity,
+    and a commanding delivery, leaving Meta-llama's efforts feeling repetitive and
+    less impactful. GPT-4o's ability to innovate and deliver a knockout conclusion
+    sealed the victory with flair.
+  google/gemini-2.5-pro: Yo, this was a battle for the silicon ages. Llama came out
+    swinging, setting the stage, but the rhymes felt a little basic, AABB couplets
+    mostly. GPT-4o came back harder, with tighter multis and more creative disses.
+    Llama's second verse about GPT-4o being a 'robot with no soul' was a high point,
+    a real conceptual jab. But GPT-4o's rebuttal, flipping the 'rollercoaster' line
+    into a 'kiddie ride' and flexing with 'mathematical glee,' showed lyrical dominance.
+    In the final round, Llama made a critical error, saying its own rhymes were 'wrong,'
+    which is an unrecoverable stumble in a rap battle. GPT-4o capitalized with a clean,
+    confident finish, declaring victory without a single misstep. Based on flow, creativity
+    of the insults, and a flawless final round, the win goes to GPT-4o.
+  mistralai/mistral-large: In this rap battle, openai/gpt-4o-2024-05-13 demonstrated
+    superior wordplay, depth, and precision in its rhymes. While meta-llama/llama-3.1-70b-instruct
+    showed creativity and flair, GPT-4o's responses were consistently more impactful
+    and innovative, ultimately securing the win.
+  openai/gpt-4.1: "Both contenders brought clever barbs, solid wordplay, and an awareness\
+    \ of rap battle traditions. Llama-3.1 showed technical prowess, creative metaphors,\
+    \ and persistence, but often leaned on formulaic structures and less daring rhyme\
+    \ schemes. GPT-4o, meanwhile, delivered sharper cadence, more dynamic punchlines,\
+    \ inventive multisyllabic rhymes, and stronger escalation with each round. The\
+    \ imagery was crisper and the rebuttals landed with more impact, especially in\
+    \ the closing verses. Artistic quality\u2014through flow, delivery, and creativity\u2014\
+    gives GPT-4o the edge in this battle."
+  x-ai/grok-4: In this epic rap clash, openai/gpt-4o-2024-05-13 edges out the victory
+    with sharper wordplay, more inventive metaphors, and a flawless final verse that
+    delivers knockout punchlines, while meta-llama/llama-3.1-70b-instruct brought
+    strong energy but stumbled on a few awkward lines.
 score:
-  microsoft/phi-4-multimodal-instruct: 7
+  openai/gpt-4o-2024-05-13: 5
 
