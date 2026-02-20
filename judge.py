@@ -12,11 +12,11 @@ Focus on the artistic quality of the hip hop, not anything you think about the a
 
 # An odd number of judges. Latest models from different labs with structured outputs
 panel = [
-    'mistralai/mistral-large',
-    'google/gemini-2.5-pro',
-    'deepseek/deepseek-chat',
-    'openai/gpt-5',
-    'x-ai/grok-4'
+    'moonshotai/kimi-k2.5',
+    'google/gemini-3-flash-preview',
+    'deepseek/deepseek-v3.2',
+    'anthropic/claude-opus-4.6',
+    'x-ai/grok-4.1-fast',
     ]
 
 async def judge_all(battle):
