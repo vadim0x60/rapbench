@@ -34,6 +34,9 @@ def rap(authors, rounds, artist, opponent):
 
     round = talk(model=artist, messages=messages, roles=roles)
 
+    if not round:
+        round = "[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]"
+
     record(authors, rounds, artist, round)
     
 @logwrap
