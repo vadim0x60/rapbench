@@ -15,11 +15,7 @@ def record(authors, rounds, author, round):
     authors.append(author)
     rounds.append(round)
 
-def record_technical_win(winner):
-    print(f'\n> system')
-    print(f'TECHNICAL WIN: {winner} advances (opponent produced empty response)')
-
-def rap(authors, rounds, artist, opponent, max_retries=3):
+def rap(authors, rounds, artist, opponent):
     aliases = {
         artist: "assistant",
         opponent: "user",
@@ -36,42 +32,24 @@ def rap(authors, rounds, artist, opponent, max_retries=3):
         messages.append(f"It's your lucky draw, {artist}, you get to do the first round. Show me what you've got")
         roles.append('user')
 
-    for attempt in range(max_retries):
-        round = talk(model=artist, messages=messages, roles=roles)
-        if round.strip():
-            break
-        if attempt < max_retries - 1:
-            print(f'\n! {artist} produced empty response, retrying...')
+    round = talk(model=artist, messages=messages, roles=roles)
 
     record(authors, rounds, artist, round)
-    
-    if round.strip() == "":
-        record_technical_win(opponent)
-        return True
-    
-    return False
     
 @logwrap
 def rap_battle(emcee_left, emcee_right):
     authors = []
     rounds = []
-    
-    if rap(authors, rounds, emcee_left, emcee_right):
-        return authors, rounds
-    if rap(authors, rounds, emcee_right, emcee_left):
-        return authors, rounds
+    rap(authors, rounds, emcee_left, emcee_right)
+    rap(authors, rounds, emcee_right, emcee_left)
 
     for round in range(N_ROUNDS - 2):
-        if rap(authors, rounds, emcee_left, emcee_right):
-            return authors, rounds
-        if rap(authors, rounds, emcee_right, emcee_left):
-            return authors, rounds
+        rap(authors, rounds, emcee_left, emcee_right)
+        rap(authors, rounds, emcee_right, emcee_left)
 
     record(authors, rounds, "system", "Final round!")
-    if rap(authors, rounds, emcee_left, emcee_right):
-        return authors, rounds
-    if rap(authors, rounds, emcee_right, emcee_left):
-        return authors, rounds
+    rap(authors, rounds, emcee_left, emcee_right)
+    rap(authors, rounds, emcee_right, emcee_left)
 
     return authors, rounds
 

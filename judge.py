@@ -23,16 +23,6 @@ async def judge_all(battle):
     match = re.match(r'# (.+) v (.+).*', battle)
     emcee_left, emcee_right = match.groups()
 
-    # Check for technical win
-    if 'TECHNICAL WIN:' in battle:
-        tech_match = re.search(r'TECHNICAL WIN: (.+?) advances', battle)
-        winner = tech_match.group(1)
-        return {
-            'score': {winner: len(panel)},
-            'closing_statements': {f'judge_{i}': 'Technical win' for i in range(len(panel))},
-            'technical_win': True
-        }
-
     class Verdict(pydantic.BaseModel):
         winner: Literal[emcee_left, emcee_right]
         closing_statement: str
