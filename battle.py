@@ -1,6 +1,6 @@
-from openai import BadRequestError
 from keeptalking import talk
 from logwrap import logwrap
+from config import provider_tantrums
 
 N_ROUNDS = 3
 
@@ -32,7 +32,10 @@ def rap(authors, rounds, artist, opponent):
         messages.append(f"It's your lucky draw, {artist}, you get to do the first round. Show me what you've got")
         roles.append('user')
 
-    round = talk(model=artist, messages=messages, roles=roles)
+    try:
+        round = talk(model=artist, messages=messages, roles=roles)
+    except provider_tantrums:
+        round = None
 
     if not round:
         round = "[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]"

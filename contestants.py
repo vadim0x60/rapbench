@@ -3,9 +3,8 @@ import requests
 from keeptalking import vibe
 from logwrap import logwrap
 import asyncio
-import config
+from config import provider_tantrums
 import logging
-import openai
 
 exclude = ['openrouter/auto', 'switchpoint/router']
 
@@ -24,7 +23,7 @@ async def is_alive(slug):
     try:
         logging.info(await greet())
         return True
-    except (openai.NotFoundError, openai.InternalServerError, openai.BadRequestError):
+    except provider_tantrums:
         return False
 
 async def contestants():
