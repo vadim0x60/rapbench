@@ -1,3 +1,4 @@
 *.log
 .snakemake
 __pycache__
+.envrc
