@@ -35,8 +35,11 @@ def roster(wildcards):
             'emcee_right': emcees[emcee_right(len(emcees), battle_num)].strip()}
 
 def final_winner_file(wildcards):
-    import numpy as np
-    post_tournament_round = int(np.ceil(np.log(len(contestants(0)))))
+    remaining = len(contestants(0))
+    post_tournament_round = 0
+    while remaining > 1:
+        remaining = (remaining + 1) // 2
+        post_tournament_round += 1
     return f'tournament/round{post_tournament_round}/contestants.txt'
 
 rule all:
@@ -77,9 +80,12 @@ checkpoint further_roster:
         lambda wildcards: verdicts(int(wildcards.round) - 1)
     output:
         protected("tournament/round{round}/contestants.txt")
+    params:
+        previous_round=lambda wildcards: int(wildcards.round) - 1
     log:
         "tournament/round{round}/contestants.log"
     shell:
-        "{python} check.py && {python} promote.py {input} > {output} 2> {log}"
+        "{python} check.py --through-round {params.previous_round} && "
+        "{python} promote.py {input} > {output} 2> {log}"
 
 ruleorder: first_roster > further_roster

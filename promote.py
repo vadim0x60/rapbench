@@ -1,9 +1,8 @@
 import yaml
-import config
 
 def winner(verdict_path):
     with open(verdict_path) as fh:
-        score = yaml.full_load(fh)['score']
+        score = yaml.safe_load(fh)['score']
         return max(score, key=score.get)
 
 if __name__ == '__main__':

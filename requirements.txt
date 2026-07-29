@@ -5,3 +5,5 @@ snakemake
 pydantic
 openai
 keeptalking
+loguru
+requests

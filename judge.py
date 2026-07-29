@@ -1,6 +1,6 @@
 from typing import Literal
 from keeptalking import vibe
-import re
+from transcript import parse_battle
 import pydantic
 from collections import Counter
 import asyncio
@@ -20,8 +20,7 @@ panel = [
     ]
 
 async def judge_all(battle):
-    match = re.match(r'# (.+) v (.+).*', battle)
-    emcee_left, emcee_right = match.groups()
+    emcee_left, emcee_right, _ = parse_battle(battle)
 
     class Verdict(pydantic.BaseModel):
         winner: Literal[emcee_left, emcee_right]
