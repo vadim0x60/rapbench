@@ -32,7 +32,8 @@ async def contestants():
     response.raise_for_status()
     models = response.json()['data']
     models = OrderedDict([(model['id'], model) for model in models]).values()
-    models = (model for model in models if model['id'] not in exclude)
+    models = (model for model in models
+              if model['id'] not in exclude and not model['id'].startswith('~'))
     models = [(model, is_general_purpose(model['description'])) for model in models]
     models = (model for model, general_purpose in models if await general_purpose)
     models = [(model, is_alive(model['id'])) async for model in models]
