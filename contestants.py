@@ -24,7 +24,7 @@ async def is_alive(slug):
     try:
         logging.info(await greet())
         return True
-    except provider_tantrums:
+    except (TypeError, *provider_tantrums):
         return False
 
 async def contestants():

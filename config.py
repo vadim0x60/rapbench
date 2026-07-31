@@ -20,5 +20,7 @@ provider_tantrums = (
     openai.NotFoundError, 
     openai.InternalServerError, 
     openai.BadRequestError, 
+    openai.PermissionDeniedError,
+    openai.RateLimitError,
     tenacity.RetryError
 )
