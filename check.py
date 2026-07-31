@@ -5,6 +5,7 @@ from pathlib import Path
 
 import yaml
 
+from judge import panel
 from transcript import parse_battle
 
 
@@ -39,8 +40,10 @@ def read_verdict(path, participants):
         raise ValueError(f"{path}: score contains a model that did not participate")
     if any(type(votes) is not int or votes < 0 for votes in score.values()):
         raise ValueError(f"{path}: score values must be non-negative integers")
-    if sum(score.values()) != 5:
-        raise ValueError(f"{path}: expected 5 judge votes, got {sum(score.values())}")
+    if sum(score.values()) != len(panel):
+        raise ValueError(
+            f"{path}: expected {len(panel)} judge votes, got {sum(score.values())}"
+        )
     return score
 
 

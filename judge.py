@@ -10,13 +10,14 @@ import openai
 task = """You are an expert judge at a rap battle.
 Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise"""
 
-# An odd number of judges. Latest models from different labs with structured outputs
+# An odd number of the smartest available models, with at most one per provider.
+# All judges must be live on OpenRouter and support structured outputs.
 panel = [
-    'moonshotai/kimi-k2.5',
-    'google/gemini-3-flash-preview',
-    'deepseek/deepseek-v3.2',
-    'anthropic/claude-opus-4.6',
-    'x-ai/grok-4.1-fast',
+    'openai/gpt-5.6-sol-pro',
+    'anthropic/claude-opus-5',
+    'google/gemini-3.1-pro-preview',
+    'x-ai/grok-4.5',
+    'moonshotai/kimi-k3',
     ]
 MAX_VERDICT_TOKENS = 5000
 

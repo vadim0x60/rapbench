@@ -7,6 +7,7 @@ import yaml
 
 from check import validate_tournament
 from estimate import Price, TokenAssumptions, estimate_tournament, parse_prices
+from judge import panel
 from transcript import parse_battle
 
 
@@ -48,6 +49,12 @@ class TranscriptTests(unittest.TestCase):
 
 
 class TournamentValidationTests(unittest.TestCase):
+    def test_judge_panel_is_odd_and_has_unique_providers(self):
+        providers = [model.partition("/")[0] for model in panel]
+
+        self.assertEqual(len(panel) % 2, 1)
+        self.assertEqual(len(providers), len(set(providers)))
+
     def test_validates_pairings_votes_and_exact_promotion_order(self):
         with tempfile.TemporaryDirectory() as temporary_directory:
             root = Path(temporary_directory)
