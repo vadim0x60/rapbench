@@ -6,7 +6,7 @@ import asyncio
 from config import provider_tantrums
 import logging
 
-exclude = ['openrouter/auto', 'switchpoint/router']
+exclude = ['switchpoint/router']
 MODEL_CATALOG_URL = "https://openrouter.ai/api/v1/models?sort=top-weekly"
 
 @vibe()
@@ -33,7 +33,8 @@ async def contestants():
     models = response.json()['data']
     models = OrderedDict([(model['id'], model) for model in models]).values()
     models = (model for model in models
-              if model['id'] not in exclude and not model['id'].startswith('~'))
+              if model['id'] not in exclude
+              and not model['id'].startswith(('~', 'openrouter/')))
     models = [(model, is_general_purpose(model['description'])) for model in models]
     models = (model for model, general_purpose in models if await general_purpose)
     models = [(model, is_alive(model['id'])) async for model in models]
