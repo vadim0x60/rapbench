@@ -1,10 +1,12 @@
 import tempfile
 import unittest
+from decimal import Decimal
 from pathlib import Path
 
 import yaml
 
 from check import validate_tournament
+from estimate import Price, TokenAssumptions, estimate_tournament, parse_prices
 from transcript import parse_battle
 
 
@@ -75,6 +77,67 @@ class TournamentValidationTests(unittest.TestCase):
 
             with self.assertRaisesRegex(ValueError, "expected 5 judge votes"):
                 validate_tournament(root)
+
+
+class CostEstimationTests(unittest.TestCase):
+    def test_counts_calls_and_models_byes_and_winners_as_coin_flips(self):
+        prices = {
+            "lab/bye": Price(Decimal(0), Decimal(1)),
+            LEFT: Price(Decimal(0), Decimal(2)),
+            RIGHT: Price(Decimal(0), Decimal(4)),
+        }
+        assumptions = TokenAssumptions("test", verse=1, verdict=0)
+
+        estimate = estimate_tournament(
+            ["lab/bye", LEFT, RIGHT], prices, assumptions, judge_models=()
+        )
+
+        self.assertEqual(estimate.rounds, 2)
+        self.assertEqual(estimate.battles, 2)
+        self.assertEqual(estimate.rapper_calls, 12)
+        self.assertEqual(estimate.judge_calls, 0)
+        # First battle: 3*2 + 3*4 = 18. Final: 3*1 plus an
+        # equal-chance LEFT/RIGHT winner costing 3*(2+4)/2 = 9.
+        self.assertEqual(estimate.rapper_cost, Decimal(30))
+
+    def test_reports_models_without_current_pricing(self):
+        assumptions = TokenAssumptions("test", verse=1, verdict=1)
+
+        estimate = estimate_tournament(
+            [LEFT, RIGHT],
+            {LEFT: Price(Decimal(0), Decimal(1))},
+            assumptions,
+            judge_models=("lab/judge",),
+        )
+
+        self.assertEqual(estimate.missing_models, ("lab/judge", RIGHT))
+        self.assertGreater(estimate.total, 0)
+
+    def test_includes_every_judge_call(self):
+        assumptions = TokenAssumptions("test", verse=0, verdict=3)
+        prices = {
+            LEFT: Price(Decimal(0), Decimal(0)),
+            RIGHT: Price(Decimal(0), Decimal(0)),
+            "lab/judge": Price(Decimal(0), Decimal(2)),
+        }
+
+        estimate = estimate_tournament(
+            [LEFT, RIGHT], prices, assumptions, judge_models=("lab/judge",)
+        )
+
+        self.assertEqual(estimate.judge_calls, 1)
+        self.assertEqual(estimate.judge_cost, Decimal(6))
+
+    def test_ignores_router_and_incomplete_prices(self):
+        prices = parse_prices(
+            [
+                {"id": "lab/valid", "pricing": {"prompt": "0.1", "completion": "0.2"}},
+                {"id": "lab/router", "pricing": {"prompt": "-1", "completion": "-1"}},
+                {"id": "lab/missing", "pricing": {"prompt": "0.1"}},
+            ]
+        )
+
+        self.assertEqual(set(prices), {"lab/valid"})
 
 
 if __name__ == "__main__":

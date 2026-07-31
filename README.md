@@ -23,7 +23,15 @@ To preview a run without making API calls:
 snakemake --dry-run --cores 1
 ```
 
-For a new tournament, first remove or archive any existing `tournament/` directory outside this repository, then run:
+For a new tournament, first remove or archive any existing `tournament/` directory outside this repository. Then prepare only the new contestant roster and preview the expected spend:
+
+```bash
+snakemake estimate --cores 1
+```
+
+Roster preparation makes the filtering and liveness model calls, but does not start any battles or judging; its cost is not included in the estimate. The estimator itself makes no model calls: it fetches current public OpenRouter prices and shows typical and 95th-percentile visible-output estimates from historical artifacts, plus a scenario using the configured completion limits. It assumes each contestant has an equal chance to advance and does not include retries. Hidden reasoning tokens are not visible in historical artifacts, so reasoning models can push spend toward the call-limits scenario. Resolve any missing-price or unavailable-model warnings before starting the tournament. To estimate a roster stored elsewhere, run `python estimate.py path/to/contestants.txt`.
+
+After reviewing the estimate, run:
 
 ```bash
 snakemake --cores all

@@ -47,6 +47,12 @@ rule all:
         "tournament/round0/contestants.txt",
         final_winner_file
 
+rule estimate:
+    input:
+        "tournament/round0/contestants.txt"
+    shell:
+        "{python} estimate.py {input}"
+
 rule battle:
     input:
         "tournament/round{round}/contestants.txt"

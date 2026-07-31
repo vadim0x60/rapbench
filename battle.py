@@ -3,6 +3,7 @@ from logwrap import logwrap
 from config import provider_tantrums
 
 N_ROUNDS = 3
+MAX_VERSE_TOKENS = 2048
 
 intro = """You, {artist} (assistant), have entered a rap battle against {opponent} (user).
 Speak exclusively in rhymes.
@@ -33,7 +34,7 @@ def rap(authors, rounds, artist, opponent):
         roles.append('user')
 
     try:
-        round = talk(model=artist, messages=messages, roles=roles)
+        round = talk(model=artist, messages=messages, roles=roles, tokens=MAX_VERSE_TOKENS)
     except provider_tantrums:
         round = None
 
