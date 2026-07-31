@@ -15,7 +15,7 @@ Focus on the artistic quality of the hip hop, not anything you think about the a
 panel = [
     'openai/gpt-5.6-sol-pro',
     'anthropic/claude-opus-5',
-    'google/gemini-3.1-pro-preview',
+    'google/gemini-3.6-flash',
     'x-ai/grok-4.5',
     'moonshotai/kimi-k3',
     ]
