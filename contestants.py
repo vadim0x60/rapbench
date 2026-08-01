@@ -9,21 +9,17 @@ import logging
 exclude = ['switchpoint/router']
 MODEL_CATALOG_URL = "https://openrouter.ai/api/v1/models?sort=top-weekly"
 
-@vibe()
-async def is_general_purpose(descr) -> bool:
-    """Filter out coding models, non-text models, language-specific and other non-general language models"""
-    return f"Is this a general purpose language model?\n\n{descr}"
-
 @logwrap()
-async def is_alive(slug):
+async def can_rap(slug):
     @vibe(model=slug)
-    async def greet():
-        """Greeting test to check if the LLM is alive"""
-        return "Hi!"
+    async def audition():
+        """You are about to enter a rap battle tournament as a contestant."""
+        return "Write exactly two original English lines introducing yourself as a rapper. Return only those two lines."
 
     try:
-        logging.info(await greet())
-        return True
+        response = await audition()
+        logging.info(response)
+        return bool(response and response.strip())
     except (TypeError, *provider_tantrums):
         return False
 
@@ -35,10 +31,8 @@ async def contestants():
     models = (model for model in models
               if model['id'] not in exclude
               and not model['id'].startswith(('~', 'openrouter/')))
-    models = [(model, is_general_purpose(model['description'])) for model in models]
-    models = (model for model, general_purpose in models if await general_purpose)
-    models = [(model, is_alive(model['id'])) async for model in models]
-    models = (model for model, alive in models if await alive)
+    models = [(model, can_rap(model['id'])) for model in models]
+    models = (model for model, capable in models if await capable)
 
     async for model in models:
         print(model['id'])
