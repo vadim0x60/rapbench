@@ -17,13 +17,14 @@ python -m pip install -r requirements.txt
 export OPENROUTER_API_KEY=...
 ```
 
-To preview a run without making API calls:
+Clone the results repository at the workflow's output path, then preview a run without making API calls:
 
 ```bash
+git clone git@github.com:vadim0x60/rapbench-results.git tournament
 snakemake --dry-run --cores 1
 ```
 
-For a new tournament, first remove or archive any existing `tournament/` directory outside this repository. Then prepare only the new contestant roster and preview the expected spend:
+For a new tournament, first remove or archive the existing round directories from the `tournament/` checkout; prior published tournaments remain available in its Git history. Then prepare only the new contestant roster and preview the expected spend:
 
 ```bash
 snakemake estimate --cores 1
@@ -39,6 +40,6 @@ After reviewing the estimate, run:
 snakemake --cores all
 ```
 
-Tournament generation makes paid model calls and can cost tens of dollars. Outputs and runtime logs are written under the ignored `tournament/` directory. Validate a completed tournament locally with `python check.py`; validate a selected range with, for example, `python check.py --from-round 0 --through-round 1`. Generate the Battles and Results Markdown with `python results.py` (or add `--local-links` for local artifact links).
+Tournament generation makes paid model calls and can cost tens of dollars. Outputs and runtime logs are written to the nested, independently version-controlled `tournament/` checkout; the outer workflow repository ignores that directory, and the results repository ignores runtime logs. Validate a completed tournament locally with `python check.py`; validate a selected range with, for example, `python check.py --from-round 0 --through-round 1`. Generate the Battles and Results Markdown with `python results.py` (or add `--local-links` for local artifact links).
 
-Published artifacts live in [rapbench-results](https://github.com/vadim0x60/rapbench-results), not this workflow repository. After validation, copy only each round's `contestants.txt`, numbered `.txt` transcripts, and numbered `.yml` verdicts there. Do not copy runtime logs.
+Published artifacts live in the nested [rapbench-results](https://github.com/vadim0x60/rapbench-results) checkout, not this workflow repository. After validation, commit each round's `contestants.txt`, numbered `.txt` transcripts, and numbered `.yml` verdicts from `tournament/`. Runtime logs remain local and ignored.
