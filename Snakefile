@@ -1,51 +1,42 @@
 python = os.getenv("PYTHON", "python")
 
-def emcee_left(round_size, battle_num):
-    """Pick the stronger participant from the rating according to the Dutch system"""
-    round_size = int(round_size)
-    battle_num = int(battle_num)
-
-    return round_size % 2 + battle_num
-
-def emcee_right(round_size, battle_num):
-    """Pick the weaker participant from the rating according to the Dutch system"""
-    round_size = int(round_size)
-    battle_num = int(battle_num)
-
-    return round_size - round_size // 2 + battle_num
-
-def contestants(round):
-    if round == 0:
-        out = checkpoints.first_roster.get().output[0]
-    else:
-        out = checkpoints.further_roster.get(round=round).output[0]
-    
+def initial_contestants():
+    out = checkpoints.first_roster.get().output[0]
     with out.open() as f:
         return f.read().splitlines()
 
-def verdicts(round):
-    return [f'tournament/round{round}/{n}.yml' for n in range(len(contestants(round)) // 2)]
-
-def roster(wildcards):
-    round = wildcards.round
-    battle_num = wildcards.n
-    emcees = contestants(round)
-
-    return {'emcee_left': emcees[emcee_left(len(emcees), battle_num)].strip(), 
-            'emcee_right': emcees[emcee_right(len(emcees), battle_num)].strip()}
-
-def final_winner_file(wildcards):
-    remaining = len(contestants(0))
-    post_tournament_round = 0
-    while remaining > 1:
+def round_size(round):
+    remaining = len(initial_contestants())
+    for _ in range(int(round)):
         remaining = (remaining + 1) // 2
-        post_tournament_round += 1
-    return f'tournament/round{post_tournament_round}/contestants.txt'
+    return remaining
+
+def verdicts(round):
+    return [f'tournament/round{round}/{n}.yml' for n in range(round_size(round) // 2)]
+
+def promotion_inputs(wildcards):
+    previous_round = int(wildcards.round) - 1
+    roster = f"tournament/round{previous_round}/contestants.txt"
+    return [roster, *verdicts(previous_round)]
+
+def tournament_files(wildcards):
+    remaining = len(initial_contestants())
+    round = 0
+    files = ["tournament/round0/contestants.txt"]
+    while remaining > 1:
+        for battle_num in range(remaining // 2):
+            files.extend((
+                f"tournament/round{round}/{battle_num}.txt",
+                f"tournament/round{round}/{battle_num}.yml",
+            ))
+        remaining = (remaining + 1) // 2
+        round += 1
+        files.append(f"tournament/round{round}/contestants.txt")
+    return files
 
 rule all:
     input:
-        "tournament/round0/contestants.txt",
-        final_winner_file
+        tournament_files
 
 rule estimate:
     input:
@@ -58,12 +49,10 @@ rule battle:
         "tournament/round{round}/contestants.txt"
     output:
         protected("tournament/round{round}/{n}.txt")
-    params:
-        roster
     log:
         "tournament/round{round}/battle{n}.log"
     shell:
-        "{python} battle.py {params[0][emcee_left]} {params[0][emcee_right]} > {output} 2> {log}"
+        "{python} battle.py --roster {input} --battle {wildcards.n} > {output} 2> {log}"
 
 rule judge:
     input:
@@ -80,10 +69,9 @@ checkpoint first_roster:
     log: "tournament/round0/contestants.log"
     shell: "{python} contestants.py > {output} 2> {log}"
 
-checkpoint further_roster:
+rule further_roster:
     input:
-        lambda wildcards: f'tournament/round{int(wildcards.round) - 1}/contestants.txt',
-        lambda wildcards: verdicts(int(wildcards.round) - 1)
+        promotion_inputs
     output:
         protected("tournament/round{round}/contestants.txt")
     params:

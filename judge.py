@@ -1,4 +1,5 @@
 from typing import Literal
+from json import JSONDecodeError
 from keeptalking import vibe
 from transcript import parse_battle
 import pydantic
@@ -30,7 +31,7 @@ async def judge_all(battle):
 
     verdicts = {}
     for judge_model in panel:
-        @t.retry(retry=t.retry_if_exception_type(openai.LengthFinishReasonError), 
+        @t.retry(retry=t.retry_if_exception_type((openai.LengthFinishReasonError, JSONDecodeError)),
                  stop=t.stop_after_attempt(3),
                  wait=t.wait_random_exponential(max=float('inf')))
         @vibe(model=judge_model, tokens=MAX_VERDICT_TOKENS)

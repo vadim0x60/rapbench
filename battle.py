@@ -60,9 +60,20 @@ def rap_battle(emcee_left, emcee_right):
 
     return authors, rounds
 
+def roster_pairing(roster_path, battle_number):
+    with open(roster_path) as roster_file:
+        contestants = roster_file.read().splitlines()
+    battle_number = int(battle_number)
+    left = len(contestants) % 2 + battle_number
+    right = len(contestants) - len(contestants) // 2 + battle_number
+    return contestants[left], contestants[right]
+
 if __name__ == '__main__':
     import sys
-    emcee_left, emcee_right = sys.argv[1:]
+    if sys.argv[1:2] == ['--roster']:
+        emcee_left, emcee_right = roster_pairing(sys.argv[2], sys.argv[4])
+    else:
+        emcee_left, emcee_right = sys.argv[1:]
     print(f'# {emcee_left} v {emcee_right}')
 
     rap_battle(emcee_left, emcee_right)
