@@ -1,3 +1,4 @@
+import json
 import tempfile
 import unittest
 from decimal import Decimal
@@ -8,6 +9,16 @@ import yaml
 from check import validate_tournament
 from estimate import Price, TokenAssumptions, estimate_tournament, parse_prices
 from judge import panel
+from suno import (
+    battle_tracks,
+    generation_payload,
+    aligned_tokens,
+    render_lrc,
+    render_srt,
+    render_vtt,
+    subtitle_cues,
+    write_album,
+)
 from transcript import parse_battle
 
 
@@ -46,6 +57,79 @@ class TranscriptTests(unittest.TestCase):
             parse_battle("")
         with self.assertRaisesRegex(ValueError, "must start"):
             parse_battle("not a battle")
+
+
+class SunoAlbumTests(unittest.TestCase):
+    def test_maps_only_the_six_emcee_rounds_to_contrasting_tracks(self):
+        left, right, tracks = battle_tracks(transcript())
+
+        self.assertEqual((left, right), (LEFT, RIGHT))
+        self.assertEqual([track["track_number"] for track in tracks], list(range(1, 7)))
+        self.assertEqual([track["side"] for track in tracks], ["left", "right"] * 3)
+        self.assertNotIn("Final round!", [track["lyrics"] for track in tracks])
+
+        left_payload = generation_payload(tracks[0], "https://callback.example", model="V5")
+        right_payload = generation_payload(tracks[1], "https://callback.example", model="V5")
+        self.assertTrue(left_payload["customMode"])
+        self.assertIn(tracks[0]["lyrics"], left_payload["prompt"])
+        self.assertNotEqual(left_payload["style"], right_payload["style"])
+
+    def test_renders_phrase_and_word_synced_subtitles_from_alignment(self):
+        alignment = [
+            {"word": "[Verse]\nline", "startS": 1.0, "endS": 1.3, "success": True},
+            {"word": "one", "startS": 1.31, "endS": 1.6, "success": True},
+            {"word": "lands.", "startS": 1.61, "endS": 2.0, "success": True},
+            {"word": "next", "startS": 3.0, "endS": 3.3, "success": True},
+            {"word": "bar", "startS": 3.31, "endS": 3.7, "success": True},
+        ]
+
+        cues = subtitle_cues(aligned_tokens(alignment))
+        vtt = render_vtt(cues)
+        srt = render_srt(cues)
+        lrc = render_lrc(cues, "Round 1", LEFT, f"{LEFT} vs {RIGHT}")
+
+        self.assertIn("00:00:01.000 --> 00:00:02.120", vtt)
+        self.assertIn("line one lands.", vtt)
+        self.assertNotIn("[Verse]", vtt)
+        self.assertIn("00:00:01,000 --> 00:00:02,120", srt)
+        self.assertIn("[00:01.00]<00:01.00>line <00:01.31>one", lrc)
+
+    def test_refuses_to_silently_truncate_lyrics_over_provider_limit(self):
+        _, _, tracks = battle_tracks(transcript(verse="x" * 5000))
+
+        with self.assertRaisesRegex(ValueError, "accepts at most 5000"):
+            generation_payload(tracks[0], "https://callback.example", model="V5")
+
+    def test_groups_six_tracks_in_album_manifest_and_playlist(self):
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            battle_path = root / "battle.txt"
+            battle_path.write_text(transcript())
+            track_paths = []
+            for number, author in enumerate((LEFT, RIGHT) * 3, 1):
+                track_path = root / f"{number:02d}.json"
+                track_path.write_text(
+                    json.dumps(
+                        {
+                            "track_number": number,
+                            "title": f"Round {number}",
+                            "author": author,
+                            "duration_seconds": 60 + number,
+                            "files": {"wav": f"{number:02d}.wav"},
+                        }
+                    )
+                )
+                track_paths.append(track_path)
+
+            manifest_path = root / "album.json"
+            playlist_path = root / "album.m3u8"
+            write_album(battle_path, track_paths, manifest_path, playlist_path)
+            manifest = yaml.safe_load(manifest_path.read_text())
+
+            self.assertEqual(manifest["release_type"], "album")
+            self.assertEqual(manifest["track_count"], 6)
+            self.assertEqual(manifest["publishing"]["target"], "ONCE")
+            self.assertIn("#EXTINF:61,Round 1\n01.wav", playlist_path.read_text())
 
 
 class TournamentValidationTests(unittest.TestCase):
